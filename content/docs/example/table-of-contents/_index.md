@@ -2,7 +2,7 @@
 weight: 10
 ---
 
-# Ubi loqui
+# table-of-contents
 
 ## Mentem genus facietque salire tempus bracchia
 
