@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-05-01"
 series:
 tags: 
-title: 116 提摩太后书
+title: 灵修圣经
 toc: true
 bookCollapseSection: true
 ---
