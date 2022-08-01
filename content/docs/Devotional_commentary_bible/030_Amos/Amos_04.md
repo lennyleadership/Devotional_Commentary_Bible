@@ -1,13 +1,17 @@
 ---
-title: 04 摩四章
-weight: 1
----
-
-
+authors: Lenny
+categories: null
+date: "2022-04-19"
+description: 
+draft: false
+lastmod: "2022-07-27"
+series:
 tags: [将心意指示人]
-
+title: 04 摩四章
+toc: true
+---
 阿摩司书
-
+<!--more-->
 
 4:1 你们住撒玛利亚山如巴珊母牛的阿、当听我的话你们欺负贫寒的、压碎穷乏的、对家主说、拿酒来、我们喝吧。  
 4:2 主耶和华指着自己的圣洁起誓说、日子快到、人必用钩子将你们钩去、用鱼钩将你们余剩的钩去。  

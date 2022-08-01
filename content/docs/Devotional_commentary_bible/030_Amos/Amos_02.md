@@ -1,10 +1,17 @@
 ---
+authors: Lenny
+categories: null
+date: "2022-04-19"
+description: 
+draft: false
+lastmod: "2022-07-22"
+series:
+tags: 
 title: 02 摩二章
-weight: 1
+toc: true
 ---
-
 阿摩司书
-
+<!--more-->
 
 2:1 耶和华如此说、摩押三番四次的犯罪、我必不免去他的刑罚。因为他将以东王的骸骨焚烧成灰。  
 2:2 我却要降火在摩押、烧灭加略的宫殿。摩押必在哄嚷呐喊吹角之中死亡。  [^1]

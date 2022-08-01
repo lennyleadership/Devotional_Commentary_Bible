@@ -1,12 +1,17 @@
 ---
-title: 07 摩七章
-weight: 1
----
-
+authors: Lenny
+categories: null
+date: "2022-04-19"
+description: 
+draft: false
+lastmod: "2022-07-22"
+series:
 tags: [主造蝗虫, 耶和华后悔]
-
+title: 07 摩七章
+toc: true
+---
 阿摩司书
-
+<!--more-->
 
 7:1 主耶和华指示我一件事。为王割菜之后〔菜或作草〕菜又发生、刚发生的时候、主造蝗虫。&ensp;<sup>(</sup>[^1]<sup>)</sup>  
 7:2 蝗虫吃尽那地的青物、我就说主耶和华阿、求你赦免。因为雅各微弱、他怎能站立得住呢。  

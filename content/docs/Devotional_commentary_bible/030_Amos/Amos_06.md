@@ -1,11 +1,15 @@
 ---
-title: 06 摩六章
-weight: 1
----
-
-
+authors: Lenny
+categories: null
+date: "2022-04-19"
+description: 
+draft: false
+lastmod: "2022-07-22"
+series:
 tags: [谐音, 对今日教会的提醒, hovertip]
-
+title: 06 摩六章
+toc: true
+---
 阿摩司书
 <!--more-->
 
