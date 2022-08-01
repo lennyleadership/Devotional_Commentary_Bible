@@ -1,5 +1,5 @@
 baseURL: https://example.com/
-title: Hugo Book
+title: Devotional Commentary Bible
 theme: hugo-book
 disablePathToLower: yes
 enableGitInfo: yes
@@ -14,14 +14,10 @@ languages:
     contentDir: content
     languageName: English
     weight: 1
-  ru:
-    contentDir: content.ru
-    languageName: Russian
-    weight: 2
   zh:
     contentDir: content.zh
     languageName: Chinese
-    weight: 3
+    weight: 2
 menu:
   after:
     - name: Github
