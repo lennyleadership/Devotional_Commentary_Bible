@@ -20,9 +20,6 @@ blogdown::clean_duplicates()
 blogdown::find_hugo()
 
 
-#----
-# Steps to rebuild the website.
-
 # netlify host website: https://app.netlify.com/teams/lennyleadership/overview
 # 1) psalm 119: https://psalm119.netlify.app
 # Repository: github.com/lennyleadership/psalm119
@@ -30,9 +27,11 @@ blogdown::find_hugo()
 # 2) lennyfaith: https://lennyfaith.netlify.app
 # Repository: github.com/lennyleadership/spiritual_journey
 
+
+# Steps to rebuild the website.
 # Step #1: Back up the folder 'content'.
 # Step #2: Delete the damaged repository at Github
-# Settings -> Danger Zone -> Delete this repository
+#          Settings -> Danger Zone -> Delete this repository
 # Step #3: Recreate the repository with exactly identical name.
 
 # Step #4: Create a new project at RStudio.
@@ -49,14 +48,6 @@ blogdown::find_hugo()
 
 # Note: I made a mistake.  under tag, I missed '-' before.
 
-
-#hugo-eureka----
-# the image of the website is stored in:
-# it is a png formate.
-# the image file at the homepage is stored in .\themes\hugo-eureka\assets\images. 
-# Then I need to change the previous one at D:\A_Blog\psalm119\config\_default\ params.yaml.
-# change footer at D:\A_Blog\psalm119\themes\hugo-eureka\layouts\partials\footer.html
-# change the year at copyright, D:\A_Blog\psalm119\config.yaml
 
 #----
 # To upload a batch of files
