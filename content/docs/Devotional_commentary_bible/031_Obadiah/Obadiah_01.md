@@ -52,3 +52,24 @@ Obadiah 1:1
 [^2]: 神百姓受管教是暂时的，管教的目的是恢复（17-21节）； 但「万国」却要「归于无有」（16节），他们怎样抵挡神，神就怎样报应他们，结局是永远的灭亡。  
 <font color =#ff4500>「拯救者」（21节）原文是复数，指基督带着得胜的教会一起再来、「审判世界」（林前六2）</font>。  
 [俄巴底亚书逐节注解、祷读](https://cmcbiblereading.com/2016/10/09/%e4%bf%84%e5%b7%b4%e5%ba%95%e4%ba%9a%e4%b9%a6%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
+
+
+
+<style type = "text/css">
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: 'KJV'
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
+</style>
