@@ -12,7 +12,7 @@ menu = "main"
 
 <cite class="bibleref" title="Obadiah 1:1">Obadiah 1:1</cite>
 
-<style type = "text/css">
+
 <script>
 	var refTagger = {
 		settings: {
@@ -29,4 +29,3 @@ menu = "main"
 		s.parentNode.insertBefore(g, s);
 	}(document, 'script'));
 </script>
-</style>
