@@ -10,7 +10,7 @@ categories = [
 menu = "main"
 +++
 
-<cite class="bibleref" title="Obadiah 1:1">Obadiah 1:1</cite>
+<cite class="ezraLinkifier" title="Obadiah 1:1">Obadiah 1:1</cite>
 
 
 <script src="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.1/dist/ezra.js" 
