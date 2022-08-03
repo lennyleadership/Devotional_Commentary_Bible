@@ -25,7 +25,7 @@ Obadiah 1:3
 
 <cite class="bibleref" title="Obadiah 1:1-3" >俄 1:1-3</cite>
 
-<cite class="bibleref" title="Obadiah 1:1,5" >俄 1:1,5</cite>
+<cite class="bibleref" title="Obadiah 1:1,5" >俄 1:1, 5</cite>
 
 <a style = "color:#ff4500"><cite class="bibleref" title="Obadiah 1:1-5" >Obadiah 1:1-5</cite></a>
 
