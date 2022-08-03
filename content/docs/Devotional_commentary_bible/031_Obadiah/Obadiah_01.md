@@ -13,13 +13,15 @@ toc: true
 ---
 俄巴底亚书
 
-<a style = "color:#ff4500">Obadiah 1:1</a>
+<a style = "color:#ff4500">Obadiah 1:1</a>  
 
-<font color =#3fb5bd>Obadiah 1:2</font>
+<font color =#ff4500>Obadiah 1:2</font>  
+
+<font color =#ff4500>「拯救者」（21节）原文是复数，指基督带着得胜的教会一起再来、「审判世界」（林前六2）</font>
 
 <cite class="bibleref" title="Obadiah 1:1-3" >Obadiah 1:1-3</cite>
 
-<cite class="bibleref" title="Obadiah 1:1-5" ><a style = "color:#ff4500">Obadiah 1:1-5</a></cite>
+<a style = "color:#ff4500"><cite class="bibleref" title="Obadiah 1:1-5" >Obadiah 1:1-5</cite></a>
 
 <!--more-->
 ---
