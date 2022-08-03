@@ -13,19 +13,11 @@ menu = "main"
 <cite class="bibleref" title="Obadiah 1:1">Obadiah 1:1</cite>
 
 
+<script src="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.1/dist/ezra.js" 
+        integrity="sha384-0xgxMmzqzeFi+ezndJO8A4swzAbIgorAS8z4Fd3sSDLbDfERlDo5+QJgwaJdmfNP" 
+        crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.1/dist/ezra-style.css" rel="stylesheet" type="text/css" />
 <script>
-	var refTagger = {
-		settings: {
-			bibleVersion: 'KJV'
-		}
-	}; 
-
-	(function(d, t) {
-		var n=d.querySelector('[nonce]');
-		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-		g.nonce = refTagger.settings.nonce;
-		s.parentNode.insertBefore(g, s);
-	}(document, 'script'));
+  ezraLinkifier.setLang('zh-Hans');
+  ezraLinkifier.linkify(document.body);
 </script>
