@@ -15,9 +15,13 @@ toc: true
 
 <a style = "color:#ff4500">Obadiah 1:1</a>  
 
-<font color =#ff4500>Obadiah 1:2</font>  
+<font color =#ff4500>Obadiah 1:2</font> 
 
-<font color =#ff4500>「拯救者」（21节）原文是复数，指基督带着得胜的教会一起再来、「审判世界」（林前六2）</font>
+Obadiah 1:3
+
+<font>Obadiah 1:4</font> 
+
+<font color =#ff4500>「拯救者」</font>
 
 <cite class="bibleref" title="Obadiah 1:1-3" >Obadiah 1:1-3</cite>
 
