@@ -13,7 +13,9 @@ toc: true
 ---
 俄巴底亚书
 
-<p style = "color:#ff4500">Obadiah 1:1</p>
+<a style = "color:#ff4500">Obadiah 1:1</a>
+
+<font color =#3fb5bd>Obadiah 1:1</font>
 
 <p style = "color:#ff4500"><cite class="bibleref" title="Obadiah 1:1-3" >Obadiah 1:1</cite></p>
 
