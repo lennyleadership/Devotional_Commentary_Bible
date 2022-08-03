@@ -10,8 +10,7 @@ categories = [
 menu = "main"
 +++
 
-
-Obadiah 1:1
+<cite class="bibleref" title="Obadiah 1:1">Obadiah 1:1</cite>
 
 <style type = "text/css">
 <script>
