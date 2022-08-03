@@ -15,9 +15,11 @@ toc: true
 
 <a style = "color:#ff4500">Obadiah 1:1</a>
 
-<font color =#3fb5bd>Obadiah 1:1</font>
+<font color =#3fb5bd>Obadiah 1:2</font>
 
-<p style = "color:#ff4500"><cite class="bibleref" title="Obadiah 1:1-3" >Obadiah 1:1</cite></p>
+<cite class="bibleref" title="Obadiah 1:1-3" >Obadiah 1:1-3</cite>
+
+<cite class="bibleref" title="Obadiah 1:1-5" ><a style = "color:#ff4500">Obadiah 1:1-5</a></cite>
 
 <!--more-->
 ---
