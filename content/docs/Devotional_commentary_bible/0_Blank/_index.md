@@ -1,5 +1,5 @@
 ---
-Weight: 30
+Weight: 
 title: 
 authors: Lenny Lin
 categories: null
