@@ -15,17 +15,17 @@ toc: true
 
 <a style = "color:#ff4500">Obadiah 1:1</a>  
 
-<font color =#ff4500>Obadiah 1:2</font> 
+<font color =#ff4500>Obadiah 1:2</font>  [Reftagger works on this]
 
-Obadiah 1:3
+Obadiah 1:3 [Reftagger works on this]
 
-<font>Obadiah 1:4</font> 
+<font>Obadiah 1:4</font> [Reftagger works on this]
 
 <font color =#ff4500>「拯救者」</font>
 
-<cite class="bibleref" title="Obadiah 1:1-3" >俄 1:1-3</cite>
+<cite class="bibleref" title="Obadiah 1:1-3" >俄 1:1-3</cite> [Reftagger works on this]
 
-<cite class="bibleref" title="Obadiah 1:1,5" >俄 1:1, 5</cite>
+<cite class="bibleref" title="Obadiah 1:1,5" >俄 1:1, 5</cite> [Reftagger does not work on this]
 
 <a style = "color:#ff4500"><cite class="bibleref" title="Obadiah 1:1-5" >Obadiah 1:1-5</cite></a>
 
