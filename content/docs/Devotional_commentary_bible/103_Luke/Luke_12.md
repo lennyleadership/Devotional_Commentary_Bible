@@ -1,15 +1,19 @@
 ---
+weight: 12
+title: 12 路十二章
 authors: Lenny 
 categories: null
+tags: [进天国]
 date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-08-04"
-series: 
-tags: [进天国]
-title: 12 路十二章
+series: null
 toc: true
 ---
+
+
+
 路加福音
 <!--more-->
 ---
