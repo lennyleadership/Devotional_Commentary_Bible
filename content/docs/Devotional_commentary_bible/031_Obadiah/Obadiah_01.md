@@ -74,7 +74,6 @@ Obadiah 1:3 [Reftagger works on this]
 		settings: {
 			bibleVersion: "hlybblsmpshndtn" /*'KJV'*/
 		}
-		fontColor: "red"
 	}; 
 
 	(function(d, t) {
