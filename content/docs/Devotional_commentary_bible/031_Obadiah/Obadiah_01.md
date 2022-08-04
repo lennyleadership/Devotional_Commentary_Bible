@@ -27,7 +27,7 @@ Obadiah 1:3 [Reftagger works on this]
 
 <cite class="bibleref" title="Obadiah 1:1,5" >俄 1:1, 5</cite> [Reftagger does not work on this]
 
-<a style = "color:#ff4500"><cite class="bibleref" title="Obadiah 1:1-5" >Obadiah 1:1-5</cite></a>
+<a style = "color:#ff4500"><cite class="bibleref" title="Obadiah 1:1-5" >Obadiah 1:1-5</cite></a> [Reftagger does not work on this]
 
 <!--more-->
 ---
@@ -84,4 +84,5 @@ Obadiah 1:3 [Reftagger works on this]
 		g.nonce = refTagger.settings.nonce;
 		s.parentNode.insertBefore(g, s);
 	}(document, 'script'));
+	let result = text.fontcolor(#ff4500);
 </script>
