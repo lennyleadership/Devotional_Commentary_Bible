@@ -84,6 +84,4 @@ Obadiah 1:3 [Reftagger works on this]
 		g.nonce = refTagger.settings.nonce;
 		s.parentNode.insertBefore(g, s);
 	}(document, 'script'));
-	
-  document.write(Str.fontcolor( "red" ));
 </script>
