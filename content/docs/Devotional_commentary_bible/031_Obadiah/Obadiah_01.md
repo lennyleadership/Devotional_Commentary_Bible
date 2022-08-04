@@ -76,6 +76,9 @@ Obadiah 1:3 [Reftagger works on this]
 		}
 	}; 
 
+  document.write(str.fontcolor( "blue" ));
+         alert(str.fontcolor( "blue" ));
+         
 	(function(d, t) {
 		var n=d.querySelector('[nonce]');
 		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
@@ -84,5 +87,5 @@ Obadiah 1:3 [Reftagger works on this]
 		g.nonce = refTagger.settings.nonce;
 		s.parentNode.insertBefore(g, s);
 	}(document, 'script'));
-	let result = text.fontcolor(#ff4500);
+
 </script>
