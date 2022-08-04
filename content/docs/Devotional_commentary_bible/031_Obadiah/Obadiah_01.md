@@ -85,6 +85,6 @@ Obadiah 1:3 [Reftagger works on this]
 		s.parentNode.insertBefore(g, s);
 	}(document, 'script'));
 	
-	document.write(str.fontcolor(#ff4500));
-         alert(str.fontcolor(#ff4500));
+	document.write(str.fontcolor( "orange red" ));
+         alert(str.fontcolor( "orange red" ));
 </script>
