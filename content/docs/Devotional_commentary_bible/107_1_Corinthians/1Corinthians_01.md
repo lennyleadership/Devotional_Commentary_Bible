@@ -1,18 +1,19 @@
 ---
+weight: 1
+title: 林前一章
 authors: Lenny
 categories: null
+tags: 
 date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
 series:
-tags: 
-title: 1 林前一章
 toc: true
 ---
 哥林多前书
 <!--more-->
-
+---
 1:1 奉　神旨意、蒙召作耶稣基督使徒的保罗、同兄弟所提尼、
 1:2 写信给在哥林多　神的教会、就是在基督耶稣里成圣、蒙召作圣徒的、以及所有在各处求告我主耶稣基督之名的人。  基督是他们的主、也是我们的主。  
 1:3 愿恩惠平安、从　神我们的父、并主耶稣基督、归与你们。  

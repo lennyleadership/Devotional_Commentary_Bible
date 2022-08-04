@@ -88,9 +88,9 @@ toc: true
 12:58 你同告你的对头去见官、还在路上、务要尽力的和他了结。恐怕他拉你到官面前、官交付差役、差役把你下在监里。  
 12:59 我告诉你、若有半文钱没有还清、你断不能从那里出来。  
 
-[^1]: 问题:恶仆能进天国吗？  
+[^1]: 问题：恶仆能进天国吗？  
 2022.08.03 在Kevin Yip家中周三查经聚会中我们查到35-48节，关于仆人的比喻。  
-Kevin引用了<cite class="bibleref" title="1 Corinthian 3:10-15" >林前3:10-15</cite>
+Kevin引用了<cite class="bibleref" title="1 Corinthian 3:10-15" >林前3:10-15</cite>，并且用了勉强得救一说 (English: be saved by the skin of the (your) teeth)，典出<cite class="bibleref" title="Job 19:20" >伯19：20</cite>。
 
 <script>
 	var refTagger = {

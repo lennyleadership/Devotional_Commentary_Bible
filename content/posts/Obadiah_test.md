@@ -32,7 +32,4 @@ Obadiah 1:3
 		g.nonce = refTagger.settings.nonce;
 		s.parentNode.insertBefore(g, s);
 	}(document, 'script'));
-	
-  document.write(str.fontcolor( "red" ));
-  alert(str.fontcolor( "red" ));
 </script>

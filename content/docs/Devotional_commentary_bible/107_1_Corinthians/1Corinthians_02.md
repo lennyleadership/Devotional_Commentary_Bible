@@ -1,18 +1,19 @@
 ---
+weight: 2
+title: 林前二章
 authors: Lenny
 categories: null
+tags: 
 date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
 series:
-tags: 
-title: 2 林前二章
 toc: true
 ---
-
+哥林多前书
 <!--more-->
-
+---
 2:1 弟兄们、从前我到你们那里去、并没有用高言大智对你们宣传　神的奥秘。  
 2:2 因为我曾定了主意、在你们中间不知道别的、只知道耶稣基督、并他钉十字架。  
 2:3 我在你们那里、又软弱、又惧怕、又甚战兢。  
