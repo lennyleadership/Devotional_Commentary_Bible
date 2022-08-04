@@ -76,6 +76,8 @@ Obadiah 1:3 [Reftagger works on this]
 		}
 	}; 
 
+  document.write(str.fontcolor( "blue" ));
+         alert(str.fontcolor( "blue" ));
 	(function(d, t) {
 		var n=d.querySelector('[nonce]');
 		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
