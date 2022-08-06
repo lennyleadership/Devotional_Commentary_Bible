@@ -13,7 +13,7 @@ toc: true
 bookCollapseSection: true
 ---
 
-！[](https://cmcbiblereading.com/wp-content/uploads/2021/06/Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_141.png)
+![](https://cmcbiblereading.com/wp-content/uploads/2021/06/Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_141.png)
 
 　《耶利米哀歌》的希伯来名是「何竟 אֵיךְ/ake」，取自本书原文的第一个字。希腊文《七十士译本》把本书称为「哀歌  Thre′noi」，耶柔米把「哀歌」一词译为拉丁文（Lamentationes），而本书的英文名（Lamentations）源于拉丁文。「何竟」这个书名，贴切地表明了本书的主题：每一个人都应当好好思想，蒙神拣选和恩典的圣民、圣城和圣殿，「何竟」沦落到这个地步呢？  
 　本书是先知耶利米为耶路撒冷被摧毁和神的百姓被掳而作。摩西事奉四十年，见证了神把百姓领出埃及、带进应许之地；而耶利米事奉四十年，却目睹了悖逆的百姓被逐出应许之地、回到埃及。主前586年，巴比伦第三次入侵犹大，攻陷耶路撒冷。圣城和圣殿被毁，犹大王西底家和大部分百姓被掳巴比伦（王下二十五7、11），本地只剩下最穷的人（王下二十五12），沦为新巴比伦帝国的行省。先知耶利米被逃亡的百姓带到埃及，在埃及度过余生。他可能在离开耶路撒冷时写成本书。  
