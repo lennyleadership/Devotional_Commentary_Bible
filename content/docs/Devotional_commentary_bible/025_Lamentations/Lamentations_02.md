@@ -48,3 +48,24 @@ toc: true
 [^1]: <u>「发怒 אַף /af」（1节）是本诗的关键词</u>，本书原文一共使用了11次「发怒 אַף /af」，其中6次都在本章（1、3、6、21、22节）。  
 [^2]: <u>「吞灭 בָּלַע/baw-lah’」和「拆毁 שָׁחַת /shaw-khath’」也是本诗的关键词，意义相似</u>。「吞灭」在本书原文只在本章出现了五次（2节、5节x2、8节「毁灭」原文、16节），「拆毁」在本书原文只在本章出现了三次（5节、6节「毁坏」原文、8节）。  
 [^3]: 神「在仇敌面前收回右手」（3节），比喻神不再用大能和奇事保护锡安（赛三十七36）、为自己的百姓争战（申一30）。相反，神反而「站着举起右手」（4节），「张弓好像仇敌」（4节），「如仇敌吞灭以色列和锡安的一切宫殿」（5节）——因「他们竟悖逆，使主的圣灵担忧。祂就转作他们的仇敌，亲自攻击他们」（赛六十三10）。今天，「凡想要与世俗为友的，就是与神为敌了」（雅四4），因为「圣灵和肉体相争，这两个彼此敌对」（<cite class="bibleref" title="Galathians 5:14-20" >加五17</cite>）。因此，凡是被神拣选的人，肉体一定会经历十字架的对付和圣灵的拆毁。  
+
+
+
+
+
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: "hlybblsmpshndtn" /*'KJV'*/
+		}
+	}; 
+
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
