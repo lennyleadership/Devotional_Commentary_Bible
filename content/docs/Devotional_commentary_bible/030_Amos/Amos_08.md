@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-07-22"
 series:
-tags: [谐音, 对今日教会的提醒, 参政]
+tags: [谐音, 对今日教会的提醒, 时政]
 title: 08 摩八章
 toc: true
 ---
