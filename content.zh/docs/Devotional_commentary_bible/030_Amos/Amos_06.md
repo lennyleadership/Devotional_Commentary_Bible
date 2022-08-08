@@ -1,11 +1,15 @@
 ---
-title: 06 摩六章
-weight: 1
----
-
-
+authors: Lenny
+categories: null
+date: ""
+description: 
+draft: false
+lastmod: "2022-07-22"
+series:
 tags: [谐音, 对今日教会的提醒, hovertip]
-
+title: 06 摩六章
+toc: true
+---
 阿摩司书
 <!--more-->
 
@@ -37,49 +41,4 @@ tags: [谐音, 对今日教会的提醒, hovertip]
 
 
 
-<style type="text/css">
-.hovertip {
-  position: relative;
-  border-bottom: 1px dotted black;
-}
 
-.hovertip:before {
-  content: attr(tooltip_text);
-  visibility: hidden;
-  
-  overflow-y: inherit; /*new*/
-
-  width: 250px;
-  background-color: #add8e6;
-  color: black;
-  text-align: left;
-  border-radius: 5px;
-  padding: 5px 0;
-  /* fade-in*/
-  opacity: 0;  
-  transition: opacity 1s ease-in-out;
-
-  /* top tooltip*/
-  position: absolute; /*let tooltip wrap instead of overflow*/
-  z-index: 1;
-  left: 50%; /*auto;*/
-  bottom: 110%; /*auto;*/
-  margin-left: -60px;
-}
-
-.hovertip.hovertiptext::before {
-  content: " ";
-  position: absolute;
-  top: 100%; /* At the bottom of the tooltip */
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: black transparent transparent transparent;
-}
-
-.hovertip:hover:before {
-  opacity: 1;
-  visibility: visible;
-}
-</style>

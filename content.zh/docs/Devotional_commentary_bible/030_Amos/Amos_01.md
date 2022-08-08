@@ -1,12 +1,19 @@
 ---
-title: 01 摩一章
 weight: 1
+authors: Lenny
+categories: null
+date: ""
+description: 
+draft: false
+lastmod: "2022-07-22"
+series:
+tags: 
+title: 01 摩一章
+toc: true
 ---
-
-
 阿摩司书
 
-
+<!--more-->
 
 1:1 当犹大王乌西雅、以色列王约阿施的儿子耶罗波安在位的时候、大地震前二年、提哥亚牧人中的阿摩司得默示论以色列。  
 1:2 他说、耶和华必从锡安吼叫、从耶路撒冷发声。牧人的草场要悲哀、迦密的山顶要枯干。  

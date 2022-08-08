@@ -1,11 +1,15 @@
 ---
-title: 08 摩八章
-weight: 1
----
-
-
+authors: Lenny
+categories: null
+date: ""
+description: 
+draft: false
+lastmod: "2022-07-22"
+series:
 tags: [谐音, 对今日教会的提醒, 参政]
-
+title: 08 摩八章
+toc: true
+---
 阿摩司书
 <!--more-->
 

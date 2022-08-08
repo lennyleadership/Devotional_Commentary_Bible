@@ -1,10 +1,19 @@
 ---
-weight: 1
-bookFlatSection: true
-title: "灵修圣经"
+Weight: 2
+authors: Lenny Lin
+categories: null
+date: "2022-04-19"
+description: 
+draft: false
+lastmod: "2022-05-01"
+series:
+tags: 
+title: 灵修圣经
+toc: true
+bookCollapseSection: true
 ---
 
-# 起头
 
-## 解读
+
+
 

@@ -1,13 +1,17 @@
 ---
-title: 05 摩五章
-weight: 1
----
-
-
+authors: Lenny
+categories: null
+date: ""
+description: 
+draft: false
+lastmod: "2022-07-28"
+series:
 tags: [恩典与审判]
-
+title: 05 摩五章
+toc: true
+---
 阿摩司书
-
+<!--more-->
 
 5:1 以色列家阿、要听我为你们所作的哀歌。[^1]  
 5:2 以色列民〔原文作处女〕跌倒、不得再起。躺在地上、无人搀扶。  

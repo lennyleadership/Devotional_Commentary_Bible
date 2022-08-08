@@ -1,13 +1,19 @@
 ---
+authors: Lenny
+categories: null
+date: ""
+description: 
+draft: false
+lastmod: "2022-07-24"
+series:
+tags: [hovertip]
 title: 03 摩三章
-weight: 1
+toc: true
 ---
-
-
 阿摩司书
 
 
-
+<!--more-->
 
 3:1 以色列人哪、你们全家是我从埃及地领上来的、当听耶和华攻击你们的话。  
 3:2 在地上万族中、我只认识你们。因此、我必追讨你们的一切罪孽。[<a class = "hovertip" data-html="true" tooltip_text = "今天，我们和以色列人一样是被神「认识」的百姓，但这特殊的恩典却不允许被滥用；信徒并没有免受审判的特权，而是恩典越大、责任也越大，「因为多给谁，就向谁多取；多托谁，就向谁多要」（路十二48）。 &#010;  但并不是说人不被神「认识」，就不必受审判，「因为时候到了，审判要从神的家起首。若是先从我们起首，那不信从神福音的人将有何等的结局呢」（彼前四17）？">**注一**</a>] [^1]  
@@ -85,49 +91,4 @@ And He has made from one blood every nation of men to dwell on all the face of t
 I would like to share my meditation on one verse.  The first part of the verse goes "You only have I known of all the families of the earth. (NKJV)"  What the position believers are! How special we are! Praise the Lord.  The last part of the verse goes "Therefore I will punish you for all your iniquities. (NKJV)".  What a contrary this is! Believers don't want to read this part.  We would want to hear "How great thou are!".  We would want to hear "God is good, God restored my health".  This verse reminds me God is righteous.  He holds us accountable for sins we made even though we are believers.  Sure, God forgives our sin, and yet we will get consequences, maybe now, maybe at the Judgement Day. Would we be tremble?  Would we want to flee from sins, and live a holy life?  This is what God spoke to a prophet, and was recorded in ‪Amos ‬3:2.  
 [阿摩司书第3章逐节注解、祷读](https://cmcbiblereading.com/2016/10/03/%e9%98%bf%e6%91%a9%e5%8f%b8%e4%b9%a6%e7%ac%ac3%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
 
-<style type="text/css">
-.hovertip {
-  position: relative;
-  border-bottom: 1px dotted black;
-}
 
-.hovertip:before {
-  content: attr(tooltip_text);
-  visibility: hidden;
-  
-  overflow-y: inherit; /*new*/
-
-  width: 250px;
-  background-color: #add8e6;
-  color: black;
-  text-align: left;
-  border-radius: 5px;
-  padding: 5px 0;
-  /* fade-in*/
-  opacity: 0;  
-  transition: opacity 1s ease-in-out;
-
-  /* top tooltip*/
-  position: absolute; /*let tooltip wrap instead of overflow*/
-  z-index: 1;
-  left: auto; /*50%;*/
-  bottom: auto; /*110%;*/
-  margin-left: -60px;
-}
-
-.hovertip.hovertiptext::before {
-  content: " ";
-  position: absolute;
-  top: 100%; /* At the bottom of the tooltip */
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: black transparent transparent transparent;
-}
-
-.hovertip:hover:before {
-  opacity: 1;
-  visibility: visible;
-}
-</style>
