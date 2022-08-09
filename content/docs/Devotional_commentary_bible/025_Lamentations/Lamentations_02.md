@@ -4,7 +4,7 @@ title: 哀二章
 authors: Lenny
 categories: null
 tags: [对今日教会的提醒, 主与我们同负一轭, 背起自己的十字架, 
-时政, 认识上帝]
+时政, 认识上帝, bible-link demo, Reftagger demo]
 date: "2022-08-06"
 description: 
 draft: false
