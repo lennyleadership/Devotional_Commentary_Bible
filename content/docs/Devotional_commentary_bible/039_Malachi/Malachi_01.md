@@ -1,13 +1,14 @@
 ---
+weight: 1
+title: 玛一章
 authors: Lenny
 categories: null
+tags: [刘志雄讲道]
 date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-07-14"
 series:
-tags: 
-title: 01 玛一章
 toc: true
 ---
 玛拉基书
