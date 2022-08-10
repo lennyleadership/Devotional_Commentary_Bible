@@ -1,6 +1,6 @@
 ---
-Weight: 
-title: 
+Weight: 011
+title: 列王记上
 authors: Lenny Lin
 categories: null
 tags: 
@@ -14,9 +14,7 @@ bookCollapseSection: true
 ---
 
 
-<!--more-->
 
----
 
 
 

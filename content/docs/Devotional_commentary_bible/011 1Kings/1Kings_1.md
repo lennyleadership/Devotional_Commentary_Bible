@@ -1,22 +1,17 @@
 ---
-Weight: 
+weight: 
 title: 
-authors: Lenny Lin
+authors: Lenny
 categories: null
 tags: 
+date: "2022-08-10"
 description: 
 draft: false
-date: "2022-08-10"
 lastmod: "2022-08-10"
 series:
 toc: true
-bookCollapseSection: true
 ---
 
 
 <!--more-->
-
----
-
-
 

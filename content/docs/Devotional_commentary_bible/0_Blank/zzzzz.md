@@ -2,12 +2,12 @@
 title:
 authors: Lenny
 categories: null
+tags: 
 description: 
 draft: true
-date: "2022-08-03"
-lastmod: "2022-08-03"
+date: "2022-08-10"
+lastmod: "2022-08-10"
 series:
-tags: 
 toc: true
 ---
 
