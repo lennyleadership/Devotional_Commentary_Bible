@@ -28,10 +28,10 @@ toc: true
 6:9 所罗门建殿、安置香柏木的栋梁、又用香柏木板遮盖。  
 6:10 靠着殿所造的旁屋、每层高五肘、香柏木的栋梁、搁在殿墙坎上。  
 
-6:11 耶和华的话临到所罗门说、
+6:11 耶和华的话临到所罗门说、  
 6:12 论到你所建的这殿、你若遵行我的律例、谨守我的典章、遵从我的一切诫命、我必向你应验我所应许你父亲大卫的话。  
 6:13 我必住在以色列人中间、并不丢弃我民以色列。  
-6:14 所罗门建造殿宇、
+6:14 所罗门建造殿宇、  
 6:15 殿里面用香柏木板贴墙、从地到棚顶、都用木板遮蔽、又用松木板铺地。  
 
 6:16 内殿、就是至圣所、长二十肘、从地到棚顶、用香柏木板遮蔽。〔或作隔断〕
@@ -63,4 +63,4 @@ toc: true
 6:38 到十一年、布勒月、就是八月、殿和一切属殿的、都按着样式造成。他建殿的工夫、共有七年。  
 
 ---
-[^1]: <iframe width="890" height="501" src="https://www.youtube.com/embed/QhO3bvMX840" title="2022年08月07日 荷兰鹿特丹教会：从建造圣殿所学习的教训 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[^1]: <iframe width="360" height="200" src="https://www.youtube.com/embed/QhO3bvMX840" title="2022年08月07日 荷兰鹿特丹教会：从建造圣殿所学习的教训 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
