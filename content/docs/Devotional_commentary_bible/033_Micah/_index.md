@@ -1,13 +1,14 @@
 ---
+Weight: 33
+title: 弥迦书
 authors: Lenny Lin
 categories: null
-date: "2022-04-19"
+tags: 
+date: "2022-08-13"
 description: 
 draft: false
-lastmod: "2022-05-03"
+lastmod: "2022-08-13"
 series:
-tags: 
-title: 033 弥迦书
 toc: true
 bookCollapseSection: true
 ---

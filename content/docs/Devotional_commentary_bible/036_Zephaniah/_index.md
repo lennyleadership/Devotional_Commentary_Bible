@@ -1,16 +1,19 @@
 ---
+Weight: 36
+title: 西番亚书
 authors: Lenny Lin
 categories: null
-date: "2022-04-19"
+tags: 
+date: "2022-08-13"
 description: 
 draft: false
-lastmod: "2022-04-26"
+lastmod: "2022-08-13"
 series:
-tags: 
-title: 036 西番亚书
 toc: true
 bookCollapseSection: true
 ---
+
+
 
 　在《十二先知书》中，何西阿、约珥、阿摩司、俄巴底亚、约拿和弥迦生活在北国即将灭亡之前，  
 　那鸿、哈巴谷和西番雅生活在南国即将灭亡之前，  

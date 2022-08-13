@@ -1,16 +1,19 @@
 ---
+Weight: 29
+title: 约珥书
 authors: Lenny Lin
 categories: null
-date: "2022-04-19"
+tags: 
+date: "2022-08-13"
 description: 
 draft: false
-lastmod: "2022-07-19"
+lastmod: "2022-08-13"
 series:
-tags: 
-title: 029 约珥书
 toc: true
 bookCollapseSection: true
 ---
+
+
 
 「约珥」（1节）这个名字的意思是「耶和华是神」，与先知以利亚名字的意思一样。  
 约珥是南国犹大的先知。本篇并没有透露先知的背景和年代，因为神借着约珥所发表的信息，并不受时间与空间的限制。

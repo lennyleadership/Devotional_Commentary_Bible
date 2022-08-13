@@ -1,16 +1,19 @@
 ---
+Weight: 35
+title: 哈巴谷书
 authors: Lenny Lin
 categories: null
-date: "2022-04-19"
+tags: 
+date: "2022-08-13"
 description: 
 draft: false
-lastmod: "2022-05-02"
-series: 
-tags: 
-title: 035 哈巴谷书
+lastmod: "2022-08-13"
+series:
 toc: true
 bookCollapseSection: true
 ---
+
+
 
 「哈巴谷」的意思是「拥抱」，这个书名非常贴切，因为先知的信息，就是预备以准确的态度接受神的管教、充满「欢欣、喜乐」（三18）地拥抱即将到来的审判：「虽然无花果树不发旺，葡萄树不结果，橄榄树也不效力，田地不出粮食，圈中绝了羊，棚内也没有牛；然而，我要因耶和华欢欣，因救我的神喜乐」（三17-18）。
 

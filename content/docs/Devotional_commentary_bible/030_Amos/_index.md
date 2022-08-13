@@ -1,14 +1,14 @@
 ---
 Weight: 30
+title: 阿摩司书
 authors: Lenny Lin
 categories: null
+tags: [时政, 审判]
 date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-07-22"
 series:
-tags: [时政, 审判]
-title: 030 阿摩司书
 toc: true
 bookCollapseSection: true
 ---

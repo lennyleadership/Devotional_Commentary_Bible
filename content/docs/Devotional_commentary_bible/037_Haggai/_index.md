@@ -1,16 +1,18 @@
 ---
+Weight: 37
+title: 哈该书
 authors: Lenny Lin
 categories: null
-date: "2022-04-19"
+tags: 
+date: "2022-08-13"
 description: 
 draft: false
-lastmod: "2022-06-20"
+lastmod: "2022-08-13"
 series:
-tags: 
-title: 037 哈该书
 toc: true
 bookCollapseSection: true
 ---
+
 
 　「哈该」的意思是「在节庆中诞生」。这个书名非常贴切，因为本书的信息，就是哈该在「六月初一」（1节）的月朔到「七月二十一日」（二1）的住棚节期间，宣告神将「震动天地」（二6）；在神的亲自干预之下，一群满有信心的百姓「在节庆中诞生」了。  
 

@@ -1,13 +1,14 @@
 ---
+Weight: 102
+title: 马可福音
 authors: Lenny Lin
 categories: null
-date: "2022-04-19"
+tags: 
+date: "2022-08-13"
 description: 
 draft: false
-lastmod: "2022-05-24"
-series: 
-tags: 
-title: 102 马可福音
+lastmod: "2022-08-13"
+series:
 toc: true
 bookCollapseSection: true
 ---
