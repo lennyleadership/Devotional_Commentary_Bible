@@ -11,7 +11,7 @@ menu = "main"
 +++
 
 
-## Option #1 RefTagger
+## Option #1 refTagger
 ```
 <script>
 	var refTagger = {
@@ -29,6 +29,11 @@ menu = "main"
 		s.parentNode.insertBefore(g, s);
 	}(document, 'script'));
 </script>
+
+Example #1：Obadiah 1:3
+
+Example #2：<cite class="bibleref" title="Psalms 48:1-14" >诗四十八</cite>
+
 ```
 <script>
 	var refTagger = {
@@ -57,8 +62,10 @@ Example #2：<cite class="bibleref" title="Psalms 48:1-14" >诗四十八</cite>
 
 ```
 <script async defer src="https://bible-link.globalrize.org/plugin.js" data-translation="kjv"></script>
-```
 
 <span class="bible-link" data-translation="kjv">Romans 8:38-39</span>
+```
+
+Example #3: <span class="bible-link" data-translation="kjv">Romans 8:38-39</span>
 
 <script async defer src="https://bible-link.globalrize.org/plugin.js" data-translation="kjv"></script>
