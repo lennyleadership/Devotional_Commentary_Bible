@@ -30,6 +30,9 @@ menu = "main"
 	}(document, 'script'));
 </script>
 
+<cite class="bibleref" title="" ></cite> 
+
+
 Example #1：Obadiah 1:3
 
 Example #2：<cite class="bibleref" title="Psalms 48:1-14" >诗四十八</cite>

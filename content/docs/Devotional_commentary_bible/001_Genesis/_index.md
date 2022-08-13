@@ -1,10 +1,19 @@
 ---
-weight: 10
+Weight: 1
+title: 创世纪
+authors: Lenny Lin
+categories: null
+tags: 
+date: "2022-08-03"
+description: 
+draft: false
+lastmod: "2022-08-03"
+series:
+toc: true
 bookCollapseSection: true
 ---
 
-title: 001 创世纪
-toc: true
+
 
 
 
