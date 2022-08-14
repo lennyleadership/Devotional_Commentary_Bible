@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: 王上六章
+title: 王上一章
 authors: Lenny
 categories: null
 tags: 
