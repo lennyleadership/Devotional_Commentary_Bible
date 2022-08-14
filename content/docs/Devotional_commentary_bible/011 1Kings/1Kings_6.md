@@ -11,7 +11,7 @@ lastmod: "2022-08-10"
 series:
 toc: true
 ---
-
+列王纪上
 
 <!--more-->
 ---
