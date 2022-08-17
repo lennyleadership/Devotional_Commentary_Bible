@@ -1,6 +1,6 @@
 ---
-Weight: 200
-title: 
+Weight: 23
+title: 以赛亚书
 authors: Lenny Lin
 categories: null
 tags: 
