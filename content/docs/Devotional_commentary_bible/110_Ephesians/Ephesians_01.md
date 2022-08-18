@@ -52,3 +52,13 @@ toc: true
 [^4]: 神在基督里的救恩是全备充足的，无论是重生得救、还是生命成长，都不需要我们用基督之外的事物来补足，只需「顺着圣灵而行」（加五16）。  
 [^5]:
 [^6]: 神的恩典不单是拣选我们（4节）、赦免我们（7节），使我们成为祂的儿女（5节），也是光照我们，「叫我们知道祂旨意的奥秘」（10-12节）。
+
+
+---
+<iframe width="720" height="400" src="https://www.youtube.com/embed/vZvA9xcb_H8?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：以弗所书第一章：神提供的救恩 01 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<iframe width="720" height="400" src="https://www.youtube.com/embed/6RDz7CHAdtg?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：以弗所书第一章：神提供的救恩 02 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<iframe width="720" height="400" src="https://www.youtube.com/embed/SWw_kAC1l8c?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：以弗所书第一章：神提供的救恩 03 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+<iframe width="720" height="400" src="https://www.youtube.com/embed/coNbTztBwEo?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：以弗所书第一章：神提供的救恩 04 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
