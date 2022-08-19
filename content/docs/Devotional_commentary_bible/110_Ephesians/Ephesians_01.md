@@ -77,3 +77,7 @@ toc: true
 <iframe width="360" height="200" src="https://www.youtube.com/embed/coNbTztBwEo?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：以弗所书第一章：神提供的救恩 04 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/QaTAoibExkE" title="『成全聖徒，各盡其職』（7）：保羅在成全以弗所聖徒上所立的榜樣" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+<img width ="360" height= "200" src = "/docs/images/romanprison.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
