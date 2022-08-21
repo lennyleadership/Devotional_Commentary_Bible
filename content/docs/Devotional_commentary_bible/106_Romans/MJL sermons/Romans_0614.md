@@ -1,9 +1,9 @@
 ---
 weight: 
-title: 罗六14
+title: Romans 6:4 - Spiritual Depression
 authors: Lenny
 categories: null
-tags: 
+tags: [Depression, "Martyn Lloyd-Jones 钟马田"]
 date: "2022-08-18"
 description: 
 draft: false
@@ -11,7 +11,9 @@ lastmod: "2022-08-18"
 series:
 toc: true
 ---
-罗马书
+The Book of Romans 罗马书  
+
+(罗六14) 
 
 <!--more-->
 ---

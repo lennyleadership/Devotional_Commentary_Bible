@@ -3,7 +3,7 @@ weight: 6
 title: 讲道集
 authors: Lenny
 categories: null
-tags: [Martyne Lloyd-Jones讲道, 唐崇荣讲道]
+tags: ["Martyn Lloyd-Jones 钟马田", 唐崇荣]
 date: "2022-08-17"
 description: 
 draft: false

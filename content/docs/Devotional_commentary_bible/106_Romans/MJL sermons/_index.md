@@ -1,6 +1,6 @@
 ---
 Weight: 100
-title: "钟马田 - 罗马书释经讲道"
+title: "Martyne Lloyd-Jones - Romans"
 authors: Lenny Lin
 categories: null
 tags: 
