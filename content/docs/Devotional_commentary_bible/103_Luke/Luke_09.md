@@ -1,4 +1,5 @@
 ---
+weight: 9
 authors: Lenny
 categories: null
 date: "2022-04-19"
@@ -7,7 +8,7 @@ draft: false
 lastmod: "2022-05-19"
 series:
 tags: 
-title: 09 路九章
+title: 路九章
 toc: true
 ---
 路加福音

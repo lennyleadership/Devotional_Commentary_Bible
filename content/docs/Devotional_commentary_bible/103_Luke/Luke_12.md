@@ -1,6 +1,6 @@
 ---
 weight: 12
-title: 12 路十二章
+title: 路十二章
 authors: Lenny 
 categories: null
 tags: [进天国, tooltip demo]
