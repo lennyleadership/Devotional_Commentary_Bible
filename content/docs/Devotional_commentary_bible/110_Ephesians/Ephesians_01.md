@@ -16,7 +16,7 @@ toc: true
 <!--more-->
 ---
 
-1:1 奉　神<u>旨意</u>、作基督耶稣使徒的保罗、写信给在以弗所的圣徒、就是在基督耶稣里有忠心的人。  
+1:1 奉　神<u>旨意</u>、作基督耶稣使徒的保罗、写信给在以弗所的圣徒、就是在基督耶稣里有忠心的人。[希 10:14, 罗 12:1-2, 箴 23:7]    
 1:2 愿恩惠平安、从　神我们的父、和主耶稣基督、归与你们。&emsp;<sup>(</sup>[^1]<sup>)</sup>  
 1:3 愿颂赞归与我们主耶稣基督的父　神、他在基督里、曾赐给我们天上各样属灵的福气。&emsp;<sup>(</sup>[^2]<sup>)</sup>  
 1:4 就如　神从创立世界以前、在基督里拣选了我们、使我们在他面前成为圣洁、无有瑕疵。&emsp;<sup>(</sup>[^3]<sup>)</sup>  
@@ -80,3 +80,8 @@ toc: true
 
 ---
 <img width ="360" height= "200" src = "/docs/images/pauls-roman-prison-cell.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
+
+
+<span class="bible-link" data-translation="kjv">Romans 8:38-39</span>
+
+<script async defer src="https://bible-link.globalrize.org/plugin.js" data-translation="kjv"></script>
