@@ -16,7 +16,7 @@ toc: true
 <!--more-->
 ---
 
-1:1 奉　神<u>旨意</u>、作基督耶稣使徒的保罗、写信给在以弗所的圣徒、就是在基督耶稣里有忠心的人。[希十14, 罗十二1-2, 箴二十三7]    
+1:1 奉　神<u>旨意</u>、作基督耶稣使徒的保罗、写信给在以弗所的圣徒、就是在基督耶稣里有忠心的人。[<cite class="bibleref" title="Hebrews 10:14" >希十14</cite>, <cite class="bibleref" title="Romans 12:1-2" >罗十二1-2</cite>, <cite class="bibleref" title="Proverbs 23:7" >箴二十三7</cite>]    
 1:2 愿恩惠平安、从　神我们的父、和主耶稣基督、归与你们。&emsp;<sup>(</sup>[^1]<sup>)</sup>  
 1:3 愿颂赞归与我们主耶稣基督的父　神、他在基督里、曾赐给我们天上各样属灵的福气。&emsp;<sup>(</sup>[^2]<sup>)</sup>  
 1:4 就如　神从创立世界以前、在基督里拣选了我们、使我们在他面前成为圣洁、无有瑕疵。&emsp;<sup>(</sup>[^3]<sup>)</sup>  
@@ -77,11 +77,27 @@ toc: true
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/QaTAoibExkE" title="『成全聖徒，各盡其職』（7）：保羅在成全以弗所聖徒上所立的榜樣" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+<img width ="360" height= "200" src = "/docs/images/WhatsApp Image 2022-09-11 at 2.53.44 PM.jpeg"/>
 
 ---
 <img width ="360" height= "200" src = "/docs/images/pauls-roman-prison-cell.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
 
+---
 
-<span class="bible-link" data-translation="kjv">Romans 8:38-39</span>
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: "hlybblsmpshndtn" /*'KJV'*/
+		}
+	}; 
 
-<script async defer src="https://bible-link.globalrize.org/plugin.js" data-translation="kjv"></script>
+	(function(d, t) {
+		var n=d.querySelector('[nonce]');
+		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+		g.nonce = refTagger.settings.nonce;
+		s.parentNode.insertBefore(g, s);
+	}(document, 'script'));
+</script>
