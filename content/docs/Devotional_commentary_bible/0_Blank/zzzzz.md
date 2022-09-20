@@ -1,6 +1,6 @@
 ---
 title:
-authors: Lenny
+authors: Lenny Lin
 categories: null
 tags: 
 description: 

@@ -1,13 +1,13 @@
 ---
-weight: 
-title: 
-authors: Lenny
+weight: 12
+title: 箴十二章
+authors: Lenny Lin
 categories: null
 tags: 
 description: 
 draft: false
-date: "2022-08-16"
-lastmod: "2022-08-16"
+date: "2022-09-20"
+lastmod: "2022-09-20"
 series:
 toc: true
 ---
