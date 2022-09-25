@@ -78,9 +78,10 @@ toc: true
 <iframe width="360" height="200" src="https://www.youtube.com/embed/QaTAoibExkE" title="『成全聖徒，各盡其職』（7）：保羅在成全以弗所聖徒上所立的榜樣" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+<div class ="row">
 <img width ="360" height= "200" src = "/docs/images/WhatsApp Image 2022-09-11 at 2.53.44 PM.jpeg" style ="float: left" HSPACE="10" VSPACE="10"/>
 Sister J: separated instrument for God.  
-
+</div>
 ---
 <img width ="360" height= "200" src = "/docs/images/pauls-roman-prison-cell.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
 
