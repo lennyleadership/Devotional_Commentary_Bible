@@ -28,7 +28,7 @@ toc: true
 15:9 找着了、就请朋友邻舍来、对他们说、我失落的那块钱已经找着了、你们和我一同欢喜吧。  
 15:10 我告诉你们、一个罪人悔改、在　神的使者面前、也是这样为他欢喜。  
 
-15:11 耶稣又说、一个人有两个儿子。  
+15:11 耶稣又说、一个人有两个儿子。[^2]  
 15:12 小儿子对父亲说、父亲、请你把我应得的家业分给我。他父亲就把产业分给他们。  
 15:13 过了不多几日、小儿子就把他一切所有的、都收拾起来、往远方去了。在那里任意放荡、浪费资财。  
 15:14 既耗尽了一切所有的、又遇着那地方大遭饥荒、就穷苦起来。  
@@ -57,17 +57,18 @@ toc: true
 
 ---
 
-[1]: [2022.09.21 LBC] sense of emergency of Sheppard.  share the joy with others.  
+[1]: [2022.09.21 LBC] sense of emergency of Sheppard.  Share the joy with others.  
 what does the sheep think of? we are safe.  Winston: I feel relief. others cry, immediate 'transaction' happen/made. the angel rejoice before the Lord. his name is written on the book of life, it is irreversible/ irrevocable. there is determination. it is not comparable to salvation. must be desire that God placed in the person.  'transaction' is the business term.  I own God debt.  Do you accept payment Jesus offered?  'seed of Jesus' is planted in my soul. new creature, spirit dwell in me.  
 transaction (instantaneous change, quantitative change?) is a moment.  transformation is a process. (transformation = sanctification, maturity, surrender, renew mind, daily process, qualitative change?)
 did business with God seriously. not get out the jail car, and forget what happened before. white dog and black dog (two natures) in me.  John, he can't continue to sin if ...
 <br>
 man takes image of God, we belong to God. one missed, the relationship was lost (ownership God takes on, wedding customes, ransom = God gave)  
-reflection the trinity: Sheppard (representing Son), woman (representing holy spirit), father (representing God).
+reflection the trinity: Sheppard (representing Son), woman (representing holy spirit), father (representing God, he is waiting there in the heaven).
 Teresa: are 100 sheep all saved?  
 Jesus took time to eat with sinners.  
-
-
+[2]: [2022.09.28 LBC] Forgiveness  
+J.Y.: hurt relationship, there is no trust in relationship, not the same relationship like before. take time to heal, wound is deep.  forgiveness boundary?
+K.Y.: forgiveness helps to release resentment. bitterness, poison in Greek, you take poison and expect others die.  
 
 ---
 <script>

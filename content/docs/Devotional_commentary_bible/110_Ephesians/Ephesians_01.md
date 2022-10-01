@@ -48,6 +48,7 @@ toc: true
 [^1]: 保罗是在狱中写下本信（三1），却能为别人求「平安」，因为他即使在狱中，也真实地经历了神的同在、认识神的心意，所以满有不受环境影响的平安喜乐。  
 保罗的问安语结合了希腊式的「恩惠」和希伯来式的「平安」。当时的书信一般用「问候（Chairein）」一词来问安（徒十五23；二十三26），但保罗却改为双关语「恩惠（Charis）」，原意是「那引致喜乐的」，「恩惠」是神赐给不配的罪人白白的、主动的礼物，是我们喜乐的源泉。希伯来文「平安（Shalom）」不只是没有战争的状态，更表示繁荣、兴盛，特别是属灵事物上的兴盛。保罗的问候总是先「恩惠」后「平安」，因为除非神的「恩惠」已把罪对付清楚，否则就不会有真正的「平安」。在保罗心目中，「恩惠」（Charis）几乎就是「基督」（Christos）的同义词，因为除基督之外没有什么可以给人恩惠，神的平安也是借着基督来的。「恩惠」是「平安」之源，「平安」是「恩惠」之果。  
 [^2]: 3-14节是一首赞美诗，原文是一个长句，包括三段赞美：对圣父的颂赞（4-6节上）、对圣子的颂赞（6节下-12节）、对圣灵的颂赞（13-14节）。  
+Brother L.: 父神早已赐给我们天上各样属灵的福气，我们不应该再去求，好像我们没有一样。  
 [^3]: Brother L: 在基督里拣选的我们是那些在基督耶稣里有忠心的人。
 [^4]: 神在基督里的救恩是全备充足的，无论是重生得救、还是生命成长，都不需要我们用基督之外的事物来补足，只需「顺着圣灵而行」（加五16）。  
 [^5]: 「奥秘」（9节）指神在旧约里还没有完全启示，但在新约里已经启示的<u>旨意</u>。神不要我们作胡涂人，祂喜欢我们明白祂的<u>旨意</u>（五17）。
@@ -78,12 +79,14 @@ toc: true
 <iframe width="360" height="200" src="https://www.youtube.com/embed/QaTAoibExkE" title="『成全聖徒，各盡其職』（7）：保羅在成全以弗所聖徒上所立的榜樣" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+
 <div class ="row">
   <div class = "column">
 <img width ="360" height= "200" src = "/docs/images/WhatsApp Image 2022-09-11 at 2.53.44 PM.jpeg" style ="float: left" HSPACE="10" VSPACE="10"/>
 Sister J: separated instrument for God.  
   </div>
 </div>
+
 ---
 <img width ="360" height= "200" src = "/docs/images/pauls-roman-prison-cell.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
 
