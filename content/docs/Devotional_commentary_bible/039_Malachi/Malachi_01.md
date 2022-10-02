@@ -37,6 +37,7 @@ toc: true
 
 <br>  
 <iframe width="360" height="200" src="https://www.youtube.com/embed/luTZSYBi3lE" title="2022年09月25日 BCTC教会：鸡同鸭讲（玛拉基书1:2-5） 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 [^1]: 「玛拉基」（1节）这个名字的意思是「我的使者」，可能是笔名。玛拉基是旧约时代的最后一位先知。  
 此时，北国以色列和南国犹大都已经亡国，先知所说的「以色列」（1节），乃是神心中的那个合一的「以色列」，也就是「祭司的国度」（出十九6）、能真实地见证神的选民团体。  
