@@ -4,7 +4,7 @@ title: 哀二章
 authors: Lenny
 categories: null
 tags: [对今日教会的提醒, 主与我们同负一轭, 背起自己的十字架, 
-时政, 认识上帝, bible-link demo, Reftagger demo]
+时政, 认识上帝, chinese bible ref]
 date: "2022-08-06"
 description: 
 draft: false
@@ -61,27 +61,13 @@ toc: true
 [耶利米哀歌第2章逐节注解、祷读](https://cmcbiblereading.com/2016/08/07/%e8%80%b6%e5%88%a9%e7%b1%b3%e5%93%80%e6%ad%8c%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
 
 ---
-<span class="bible-link" data-translation="kjv">Romans 8:38-39</span>
-
-
-<script async defer src="https://bible-link.globalrize.org/plugin.js" data-translation="kjv"></script>
-
-
-
----
+<script src="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra.js" 
+        integrity="sha384-kVFpui/QIbzb/ptM/MkYo+MNKX24PUVJwldqzR7LKCwn2j7bi1zfiIt6PKy1F9Ku" 
+        crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra-style.css" rel="stylesheet" type="text/css" />
 <script>
-	var refTagger = {
-		settings: {
-			bibleVersion: "hlybblsmpshndtn" /*'KJV'*/
-		}
-	}; 
-
-	(function(d, t) {
-		var n=d.querySelector('[nonce]');
-		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-		g.nonce = refTagger.settings.nonce;
-		s.parentNode.insertBefore(g, s);
-	}(document, 'script'));
+  ezraLinkifier.setLang('zh-Hans');
+  ezraLinkifier.linkify(document.body);
 </script>
+
+
