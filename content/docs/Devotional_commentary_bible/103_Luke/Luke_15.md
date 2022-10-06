@@ -36,7 +36,7 @@ toc: true
 
 15:16 他恨不得拿猪所吃的豆荚充饥。也没有人给他。  
 15:17 他醒悟过来、就说、我父亲有多少的雇工、口粮有余、我倒在这里饿死么。  
-15:18 我要起来、到我父亲那里去、向他说、父亲、我得罪了天、又得罪了你。[<cite class="bibleref" title="Provers 8:36" >箴言八36</cite>]  
+15:18 我要起来、到我父亲那里去、向他说、父亲、我得罪了天、又得罪了你。[箴言八36]  
 15:19 从今以后、我不配称为你的儿子、把我当作一个雇工吧。  
 15:20 于是起来往他父亲那里去。相离还远、他父亲看见、就动了慈心、跑去抱着他的颈项、连连与他亲嘴。  
 
@@ -69,22 +69,23 @@ Jesus took time to eat with sinners.
 [2]: [2022.09.28 LBC] Forgiveness  
 J.Y.: hurt relationship, there is no trust in relationship, not the same relationship like before. take time to heal, wound is deep.  forgiveness boundary?
 K.Y.: forgiveness helps to release resentment. bitterness, poison in Greek, you take poison and expect others die.  
+[2022.10.05 LBC] The elder son  
+The younger son:  True repentance from heart. Need forgiveness from god firstly.  
+Don't reflect the elder son as Christian.  Th elder son represented Pharasees. God rebuked to the Pharasee.  The elder son is the picture of pharasees.  
+This prodigal son parable had nothing to do salvation, nothing to go to heaven.  
+True understand what is God's love.  
+See ourselves as younger son.  
+Brother Winston: The old testament is like an illustration, we guess the meaning; the new testament is like a dictionary, we understand with no misunderstanding.  
+
+
 
 ---
+<script src="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra.js" 
+        integrity="sha384-kVFpui/QIbzb/ptM/MkYo+MNKX24PUVJwldqzR7LKCwn2j7bi1zfiIt6PKy1F9Ku" 
+        crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra-style.css" rel="stylesheet" type="text/css" />
 <script>
-	var refTagger = {
-		settings: {
-			bibleVersion: "hlybblsmpshndtn" /*'KJV'*/
-		}
-	}; 
-
-	(function(d, t) {
-		var n=d.querySelector('[nonce]');
-		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-		g.nonce = refTagger.settings.nonce;
-		s.parentNode.insertBefore(g, s);
-	}(document, 'script'));
+  ezraLinkifier.setLang('zh-Hans');
+  ezraLinkifier.linkify(document.body);
 </script>
 
