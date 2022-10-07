@@ -88,6 +88,17 @@ Christian who follows, Christian who does not follow the Shepard. [KY's comments
 Easy believism (makes me doubt ...) [KY's comments]
 
 
+---
+
+<script src="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra.js" 
+        integrity="sha384-kVFpui/QIbzb/ptM/MkYo+MNKX24PUVJwldqzR7LKCwn2j7bi1zfiIt6PKy1F9Ku" 
+        crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra-style.css" rel="stylesheet" type="text/css" />
+<script>
+  ezraLinkifier.setLang('zh-Hans');
+  ezraLinkifier.linkify(document.body);
+</script>
+
 
 <script>
 	var refTagger = {
