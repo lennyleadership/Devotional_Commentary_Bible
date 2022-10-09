@@ -70,7 +70,7 @@ Shrewd: Be smart in the cunning way.
 Brother Winston: achieve outcome by all means.  
 
 ---
-Question: "What is the meaning of the Parable of the Unjust Steward (Luke 16:1-13)?"
+**Question: "What is the meaning of the Parable of the Unjust Steward (Luke 16:1-13)?"**  
 
 Answer: The Parable of the Unjust Steward can be found in Luke 16:1–13. The text can be broken down into two parts: the parable (verses 1–8) and the application (verses 9–13). Luke 16:1 identifies that Jesus is speaking to His disciples, but there is a suggestion that His audience is mixed—disciples and Pharisees. Luke 16:14 states that the Pharisees “heard all these things and ridiculed [Jesus].” We also see in verse 1 that Jesus “also” said to the disciples; the “also” would suggest that this parable is connected to the previous three in Luke 15 and that the audience was a mixed crowd of disciples and Pharisees.
 
@@ -94,7 +94,7 @@ Jesus then goes on to expand in verses 10–13 the principle given in verse 9. I
 
 The climax of Jesus’ application is verse 13: “No servant can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money” (see also Matthew 6:24). If God is our Master, then our wealth will be at His disposal. In other words, the faithful and just steward whose Master is God will employ that wealth in building up the kingdom of God.
 
-[**Reference*: What is the meaning of the Parable of the Unjust Steward (Luke 16:1-13)?](https://www.gotquestions.org/parable-unjust-steward.html)
+[**Reference**: What is the meaning of the Parable of the Unjust Steward (Luke 16:1-13)?](https://www.gotquestions.org/parable-unjust-steward.html)
 
 ---
 <script src="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra.js" 
