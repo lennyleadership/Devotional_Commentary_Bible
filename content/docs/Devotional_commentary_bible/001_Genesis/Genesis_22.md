@@ -1,11 +1,21 @@
 ---
-title: 22 创二十二章
-weight: 1
+weight: 22
+title: 创二十二章
+authors: Lenny
+categories: null
+tags: []
+description: 
+draft: false
+date: "2022-08-17"
+lastmod: "2022-08-17"
+series:
+toc: true
 ---
 
 
 创世纪
-
+<!--more-->
+---
 
 22:1 这些事以后、　神要试验亚伯拉罕、就呼叫他说、亚伯拉罕、他说、我在这里。  
 22:2 　神说、你带着你的儿子、就是你独生的儿子、你所爱的以撒、往摩利亚地去、在我所要指示你的山上、把他献为燔祭。[^1]    

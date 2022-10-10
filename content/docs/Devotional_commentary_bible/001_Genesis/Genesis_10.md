@@ -1,13 +1,20 @@
 ---
-title: 10 创十章
-weight: 1
+weight: 10
+title: 创十章
+authors: Lenny
+categories: null
+tags: [旷野吗哪]
+description: 
+draft: false
+date: "2022-08-17"
+lastmod: "2022-08-17"
+series:
+toc: true
 ---
 
-
-tags: [旷野吗哪]
-
 创世纪
-
+<!--more-->
+---
 
 10:1 挪亚的儿子闪、含、雅弗的后代、记在下面。  洪水以后、他们都生了儿子。  
 10:2 雅弗的儿子是歌篾、玛各、玛代、雅完、土巴、米设、提拉、  

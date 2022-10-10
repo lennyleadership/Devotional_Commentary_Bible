@@ -1,13 +1,20 @@
 ---
-title: 04 创四章
-weight: 1
+weight: 4
+title: 创四章
+authors: Lenny
+categories: null
+tags: [旷野吗哪]
+description: 
+draft: false
+date: "2022-08-17"
+lastmod: "2022-08-17"
+series:
+toc: true
 ---
 
-tags: [旷野吗哪]  
-toc: true
-
 创世纪
-
+<!--more-->
+---
 
 4:1 有一日、那人和他妻子夏娃同房、夏娃就怀孕、生了该隐、〔就是得的意思〕便说、耶和华使我得了一个男子。  
 4:2 又生了该隐的兄弟亚伯。  亚伯是牧羊的。该隐是种地的。  
