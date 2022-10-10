@@ -72,7 +72,7 @@ toc: true
 41:45 法老赐名给约瑟、叫撒发那忒巴内亚。又将安城的祭司波提非拉的女儿亚西纳、给他为妻。约瑟就出去巡行埃及地。  
 
 41:46 约瑟见埃及王法老的时候、年三十岁。他从法老面前出去遍行埃及全地。  
-41:47 七个丰年之内、地的出产极丰极盛。〔原文作一把一把的〕
+41:47 七个丰年之内、地的出产极丰极盛。〔原文作一把一把的〕  
 41:48 约瑟聚敛埃及地七个丰年一切的粮食、把粮食积存在各城里、各城周围田地的粮食、都积存在本城里。  
 41:49 约瑟积蓄五谷甚多、如同海边的沙、无法计算、因为谷不可胜数。  
 41:50 荒年未到以前、安城的祭司波提非拉的女儿亚西纳给约瑟生了两个儿子。  
@@ -209,4 +209,15 @@ The fact that the two sons were given Hebrew names
 (who later would assume roles as tribal leaders in the nation of Israel alongside Joseph's brothers) can lead us to think that Asenath had become a believer in the God of Israel.  
 
 We will in our next study note how the names given to his two sons describe the two distinct chapters which Joseph had experienced: Manasseh (or, suffering) and then Ephraim (or, fruitful).  
+
+
+---
+<script src="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra.js" 
+        integrity="sha384-kVFpui/QIbzb/ptM/MkYo+MNKX24PUVJwldqzR7LKCwn2j7bi1zfiIt6PKy1F9Ku" 
+        crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra-style.css" rel="stylesheet" type="text/css" />
+<script>
+  ezraLinkifier.setLang('zh-Hans');
+  ezraLinkifier.linkify(document.body);
+</script>
 
