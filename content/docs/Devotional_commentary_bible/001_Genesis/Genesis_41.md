@@ -190,6 +190,7 @@ Now that being said, this marriage does raise obvious questions. Was it right fo
 One Jewish tradition has it that Asenath was already a convert to Joseph's God. But this isn't at all suggested in the text. Neither are we warranted in any fashion to condemn Joseph for marrying Asenath when the text itself does not remonstrate or criticize him.  
 
 But let all Christians take heed however: this example in the Word of God is NOT to be used as an excuse to be unequally yoked with an unbeliever (as it is taught clearly in the Scriptures).  
+
 _____________________________________________________ 
 
 *<font color ="blue">Historical Footnote</font>*  
@@ -199,6 +200,7 @@ My readers may find this of some interest. The city of On mentioned in reference
 The city of On was also called Heliopolis by the Greeks or the City of the Sun. Located not far from Memphis in Egypt, this city had Arabs for its founders. Which led a commentator to remark:  
 
 "Being an Arabian colony, Heliopolis would not have had in it the base superstitions of Egypt. Rather, the city would have retained some of the patriarchal or the Abrahamic religion to have made a female from there like Asenath to be nearer to the faith of Joseph than in any other part of Egypt.”  
+
 ____________________________________________________  
 
 *<font color ="blue">FINAL NOTE</font>*  
