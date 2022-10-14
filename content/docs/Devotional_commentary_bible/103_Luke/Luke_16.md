@@ -31,7 +31,7 @@ toc: true
 16:11 倘若你们在不义的钱财上不忠心、谁还把那真实的钱财托付你们呢。  
 16:12 倘若你们在别人的东西上不忠心、谁还把你们自己的东西给你们呢。  
 16:13 一个仆人不能事奉两个主。不是恶这个爱那个、就是重这个轻那个。你们不能又事奉　神、又事奉玛门。  
-16:14 法利赛人是贪爱钱财的、他们听见这一切话、就嗤笑耶稣。  
+16:14 法利赛人是贪爱钱财的、他们听见这一切话、就嗤笑耶稣。[1 Timothy 6:9-10, Matthew 19:24]  
 16:15 耶稣对他们说、你们是在人面前自称为义的。你们的心、　神却知道。因为人所尊贵的是　神看为可憎恶的。  
 
 16:16 律法和先知、到约翰为止。从此　神国的福音传开了、人人努力要进去。  
@@ -55,8 +55,8 @@ toc: true
 16:31 亚伯拉罕说、若不听从摩西和先知的话、就是有一个从死里复活的、他们也是不听劝。  
 
 ---
-[2022.10.06 LBC]  
-The parable of the shrewd manager told us to use our intellegence to prepare ahead.  
+[2022.10.05 LBC]  
+The parable of the shrewd manager told us to use our intelligence to prepare ahead.  
 We should think ahead using time, money for heaven toward the good end.  
 Sister C.: Jesus poked Pharasee.  
 Sin to avoid: put hope, security in money.  
@@ -68,6 +68,12 @@ Knowledge of God: God knows our heart.
 Shrewd: Be smart in the cunning way.  
 
 Brother Winston: achieve outcome by all means.  
+
+---
+[2022.10.12 LBC]  
+Serve money.  Life runs after money.  See money as God. 人为财死，鸟为食亡。  
+
+There is no second chance for the dead to hear the gospel.  
 
 ---
 **Question: "What is the meaning of the Parable of the Unjust Steward (Luke 16:1-13)?"**  
