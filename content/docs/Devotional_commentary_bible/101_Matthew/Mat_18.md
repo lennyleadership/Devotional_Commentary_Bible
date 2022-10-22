@@ -59,10 +59,10 @@ toc: true
 18:35 你们各人、若不从心里饶恕你的弟兄、我天父也要这样待你们了。  
 
 ---
+
 [^1]: [2022.10.19 LBC]  
 what does the little child represent?  
 the believer who trusts the Lord. Simply faith, young believers. no question but take the Bible verses.  
-
 [^2]: 关于教会的交流  
 弟兄D: 其实两三个人奉主的名聚会主就在他们中间了。什么是教会呢？有几个同心合意的弟兄姐妹在一起，就可以是教会了。那么教会当然是要有敞开的门，既然有敞开的门，就愿意人进来，既然有人进来，也会有撒旦的攻击进来，我们是不是因此要关闭这个敞开的门？靠主恩典！  
 弟兄L: 假如关闭这个敞开的门，这样的聚会就成了物以类聚式的俱乐部。因此，毋须赘言！ 
