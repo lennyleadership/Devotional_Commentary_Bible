@@ -67,6 +67,8 @@ It is so hard to forgive, so increase our faith.
 It is the servant thing, forgiveness, to do.  
 servanthood, obedience, doing the hard thing.  
 
+in John 6:22-27, people only sought healing, not beyond it.  
+
 <a class = "hovertip" tooltip_text ="maintain a feeling of ill will or resentment toward someone, feel distance, feel sad">bear a grudge</a>
 
 
