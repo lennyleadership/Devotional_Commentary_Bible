@@ -31,7 +31,7 @@ toc: true
 1:11 我们也在他里面得了基业、〔得或作成〕这原是那位随己意行作万事的、照着他<u>旨意</u>所预定的。&emsp;<sup>(</sup>[^7]<sup>)</sup>  
 1:12 叫他的荣耀、从我们这首先在基督里有盼望的人、可以得着称赞。&emsp;<sup>(</sup>[^8]<sup>)</sup>  
 1:13 你们既听见真理的道、就是那叫你们得救的福音、也信了基督、既然信他、就受了所应许的圣灵为印记。&emsp;<sup>(</sup>[^9]<sup>)</sup>  
-1:14 这圣灵、是我们得基业的凭据、〔原文作质〕直等到　神之民〔民原文作产业〕被赎、使他的荣耀得着称赞。[<cite class="bibleref" title="John 14:15-29" >约十四15-29</cite>, <cite class="bibleref" title="John 15:26" >约十五26</cite>, <cite class="bibleref" title="John 16：5-15" >约十六5-15</cite>]  
+1:14 这圣灵、是我们得基业的凭据、〔原文作质〕直等到　神之民〔民原文作产业〕被赎、使他的荣耀得着称赞。[<cite class="bibleref" title="John 14:15-29" >约十四15-29</cite>, <cite class="bibleref" title="John 15:26" >约十五26</cite>, <cite class="bibleref" title="John 16:5-15" >约十六5-15</cite>]  
 1:15 因此、我既听见你们信从主耶稣、亲爱众圣徒、  
 
 1:16 就为你们不住的感谢　神、祷告的时候、常提到你们。  
