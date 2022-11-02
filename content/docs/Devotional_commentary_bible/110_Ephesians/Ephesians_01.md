@@ -93,15 +93,23 @@ NLT uses "the authority of Christ".
 
 ---
 
-<div class ="row">
-  <div class = "column">
-<img width ="360" height= "200" src = "/docs/images/WhatsApp Image 2022-09-11 at 2.53.44 PM.jpeg" style ="float: left" HSPACE="10" VSPACE="10"/>
-Sister J: separated instrument for God.  
-  </div>
-</div>
+<figure>
+  <img width = "540" src = "/docs/images/WhatsApp Image 2022-09-11 at 2.53.44 PM.jpeg"/>
+  <figcaption_bottom>Sister J: separated instrument for God.</figcaption_bottom>
+</figure>
 
 ---
-<img width ="360" height= "200" src = "/docs/images/pauls-roman-prison-cell.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
+
+<figure>
+  <img width = "540" src = "/docs/images/pauls-roman-prison-cell.jpg"/>
+  <figcaption_bottom></figcaption_bottom>
+</figure>
+
+---
+<figure>
+  <img width = "540" src = "/docs/images/wechat_20221102065215_in_christ.jpg"/>
+  <figcaption_bottom></figcaption_bottom>
+</figure>
 
 ---
 
