@@ -95,14 +95,28 @@ NLT uses "the authority of Christ".
 
 <figure>
   <img width = "540" src = "/docs/images/WhatsApp Image 2022-09-11 at 2.53.44 PM.jpeg"/>
-  <figcaption_bottom>Sister J: separated instrument for God.</figcaption_bottom>
+  <figcaption_bottom>Sister J: verse 1-2</figcaption_bottom>
 </figure>
 
+<figure>
+  <img width = "540" src = "/docs/images/WhatsApp Image 2022-10-23 at 2.41.42 PM.jpeg"/>
+  <figcaption_bottom>Sister J: verse 3-6</figcaption_bottom>
+</figure>
+
+<figure>
+  <img width = "540" src = "/docs/images/WhatsApp Image 2022-10-23 at 2.42.15 PM.jpeg"/>
+  <figcaption_bottom>Sister J: verse 13-14</figcaption_bottom>
+</figure>
+
+<figure>
+  <img width = "540" src = "/docs/images/WhatsApp Image 2022-10-23 at 2.42.49 PM.jpeg"/>
+  <figcaption_bottom>Sister J: verse 15-23</figcaption_bottom>
+</figure>
 ---
 
 <figure>
   <img width = "540" src = "/docs/images/pauls-roman-prison-cell.jpg"/>
-  <figcaption_bottom></figcaption_bottom>
+  <figcaption_bottom>可能是关押保罗的监狱</figcaption_bottom>
 </figure>
 
 ---
