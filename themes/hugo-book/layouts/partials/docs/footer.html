@@ -3,7 +3,7 @@
 {{ if and .GitInfo .Site.Params.BookRepo }}
   <div>
     {{- $date := partial "docs/date" (dict "Date" .GitInfo.AuthorDate.Local "Format" .Site.Params.BookDateFormat) -}}
-    <a class="flex align-center" title='{{ $date }}' target="_blank" rel="noopener">
+    <a class="flex align-center" title='{{ $date }}'>
       <img src="{{ "svg/calendar.svg" | relURL }}" class="book-icon" alt="Calendar" />
       <span>{{ $date }}</span>
     </a>
