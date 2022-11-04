@@ -98,4 +98,4 @@ Chapter 3 The Secret of Christ’s Indwelling
 &emsp;3. Hate your own life. “If any man … hate … not his own life,” said our Lord, “he cannot be my disciple” (Luke 14:26). And the word translated “life” is soul, the seat and center of the self-life with its restless energies and activities, its choices and decisions, its 22 ceaseless strivings at independence and leadership. This is the greatest hindrance to our enjoyment of the indwelling Christ. If we will acquire the habit of saying no not only to our bad but to our good self; if we will daily deliver ourselves up to death for Jesus’ sake; if we will take up our cross and follow the Master, though it be to His grave, we shall become increasingly conscious of being possessed by a richer, deeper, more divine life than our own.
 
 
-** Source**: <a href = "https://chalkermen.files.wordpress.com/2015/01/f-b-meyer-the-secret-of-guidance.pdf" target="_blank" rel="noopener noreferrer">The Secret of Guidance by F.B. Meyer</a>
+**Source**: <a href = "https://chalkermen.files.wordpress.com/2015/01/f-b-meyer-the-secret-of-guidance.pdf" target="_blank" rel="noopener noreferrer">The Secret of Guidance by F.B. Meyer</a>
