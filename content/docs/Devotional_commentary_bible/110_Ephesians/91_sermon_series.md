@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 91
 title: 讲道集
 authors: Lenny
 categories: null
