@@ -44,7 +44,15 @@ toc: true
 2:22 你们也靠他同被建造成为　神借着圣灵居住的所在。  
 
 ---
-<img width ="360" height= "200" src = "/docs/images/temple-1.jpg" />
+
+<figure>
+  <img width = "540" src = "/docs/images/temple-1.jpg"/>
+</figure>
+<br>
+<figure>
+  <img width = "540" src = "/docs/images/WhatsApp Image 2022-11-06 at 3.03.58 PM.jpeg"/>
+
+</figure>
 
 ---
 [^1]: 「死在过犯罪恶之中」指属灵生命的死亡。每个人一出生就处于灵性死亡的状态中（结三十七1-14；罗六23，七10、24；西二13），已经「与神所赐的生命隔绝了」（四18），因此不再能与神交通，对神的爱没有感觉；不再有能力行善，讨神喜悦；不再有能力抗拒罪，反而是越来越习惯，甚至乐在其中；也不可能生发出得救的信心（8节）。  
