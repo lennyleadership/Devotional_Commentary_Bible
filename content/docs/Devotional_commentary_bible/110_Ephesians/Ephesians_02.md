@@ -4,10 +4,10 @@ title: 弗二章
 authors: Lenny
 categories: null
 tags: 
-date: "2022-08-17"
 description: 
 draft: false
-lastmod: "2022-08-17"
+date: "2022-08-17"
+lastmod: "2022-11-06"
 series:
 toc: true
 ---
