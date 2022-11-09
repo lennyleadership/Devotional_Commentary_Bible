@@ -72,3 +72,12 @@ toc: true
 [^11]: 「进到」（18节）用来描写把人带到神前奉献任圣职，也用来叙述把人带来觐见皇帝。我们得以「进到父面前」（18节），是借着圣父的拣选（一4）、圣子的完成（15-16节）和圣灵的感动。  
 [^12]: 「被建造」（20节）指明了一个事实，不是信徒在一起出主意、出力量建造教会，而是人作为材料被神使用来建造教会。  
 [以弗所书第2章逐节注解、祷读](https://cmcbiblereading.com/2014/11/23/%e4%bb%a5%e5%bc%97%e6%89%80%e4%b9%a6%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
+
+<script src="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra.js" 
+        integrity="sha384-kVFpui/QIbzb/ptM/MkYo+MNKX24PUVJwldqzR7LKCwn2j7bi1zfiIt6PKy1F9Ku" 
+        crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra-style.css" rel="stylesheet" type="text/css" />
+<script>
+  ezraLinkifier.setLang('zh-Hans');
+  ezraLinkifier.linkify(document.body);
+</script>
