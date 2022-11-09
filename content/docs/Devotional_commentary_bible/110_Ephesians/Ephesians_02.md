@@ -16,7 +16,7 @@ toc: true
 <!--more-->
 ---
 
-2:1 你们死在过犯罪恶之中、他叫你们活过来。&emsp;<sup>(</sup>[^1]<sup>)</sup>   <a class = "marginnote"><cite class="bibleref" title="Ezekiel 37:1-14" >结三十七1-14</cite> 不能引用圣经。but leave notes.</a>   
+2:1 你们死在过犯罪恶之中、他叫你们活过来。&emsp;<sup>(</sup>[^1]<sup>)</sup>   <a class = "marginnote"><cite >结三十七1-14；罗六23，七10、24；西二13</cite>. <br>I can also leave notes.</a>   
 2:2 那时、你们在其中行事为人随从今世的风俗、顺服空中掌权者的首领、就是现今在悖逆之子心中运行的邪灵。&emsp;<sup>(</sup>[^2]<sup>)</sup>  <a class ="marginnote"><cite>路十一24-26</cite></a>       
 2:3 我们从前也都在他们中间、放纵肉体的私欲、随着肉体和心中所喜好的去行、本为可怒之子、和别人一样。&emsp;<sup>(</sup>[^3]<sup>)</sup>  
 2:4 然而　神既有丰富的怜悯。因他爱我们的大爱、&emsp;<sup>(</sup>[^4<sup>)</sup>]  
@@ -86,19 +86,3 @@ toc: true
 
 
 
-<script>
-    var refTagger = {
-        settings: {
-            bibleVersion: "hlybblsmpshndtn" /*KJV*/
-        }
-    }; 
-
-    (function(d, t) {
-        var n=d.querySelector('[nonce]');
-        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-        g.nonce = refTagger.settings.nonce;
-        s.parentNode.insertBefore(g, s);
-    }(document, 'script'));
-</script>

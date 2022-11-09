@@ -271,7 +271,7 @@ img {
 .marginnote {
     float: right;
     clear: right;
-    margin-right: -40%; /*-60%*/
+    margin-right: -55%; /* adjust where the sidenote starts*/
     width: 50%;
     margin-top: 0;
     margin-bottom: 0;
@@ -316,13 +316,14 @@ img {
     top: -0.5rem;
 }
 
+/* the place to adjust the width of the main panel*/
 p,
 footer,
 table,
 div.table-wrapper-small,
 div.supertable-wrapper > p,
 div.booktabs-wrapper {
-    width: 80%; /*55%*/
+    width: 100%; /*55%*/ 
 }
 
 
@@ -339,7 +340,7 @@ div.table-wrapper {
 @media screen and (max-width: 760px) {
     p,
     footer {
-        width: 90%;
+        width: 70%; /*90*/
     }
     pre.code {
         width: 87.5%;
