@@ -1,465 +1,366 @@
 @import "variables";
 
 .markdown {
-@charset "UTF-8";
+  line-height: 1.6;
 
-@font-face {
-    font-family: "et-book";
-    src: url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot");
-    src: url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix") format("embedded-opentype"),
-        url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff"),
-        url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf") format("truetype"),
-        url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbookromanosf") format("svg");
-    font-weight: normal;
-    font-style: normal;
-}
+  // remove padding at the beginning of page
+  > :first-child {
+    margin-top: 0;
+  }
 
-@font-face {
-    font-family: "et-book";
-    src: url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot");
-    src: url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot?#iefix")
-            format("embedded-opentype"),
-        url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff")
-            format("woff"),
-        url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf")
-            format("truetype"),
-        url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg#etbookromanosf")
-            format("svg");
-    font-weight: normal;
-    font-style: italic;
-}
 
-@font-face {
-    font-family: "et-book";
-    src: url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot");
-    src: url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot?#iefix") format("embedded-opentype"),
-        url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff") format("woff"),
-        url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.ttf") format("truetype"),
-        url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg#etbookromanosf") format("svg");
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "et-book-roman-old-style";
-    src: url("et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot");
-    src: url("et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot?#iefix")
-            format("embedded-opentype"),
-        url("et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.woff") format("woff"),
-        url("et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.ttf") format("truetype"),
-        url("et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.svg#etbookromanosf") format("svg");
-    font-weight: normal;
-    font-style: normal;
-}
-
-/* Tufte CSS styles */
-html {
-    font-size: 15px;
-}
-
-body {
-    width: 87.5%;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 12.5%;
-    font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-    background-color: #fffff8;
-    color: #111;
-    max-width: 1400px;
-    counter-reset: sidenote-counter;
-}
-
-h1 {
-    font-weight: 400;
-    margin-top: 4rem;
-    margin-bottom: 1.5rem;
-    font-size: 3.2rem;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    text-transform: uppercase;
+    font-weight: bolder;/*normal*/
+    font-size: 1rem;
     line-height: 1;
-}
+    margin-top: 1.5em;
+    margin-bottom: $padding-16;
 
-h2 {
-    font-style: italic;
-    font-weight: 400;
-    margin-top: 2.1rem;
-    margin-bottom: 0;
-    font-size: 2.2rem;
-    line-height: 1;
-}
+    a.anchor {
+      opacity: 0;
+      font-size: 0.75em;
+      vertical-align: middle;
+      text-decoration: none;
+    }
 
-h3 {
-    font-style: italic;
-    font-weight: 400;
-    font-size: 1.7rem;
-    margin-top: 2rem;
-    margin-bottom: 0;
-    line-height: 1;
-}
+    &:hover a.anchor,
+    a.anchor:focus {
+      opacity: initial;
+    }
+  }
 
-p.subtitle {
+  h3{
     font-style: italic;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    font-size: 1.8rem;
+    font-size: .9rem;
+    
+  }
+  
+  h4 {
+    font-style: italic;
+    font-size: 0.8em;
+    margin-left: 20px;
+  }
+
+  h5 {
+    font-style: italic;
+    font-size: 0.7em;
+  }
+
+  h6 {
+    font-style: italic;
+    font-size: 0.6em;
+  }
+
+  b,
+  optgroup,
+  strong {
+    font-weight: bolder;
+  }
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+    &:visited {
+      color: var(--color-visited-link);
+    }
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  code {
+    padding: 0 $padding-4;
+    background: var(--gray-200);
+    border-radius: $border-radius;
+    font-size: 0.875em;
+  }
+
+  pre {
+    padding: $padding-16;
+    background: var(--gray-100);
+    border-radius: $border-radius;
+    overflow-x: auto;
+
+    code {
+      padding: 0;
+      background: none;
+    }
+  }
+
+  p {
+    word-wrap:break-word;
+  }
+
+  blockquote {
+    margin: $padding-16 0;
+    padding: $padding-8 $padding-16 $padding-8 ($padding-16 - $padding-4); //to keep total left space 16dp
+
+    border-inline-start: $padding-4 solid var(--gray-200);
+    border-radius: $border-radius;
+
+    :first-child {
+      margin-top: 0;
+    }
+    :last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  table {
+    overflow: auto;
     display: block;
-    line-height: 1;
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin-top: $padding-16;
+    margin-bottom: $padding-16;
+
+    tr th,
+    tr td {
+      padding: $padding-8 $padding-16;
+      border: $padding-1 solid var(--gray-200);
+    }
+
+    tr:nth-child(2n) {
+      background: var(--gray-100);
+    }
+  }
+
+  hr {
+    height: $padding-1;
+    border: none;
+    background: var(--gray-200);
+  }
+
+  ul,
+  ol {
+    padding-inline-start: $padding-16 * 2;
+  }
+
+  dl {
+    dt {
+      font-weight: bolder;
+      margin-top: $padding-16;
+    }
+
+    dd {
+      margin-inline-start: 0;
+      margin-bottom: $padding-16;
+    }
+  }
+
+  // Special case for highlighted code with line numbers
+  .highlight table tr {
+    td:nth-child(1) pre {
+      margin: 0;
+      padding-inline-end: 0;
+    }
+    td:nth-child(2) pre {
+      margin: 0;
+      padding-inline-start: 0;
+    }
+  }
+
+  details {
+    padding: $padding-16;
+    border: $padding-1 solid var(--gray-200);
+    border-radius: $border-radius;
+
+    summary {
+      line-height: 1;
+      padding: $padding-16;
+      margin: -$padding-16;
+      cursor: pointer;
+    }
+
+    &[open] summary {
+      margin-bottom: 0;
+    }
+  }
+
+
+  
+  /* image and text side-by-side */
+* {
+  box-sizing: border-box;
 }
 
-.numeral {
-    font-family: et-book-roman-old-style;
+.row {
+  margin-left:5px;
+  margin-right:-5px;
+  
+}
+  
+.column_left {
+  float: left;
+  padding: 20px; /* space between two tables*/
+  
 }
 
-.danger {
-    color: red;
+.column_right {
+  float: right;
+  padding: 20px; /* space between two tables*/
+  
 }
 
-article {
-    position: relative;
-    padding: 5rem 0rem;
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
+/* end of side-by-side*/
 
-section {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
-
-p,
-ol,
-ul {
-    font-size: 1.4rem;
-}
-
-p {
-    line-height: 2rem;
-    margin-top: 1.4rem;
-    margin-bottom: 1.4rem;
-    padding-right: 0;
-    vertical-align: baseline;
-}
-
-/* Chapter Epigraphs */
-div.epigraph {
-    margin: 5em 0;
-}
-
-div.epigraph > blockquote {
-    margin-top: 3em;
-    margin-bottom: 3em;
-}
-
-div.epigraph > blockquote,
-div.epigraph > blockquote > p {
-    font-style: italic;
-}
-
-div.epigraph > blockquote > footer {
-    font-style: normal;
-}
-
-div.epigraph > blockquote > footer > cite {
-    font-style: italic;
-}
-
-/* end chapter epigraphs styles */
-
-blockquote {
-    font-size: 1.4rem;
-}
-
-blockquote p {
-    width: 50%;
-}
-
-blockquote footer {
-    width: 50%;
-    font-size: 1.1rem;
-    text-align: right;
-}
-
-ol,
-ul {
-    width: 45%;
-    -webkit-padding-start: 5%;
-    -webkit-padding-end: 5%;
-}
-
-li  ul {
-    width: 100%;
-}
-
-li {
-    padding: 0.5rem 0;
-}
+  /*figure {
+    margin: $padding-16 0;
+    figcaption p {
+      margin-top: 0;
+    }
+  }*/
 
 figure {
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
-    max-width: 55%;
-    -webkit-margin-start: 0;
-    -webkit-margin-end: 0;
-    margin: 0 0 3em 0;
+  /*text-align: left;*/
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+  display: table;
 }
 
-figcaption {
-    float: right;
-    clear: right;
-    margin-right: -48%;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-size: 1.1rem;
-    line-height: 1.6;
-    vertical-align: baseline;
-    position: relative;
-    max-width: 40%;
+figcaption_top {
+  display: table-caption;
+  caption-side: top;
 }
 
-figure.fullwidth figcaption {
-    margin-right: 24%;
+figcaption_bottom {
+  display: table-caption;
+  caption-side: bottom;
 }
 
-/* Links: replicate underline that clears descenders */
-a:link,
-a:visited {
-    color: inherit;
+/* section: Tooltip */
+.hovertip {
+  position: relative;
+  border-bottom: 1px dotted black;
 }
 
+.hovertip:before {
+  content: attr(tooltip_text);
+  visibility: hidden;
+  
+  overflow-y: inherit; /*new*/
+
+  width: 250px;
+  background-color: #add8e6;
+  color: black;
+  text-align: left;
+  border-radius: 5px;
+  padding: 5px 0;
+  /* fade-in*/
+  opacity: 0;  
+  transition: opacity 1s ease-in-out;
+
+  /* top tooltip*/
+  position: absolute; /*let tooltip wrap instead of overflow*/
+  z-index: 1;
+  left: 50%; /*auto;*/
+  bottom: 110%; /*auto;*/
+  margin-left: -60px;
+}
+
+.hovertip.hovertiptext::before {
+  content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.hovertip:hover:before {
+  opacity: 1;
+  visibility: visible;
+}
+/* Section end*/
+
+
+/* set the figure caption with the same wide of figure*/
+.caption_display {
+   display: inline-block;
+}
+/* the end */
+
+
+/*color style of hyperlink*/
 a:link {
-    text-decoration: none;
-    background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8),
-        -webkit-linear-gradient(#333, #333);
-    background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333);
-    -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-    -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-    background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-    background-repeat: no-repeat, no-repeat, repeat-x;
-    text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8,
-        -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8,
-        -0.15em 0 #fffff8;
-    background-position: 0% 93%, 100% 93%, 0% 93%;
+  color: darkred;
+  background-color: transparent;
+  text-decoration: none;
 }
-
-@media screen and (-webkit-min-device-pixel-ratio: 0) {
-    a:link {
-        background-position-y: 87%, 87%, 87%;
-    }
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
 }
-
-a:link::selection {
-    text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe,
-        -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe,
-        -0.15em 0 #b4d5fe;
-    background: #b4d5fe;
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
 }
-
-a:link::-moz-selection {
-    text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe,
-        -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe,
-        -0.15em 0 #b4d5fe;
-    background: #b4d5fe;
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
+/* the end*/
 
-/* Sidenotes, margin notes, figures, captions */
-img {
-    max-width: 100%;
+
+/* quoting with background */
+.quote {
+  margin: 0;
+  background: #eee;
+  padding: 0.5em;
+  border-radius: 1em;
 }
-
-.sidenote,
-.marginnote {
-    float: right;
-    clear: right;
-    margin-right: -60%;
-    width: 50%;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-size: 1.1rem;
-    line-height: 1.3;
-    vertical-align: baseline;
-    position: relative;
+.quote figcaption,
+.quote blockquote {
+  margin: 1em;
 }
+/* the end */
 
-.table-caption {
-    float: right;
-    clear: right;
-    margin-right: -60%;
-    width: 50%;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-size: 1rem;
-    line-height: 1.6;
-}
 
-.sidenote-number {
-    counter-increment: sidenote-counter;
-}
-
-.sidenote-number:after,
-.sidenote:before {
-    content: counter(sidenote-counter) " ";
-    font-family: et-book-roman-old-style;
-    position: relative;
-    vertical-align: baseline;
-}
-
-.sidenote-number:after {
-    content: counter(sidenote-counter);
-    font-size: 1rem;
-    top: -0.5rem;
-    left: 0.1rem;
-}
-
-.sidenote:before {
-    content: counter(sidenote-counter) " ";
-    top: -0.5rem;
-}
-
-p,
-footer,
-table,
-div.table-wrapper-small,
-div.supertable-wrapper > p,
-div.booktabs-wrapper {
-    width: 55%;
-}
-
-div.fullwidth,
-table.fullwidth {
-    width: 100%;
-}
-
-div.table-wrapper {
-    overflow-x: scroll;
-    font-family: "Trebuchet MS", "Gill Sans", "Gill Sans MT", sans-serif;
-}
-
-@media screen and (max-width: 760px) {
-    p,
-    footer {
-        width: 90%;
-    }
-    pre.code {
-        width: 87.5%;
-    }
-    ul {
-        width: 85%;
-    }
-    figure {
-        max-width: 90%;
-    }
-    figcaption,
-    figure.fullwidth figcaption {
-        margin-right: 0%;
-        max-width: none;
-    }
-    blockquote p,
-    blockquote footer {
-        width: 90%;
-    }
-}
-
-.sans {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-    letter-spacing: 0.03em;
-}
-
-.code {
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    font-size: 1.125rem;
-    line-height: 1.6;
-}
-
-h1 .code,
-h2 .code,
-h3 .code {
-    font-size: 0.8em;
-}
-
-.marginnote .code,
-.sidenote .code {
-    font-size: 1rem;
-}
-
-pre.code {
-    width: 52.5%;
-    padding-left: 2.5%;
-    overflow-x: scroll;
-}
-
-.fullwidth {
-    max-width: 90%;
-    clear: both;
-}
-
-span.newthought {
-    font-variant: small-caps;
-    font-size: 1.2em;
-}
-
-input.margin-toggle {
-    display: none;
-}
-
-label.sidenote-number {
-    display: inline;
-}
-
-label.margin-toggle:not(.sidenote-number) {
-    display: none;
-}
-
-@media (max-width: 760px) {
-    label.margin-toggle:not(.sidenote-number) {
-        display: inline;
-    }
-    .sidenote,
-    .marginnote {
-        display: none;
-    }
-    .margin-toggle:checked + .sidenote,
-    .margin-toggle:checked + .marginnote {
-        display: block;
-        float: left;
-        left: 1rem;
-        clear: both;
-        width: 95%;
-        margin: 1rem 2.5%;
-        vertical-align: baseline;
-        position: relative;
-    }
-    label {
-        cursor: pointer;
-    }
-    pre.code {
-        width: 90%;
-        padding: 0;
-    }
-    .table-caption {
-        display: block;
-        float: right;
-        clear: both;
-        width: 98%;
-        margin-top: 1rem;
-        margin-bottom: 0.5rem;
-        margin-left: 1%;
-        margin-right: 1%;
-        vertical-align: baseline;
-        position: relative;
-    }
-    div.table-wrapper,
-    table,
-    table.booktabs {
-        width: 85%;
-    }
-    div.table-wrapper {
-        border-right: 1px solid #efefef;
-    }
-    img {
-        width: 100%;
-    }
+.font_upper {
+  text-transform: uppercase;
+  font-size: 1rem;
 }
 
 
+/* highlight options */
+mark.black {
+  background-color: black;
+  color: white;
+}
+
+mark.grey {
+  background-color: #dcdcdc;
+}
+
+mark.lemon {
+  background-color: #fffacd;
+}
+/* the end */
 
 }
 
