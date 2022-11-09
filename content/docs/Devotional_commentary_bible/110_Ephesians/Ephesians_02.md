@@ -17,7 +17,8 @@ toc: true
 ---
 
 2:1 你们死在过犯罪恶之中、他叫你们活过来。&emsp;<sup>(</sup>[^1]<sup>)</sup>   <a class = "marginnote"> 2:1 ：<cite >结三十七1-14；罗六23，七10、24；西二13</cite>. <br>I can also leave notes.</a>   
-2:2 那时、你们在其中行事为人随从今世的风俗、顺服空中掌权者的首领、就是现今在悖逆之子心中运行的邪灵。&emsp;<sup>(</sup>[^2]<sup>)</sup>  <a class ="marginnote">2:2 ：<cite class="bibleref" title="Luke 11:24-26" >路十一24-26</cite></a>       
+2:2 那时、你们在其中行事为人随从今世的风俗、顺服空中掌权者的首领、就是现今在悖逆之子心中运行的邪灵。&emsp;<sup>(</sup>[^2]<sup>)</sup>  <a class ="marginnote">2:2 ：<cite class="bibleref" title="Luke 11:24-26" >路十一24-26</cite></a>      
+<cite class="bibleref" title="Luke 11:24-26" >路十一24-26</cite>  
 2:3 我们从前也都在他们中间、放纵肉体的私欲、随着肉体和心中所喜好的去行、本为可怒之子、和别人一样。&emsp;<sup>(</sup>[^3]<sup>)</sup>  
 2:4 然而　神既有丰富的怜悯。因他爱我们的大爱、&emsp;<sup>(</sup>[^4<sup>)</sup>]  
 2:5 当我们死在过犯中的时候、便叫我们与基督一同活过来。（你们得救是本乎恩)  
@@ -73,21 +74,14 @@ toc: true
 [^12]: 「被建造」（20节）指明了一个事实，不是信徒在一起出主意、出力量建造教会，而是人作为材料被神使用来建造教会。  
 [以弗所书第2章逐节注解、祷读](https://cmcbiblereading.com/2014/11/23/%e4%bb%a5%e5%bc%97%e6%89%80%e4%b9%a6%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
 
-<script src="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra.js" 
-        integrity="sha384-kVFpui/QIbzb/ptM/MkYo+MNKX24PUVJwldqzR7LKCwn2j7bi1zfiIt6PKy1F9Ku" 
-        crossorigin="anonymous"></script>
-<link href="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra-style.css" rel="stylesheet" type="text/css" />
-<script>
-  ezraLinkifier.setLang('zh-Hans');
-  ezraLinkifier.linkify(document.body);
-</script>
+
 
 
 
 <script>
     var refTagger = {
         settings: {
-            bibleVersion: "hlybblsmpshndtn" /*KJV*/
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
         }
     }; 
 
