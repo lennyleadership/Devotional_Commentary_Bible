@@ -2,52 +2,6 @@
 
 .markdown {
   
-    line-height: 1.6;
-
-  // remove padding at the beginning of page
-  > :first-child {
-    margin-top: 0;
-  }
-  
-
-}
-
-.markdown-inner {
-  // Util class to remove extra margin in nested markdown content
-  > :first-child {
-    margin-top: 0;
-  }
-  > :last-child {
-    margin-bottom: 0;
-  }
-}
-
-
-
-@page{
-  size: letter portrait;
-  /* top | right | bottom | left */
-  margin: 0.5in 1in 0.5in 1in;
-
-}
-
-@media print {
-    div.pagebreak {
-        display: block !important; 
-        page-break-after: always; 
-    }
-    .dontprint{ 
-        display : none
-    }
-    body{
-        display: block;
-    }
-
-}
-
-
-
-
 @charset "UTF-8";
 
 @font-face {
@@ -505,3 +459,43 @@ label.margin-toggle:not(.sidenote-number) {
         width: 100%;
     }
 }
+  
+
+}
+
+.markdown-inner {
+  // Util class to remove extra margin in nested markdown content
+  > :first-child {
+    margin-top: 0;
+  }
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+
+
+@page{
+  size: letter portrait;
+  /* top | right | bottom | left */
+  margin: 0.5in 1in 0.5in 1in;
+
+}
+
+@media print {
+    div.pagebreak {
+        display: block !important; 
+        page-break-after: always; 
+    }
+    .dontprint{ 
+        display : none
+    }
+    body{
+        display: block;
+    }
+
+}
+
+
+
+
