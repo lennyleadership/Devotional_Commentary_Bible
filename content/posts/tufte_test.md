@@ -11,6 +11,6 @@ menu = "main"
 +++
 
 
-this is a test. <p class = "marginnote">This is a margin note.</p>
+this is a test. <a class = "marginnote">This is a margin note.</a>
 
 
