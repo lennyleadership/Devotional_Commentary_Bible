@@ -11,7 +11,6 @@ menu = "main"
 +++
 
 
-this is a test. [^1]
+this is a test. ^[side test]
 
 
-[^1]: side note
