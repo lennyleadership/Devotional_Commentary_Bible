@@ -418,7 +418,7 @@ label.margin-toggle:not(.sidenote-number) {
     }
     .sidenote,
     .marginnote {
-        display: inline; /* none*/
+        display: inline; /* none*/ /* choose to show sidenote or not*/
     }
     .margin-toggle:checked + .sidenote,
     .margin-toggle:checked + .marginnote {
