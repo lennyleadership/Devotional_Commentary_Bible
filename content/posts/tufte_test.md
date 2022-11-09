@@ -10,7 +10,7 @@ categories = [
 menu = "main"
 +++
 
-{{< section "begin" >}}
-this is a test. {{< marginnote "mn-example" >}}This is a margin note.{{< /marginnote >}}
 
-{{< section "end" >}}
+this is a test. <p class = "marginnote">This is a margin note.</p>
+
+
