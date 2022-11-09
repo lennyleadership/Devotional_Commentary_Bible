@@ -3,7 +3,7 @@ weight: 2
 title: 弗二章
 authors: Lenny
 categories: null
-tags: 
+tags: ["Margine note demo"]
 description: 
 draft: false
 date: "2022-08-17"
@@ -16,8 +16,7 @@ toc: true
 <!--more-->
 ---
 
-2:1 你们死在过犯罪恶之中、他叫你们活过来。&emsp;<sup>(</sup>[^1]<sup>)</sup>   <a class = "marginnote">结三十七1-14；罗六23，七10、24；西二13</a>   
-结三十七1-14；罗六23，七10、24；西二13  
+2:1 你们死在过犯罪恶之中、他叫你们活过来。&emsp;<sup>(</sup>[^1]<sup>)</sup>   <a class = "marginnote">结三十七1-14 不能引用圣经。but leave notes.</a>   
 2:2 那时、你们在其中行事为人随从今世的风俗、顺服空中掌权者的首领、就是现今在悖逆之子心中运行的邪灵。&emsp;<sup>(</sup>[^2]<sup>)</sup>  <a class ="marginnote">路十一24-26</a>       
 2:3 我们从前也都在他们中间、放纵肉体的私欲、随着肉体和心中所喜好的去行、本为可怒之子、和别人一样。&emsp;<sup>(</sup>[^3]<sup>)</sup>  
 2:4 然而　神既有丰富的怜悯。因他爱我们的大爱、&emsp;<sup>(</sup>[^4<sup>)</sup>]  
