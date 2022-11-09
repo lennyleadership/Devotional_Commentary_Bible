@@ -11,6 +11,6 @@ menu = "main"
 +++
 
 
-this is a test. ^[side test]
+this is a test. {{< marginnote "mn-example" >}}This is a margin note.{{< /marginnote >}}
 
 
