@@ -67,7 +67,19 @@ toc: true
 18:42 耶稣说、你可以看见。你的信救了你了。  
 18:43 瞎子立刻看见了、就跟随耶稣、一路归荣耀与　神。众人看见这事、也赞美　神。 
 
+---
 
+[2022.11.09, LBC, Bible study, Luke 18:28-43]  
+
+Mr. Kurton, missionary in Malaysia, had much bigger family than natural family.  
+Jim Elliot:  
+<br>
+<figure>
+  <img width = "540" src = "/docs/images/jim_elliot_quote.jpg"/>
+  <figcaption class = "bottom"></figcaption>
+</figure>
+
+---
 
 <script>
 	var refTagger = {
