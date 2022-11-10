@@ -51,15 +51,15 @@ toc: true
 18:29 耶稣说、我实在告诉你们、人为　神的国、撇下房屋、或是妻子、弟兄、父母、儿女、  
 18:30 没有在今世不得百倍、在来世不得永生的。  
 
-18:31 耶稣带着十二个门徒、对他们说、看哪、我们上耶路撒冷去。先知所写的一切事、都要成就在人子身上。<a class = "marginnote"> 18:31-33: [2022.11.09, LBC] Jesus setup a role model of living a sacrificing life, and giving up his life.</a>  
+18:31 耶稣带着十二个门徒、对他们说、看哪、我们上耶路撒冷去。先知所写的一切事、都要成就在人子身上。
 18:32 他将要被交给外邦人、他们要戏弄他、凌辱他、吐唾沫在他脸上。  
 18:33 并要鞭打他、杀害他。第三日他要复活。  
 18:34 这些事门徒一样也不懂得、意思乃是隐藏的、他们不晓得所说的是甚么。  
-18:35 耶稣将近耶利哥的时候、有一个瞎子坐在路旁讨饭。<font class = "marginnote"> 18:35-43: [2022.11.09, LBC] Jeremiah 33:3.</font>  
+18:35 耶稣将近耶利哥的时候、有一个瞎子坐在路旁讨饭。   
 
 18:36 听见许多人经过、就问是甚么事。  
 18:37 他们告诉他、是拿撒勒人耶稣经过。  
-18:38 他就呼叫说、大卫的子孙耶稣阿、可怜我吧。  
+18:38 他就呼叫说、大卫的子孙耶稣阿、可怜我吧。<font class = "marginnote">Jeremiah 33:3</font>  
 18:39 在前头走的人、就责备他、不许他作声。他却越发喊叫说、大卫的子孙、可怜我吧。  
 18:40 耶稣站住、吩咐把他领过来。到了跟前、就问他说、
 
@@ -71,7 +71,9 @@ toc: true
 
 [2022.11.09, LBC, Bible study, Luke 18:28-43]  
 
-Mr. Kurton, missionary in Malaysia, had much bigger family than natural family.  
+Luke 18:31-33: Jesus setup a role model of living a sacrificing life, and giving up his life.  
+
+Mr. Kurton, missionary in Malaysia, had much bigger family than natural family.   
 Jim Elliot:  
 <br>
 <figure>
@@ -84,7 +86,7 @@ Jim Elliot:
 <script>
 	var refTagger = {
 		settings: {
-			bibleVersion: "hlybblsmpshndtn" /*'KJV'*/
+			bibleVersion: "KJV" /*hlybblsmpshndtn*/
 		}
 	}; 
 
