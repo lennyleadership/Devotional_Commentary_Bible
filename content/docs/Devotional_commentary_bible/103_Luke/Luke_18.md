@@ -73,7 +73,8 @@ toc: true
 
 Luke 18:31-33: Jesus setup a role model of living a sacrificing life, and giving up his life.  
 
-Mr. Kurton, missionary in Malaysia, had much bigger family than natural family.   
+Mr. Kirton, missionary in Malaysia, had much bigger family than natural family.   
+<br>
 Jim Elliot:  
 <br>
 <figure>
