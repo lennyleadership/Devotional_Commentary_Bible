@@ -1,16 +1,18 @@
 ---
+Weight: 39
+title: 玛拉基书
 authors: Lenny Lin
 categories: null
-date: "2022-04-19"
+tags: 
+date: "2022-08-13"
 description: 
 draft: false
-lastmod: "2022-07-14"
+lastmod: "2022-08-13"
 series:
-tags: 
-title: 039 玛拉基书
 toc: true
 bookCollapseSection: true
 ---
+
 
   《玛拉基书》被放在《撒迦利亚书》之后。神借着《撒迦利亚书》宣告神将怎样预备建殿的环境、怎样把这殿带进荣耀之中；又借着《玛拉基书》要求祭司和百姓正确地回应神的爱，预备自己、等候弥赛亚在「耶和华大而可畏之日」（四5）到来。
 

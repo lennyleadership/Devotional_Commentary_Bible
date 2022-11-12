@@ -1,13 +1,14 @@
 ---
+weight: 4
+title: 玛四章
 authors: Lenny
 categories: null
-date: "2022-04-19"
 description: 
 draft: false
-lastmod: "2022-07-14"
+date: "2022-04-19"
+lastmod: "2022-10-01"
 series:
 tags: [叶公好龙]
-title: 04 玛四章
 toc: true
 ---
 玛拉基书

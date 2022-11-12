@@ -1,17 +1,17 @@
 ---
+Weight: 9
+title: 撒母耳记上
 authors: Lenny Lin
 categories: null
-date: "2022-04-19"
+tags: 
+date: "2022-08-13"
 description: 
 draft: false
-lastmod: "2022-04-28"
-series: 
-tags: 
-title: 009 撒母耳记上
+lastmod: "2022-08-13"
+series:
 toc: true
 bookCollapseSection: true
 ---
-
 
 
 

@@ -1,4 +1,5 @@
 ---
+weight: 1
 authors: Lenny
 categories: null
 date: "2022-04-19"
@@ -7,7 +8,7 @@ draft: false
 lastmod: "2022-07-19"
 series:
 tags: 
-title: 01 珥一章
+title: 珥一章
 toc: true
 ---
 约珥书

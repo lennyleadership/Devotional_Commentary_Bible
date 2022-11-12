@@ -1,16 +1,18 @@
 ---
+Weight: 5
+title: 申命记
 authors: Lenny Lin
 categories: null
-date: "2022-04-19"
+tags: 
+date: "2022-08-13"
 description: 
 draft: false
-lastmod: "2022-04-30"
+lastmod: "2022-08-13"
 series:
-tags: 
-title: 005 申命记
 toc: true
 bookCollapseSection: true
 ---
+
 
 
 

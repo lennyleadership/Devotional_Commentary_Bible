@@ -1,4 +1,5 @@
 ---
+weight: 2
 authors: Lenny
 categories: null
 date: "2022-04-19"
@@ -7,7 +8,7 @@ draft: false
 lastmod: "2022-07-19"
 series:
 tags: [悔改, 审判, 拣选, 神的管教]
-title: 02 珥二章
+title: 珥二章
 toc: true
 ---
 

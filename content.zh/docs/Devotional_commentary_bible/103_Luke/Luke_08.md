@@ -1,4 +1,5 @@
 ---
+weight: 8
 authors: Lenny
 categories: null
 date: "2022-04-19"
@@ -7,7 +8,7 @@ draft: false
 lastmod: "2022-05-21"
 series:
 tags: [清晨甘露, 司布真]
-title: 08 路八章
+title: 路八章
 toc: true
 ---
 路加福音

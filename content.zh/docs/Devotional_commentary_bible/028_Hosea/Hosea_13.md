@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-04-26"
 series:
-tags: [认识神]
+tags: [认识上帝]
 title: 13 何十三章
 toc: true
 ---

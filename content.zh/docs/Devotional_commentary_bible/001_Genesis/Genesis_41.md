@@ -1,11 +1,20 @@
 ---
-title: 41 创四十一章
-weight: 1
+weight: 41
+title: 创四十一章
+authors: Lenny
+categories: null
+tags: []
+description: 
+draft: false
+date: "2022-08-17"
+lastmod: "2022-08-17"
+series:
+toc: true
 ---
 
-
 创世纪
-
+<!--more-->
+---
 
 ## 经文
 41:1 过了两年法老作梦。梦见自己站在河边。  
@@ -63,7 +72,7 @@ weight: 1
 41:45 法老赐名给约瑟、叫撒发那忒巴内亚。又将安城的祭司波提非拉的女儿亚西纳、给他为妻。约瑟就出去巡行埃及地。  
 
 41:46 约瑟见埃及王法老的时候、年三十岁。他从法老面前出去遍行埃及全地。  
-41:47 七个丰年之内、地的出产极丰极盛。〔原文作一把一把的〕
+41:47 七个丰年之内、地的出产极丰极盛。〔原文作一把一把的〕  
 41:48 约瑟聚敛埃及地七个丰年一切的粮食、把粮食积存在各城里、各城周围田地的粮食、都积存在本城里。  
 41:49 约瑟积蓄五谷甚多、如同海边的沙、无法计算、因为谷不可胜数。  
 41:50 荒年未到以前、安城的祭司波提非拉的女儿亚西纳给约瑟生了两个儿子。  
@@ -74,7 +83,7 @@ weight: 1
 41:54 七个荒年就来了、正如约瑟所说的。各地都有饥荒、惟独埃及全地有粮食。  
 41:55 及至埃及全地有了饥荒、众民向法老哀求粮食、法老对他们说、你们往约瑟那里去、凡他所说的你们都要作。  
 
-41:56 当时饥荒遍满天下、约瑟开了各处的仓、粜粮给埃及人。在埃及地饥荒甚大。  
+41:56 当时饥荒遍满天下、约瑟开了各处的仓、粜粮给埃及人。在埃及地饥荒甚大。[诗篇一百零五16-23]  
 41:57 各地的人都往埃及去、到约瑟那里籴粮、因为天下的饥荒甚大。  
 
 ## Louis Voyer's Devotional
@@ -181,6 +190,7 @@ Now that being said, this marriage does raise obvious questions. Was it right fo
 One Jewish tradition has it that Asenath was already a convert to Joseph's God. But this isn't at all suggested in the text. Neither are we warranted in any fashion to condemn Joseph for marrying Asenath when the text itself does not remonstrate or criticize him.  
 
 But let all Christians take heed however: this example in the Word of God is NOT to be used as an excuse to be unequally yoked with an unbeliever (as it is taught clearly in the Scriptures).  
+
 _____________________________________________________ 
 
 *<font color ="blue">Historical Footnote</font>*  
@@ -190,6 +200,7 @@ My readers may find this of some interest. The city of On mentioned in reference
 The city of On was also called Heliopolis by the Greeks or the City of the Sun. Located not far from Memphis in Egypt, this city had Arabs for its founders. Which led a commentator to remark:  
 
 "Being an Arabian colony, Heliopolis would not have had in it the base superstitions of Egypt. Rather, the city would have retained some of the patriarchal or the Abrahamic religion to have made a female from there like Asenath to be nearer to the faith of Joseph than in any other part of Egypt.”  
+
 ____________________________________________________  
 
 *<font color ="blue">FINAL NOTE</font>*  
@@ -200,4 +211,15 @@ The fact that the two sons were given Hebrew names
 (who later would assume roles as tribal leaders in the nation of Israel alongside Joseph's brothers) can lead us to think that Asenath had become a believer in the God of Israel.  
 
 We will in our next study note how the names given to his two sons describe the two distinct chapters which Joseph had experienced: Manasseh (or, suffering) and then Ephraim (or, fruitful).  
+
+
+---
+<script src="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra.js" 
+        integrity="sha384-kVFpui/QIbzb/ptM/MkYo+MNKX24PUVJwldqzR7LKCwn2j7bi1zfiIt6PKy1F9Ku" 
+        crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra-style.css" rel="stylesheet" type="text/css" />
+<script>
+  ezraLinkifier.setLang('zh-Hans');
+  ezraLinkifier.linkify(document.body);
+</script>
 

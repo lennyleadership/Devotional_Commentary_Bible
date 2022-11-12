@@ -1,16 +1,18 @@
 ---
+Weight: 107
+title: 哥林多前书
 authors: Lenny Lin
 categories: null
-date: "2022-04-19"
+tags: 
+date: "2022-08-13"
 description: 
 draft: false
-lastmod: "2022-04-26"
+lastmod: "2022-08-13"
 series:
-tags: 
-title: 107 哥林多前书
 toc: true
 bookCollapseSection: true
 ---
+
 
 
 

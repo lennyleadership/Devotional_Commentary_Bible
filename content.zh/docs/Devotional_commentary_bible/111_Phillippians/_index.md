@@ -1,16 +1,19 @@
 ---
+Weight: 111
+title: 腓立比书
 authors: Lenny Lin
 categories: null
-date: "2022-04-19"
+tags: 
+date: "2022-08-13"
 description: 
 draft: false
-lastmod: "2022-04-19"
-series: null
-tags: 
-title: 111 腓立比书
+lastmod: "2022-08-13"
+series:
 toc: true
 bookCollapseSection: true
 ---
+
+
 
 
 
