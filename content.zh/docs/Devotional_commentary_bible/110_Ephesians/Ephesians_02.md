@@ -46,8 +46,8 @@ toc: true
 2:22 你们也靠他同被建造成为　神借着圣灵居住的所在。  
 
 <--->
-2:1 And you hath he quickened, who were dead in trespasses and sins; <font class = "marginnote"> 2:1: 结三十七1-14；罗六23，七10、24；西二13.</font>   
-2:2 Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: <font class ="marginnote">2:2: 路十一24-26.</font>  
+2:1 And you hath he quickened, who were dead in trespasses and sins;      
+2:2 Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:   
 2:3 Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.  
 2:4 But God, who is rich in mercy, for his great love wherewith he loved us,
 2:5 Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)

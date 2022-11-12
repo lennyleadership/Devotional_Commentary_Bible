@@ -61,7 +61,7 @@ toc: true
 
 18:36 听见许多人经过、就问是甚么事。  
 18:37 他们告诉他、是拿撒勒人耶稣经过。  
-18:38 他就呼叫说、大卫的子孙耶稣阿、可怜我吧。<font class = "marginnote">Jeremiah 33:3</font>  
+18:38 他就呼叫说、大卫的子孙耶稣阿、可怜我吧。<font class = "marginnote"><cite class="bibleref" title="Jeremiah 33:3" >Jeremiah 33:3</cite></font>  
 18:39 在前头走的人、就责备他、不许他作声。他却越发喊叫说、大卫的子孙、可怜我吧。  
 18:40 耶稣站住、吩咐把他领过来。到了跟前、就问他说、
 
