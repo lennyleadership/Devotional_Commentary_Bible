@@ -70,11 +70,12 @@ toc: true
 18:43 瞎子立刻看见了、就跟随耶稣、一路归荣耀与　神。众人看见这事、也赞美　神。 
 
 {{< /columns >}}
+
 ---
 
 [2022.11.02, LBC, bible study, ]
 
-
+The pictures of the gate of the Eye of Needle:  
 <img width = "360" src = "/docs/images/Eye of the Needle gate_1.jpg"/>
 <img width = "360" src = "/docs/images/Eye of the Needle gate_2.jpg"/>
 <img width = "360" src = "/docs/images/Eye of the Needle gate_3.jpg"/>

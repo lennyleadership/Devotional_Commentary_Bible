@@ -38,7 +38,7 @@ toc: true
 17:16 又俯伏在耶稣脚前感谢他。这人是撒玛利亚人。  
 17:17 耶稣说、洁净了的不是十个人么。那九个在哪里呢。  
 17:18 除了这外族人、再没有别人回来归荣耀与　神么。  
-17:19 就对那人说、起来走吧。你的信救了你了。 <font class = "marginnote"><cite class="bibleref" title="John 6:22-27" >约六22-27</cite></font>[]   
+17:19 就对那人说、起来走吧。你的信救了你了。 <font class = "marginnote"><cite class="bibleref" title="John 6:22-27" >约六22-27</cite></font>   
 17:20 法利赛人问、　神的国几时来到。耶稣回答说、　神的国来到、不是眼所能见的。  
 
 17:21 人也不得说、看哪、在这里。看哪、在那里。因为　神的国就在你们心里。〔心里或作中间〕
@@ -65,6 +65,7 @@ toc: true
 <--->
 
 {{< /columns >}}
+
 ---
 [2022.10.19 LBC 路17:1-19]  
 It is so hard to forgive, so increase our faith.  
