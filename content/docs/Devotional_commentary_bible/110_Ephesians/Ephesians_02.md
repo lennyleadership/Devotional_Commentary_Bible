@@ -17,6 +17,7 @@ toc: true
 ---
 
 {{< columns >}}
+
 2:1 你们死在过犯罪恶之中、他叫你们活过来。&emsp;<sup>(</sup>[^1]<sup>)</sup>   
 2:2 那时、你们在其中行事为人随从今世的风俗、顺服空中掌权者的首领、就是现今在悖逆之子心中运行的邪灵。&emsp;<sup>(</sup>[^2]<sup>)</sup>        
 2:3 我们从前也都在他们中间、放纵肉体的私欲、随着肉体和心中所喜好的去行、本为可怒之子、和别人一样。&emsp;<sup>(</sup>[^3]<sup>)</sup>  
@@ -47,6 +48,7 @@ toc: true
 <--->
 test
 {{< /columns >}}
+
 <font class = "marginnote"> 2:1: 结三十七1-14；罗六23，七10、24；西二13. <br>I can also put a short note on the side.</font>   
 
 <a class ="marginnote">2:2 路十一24-26.</a>
