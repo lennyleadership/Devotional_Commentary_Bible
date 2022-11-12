@@ -77,8 +77,6 @@ toc: true
 2:21 In whom all the building fitly framed together groweth unto an holy temple in the Lord:  
 2:22 In whom ye also are builded together for an habitation of God through the Spirit.  
 
-<--->
-test
 <font class = "marginnote"> 2:1: 结三十七1-14；罗六23，七10、24；西二13. <br>I can also put a short note on the side.</font>   
 
 <a class ="marginnote">2:2 路十一24-26.</a>
