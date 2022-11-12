@@ -15,6 +15,8 @@ toc: true
 路加福音
 <!--more-->
 ---
+
+{{< columns >}}
 18:1 耶稣设一个比喻、是要人常常祷告、不可灰心。  
 18:2 说、某城里有一个官、不惧怕　神、也不尊重世人。  
 18:3 那城里有个寡妇、常到他那里、说、我有一个对头、求你给我伸冤。  
@@ -67,8 +69,18 @@ toc: true
 18:42 耶稣说、你可以看见。你的信救了你了。  
 18:43 瞎子立刻看见了、就跟随耶稣、一路归荣耀与　神。众人看见这事、也赞美　神。 
 
+{{< /columns >}}
 ---
 
+[2022.11.02, LBC, bible study, ]
+
+
+<img width = "360" src = "/docs/images/Eye of the Needle gate_1.jpg"/>
+<img width = "360" src = "/docs/images/Eye of the Needle gate_2.jpg"/>
+<img width = "360" src = "/docs/images/Eye of the Needle gate_3.jpg"/>
+<img width = "360" src = "/docs/images/Eye of the Needle gate_4.jpg"/>
+
+<br><br>
 [2022.11.09, LBC, Bible study, Luke 18:28-43]  
 
 Luke 18:31-33: Jesus setup a role model of living a sacrificing life, and giving up his life.  
