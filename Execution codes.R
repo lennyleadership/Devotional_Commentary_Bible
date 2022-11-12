@@ -5,7 +5,7 @@ library(blogdown)
 
 
 blogdown::new_site(theme = "alex-shpak/hugo-book")
-blogdown::new_site(theme = "wangchucheng/hugo-eureka")
+
 
 blogdown::build_site()
 

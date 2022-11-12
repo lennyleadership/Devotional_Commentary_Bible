@@ -11,7 +11,7 @@ markup:
     startLevel: 1
 languages:
   en:
-    contentDir: content
+    contentDir: content.en
     languageName: English
     weight: 1
   zh:
