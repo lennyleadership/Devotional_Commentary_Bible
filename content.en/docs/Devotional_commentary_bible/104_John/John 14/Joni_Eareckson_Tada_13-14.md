@@ -48,7 +48,7 @@ It is not only healing, but also other things that bother us, or things that we 
 Interestingly Joni saw her accident as a part of God's strategy to further His gospel.  Do I see myself as a part of God's strategy to preach gospel once I join in His family?  Do I preach the gospel while I am looking for a job?  Do I preach the gospel to the family members while I stay at home?  To go beyond that, I ask myself, am I the walking gospel?
 
 Then I go over this question again: What is the gospel?    
-1) First of all, it is the good news of Jesus' coming down and saving us from sin, so that we can be free from dying in the sin;  
+1) First of all, it is the good news of Jesus' coming down and saving us from sin, so that we can be free from dying in the sin;   
 2) Secondly, it is about the power of transformation.  The gospel can change me.  If I still prayed for the benefit for myself, and there was no change in me, the gospel would not be a good news.  God is not the Lord, but a servant of me;  
 
 
