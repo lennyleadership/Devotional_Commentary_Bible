@@ -1,13 +1,14 @@
 ---
+weight: 1
+title: John 01
 authors: Lenny
 categories: null
-date: "2022-04-19"
+tags: 
 description: 
 draft: false
-lastmod: "2022-04-26"
+date: "2022-11-12"
+lastmod: "2022-11-12"
 series:
-tags: 
-title: 
 toc: true
 ---
 
