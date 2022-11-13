@@ -16,6 +16,15 @@ SEPTEMBER 21ST, 2022 | 04:00 | E92122
 
 <iframe width="360px" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/f26e81f3-b6c4-4345-8017-8bead2ca2dca?dark=false"></iframe>
 
+<b><font class = "font_upper">my thoughts</font></b>  
+It is not only healing, but also other things that bother us, or things that we are so eager to get it, that we pray to God.  There are other prayers in Bible seeming that God will answer our prayers, such as Jeremiah 33:3. However, God wants us to put Him at the first priority, put His will at the first priority, just as Matthew 6:31-33.  God knows our need because of His love, grace, and mercy, He will provide them at the right timing.   
+
+What is the gospel?  
+1) First of all, it is the good news of Jesus' coming down and saving us from sin, so that we can be free from dying in the sin;  
+2) Secondly, it is about the power of transformation.  The gospel can change me.  If I still prayed for the benefit for myself, and there was no change in me, the gospel would not be a good news.  God is not the Lord, but a servant of me;  
+
+
+
 <!--more-->
 ---
 Hi, this is Joni Eareckson Tada with a word about healing.
@@ -33,3 +42,22 @@ And it’s a lesson for you. When we Christians trust the Lord in our hardships,
 I'd love to hear your thoughts on this important topic of healing. Just go to my radio page at joniradio.org. And, hey, if you have experienced an extraordinary physical healing, I rejoice with you! Just remember to make that part of your testimony, because the important thing is not primarily your healing, but that it is used to advance the Gospel of Christ. Let’s keep the main thing the main thing!
 
 © Joni and Friends
+
+
+---
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
