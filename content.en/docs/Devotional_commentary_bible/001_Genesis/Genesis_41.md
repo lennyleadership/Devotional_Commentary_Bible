@@ -1,6 +1,6 @@
 ---
 weight: 41
-title: 创四十一章
+title: Genesis 41
 authors: Lenny
 categories: null
 tags: []
@@ -12,7 +12,7 @@ series:
 toc: true
 ---
 
-创世纪
+Genesis
 <!--more-->
 ---
 

@@ -1,6 +1,6 @@
 ---
 weight: 10
-title: 创十章
+title: Genesis 10
 authors: Lenny
 categories: null
 tags: [旷野吗哪]
@@ -12,7 +12,7 @@ series:
 toc: true
 ---
 
-创世纪
+Genesis
 <!--more-->
 ---
 

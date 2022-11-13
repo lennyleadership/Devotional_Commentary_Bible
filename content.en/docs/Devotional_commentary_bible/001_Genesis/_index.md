@@ -1,6 +1,6 @@
 ---
 Weight: 1
-title: 创世纪
+title: Genesis
 authors: Lenny Lin
 categories: null
 tags: 

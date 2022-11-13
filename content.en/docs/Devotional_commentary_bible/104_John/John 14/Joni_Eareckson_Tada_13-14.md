@@ -3,7 +3,7 @@ weight: 2
 title: "John 14:13-14 Joni Eareckson Tada - Giving the Gospel"
 authors: Lenny
 categories: null
-tags: 
+tags: [Gospel, "Non Self-center", Prayer]
 description: 
 draft: false
 date: "2022-11-12"

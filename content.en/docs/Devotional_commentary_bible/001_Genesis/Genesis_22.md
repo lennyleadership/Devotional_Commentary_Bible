@@ -1,6 +1,6 @@
 ---
 weight: 22
-title: 创二十二章
+title: Genesis 22
 authors: Lenny
 categories: null
 tags: []
@@ -13,7 +13,7 @@ toc: true
 ---
 
 
-创世纪
+Genesis
 <!--more-->
 ---
 

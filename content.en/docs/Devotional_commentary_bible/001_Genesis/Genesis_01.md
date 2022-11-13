@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: 创一章
+title: Genesis  1
 authors: Lenny
 categories: null
 tags: []
@@ -13,6 +13,6 @@ toc: true
 ---
 
 
-创世纪
+Genesis
 
 

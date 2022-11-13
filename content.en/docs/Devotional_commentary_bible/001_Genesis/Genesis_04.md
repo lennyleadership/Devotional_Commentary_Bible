@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: 创四章
+title: Genesis 4
 authors: Lenny
 categories: null
 tags: [旷野吗哪]
@@ -12,7 +12,7 @@ series:
 toc: true
 ---
 
-创世纪
+Genesis
 <!--more-->
 ---
 
