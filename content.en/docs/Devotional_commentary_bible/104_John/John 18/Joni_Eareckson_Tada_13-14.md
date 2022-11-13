@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: "John 18:13-14 Joni Eareckson Tada - Giving the Gospel"
+title: "John 14:13-14 Joni Eareckson Tada - Giving the Gospel"
 authors: Lenny
 categories: null
 tags: 
