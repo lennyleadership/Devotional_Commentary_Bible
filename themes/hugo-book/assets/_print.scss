@@ -12,7 +12,7 @@
 
   main {
     // Fix for https://bugzilla.mozilla.org/show_bug.cgi?id=939897
-    display: block !important;
+    display: block !important; /*block*/
     
     /* new 2022-11-09*/
     div.pagebreak {
@@ -24,6 +24,9 @@
     }
     body{
         display: block;
+        width: 100%;
+        padding-left: 8%;
+        padding-right: 8%;
     }    
   }
 }
