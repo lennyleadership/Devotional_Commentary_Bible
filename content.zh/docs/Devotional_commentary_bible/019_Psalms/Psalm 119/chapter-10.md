@@ -52,3 +52,21 @@ toc: true
     (ESV)
     Isa 54:13  All your children shall be taught by the LORD, and great shall be the peace of your children.  
     Isa 54:14  In righteousness you shall be established; you shall be far from oppression, for you shall not fear; and from terror, for it shall not come near you.  
+
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

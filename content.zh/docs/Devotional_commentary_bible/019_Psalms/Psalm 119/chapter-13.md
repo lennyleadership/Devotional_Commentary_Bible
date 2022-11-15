@@ -59,3 +59,21 @@ ____
     4 使愚人灵明，使少年人有知识和谋略，
     5 使智慧人听见，增长学问，使聪明人得着智谋，
     6 使人明白箴言和譬喻，懂得智慧人的言词和谜语。
+
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

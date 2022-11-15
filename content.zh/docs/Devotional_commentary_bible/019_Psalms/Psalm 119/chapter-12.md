@@ -38,3 +38,21 @@ toc: true
 ## Meditation 默想
 
     太7：21「凡称呼我『主啊，主啊』的人不能都进天国；惟独遵行我天父旨意的人才能进去。   22当那日必有许多人对我说：『主啊，主啊，我们不是奉你的名传道，奉你的名赶鬼，奉你的名行许多异能吗？』   23我就明明地告诉他们说：『我从来不认识你们，你们这些作恶的人，离开我去吧！』」  
+    
+    
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

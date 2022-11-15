@@ -55,3 +55,21 @@ toc: true
     当我重温浪子的比喻时，我的焦点转到大儿子身上。我问自己，这大儿子爱他的父亲吗？具体点，我虽不似小儿子那般叛逆，但我是否不明白上帝的心意？是否愿意听上帝的话？
     
     114节说：你是我藏身之处，又是我的盾牌；我甚仰望你的话语。
+    
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

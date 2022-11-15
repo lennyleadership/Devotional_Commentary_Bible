@@ -53,3 +53,21 @@ toc: true
     哈巴谷 3:19  主耶和华是我的力量；他使我的脚快如母鹿的蹄，又使我稳行在高处。这歌交与伶长，用丝弦的乐器。  
 
     我们属灵生命几斤几两在困难面前都呈现在上帝面前。让我们效仿作者，立志作一个沉得住气的人，越是在困难的时候，越是要安静在主面前。  
+    
+    
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

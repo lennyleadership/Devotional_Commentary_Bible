@@ -46,3 +46,21 @@ toc: true
 152 我因学你的法度，久已知道是你永远立定的。  
 
 前面三节经文的几个英文版与和合本版相符。第四节经文的几个英文版与和合本版不相符。NIV版本虽然用learn from，但与learn不是一个意思。  
+
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

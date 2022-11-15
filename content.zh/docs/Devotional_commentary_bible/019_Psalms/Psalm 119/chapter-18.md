@@ -54,3 +54,21 @@ ___
     诗篇12:6耶和华的应许纯全，就像在炉中炼过七次的银子。  
     Psalm 12: 6 The words of the Lord are pure words, like silver refined in a furnace on the ground, purified seven times.(ESV)   
 
+
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

@@ -68,3 +68,21 @@ Job 42:5  "I had heard of You [only] by the hearing of the ear, But now my [spi
 Job 42:6  "Therefore I retract [my words and hate myself] And I repent in dust and ashes."   
 
 这人一定认识了上帝，还学会了在各样处境中赞美上帝。  
+
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

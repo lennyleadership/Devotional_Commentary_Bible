@@ -94,3 +94,21 @@ ___
     It is the Lord who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed.
     
     希伯来书13:5又引用了申31:8这段经文。诗篇作者在这里将这段经文演绎成他的祷告词。仿佛作者看不到上帝的应许临到他身上。你会怎么办？
+    
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

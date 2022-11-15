@@ -1,6 +1,6 @@
 ---
 weight: 119
-title: 诗一一十九篇
+title: 诗一一九篇
 authors: null
 categories: null
 date: "2021-04-11"
@@ -63,3 +63,22 @@ The Lord does not give me rules, He makes His standard very clear, and if my rel
 
 # 体会
 2021.11.11  体会到唯有与上帝有亲密关系的人才有可能写出这篇诗篇。不然的话，“遵行上帝的话”就如同嚼蜡、没有感觉、被视为“律法主义”。  
+
+---
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>

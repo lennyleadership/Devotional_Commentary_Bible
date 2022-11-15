@@ -39,3 +39,21 @@ toc: true
 ## Meditation 默想
 
 在第3节说到“我将你的话藏在心里”。到了第20节，说到“我时常切慕你的典章”。诗人不满足于得到的话语，而且还需要随时话语的供应。我因为工作的缘故，不得不在外地工作，又由于疫情，不能回家。时常有邪情私欲的试探。唯有时常被上帝话语的浸泡，才不至于犯罪。深感“心碎”的含义。  
+
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
