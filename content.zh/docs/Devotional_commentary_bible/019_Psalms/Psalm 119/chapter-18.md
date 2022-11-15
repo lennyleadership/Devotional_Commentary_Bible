@@ -52,7 +52,7 @@ ___
 ___
     在第140节里，“你的话极其精炼”。“精炼”比较难懂，“纯全”比较好些。对观经文是诗篇12:6节。 
     诗篇12:6耶和华的应许纯全，就像在炉中炼过七次的银子。  
-    Psalm 12: 6 The words of the Lord are pure words, like silver refined in a furnace on the ground, purified seven times.(ESV)   
+    Psalm 12:6 The words of the Lord are pure words, like silver refined in a furnace on the ground, purified seven times.(ESV)   
 
 
 
