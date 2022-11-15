@@ -1,13 +1,14 @@
 ---
+weight: 16
+title: 遵从耶和华的律法 (121-128)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
+tags: null
+description:
 draft: false
+date: "2021-04-11"
 lastmod: "2021-04-11"
 series: null
-tags: null
-title: 16. 遵从耶和华的律法 (121-128)
 toc: true
 ---
 

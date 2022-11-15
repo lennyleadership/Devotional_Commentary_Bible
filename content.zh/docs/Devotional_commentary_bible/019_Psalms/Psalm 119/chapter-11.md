@@ -1,15 +1,17 @@
 ---
+weight: 11
+title: 跟随主脚踪 (81-88)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
-draft: false
-lastmod: "2021-08-01"
-series: null
 tags: null
-title: 11. 跟随主脚踪 (81-88)  
+description:
+draft: false
+date: "2021-04-11"
+lastmod: "2021-04-11"
+series: null
 toc: true
 ---
+
 
 ## 和合本
 

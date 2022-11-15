@@ -1,15 +1,17 @@
 ---
+weight: 19
+title: 求主解救 (145-152)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
+tags: null
+description:
 draft: false
+date: "2021-04-11"
 lastmod: "2021-04-11"
 series: null
-tags: null
-title: 19. 求主解救 (145-152)
 toc: true
 ---
+
 
 ## 和合本
 145 耶和华啊，我一心呼吁你；求你应允我，我必谨守你的律例！  

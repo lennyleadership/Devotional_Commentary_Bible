@@ -1,15 +1,17 @@
 ---
+weight: 9
+title: 受苦有益 (65-72)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
-draft: false
-lastmod: "2021-07-24"
-series: null
 tags: null
-title: 09. 受苦有益 (65-72)  
+description:
+draft: false
+date: "2021-04-11"
+lastmod: "2021-04-11"
+series: null
 toc: true
 ---
+
 
 ## 和合本
 

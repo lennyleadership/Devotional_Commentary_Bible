@@ -1,16 +1,16 @@
 ---
+weight: 6
+title: 倚靠耶和华的律法 (41-48)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
+tags: null
+description:
 draft: false
+date: "2021-04-11"
 lastmod: "2021-04-11"
 series: null
-tags: null
-title: 06. 倚靠耶和华的律法 (41-48)
 toc: true
 ---
-
 
 <!--more-->
 ## 和合本

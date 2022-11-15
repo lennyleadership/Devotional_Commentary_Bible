@@ -1,13 +1,14 @@
 ---
+weight: 15
+title: 因耶和华律法得安全 (113-120)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
+tags: null
+description:
 draft: false
+date: "2021-04-11"
 lastmod: "2021-04-11"
 series: null
-tags: null
-title: 15. 因耶和华律法得安全 (113-120)
 toc: true
 ---
 

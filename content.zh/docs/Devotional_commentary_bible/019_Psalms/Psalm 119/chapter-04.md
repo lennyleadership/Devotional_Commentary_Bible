@@ -1,13 +1,14 @@
 ---
+weight: 4
+title: 决定遵行耶和华的律法 (25-32)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
+tags: null
+description:
 draft: false
+date: "2021-04-11"
 lastmod: "2021-04-11"
 series: null
-tags: null
-title: 04. 决定遵行耶和华的律法 (25-32)
 toc: true
 ---
 

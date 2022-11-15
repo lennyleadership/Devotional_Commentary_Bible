@@ -1,15 +1,17 @@
 ---
+weight: 8
+title: 深爱耶和华的律法 (57-64)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
-draft: false
-lastmod: "2021-07-24"
-series: null
 tags: null
-title: 08. 深爱耶和华的律法 (57-64)
+description:
+draft: false
+date: "2021-04-11"
+lastmod: "2021-04-11"
+series: null
 toc: true
 ---
+
 
 ## 和合本
 57  耶和华是我的福分；我曾说，我要遵守你的言语。  

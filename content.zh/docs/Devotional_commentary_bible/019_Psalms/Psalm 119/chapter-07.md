@@ -1,15 +1,17 @@
 ---
+weight: 7
+title: 在耶和华里有平安 (49-56)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
+tags: null
+description:
 draft: false
+date: "2021-04-11"
 lastmod: "2021-04-11"
 series: null
-tags: null
-title: 07. 在耶和华里有平安 (49-56)
 toc: true
 ---
+
 
 
 <!--more-->

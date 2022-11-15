@@ -1,16 +1,16 @@
 ---
+weight: 17
+title: 渴慕遵行耶和华的律法 (129-136)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
+tags: null
+description:
 draft: false
+date: "2021-04-11"
 lastmod: "2021-04-11"
 series: null
-tags: null
-title: 17. 渴慕遵行耶和华的律法 (129-136)
 toc: true
 ---
-
 
 <!--more-->
 ## 和合本

@@ -1,4 +1,19 @@
 ---
+weight: 14
+title: 献上感恩为祭物 (105-112)  
+authors: null
+categories: null
+tags: null
+description:
+draft: false
+date: "2021-04-11"
+lastmod: "2021-08-01"
+series: null
+toc: true
+---
+
+
+---
 authors: null
 categories: null
 date: "2021-04-11"
@@ -7,7 +22,7 @@ draft: false
 lastmod: "2021-08-01"
 series: null
 tags: null
-title: 14. 献上感恩为祭物 (105-112)  
+title: 14. 
 toc: true
 ---
 

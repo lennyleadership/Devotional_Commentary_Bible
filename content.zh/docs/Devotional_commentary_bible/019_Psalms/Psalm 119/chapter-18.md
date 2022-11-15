@@ -1,15 +1,17 @@
 ---
+weight: 18
+title: 因耶和华的话敬拜耶和华 (137-144)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
+tags: null
+description:
 draft: false
+date: "2021-04-11"
 lastmod: "2021-04-11"
 series: null
-tags: null
-title: 18. 因耶和华的话敬拜耶和华 (137-144)
 toc: true
 ---
+
 
 <!--more-->
 

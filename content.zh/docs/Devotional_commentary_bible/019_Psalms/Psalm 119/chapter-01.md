@@ -1,13 +1,14 @@
 ---
+weight: 1
+title: 遵行耶和华律法的人有福了 (1-8)
 authors: null
 categories: null
-date: "2021-04-11"
+tags: null
 description:
 draft: false
+date: "2021-04-11"
 lastmod: "2021-04-11"
 series: null
-tags: null
-title: 01. 遵行耶和华律法的人有福了 (1-8)
 toc: true
 ---
 

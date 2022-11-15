@@ -1,4 +1,18 @@
 ---
+weight: 2
+title: 耶和华啊，不要叫我得罪你 (9-16)
+authors: null
+categories: null
+tags: null
+description:
+draft: false
+date: "2021-04-11"
+lastmod: "2021-04-11"
+series: null
+toc: true
+---
+
+---
 authors: null
 categories: null
 date: "2021-04-11"
@@ -7,7 +21,7 @@ draft: false
 lastmod: "2021-04-11"
 series: null
 tags: null
-title: 02. 耶和华啊，不要叫我得罪你 (9-16)
+title: 
 toc: true
 ---
 

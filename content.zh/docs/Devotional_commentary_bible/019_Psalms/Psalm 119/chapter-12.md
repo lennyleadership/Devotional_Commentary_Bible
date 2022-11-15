@@ -1,15 +1,17 @@
 ---
+weight: 12
+title: 因耶和华的话敬拜耶和华 (89-96)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
-draft: false
-lastmod: "2021-08-01"
-series: null
 tags: null
-title: 12. 因耶和华的话敬拜耶和华 (89-96)
+description:
+draft: false
+date: "2021-04-11"
+lastmod: "2021-04-11"
+series: null
 toc: true
 ---
+
 
 ## 和合本
 

@@ -1,16 +1,16 @@
 ---
+weight: 5
+title: 求主赐悟性 (33-40)
 authors: null
 categories: null
-date: "2021-04-11"
-description: 
+tags: null
+description:
 draft: false
+date: "2021-04-11"
 lastmod: "2021-04-11"
 series: null
-tags: null
-title: 05. 求主赐悟性 (33-40)
 toc: true
 ---
-
 
 <!--more-->
 ## 和合本
