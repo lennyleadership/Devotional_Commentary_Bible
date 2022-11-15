@@ -1,17 +1,20 @@
 ---
+weight: 46
+title: 诗四十六章
 authors: Lenny
 categories: null
-date: "2022-04-19"
+tags: 
 description: 
 draft: false
+date: "2022-04-19"
 lastmod: "2022-04-26"
-series: 
-tags: 
-title: 046 诗四十六章
+series:
 toc: true
 ---
 诗篇
 <!--more-->
+---
+
 
 46:1 〔可拉后裔的诗歌、交与伶长、调用女音。〕　神是我们的避难所、是我们的力量、是我们在患难中随时的帮助。  
 46:2 所以地虽改变、山虽摇动到海心、

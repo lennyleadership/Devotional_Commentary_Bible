@@ -1,17 +1,20 @@
 ---
+weight: 23
+title: 诗二十三章
 authors: Lenny
 categories: null
-date: "2022-04-19"
+tags: [旷野吗哪]
 description: 
 draft: false
+date: "2022-04-19"
 lastmod: "2022-04-26"
-series: 
-tags: [旷野吗哪]
-title: 023 诗二十三章
+series:
 toc: true
 ---
 诗篇
 <!--more-->
+---
+
 
 23:1 〔大卫的诗。〕耶和华是我的牧者。我必不至缺乏。  
 23:2 他使我躺卧在青草地上、领我在可安歇的水边。  
