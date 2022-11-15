@@ -1,6 +1,6 @@
 ---
 weight: 104
-title: 诗一百零四章
+title: 诗一零四章
 authors: Lenny
 categories: null
 tags: []
