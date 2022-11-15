@@ -1,6 +1,6 @@
 ---
 weight: 119
-title: Psalm 119
+title: 诗一百一十九篇
 authors: null
 categories: null
 date: "2021-04-11"
@@ -11,6 +11,7 @@ series: null
 tags: 
 - Psalms
 toc: true
+bookCollapseSection: true
 ---
 
 收集整理了灵修诗篇119篇的点滴想法。  
