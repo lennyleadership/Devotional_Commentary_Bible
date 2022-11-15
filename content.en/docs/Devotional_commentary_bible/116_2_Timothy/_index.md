@@ -1,6 +1,6 @@
 ---
 Weight: 116
-title: 提摩太后书
+title: 2 Timonthy
 authors: Lenny Lin
 categories: null
 tags: 
