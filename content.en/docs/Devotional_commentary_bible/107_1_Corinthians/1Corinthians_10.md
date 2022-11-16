@@ -59,7 +59,7 @@ toc: true
 ---
 
 <p id="1">[1]  
-Still Human!   
+<b><font class = "font_upper">Still Human</font></b>!   
 
 By Oswald Chambers   
 
@@ -71,6 +71,8 @@ We have a tendency to look for wonder in our experience, and <u class = "red">we
 
 We want to be able to say, “Oh, I have had a wonderful call from God!” But to do even the most humbling tasks to the glory of God takes the Almighty God Incarnate working in us. To be utterly unnoticeable requires God’s Spirit in us making us absolutely humanly His. The true test of a saint’s life is not successfulness but faithfulness on the human level of life. We tend to set up success in Christian work as our purpose, but our purpose should be to display the glory of God in human life, to live a life “hidden with Christ in God” in our everyday human conditions (Colossians 3:3). Our human relationships are the very conditions in which the ideal life of God should be exhibited.  
 
+<b><font class = "font_upper">source</font></b>: <a href = "https://utmost.org/still-human/" target="_blank" rel="noopener noreferrer">My Utmost for His Highest - Still Human</a>
+
 仍然是人  
 
 无论作什么，都要为荣耀神而行。（林前十31）  
@@ -81,7 +83,10 @@ We want to be able to say, “Oh, I have had a wonderful call from God!” But t
 
 [噢，我从神得到一个奇妙的呼召！]其实要在最卑微的生活上荣耀神，正需要那全能的神在我们里面，才可以做得到。惟有圣灵在我们里面，才能使我们完全地属于他，以致全不为人所注意。圣徒生命的考验不在于成功，而是对实际生活的忠心。我们会以在基督教事工上的成功作目标，可是正确的目标，乃是在生活上彰显神的荣耀，在属世的环境下，活出与基督一同藏在神里面的生命。属神的理想生命，是在人与人之间的实际关系上表现出来。  
 
-祈祷◆主啊，在今天的读经中，一下这句话使我的心灵震荡－－[摩西这样行，耶和华怎样吩咐他，他就照样行了。]  
+祈祷◆主啊，在今天的读经中，一下这句话使我的心灵震荡－－[摩西这样行，耶和华怎样吩咐他，他就照样行了。]   
+
+<b><font class = "font_upper">来源</font></b>： <a href = "https://wellsofgrace.com/daily-ch/category/upmost/" target="_blank" rel="noopener noreferrer">每日灵粮：竭诚为主</a>
+
 <a href="#1_ref">&#8617;</a></p>
 
 
