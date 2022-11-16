@@ -20,10 +20,6 @@ toc: true
 
 <a href = "https://baptistbiblebelievers.com/NTStudies/GospelAccordingtoMatthewGCampbellMorgan/tabid/322/Default.aspx" target="_blank" rel="noopener noreferrer">The Gospel According to Matthew By G. Campbell Morgan, D.D.</a>
 
-<a href = "https://baptistbiblebelievers.com/BooksoftheBible/JoshuaandtheLandofPromisebyFBMeyer/tabid/306/Default.aspx" target="_blank" rel="noopener noreferrer">Joshua and the Land of Promise by F. B. Meyer, B.A.</a>
-
-<a href = "" target="_blank" rel="noopener noreferrer"></a>
-
 <a href = "" target="_blank" rel="noopener noreferrer"></a>
 
 <a href = "" target="_blank" rel="noopener noreferrer"></a>
