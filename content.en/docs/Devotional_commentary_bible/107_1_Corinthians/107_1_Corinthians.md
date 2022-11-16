@@ -17,8 +17,8 @@ toc: true
 1:1 Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,  
 1:2 Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:  
 1:3 Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.  
-1:4 I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;
-1:5 That in every thing ye are enriched by him, in all utterance, and in all knowledge;
+1:4 I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ:  
+1:5 That in every thing ye are enriched by him, in all utterance, and in all knowledge:  
 
 1:6 Even as the testimony of Christ was confirmed in you:  
 1:7 So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:  
@@ -28,24 +28,24 @@ toc: true
 
 1:11 For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.  
 1:12 Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.  
-1:13 Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?
-1:14 I thank God that I baptized none of you, but Crispus and Gaius;
+1:13 Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?  
+1:14 I thank God that I baptized none of you, but Crispus and Gaius:  
 1:15 Lest any should say that I had baptized in mine own name.  
 
 1:16 And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.  
 1:17 For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.  
 1:18 For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.  
 1:19 For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.  
-1:20 Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world?
+1:20 Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world?  
 
 1:21 For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.  
 1:22 For the Jews require a sign, and the Greeks seek after wisdom:  
-1:23 But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;
+1:23 But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness:  
 1:24 But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.  
 1:25 Because the foolishness of God is wiser than men; and the weakness of God is stronger than men.  
 
 1:26 For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called:  
-1:27 But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;
+1:27 But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty:  
 1:28 And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:  
 1:29 That no flesh should glory in his presence.  
 1:30 But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:  
@@ -78,9 +78,9 @@ toc: true
 1 Corinthians Chapter 3   
 3:1 And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.  
 3:2 I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able.  
-3:3 For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?
-3:4 For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?
-3:5 Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
+3:3 For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?  
+3:4 For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?  
+3:5 Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?  
 
 3:6 I have planted, Apollos watered; but God gave the increase.  
 3:7 So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.  
@@ -89,19 +89,19 @@ toc: true
 3:10 According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.  
 
 3:11 For other foundation can no man lay than that is laid, which is Jesus Christ.  
-3:12 Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;
+3:12 Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble:  
 3:13 Every man's work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man's work of what sort it is.  
 3:14 If any man's work abide which he hath built thereupon, he shall receive a reward.  
 3:15 If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.  
 
-3:16 Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?
+3:16 Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?  
 3:17 If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are.  
 3:18 Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise.  
 3:19 For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness.  
 3:20 And again, The Lord knoweth the thoughts of the wise, that they are vain.  
 
-3:21 Therefore let no man glory in men. For all things are yours;
-3:22 Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;
+3:21 Therefore let no man glory in men. For all things are yours:  
+3:22 Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours:  
 3:23 And ye are Christ's; and Christ is God's.  
 
 * ----------------------------------------
@@ -113,12 +113,12 @@ toc: true
 4:5 Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then shall every man have praise of God.  
 
 4:6 And these things, brethren, I have in a figure transferred to myself and to Apollos for your sakes; that ye might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another.  
-4:7 For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?
+4:7 For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?  
 4:8 Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you.  
 4:9 For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men.  
 4:10 We are fools for Christ's sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised.  
 
-4:11 Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace;
+4:11 Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace:  
 4:12 And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:  
 4:13 Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day.  
 4:14 I write not these things to shame you, but as my beloved sons I warn you.  
@@ -130,7 +130,7 @@ toc: true
 4:19 But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.  
 4:20 For the kingdom of God is not in word, but in power.  
 
-4:21 What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness?
+4:21 What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness?  
 
 * ----------------------------------------
 1 Corinthians Chapter 5  
@@ -140,26 +140,26 @@ toc: true
 5:4 In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ,  
 5:5 To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.  
 
-5:6 Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump?
+5:6 Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump?  
 5:7 Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:  
 5:8 Therefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness; but with the unleavened bread of sincerity and truth.  
 5:9 I wrote unto you in an epistle not to company with fornicators:  
 5:10 Yet not altogether with the fornicators of this world, or with the covetous, or extortioners, or with idolaters; for then must ye needs go out of the world.  
 
 5:11 But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.  
-5:12 For what have I to do to judge them also that are without? do not ye judge them that are within?
+5:12 For what have I to do to judge them also that are without? do not ye judge them that are within?  
 5:13 But them that are without God judgeth. Therefore put away from among yourselves that wicked person.  
 
 * ----------------------------------------
 1 Corinthians Chapter 6  
-6:1 Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?
-6:2 Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?
-6:3 Know ye not that we shall judge angels? how much more things that pertain to this life?
+6:1 Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?  
+6:2 Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?  
+6:3 Know ye not that we shall judge angels? how much more things that pertain to this life?  
 6:4 If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church.  
-6:5 I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?
+6:5 I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?  
 
 6:6 But brother goeth to law with brother, and that before the unbelievers.  
-6:7 Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?
+6:7 Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?  
 6:8 Nay, ye do wrong, and defraud, and that your brethren.  
 6:9 Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,  
 6:10 Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.  
@@ -173,7 +173,7 @@ toc: true
 6:16 What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh.  
 6:17 But he that is joined unto the Lord is one spirit.  
 6:18 Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.  
-6:19 What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?
+6:19 What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?  
 6:20 For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's.  
 
 * ----------------------------------------
@@ -196,7 +196,7 @@ toc: true
 7:14 For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband: else were your children unclean; but now are they holy.  
 7:15 But if the unbelieving depart, let him depart. A brother or a sister is not under bondage in such cases: but God hath called us to peace.  
 
-7:16 For what knowest thou, O wife, whether thou shalt save thy husband? or how knowest thou, O man, whether thou shalt save thy wife?
+7:16 For what knowest thou, O wife, whether thou shalt save thy husband? or how knowest thou, O man, whether thou shalt save thy wife?  
 7:17 But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches.  
 7:18 Is any man called being circumcised? let him not become uncircumcised. Is any called in uncircumcision? let him not be circumcised.  
 7:19 Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God.  
@@ -211,8 +211,8 @@ toc: true
 7:26 I suppose therefore that this is good for the present distress, I say, that it is good for a man so to be.  
 7:27 Art thou bound unto a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife.  
 7:28 But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.  
-7:29 But this I say, brethren, the time is short: it remaineth, that both they that have wives be as though they had none;
-7:30 And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not;
+7:29 But this I say, brethren, the time is short: it remaineth, that both they that have wives be as though they had none:  
+7:30 And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not:  
 
 7:31 And they that use this world, as not abusing it: for the fashion of this world passeth away.  
 7:32 But I would have you without carefulness. He that is unmarried careth for the things that belong to the Lord, how he may please the Lord:  
@@ -238,29 +238,29 @@ toc: true
 8:7 Howbeit there is not in every man that knowledge: for some with conscience of the idol unto this hour eat it as a thing offered unto an idol; and their conscience being weak is defiled.  
 8:8 But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse.  
 8:9 But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak.  
-8:10 For if any man see thee which hast knowledge sit at meat in the idol's temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;
+8:10 For if any man see thee which hast knowledge sit at meat in the idol's temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols:  
 
-8:11 And through thy knowledge shall the weak brother perish, for whom Christ died?
+8:11 And through thy knowledge shall the weak brother perish, for whom Christ died?  
 8:12 But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ.  
 8:13 Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend.  
 
 * ----------------------------------------
 1 Corinthians Chapter 9   
-9:1 Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?
+9:1 Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?  
 9:2 If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord.  
 9:3 Mine answer to them that do examine me is this,  
-9:4 Have we not power to eat and to drink?
-9:5 Have we not power to lead about a sister, a wife, as well as other apostles, and as the brethren of the Lord, and Cephas?
+9:4 Have we not power to eat and to drink?  
+9:5 Have we not power to lead about a sister, a wife, as well as other apostles, and as the brethren of the Lord, and Cephas?  
 
-9:6 Or I only and Barnabas, have not we power to forbear working?
-9:7 Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?
-9:8 Say I these things as a man? or saith not the law the same also?
-9:9 For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?
+9:6 Or I only and Barnabas, have not we power to forbear working?  
+9:7 Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?  
+9:8 Say I these things as a man? or saith not the law the same also?  
+9:9 For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?  
 9:10 Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.  
 
-9:11 If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things?
+9:11 If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things?  
 9:12 If others be partakers of this power over you, are not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ.  
-9:13 Do ye not know that they which minister about holy things live of the things of the temple? and they which wait at the altar are partakers with the altar?
+9:13 Do ye not know that they which minister about holy things live of the things of the temple? and they which wait at the altar are partakers with the altar?  
 9:14 Even so hath the Lord ordained that they which preach the gospel should live of the gospel.  
 9:15 But I have used none of these things: neither have I written these things, that it should be so done unto me: for it were better for me to die, than that any man should make my glorying void.  
 
@@ -268,7 +268,7 @@ toc: true
 9:17 For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me.  
 9:18 What is my reward then? Verily that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel.  
 9:19 For though I be free from all men, yet have I made myself servant unto all, that I might gain the more.  
-9:20 And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;
+9:20 And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law:  
 
 9:21 To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law.  
 9:22 To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.  
@@ -281,9 +281,9 @@ toc: true
 
 * ----------------------------------------
 1 Corinthians Chapter 10  
-10:1 Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
-10:2 And were all baptized unto Moses in the cloud and in the sea;
-10:3 And did all eat the same spiritual meat;
+10:1 Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea:  
+10:2 And were all baptized unto Moses in the cloud and in the sea:  
+10:3 And did all eat the same spiritual meat:  
 10:4 And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.  
 10:5 But with many of them God was not well pleased: for they were overthrown in the wilderness.  
 
@@ -299,14 +299,14 @@ toc: true
 10:14 Wherefore, my dearly beloved, flee from idolatry.  
 10:15 I speak as to wise men; judge ye what I say.  
 
-10:16 The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
+10:16 The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?  
 10:17 For we being many are one bread, and one body: for we are all partakers of that one bread.  
-10:18 Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?
-10:19 What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?
+10:18 Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?  
+10:19 What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?  
 10:20 But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.  
 
 10:21 Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord's table, and of the table of devils.  
-10:22 Do we provoke the Lord to jealousy? are we stronger than he?
+10:22 Do we provoke the Lord to jealousy? are we stronger than he?  
 10:23 All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.  
 10:24 Let no man seek his own, but every man another's wealth.  
 10:25 Whatsoever is sold in the shambles, that eat, asking no question for conscience sake:  
@@ -314,8 +314,8 @@ toc: true
 10:26 For the earth is the Lord's, and the fulness thereof.  
 10:27 If any of them that believe not bid you to a feast, and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake.  
 10:28 But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: for the earth is the Lord's, and the fulness thereof:  
-10:29 Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man's conscience?
-10:30 For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?
+10:29 Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man's conscience?  
+10:30 For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?  
 
 10:31 Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.  
 10:32 Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:  
@@ -337,8 +337,8 @@ toc: true
 
 11:11 Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord.  
 11:12 For as the woman is of the man, even so is the man also by the woman; but all things of God.  
-11:13 Judge in yourselves: is it comely that a woman pray unto God uncovered?
-11:14 Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?
+11:13 Judge in yourselves: is it comely that a woman pray unto God uncovered?  
+11:14 Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?  
 11:15 But if a woman have long hair, it is a glory to her: for her hair is given her for a covering.  
 
 11:16 But if any man seem to be contentious, we have no such custom, neither the churches of God.  
@@ -374,20 +374,20 @@ toc: true
 
 12:6 And there are diversities of operations, but it is the same God which worketh all in all.  
 12:7 But the manifestation of the Spirit is given to every man to profit withal.  
-12:8 For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;
-12:9 To another faith by the same Spirit; to another the gifts of healing by the same Spirit;
+12:8 For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit:  
+12:9 To another faith by the same Spirit; to another the gifts of healing by the same Spirit:  
 12:10 To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:  
 
 12:11 But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.  
 12:12 For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.  
 12:13 For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.  
 12:14 For the body is not one member, but many.  
-12:15 If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?
+12:15 If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?  
 
-12:16 And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?
-12:17 If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?
+12:16 And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?  
+12:17 If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?  
 12:18 But now hath God set the members every one of them in the body, as it hath pleased him.  
-12:19 And if they were all one member, where were the body?
+12:19 And if they were all one member, where were the body?  
 12:20 But now are they many members, yet but one body.  
 
 12:21 And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you.  
@@ -399,8 +399,8 @@ toc: true
 12:26 And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.  
 12:27 Now ye are the body of Christ, and members in particular.  
 12:28 And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.  
-12:29 Are all apostles? are all prophets? are all teachers? are all workers of miracles?
-12:30 Have all the gifts of healing? do all speak with tongues? do all interpret?
+12:29 Are all apostles? are all prophets? are all teachers? are all workers of miracles?  
+12:30 Have all the gifts of healing? do all speak with tongues? do all interpret?  
 
 12:31 But covet earnestly the best gifts: and yet shew I unto you a more excellent way.  
 
@@ -410,9 +410,9 @@ toc: true
 13:2 And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.  
 13:3 And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.  
 13:4 Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,  
-13:5 Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
+13:5 Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil:  
 
-13:6 Rejoiceth not in iniquity, but rejoiceth in the truth;
+13:6 Rejoiceth not in iniquity, but rejoiceth in the truth:  
 13:7 Beareth all things, believeth all things, hopeth all things, endureth all things.  
 13:8 Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.  
 13:9 For we know in part, and we prophesy in part.  
@@ -430,9 +430,9 @@ toc: true
 14:4 He that speaketh in an unknown tongue edifieth himself; but he that prophesieth edifieth the church.  
 14:5 I would that ye all spake with tongues, but rather that ye prophesied: for greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying.  
 
-14:6 Now, brethren, if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?
-14:7 And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?
-14:8 For if the trumpet give an uncertain sound, who shall prepare himself to the battle?
+14:6 Now, brethren, if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?  
+14:7 And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?  
+14:8 For if the trumpet give an uncertain sound, who shall prepare himself to the battle?  
 14:9 So likewise ye, except ye utter by the tongue words easy to be understood, how shall it be known what is spoken? for ye shall speak into the air.  
 14:10 There are, it may be, so many kinds of voices in the world, and none of them is without signification.  
 
@@ -442,7 +442,7 @@ toc: true
 14:14 For if I pray in an unknown tongue, my spirit prayeth, but my understanding is unfruitful.  
 14:15 What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also.  
 
-14:16 Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?
+14:16 Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?  
 14:17 For thou verily givest thanks well, but the other is not edified.  
 14:18 I thank my God, I speak with tongues more than ye all:  
 14:19 Yet in the church I had rather speak five words with my understanding, that by my voice I might teach others also, than ten thousand words in an unknown tongue.  
@@ -450,7 +450,7 @@ toc: true
 
 14:21 In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the LORD.  
 14:22 Wherefore tongues are for a sign, not to them that believe, but to them that believe not: but prophesying serveth not for them that believe not, but for them which believe.  
-14:23 If therefore the whole church be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that ye are mad?
+14:23 If therefore the whole church be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that ye are mad?  
 14:24 But if all prophesy, and there come in one that believeth not, or one unlearned, he is convinced of all, he is judged of all:  
 14:25 And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.  
 
@@ -466,7 +466,7 @@ toc: true
 14:34 Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience, as also saith the law.  
 14:35 And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.  
 
-14:36 What? came the word of God out from you? or came it unto you only?
+14:36 What? came the word of God out from you? or came it unto you only?  
 14:37 If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.  
 14:38 But if any man be ignorant, let him be ignorant.  
 14:39 Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues.  
@@ -474,9 +474,9 @@ toc: true
 
 * ----------------------------------------
 1 Corinthians Chapter 15   
-15:1 Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;
+15:1 Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand:  
 15:2 By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.  
-15:3 For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;
+15:3 For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures:  
 15:4 And that he was buried, and that he rose again the third day according to the scriptures:  
 15:5 And that he was seen of Cephas, then of the twelve:  
 
@@ -487,7 +487,7 @@ toc: true
 15:10 But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.  
 
 15:11 Therefore whether it were I or they, so we preach, and so ye believed.  
-15:12 Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
+15:12 Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?  
 15:13 But if there be no resurrection of the dead, then is Christ not risen:  
 15:14 And if Christ be not risen, then is our preaching vain, and your faith is also vain.  
 15:15 Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.  
@@ -507,14 +507,14 @@ toc: true
 15:26 The last enemy that shall be destroyed is death.  
 15:27 For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excepted, which did put all things under him.  
 15:28 And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.  
-15:29 Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?
-15:30 And why stand we in jeopardy every hour?
+15:29 Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?  
+15:30 And why stand we in jeopardy every hour?  
 
 15:31 I protest by your rejoicing which I have in Christ Jesus our LORD, I die daily.  
 15:32 If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.  
 15:33 Be not deceived: evil communications corrupt good manners.  
 15:34 Awake to righteousness, and sin not; for some have not the knowledge of God: I speak this to your shame.  
-15:35 But some man will say, How are the dead raised up? and with what body do they come?
+15:35 But some man will say, How are the dead raised up? and with what body do they come?  
 
 15:36 Thou fool, that which thou sowest is not quickened, except it die:  
 15:37 And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other grain:  
@@ -538,7 +538,7 @@ toc: true
 15:52 In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.  
 15:53 For this corruptible must put on incorruption, and this mortal must put on immortality.  
 15:54 So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.  
-15:55 O death, where is thy sting? O grave, where is thy victory?
+15:55 O death, where is thy sting? O grave, where is thy victory?  
 
 15:56 The sting of death is sin; and the strength of sin is the law.  
 15:57 But thanks be to God, which giveth us the victory through our Lord Jesus Christ.  

@@ -3,7 +3,7 @@ weight: 10
 title: 1 Corinthians 10
 authors: Lenny
 categories: null
-tags: 
+tags: [My Utmost for His Highest]
 description: 
 draft: false
 date: "2022-11-16"
@@ -16,9 +16,9 @@ toc: true
 ---
 
 
-10:1 Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
-10:2 And were all baptized unto Moses in the cloud and in the sea;
-10:3 And did all eat the same spiritual meat;
+10:1 Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;  
+10:2 And were all baptized unto Moses in the cloud and in the sea;  
+10:3 And did all eat the same spiritual meat;  
 10:4 And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.  
 10:5 But with many of them God was not well pleased: for they were overthrown in the wilderness.  
 
@@ -34,14 +34,14 @@ toc: true
 10:14 Wherefore, my dearly beloved, flee from idolatry.  
 10:15 I speak as to wise men; judge ye what I say.  
 
-10:16 The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
+10:16 The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?  
 10:17 For we being many are one bread, and one body: for we are all partakers of that one bread.  
-10:18 Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?
-10:19 What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?
+10:18 Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?  
+10:19 What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?  
 10:20 But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.  
 
 10:21 Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord's table, and of the table of devils.  
-10:22 Do we provoke the Lord to jealousy? are we stronger than he?
+10:22 Do we provoke the Lord to jealousy? are we stronger than he?  
 10:23 All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.  
 10:24 Let no man seek his own, but every man another's wealth.  
 10:25 Whatsoever is sold in the shambles, that eat, asking no question for conscience sake:  
@@ -49,8 +49,8 @@ toc: true
 10:26 For the earth is the Lord's, and the fulness thereof.  
 10:27 If any of them that believe not bid you to a feast, and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake.  
 10:28 But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: for the earth is the Lord's, and the fulness thereof:  
-10:29 Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man's conscience?
-10:30 For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?
+10:29 Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man's conscience?  
+10:30 For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?  
 
 10:31 Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.  <a id="1_ref" href = "#1">[1]</a> 
 10:32 Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:  
@@ -58,10 +58,10 @@ toc: true
 
 ---
 
-<p id="1">[1] 
-Still Human!  
-By Oswald Chambers  
-…whatever you do, do all to the glory of God. —1 Corinthians 10:31  
+<p id="1">[1]  
+Still Human!   
+By Oswald Chambers   
+…whatever you do, do all to the glory of God. — 1 Corinthians 10:31  
 In the Scriptures, the great miracle of the incarnation slips into the ordinary life of a child; the great miracle of the transfiguration fades into the demon-possessed valley below; the glory of the resurrection descends into a breakfast on the seashore. This is not an anticlimax, but a great revelation of God.  
 
 We have a tendency to look for wonder in our experience, and we mistake heroic actions for real heroes. It’s one thing to go through a crisis grandly, yet quite another to go through every day glorifying God when there is no witness, no limelight, and no one paying even the remotest attention to us. If we are not looking for halos, we at least want something that will make people say, “What a wonderful man of prayer he is!” or, “What a great woman of devotion she is!” If you are properly devoted to the Lord Jesus, you have reached the lofty height where no one would ever notice you personally. All that is noticed is the power of God coming through you all the time.  
@@ -72,9 +72,31 @@ We want to be able to say, “Oh, I have had a wonderful call from God!” But t
 
 无论作什么，都要为荣耀神而行。（林前十31）  
 
-道成肉身的超其，湮没在平凡的童年生活；登山变象的辉煌光彩，消失在鬼附的山谷间；复活的荣耀，降卑成为海旁早餐。这不是反高潮，而是神极大的启示。我们总有一种倾向，就是想去追求超奇的经历；错把英雄感当作英雄。在重大关头昂然度过是一回事，在每天生活中荣耀神，没有人作证，没有光彩，丝毫没有被注意，又是另一回事。我们有时虽然不求中世纪那种圣人的光环，也想做些事令人家说：[看他是个多么会祈祷的人！]或[她多虔诚，多热心！]可是，若你对主耶稣有正确的献上，人所注意的是神透过你流露出来的大能。  
+道成肉身的超其，湮没在平凡的童年生活；登山变象的辉煌光彩，消失在鬼附的山谷间；复活的荣耀，降卑成为海旁早餐。这不是反高潮，而是神极大的启示。  
+
+我们总有一种倾向，就是想去追求超奇的经历；错把英雄感当作英雄。在重大关头昂然度过是一回事，在每天生活中荣耀神，没有人作证，没有光彩，丝毫没有被注意，又是另一回事。我们有时虽然不求中世纪那种圣人的光环，也想做些事令人家说：[看他是个多么会祈祷的人！]或[她多虔诚，多热心！]可是，若你对主耶稣有正确的献上，人所注意的是神透过你流露出来的大能。  
 
 [噢，我从神得到一个奇妙的呼召！]其实要在最卑微的生活上荣耀神，正需要那全能的神在我们里面，才可以做得到。惟有圣灵在我们里面，才能使我们完全地属于他，以致全不为人所注意。圣徒生命的考验不在于成功，而是对实际生活的忠心。我们会以在基督教事工上的成功作目标，可是正确的目标，乃是在生活上彰显神的荣耀，在属世的环境下，活出与基督一同藏在神里面的生命。属神的理想生命，是在人与人之间的实际关系上表现出来。  
 
 祈祷◆主啊，在今天的读经中，一下这句话使我的心灵震荡－－[摩西这样行，耶和华怎样吩咐他，他就照样行了。]  
 <a href="#1_ref">&#8617;</a></p>
+
+
+---
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "KJV" /*hlybblsmpshndtn*/
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
