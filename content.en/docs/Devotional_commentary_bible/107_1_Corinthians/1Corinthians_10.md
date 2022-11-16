@@ -52,7 +52,7 @@ toc: true
 10:29 Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man's conscience?  
 10:30 For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?  
 
-10:31 Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.  <a id="1_ref" href = "#1">[1]</a> 
+10:31 Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.  <a id="1_ref" href = "#1">[1]</a>   
 10:32 Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:  
 10:33 Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved.  
 
@@ -60,11 +60,14 @@ toc: true
 
 <p id="1">[1]  
 Still Human!   
+
 By Oswald Chambers   
+
 …whatever you do, do all to the glory of God. — 1 Corinthians 10:31  
+
 In the Scriptures, the great miracle of the incarnation slips into the ordinary life of a child; the great miracle of the transfiguration fades into the demon-possessed valley below; the glory of the resurrection descends into a breakfast on the seashore. This is not an anticlimax, but a great revelation of God.  
 
-We have a tendency to look for wonder in our experience, and we mistake heroic actions for real heroes. It’s one thing to go through a crisis grandly, yet quite another to go through every day glorifying God when there is no witness, no limelight, and no one paying even the remotest attention to us. If we are not looking for halos, we at least want something that will make people say, “What a wonderful man of prayer he is!” or, “What a great woman of devotion she is!” If you are properly devoted to the Lord Jesus, you have reached the lofty height where no one would ever notice you personally. All that is noticed is the power of God coming through you all the time.  
+We have a tendency to look for wonder in our experience, and <u class = "red">we mistake heroic actions for real heroes</u>. It’s one thing to go through a crisis grandly, yet quite another to go through every day glorifying God when there is no witness, no limelight, and no one paying even the remotest attention to us. If we are not looking for halos, we at least want something that will make people say, “What a wonderful man of prayer he is!” or, “What a great woman of devotion she is!” If you are properly devoted to the Lord Jesus, you have reached the lofty height where no one would ever notice you personally. All that is noticed is the power of God coming through you all the time.  
 
 We want to be able to say, “Oh, I have had a wonderful call from God!” But to do even the most humbling tasks to the glory of God takes the Almighty God Incarnate working in us. To be utterly unnoticeable requires God’s Spirit in us making us absolutely humanly His. The true test of a saint’s life is not successfulness but faithfulness on the human level of life. We tend to set up success in Christian work as our purpose, but our purpose should be to display the glory of God in human life, to live a life “hidden with Christ in God” in our everyday human conditions (Colossians 3:3). Our human relationships are the very conditions in which the ideal life of God should be exhibited.  
 
