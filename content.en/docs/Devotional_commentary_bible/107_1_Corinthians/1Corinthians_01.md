@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: 林前一章
+title: 1 Corinthians 1
 authors: Lenny
 categories: null
 tags: 
@@ -11,7 +11,7 @@ lastmod: "2022-04-26"
 series:
 toc: true
 ---
-哥林多前书
+1 Corinthians
 <!--more-->
 ---
 1:1 奉　神旨意、蒙召作耶稣基督使徒的保罗、同兄弟所提尼、

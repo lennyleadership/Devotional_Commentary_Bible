@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: 林前二章
+title: 1 Corinthians 2
 authors: Lenny
 categories: null
 tags: 
@@ -11,7 +11,7 @@ lastmod: "2022-04-26"
 series:
 toc: true
 ---
-哥林多前书
+1 Corinthians
 <!--more-->
 ---
 2:1 弟兄们、从前我到你们那里去、并没有用高言大智对你们宣传　神的奥秘。  

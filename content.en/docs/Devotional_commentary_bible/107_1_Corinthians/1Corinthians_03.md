@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: 林前三章
+title: 1 Corinthians 3
 authors: Lenny
 categories: null
 tags: [得救, Brother D, Brother L]
@@ -11,7 +11,7 @@ lastmod: "2022.08.04"
 series:
 toc: true
 ---
-哥林多前书
+1 Corinthians
 <!--more-->
 ---
 

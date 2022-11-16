@@ -1,6 +1,6 @@
 ---
 Weight: 107
-title: 哥林多前书
+title: 1 Corinthians
 authors: Lenny Lin
 categories: null
 tags: 
