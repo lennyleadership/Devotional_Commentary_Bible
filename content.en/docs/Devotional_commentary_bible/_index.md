@@ -13,7 +13,15 @@ toc: true
 bookCollapseSection: true
 ---
 
+{{< columns >}}
+<a href = "https://www.ccbiblestudy.org/index-E.htm" target="_blank" rel="noopener noreferrer">Chinese Christian Bible Study Data Website</a>
 
+
+<--->
+
+
+
+{{< /columns >}}
 
 
 
