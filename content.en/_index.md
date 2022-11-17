@@ -30,9 +30,19 @@ type: docs
 
 
 {{< columns >}}
+<b><font class = "font_upper">devotionals in English</font></b>:   
 
+<a href = "https://utmost.org/" target="_blank" rel="noopener noreferrer">My Utmost for His Highest</a>
+
+<a href = "" target="_blank" rel="noopener noreferrer"></a>
 
 <--->
+<b><font class = "font_upper">中文灵修</font></b>: 
+
+
+<a href = "https://wellsofgrace.com/daily-ch/category/upmost/" target="_blank" rel="noopener noreferrer">竭诚为主</a>
+
+<a href = "" target="_blank" rel="noopener noreferrer"></a>
 
 {{< /columns >}}
 
