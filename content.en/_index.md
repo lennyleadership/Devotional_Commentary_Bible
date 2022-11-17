@@ -3,22 +3,37 @@ title: Introduction
 type: docs
 ---
 
-# 
+
 
 {{< columns >}}
-## 
+<b><font class = "font_upper">Commentaries in English</font></b>:  
+
+<a href = "https://www.ccbiblestudy.org/index-E.htm" target="_blank" rel="noopener noreferrer">Chinese Christian Bible Study Data Website</a> 
+
+<a href = "https://baptistbiblebelievers.com/OTStudies/LivingMessagesofOldTestamentGCMorgan/tabid/279/Default.aspx" target="_blank" rel="noopener noreferrer">Living Messages of the Books of The Bible - GENESIS TO MALACHI BY G. Campbell Morgan, D. D.</a>  
+
+<a href = "https://baptistbiblebelievers.com/NTStudies/GospelAccordingtoMatthewGCampbellMorgan/tabid/322/Default.aspx" target="_blank" rel="noopener noreferrer">The Gospel According to Matthew By G. Campbell Morgan, D.D.</a>
 
 <--->
+<b><font class = "font_upper">中文查经网站</font></b>:  
 
-## 
+<a href = "https://www.ccbiblestudy.org/index-S.htm" target="_blank" rel="noopener noreferrer">华人基督徒查经资料网站</a>
+
+中国基督复临安息日会 
+
+<a href = "http://www.zgaxr.com/book/008/042/1134.htm" target="_blank" rel="noopener noreferrer">圣经66卷查经资料汇总目录－旧　约</a>  
+
+<a href = "http://www.zgaxr.com/book/008/042/1135.htm" target="_blank" rel="noopener noreferrer">圣经66卷查经资料汇总目录－新　约</a>
 
 {{< /columns >}}
 
 
-## 
+
+{{< columns >}}
 
 
+<--->
 
-## 
+{{< /columns >}}
 
 

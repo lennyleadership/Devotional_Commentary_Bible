@@ -3,11 +3,11 @@ weight: 10
 title: 箴十章
 authors: Lenny Lin
 categories: null
-tags: 
+tags: [忧虑]
 description: 
 draft: false
 date: "2022-09-20"
-lastmod: "2022-09-20"
+lastmod: "2022-11-20"
 series:
 toc: true
 ---
@@ -41,7 +41,7 @@ toc: true
 10:20 <mark class = "lemon">义人的舌</mark>、乃似高银。恶人的心所值无几。  
 
 10:21 <mark class = "lemon">义人的口</mark>教养多人。愚昧人因无知而死亡。  
-10:22 耶和华所赐的福、使人富足、并不加上忧虑。  
+10:22 耶和华所赐的福、使人富足、并不加上忧虑。<a class = "marginnote">基督的生命中没有忧虑</a>  
 10:23 愚妄人以行恶为戏耍。明哲人却以智慧为乐。  
 10:24 恶人所怕的必临到他。义人所愿的必蒙应允。  
 10:25 暴风一过、恶人归于无有。义人的根基却是永久。  

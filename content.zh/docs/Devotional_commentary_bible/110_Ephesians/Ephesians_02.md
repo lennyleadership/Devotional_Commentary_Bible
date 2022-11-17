@@ -3,7 +3,7 @@ weight: 2
 title: 弗二章
 authors: Lenny
 categories: null
-tags: ["Margine note demo", "ezraLinkifier"]
+tags: ["Margine note demo", "ezraLinkifier", 活泉小简, 我的身份]
 description: 
 draft: false
 date: "2022-08-17"
@@ -28,7 +28,7 @@ toc: true
 2:7 要将他极丰富的恩典、就是他在基督耶稣里向我们所施的恩慈、显明给后来的世代看。  
 2:8 你们得救是本乎恩、也因着信、这并不是出于自己、乃是　神所赐的。&emsp;<a id="6_ref" href = "#6">[6]</a>  
 2:9 也不是出于行为、免得有人自夸。  
-2:10 我们原是他的工作、在基督耶稣里造成的、为要叫我们行善、就是　神所预备叫我们行的。&emsp;<a id="7_ref" href = "#7">[7]</a>  
+2:10 我们原是他的工作、在基督耶稣里造成的、为要叫我们行善、就是　神所预备叫我们行的。&emsp;<a id="7_ref" href = "#7">[7]</a>  &emsp;<a id="13_ref" href = "#13">[13]</a>  
 
 2:11 所以你们应当记念、你们从前按肉体是外邦人、是称为没受割礼的这名原是那些凭人手在肉身上称为受割礼之人所起的。  
 2:12 那时、你们与基督无关、在以色列国民以外、在所应许的诸约上是局外人。并且活在世上没有指望、没有　神。  
@@ -57,7 +57,7 @@ toc: true
 2:7 That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.  
 2:8 For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:  
 2:9 Not of works, lest any man should boast.  
-2:10 For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.  
+2:10 For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them. <a class = "marginnote">我的身份何等荣耀！</a>  
 
 
 2:11 Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;  
@@ -108,7 +108,17 @@ toc: true
 <p id="9">[9]: 「废掉冤仇」（15节）包括人与人和人与神之间的「冤仇」（15节），律法上关于洁净、礼仪的规条使犹太人和外邦人之间隔绝，关于罪的规条使人与神隔绝。基督成全了律法（太五17）、丰满了律法（太五21-48），了结了旧造生命的罪案，就除去了这些隔绝，在基督里造成了一个新的人种，这个新人的性质是基督、内容是基督。旧人都是亚当的后裔，无法与神和睦，又有出身、背景的分别，所以也无法彼此和睦。若要与人、与神和睦，必须活在新人里面。<a href="#9_ref">&#8617;</a></p>
 <p id="10">[10]: 十字架的意义，就是在基督里，是人与神、人与人之间完全和好。  <a href="#10_ref">&#8617;</a></p>
 <p id="11">[11]: 「进到」（18节）用来描写把人带到神前奉献任圣职，也用来叙述把人带来觐见皇帝。我们得以「进到父面前」（18节），是借着圣父的拣选（一4）、圣子的完成（15-16节）和圣灵的感动。  <a href="#11_ref">&#8617;</a></p>
-<p id="12">[12]: 「被建造」（20节）指明了一个事实，不是信徒在一起出主意、出力量建造教会，而是人作为材料被神使用来建造教会。 <a href="#12_ref">&#8617;</a></p> 
+<p id="12">[12]: 「被建造」（20节）指明了一个事实，不是信徒在一起出主意、出力量建造教会，而是人作为材料被神使用来建造教会。 <a href="#12_ref">&#8617;</a></p>  
+<p id="13">[13]   
+2022年11月18日  
+活泉小简  
+神所创作的诗  
+[我们原是他的工作(诗)，在基督耶稣里造成的，为要叫我们行善，就是神所预备叫我们行的。] (弗二10)  
+
+我们都是神所创作的诗。神在每个人身上都有一个特别的心意。他的每一项创造都含有特殊目的。伟大的诗人在创作诗时，往往藉各种不同的音韵、格律来表达他的构想，但每一首诗只有一个主题。同样的，神在每个人的生命中，都拟定特别的计划。如果我们不阻扰袖他会将我们的一生(从摇篮到坟墓)谱成一首对称和谐的美诗，虽然其中交织繁复的意象、比喻例证、细节，却有一明显的主题贯穿全诗。  
+
+摘自《保罗》(迈尔)<a href="#13_ref">&#8617;</a></p>
+
 <a href = "https://cmcbiblereading.com/2014/11/23/%e4%bb%a5%e5%bc%97%e6%89%80%e4%b9%a6%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/" target="_blank" rel="noopener noreferrer">以弗所书第2章逐节注解、祷读</a>
 
 
