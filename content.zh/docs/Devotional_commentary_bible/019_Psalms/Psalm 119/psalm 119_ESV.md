@@ -1,17 +1,13 @@
 ---
-weight: 32
 title: Psalm 119 ESV
-authors: null
-categories: null
-tags: null
 description:
-draft: false
-date: "2021-04-11"
-lastmod: "2021-04-11"
-series: null
 toc: true
+authors: []
+date: 2021-04-05T11:19:38-05:00
+lastmod: 2021-04-05T11:19:38-05:00
+draft: true
+weight: 2
 ---
-
 
 **Your Word Is a Lamp to My Feet**  
 

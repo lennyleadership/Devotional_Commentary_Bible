@@ -1,15 +1,16 @@
 ---
+weight: 1
+title: Psalm 1
 authors: Lenny
 categories: null
-date: "2022-04-19"
+tags: 
 description: 
 draft: false
+date: "2022-04-19"
 lastmod: "2022-04-26"
 series:
-tags: 
-title: 001 诗一章
 toc: true
 ---
-诗篇
+Psalms
 <!--more-->
 

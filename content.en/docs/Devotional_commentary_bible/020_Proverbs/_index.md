@@ -1,6 +1,6 @@
 ---
 Weight: 20
-title: 箴言
+title: Proverbs
 authors: Lenny Lin
 categories: null
 tags: 
