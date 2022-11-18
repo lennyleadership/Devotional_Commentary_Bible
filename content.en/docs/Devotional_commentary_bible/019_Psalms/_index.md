@@ -1,6 +1,6 @@
 ---
 Weight: 19
-title: 诗篇
+title: Psalms
 authors: Lenny Lin
 categories: null
 tags: 

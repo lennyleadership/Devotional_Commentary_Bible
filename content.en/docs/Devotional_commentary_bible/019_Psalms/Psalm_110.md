@@ -21,4 +21,4 @@ Psalms
 110:5 The Lord at thy right hand shall strike through kings in the day of his wrath.  
 
 110:6 He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.  
-110:7 He shall drink of the brook in the way: therefore shall he lift up the head. <a class = "marginnote">Why</a>  
+110:7 He shall drink of the brook in the way: therefore shall he lift up the head. <a class = "marginnote">the subject changes here. Why</a>  
