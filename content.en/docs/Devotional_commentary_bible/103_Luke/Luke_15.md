@@ -12,7 +12,7 @@ series: null
 toc: true
 ---
 
-路加福音
+Book of Luke
 <!--more-->
 ---
 

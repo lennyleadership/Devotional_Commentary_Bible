@@ -11,7 +11,7 @@ tags: [清晨甘露, 司布真]
 title: 路八章
 toc: true
 ---
-路加福音
+Book of Luke
 <!--more-->
 
 

@@ -1,6 +1,6 @@
 ---
 weight: 
-title: 路章
+title: Luke
 authors: Lenny 
 categories: null
 tags: 
@@ -12,7 +12,7 @@ series: null
 toc: true
 ---
 
-路加福音
+Book of Luke
 <!--more-->
 ---
 

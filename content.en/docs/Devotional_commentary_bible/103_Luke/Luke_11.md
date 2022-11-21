@@ -11,7 +11,7 @@ tags: [Prayer, 活泉小简, Darby, Brother D, Brother K, Brother L, Sister G]
 title: 路十一章
 toc: true
 ---
-路加福音
+Book of Luke
 <!--more-->
 
 11:1 耶稣在一个地方祷告。祷告完了、有个门徒对他说、求主教导我们祷告、像约翰教导他的门徒。  

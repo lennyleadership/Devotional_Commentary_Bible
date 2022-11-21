@@ -12,7 +12,7 @@ series: null
 toc: true
 ---
 
-路加福音
+Book of Luke
 <!--more-->
 ---
 18:1 耶稣设一个比喻、是要人常常祷告、不可灰心。  
