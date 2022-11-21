@@ -3,11 +3,11 @@ weight: 10
 title: Proverbs 10
 authors: Lenny Lin
 categories: null
-tags: [Joy with the Lord]
+tags: [Joy with the Lord, Promise]
 description: 
 draft: false
-date: "2022-09-20"
-lastmod: "2022-09-20"
+date: "2022-11-19"
+lastmod: "2022-11-19"
 series:
 toc: true
 ---
@@ -42,8 +42,8 @@ toc: true
 
 10:21 The lips of the righteous feed many: but fools die for want of wisdom.  
 10:22 The blessing of the LORD, it maketh rich, and he addeth no sorrow with it.  
-10:23 It is as sport to a fool to do mischief: but a man of understanding hath wisdom.  <a class="marginnote">joy with the Lord</a>
-10:24 The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted.  
+10:23 It is as sport to a fool to do mischief: but a man of understanding hath wisdom.  <a class="marginnote">joy with the Lord</a>  
+10:24 The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted. <a class = "marginnote">a promise</a>   
 10:25 As the whirlwind passeth, so is the wicked no more: but the righteous is an everlasting foundation.  
 
 10:26 As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to them that send him.  

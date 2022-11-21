@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: 弗二章
+title: Ephesians 2
 authors: Lenny
 categories: null
 tags: ["Margine note demo", "ezraLinkifier"]
@@ -11,74 +11,41 @@ lastmod: "2022-11-06"
 series:
 toc: true
 ---
-以弗所书 
+Ephesians 
 
 <!--more-->
 ---
 
-{{< columns >}}
-
-2:1 你们死在过犯罪恶之中、他叫你们活过来。<a id="1_ref" href = "#1">[1]</a>   
-2:2 那时、你们在其中行事为人随从今世的风俗、顺服空中掌权者的首领、就是现今在悖逆之子心中运行的邪灵。&emsp;<a id="2_ref" href = "#2">[2]</a>        
-2:3 我们从前也都在他们中间、放纵肉体的私欲、随着肉体和心中所喜好的去行、本为可怒之子、和别人一样。&emsp;<a id="3_ref" href = "#3">[3]</a>  
-2:4 然而　神既有丰富的怜悯。因他爱我们的大爱、&emsp;<a id="4_ref" href = "#4">[4]</a>  
-2:5 当我们死在过犯中的时候、便叫我们与基督一同活过来。（你们得救是本乎恩)  
-
-2:6 他又叫我们与基督耶稣一同复活、一同坐在天上、&emsp;<a id="5_ref" href = "#5">[5]</a>  
-2:7 要将他极丰富的恩典、就是他在基督耶稣里向我们所施的恩慈、显明给后来的世代看。  
-2:8 你们得救是本乎恩、也因着信、这并不是出于自己、乃是　神所赐的。&emsp;<a id="6_ref" href = "#6">[6]</a>  
-2:9 也不是出于行为、免得有人自夸。  
-2:10 我们原是他的工作、在基督耶稣里造成的、为要叫我们行善、就是　神所预备叫我们行的。&emsp;<a id="7_ref" href = "#7">[7]</a>  
-
-2:11 所以你们应当记念、你们从前按肉体是外邦人、是称为没受割礼的这名原是那些凭人手在肉身上称为受割礼之人所起的。  
-2:12 那时、你们与基督无关、在以色列国民以外、在所应许的诸约上是局外人。并且活在世上没有指望、没有　神。  
-2:13 你们从前远离　神的人、如今却在基督耶稣里、靠着他的血、已经得亲近了。  
-2:14 因他使我们和睦、〔原文作因他是我们的和睦〕将两下合而为一、拆毁了中间隔断的墙。&emsp;<a id="8_ref" href = "#8">[8]</a>  
-2:15 而且以自己的身体、废掉冤仇、就是那记在律法上的规条。为要将两下、借着自己造成一个新人、如此便成就了和睦。&emsp;<a id="9_ref" href = "#9">[9]</a>  
-
-2:16 既在十字架上灭了冤仇、便借这十字架、使两下归为一体、与　神和好了。&emsp;<a id="10_ref" href = "#10">[10]</a>  
-2:17 并且来传和平的福音给你们远处的人、也给那近处的人。  
-2:18 因为我们两下借着他被一个圣灵所感、得以进到父面前。&emsp;<a id="11_ref" href = "#11">[11]</a>  
-2:19 这样、你们不再作外人、和客旅、是与圣徒同国、是　神家里的人了。  
-2:20 并且被建造在使徒和先知的根基上、有基督耶稣自己为房角石。&emsp;<a id="12_ref" href = "#12">[12]</a>  
-
-2:21 各〔或作全〕房靠他联络得合式、渐渐成为主的圣殿。  
-2:22 你们也靠他同被建造成为　神借着圣灵居住的所在。  
-
-<--->
-2:1 And you hath he quickened, who were dead in trespasses and sins; <font class = "marginnote"> 2:1: 结三十七1-14；罗六23，七10、24；西二13.</font>   
-2:2 Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: <font class ="marginnote">2:2: 路十一24-26.</font>  
-2:3 Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.  
-2:4 But God, who is rich in mercy, for his great love wherewith he loved us,
+2:1 And you hath he quickened, who were dead in trespasses and sins; <a id="1_ref" href = "#1">[1]</a>    
+2:2 Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: &emsp;<a id="2_ref" href = "#2">[2]</a>      
+2:3 Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.  &emsp;<a id="3_ref" href = "#3">[3]</a>    
+2:4 But God, who is rich in mercy, for his great love wherewith he loved us,  &emsp;<a id="4_ref" href = "#4">[4]</a>
 2:5 Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)
 
 
-2:6 And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:  
+2:6 And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:  &emsp;<a id="5_ref" href = "#5">[5]</a>  
 2:7 That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.  
-2:8 For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:  
+2:8 For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:  &emsp;<a id="6_ref" href = "#6">[6]</a>  
 2:9 Not of works, lest any man should boast.  
-2:10 For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.  
+2:10 For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.  &emsp;<a id="7_ref" href = "#7">[7]</a>  
 
 
 2:11 Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;  
 2:12 That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:  
 2:13 But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.  
-2:14 For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;  
-2:15 Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;  
+2:14 For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;  &emsp;<a id="8_ref" href = "#8">[8]</a>  
+2:15 Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;  &emsp;<a id="9_ref" href = "#9">[9]</a>  
 
 
-2:16 And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:  
+2:16 And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:  &emsp;<a id="10_ref" href = "#10">[10]</a>  
 2:17 And came and preached peace to you which were afar off, and to them that were nigh.  
-2:18 For through him we both have access by one Spirit unto the Father.  
+2:18 For through him we both have access by one Spirit unto the Father.  &emsp;<a id="11_ref" href = "#11">[11]</a>  
 2:19 Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;  
-2:20 And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;  
+2:20 And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;  &emsp;<a id="12_ref" href = "#12">[12]</a>  
 
 
 2:21 In whom all the building fitly framed together groweth unto an holy temple in the Lord:  
 2:22 In whom ye also are builded together for an habitation of God through the Spirit.  
-
-
-{{< /columns >}}
 
 
 ---
@@ -109,17 +76,13 @@ toc: true
 <p id="10">[10]: 十字架的意义，就是在基督里，是人与神、人与人之间完全和好。  <a href="#10_ref">&#8617;</a></p>
 <p id="11">[11]: 「进到」（18节）用来描写把人带到神前奉献任圣职，也用来叙述把人带来觐见皇帝。我们得以「进到父面前」（18节），是借着圣父的拣选（一4）、圣子的完成（15-16节）和圣灵的感动。  <a href="#11_ref">&#8617;</a></p>
 <p id="12">[12]: 「被建造」（20节）指明了一个事实，不是信徒在一起出主意、出力量建造教会，而是人作为材料被神使用来建造教会。 <a href="#12_ref">&#8617;</a></p> 
-<a href = "https://cmcbiblereading.com/2014/11/23/%e4%bb%a5%e5%bc%97%e6%89%80%e4%b9%a6%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/" target="_blank" rel="noopener noreferrer">以弗所书第2章逐节注解、祷读</a>
+<a href = "https://cmcbiblereading.com/2014/11/23/%e4%bb%a5%e5%bc%97%e6%89%80%e4%b9%a6%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/" target="_blank" rel="noopener noreferrer">Ephesians第2章逐节注解、祷读</a>
 
 
 ---
 
-<script src="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra.js" 
-        integrity="sha384-kVFpui/QIbzb/ptM/MkYo+MNKX24PUVJwldqzR7LKCwn2j7bi1zfiIt6PKy1F9Ku" 
-        crossorigin="anonymous"></script>
-<link href="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra-style.css" rel="stylesheet" type="text/css" />
-<script>
-  ezraLinkifier.setLang('zh-Hans');
-  ezraLinkifier.linkify(document.body);
-</script>
+[2022.11.20 LBC Sunday Ephesians 2:1-8]  
+
+Mercy: what we deserve, God does not give it to us, such as death;  
+Grace: What we don't deserve, God gives it to us, such as life.  
 

@@ -11,7 +11,7 @@ lastmod: "2022-08-17"
 series:
 toc: true
 ---
-以弗所书 
+Ephesians 
 
 <!--more-->
 ---
@@ -67,7 +67,7 @@ Brother M.Y.: It is easy for me to focus on my problems, because we are tend to 
 第一是「祂的恩召有何等指望」（18节），因为我们里面有圣灵作为「凭据」（14节），使我们被这荣耀的盼望（来二10）所吸引，这盼望就决定了我们今生的人生态度（约壹三2-3）。  
 第二是「祂在圣徒中得的基业有何等丰盛的荣耀」（18节），神呼召我们，不只是让我们重生得救，承受祂的「基业」（14节），更要我们长成基督的样式，被建造成基督的「身体」<u>教会</u>（23节）， 这渐渐长成的「主的圣殿」（二21）是神荣耀的「基业」（出十九5），是让神心满意足、得着安息的「家」（二19）。  
 第三是「祂向我们这信的人所显的能力是何等浩大」（19节），这能力是复活的能力（20节），神曾经运用在基督的身上，使基督复活、升高，如今要照样运用在信徒身上。  
-[以弗所书第1章逐节注解、祷读](https://cmcbiblereading.com/2014/11/23/%e4%bb%a5%e5%bc%97%e6%89%80%e4%b9%a6%e7%ac%ac1%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
+[Ephesians第1章逐节注解、祷读](https://cmcbiblereading.com/2014/11/23/%e4%bb%a5%e5%bc%97%e6%89%80%e4%b9%a6%e7%ac%ac1%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
 
 ---
 NLT uses "the authority of Christ".  
@@ -79,15 +79,15 @@ NLT uses "the authority of Christ".
 22 God has put all things <u>under the authority of Christ</u> and has made him head over all things for the benefit of the church.
 
 ---
-<iframe width="360" height="200" src="https://www.youtube.com/embed/vZvA9xcb_H8?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：以弗所书第一章：神提供的救恩 01 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+<iframe width="360" height="200" src="https://www.youtube.com/embed/vZvA9xcb_H8?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：Ephesians第一章：神提供的救恩 01 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 
 以下讲道里，45:30分钟开始讲他的救恩观点。没有提到三元论，倒是提到预定论。
-<iframe width="360" height="200" src="https://www.youtube.com/embed/6RDz7CHAdtg?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：以弗所书第一章：神提供的救恩 02 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="360" height="200" src="https://www.youtube.com/embed/6RDz7CHAdtg?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：Ephesians第一章：神提供的救恩 02 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<br><iframe width="360" height="200" src="https://www.youtube.com/embed/SWw_kAC1l8c?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：以弗所书第一章：神提供的救恩 03 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<br><iframe width="360" height="200" src="https://www.youtube.com/embed/SWw_kAC1l8c?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：Ephesians第一章：神提供的救恩 03 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<iframe width="360" height="200" src="https://www.youtube.com/embed/coNbTztBwEo?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：以弗所书第一章：神提供的救恩 04 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="360" height="200" src="https://www.youtube.com/embed/coNbTztBwEo?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：Ephesians第一章：神提供的救恩 04 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/QaTAoibExkE" title="『成全聖徒，各盡其職』（7）：保羅在成全以弗所聖徒上所立的榜樣" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
