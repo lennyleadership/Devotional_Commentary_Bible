@@ -1,17 +1,19 @@
 ---
+weight: 16
+title: Psalm 16
 authors: Lenny
 categories: null
-date: "2022-04-19"
+tags: [旷野吗哪, 信心]
 description: 
 draft: false
+date: "2022-04-19"
 lastmod: "2022-04-26"
 series: 
-tags: [旷野吗哪, 信心]
-title: 016 诗十六章
 toc: true
 ---
 Psalms
 <!--more-->
+----
 
 16:1 〔大卫的金诗。〕　神阿、求你保佑我、因为我投靠你。  
 16:2 我的心哪、你曾对耶和华说、你是我的主。  我的好处不在你以外。  

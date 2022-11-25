@@ -1,15 +1,17 @@
 ---
+weight: 23
+title: Psalm 23
 authors: Lenny
 categories: null
-date: "2022-04-19"
+tags: [旷野吗哪]
 description: 
 draft: false
+date: "2022-04-19"
 lastmod: "2022-04-26"
 series: 
-tags: [旷野吗哪]
-title: 023 诗二十三章
 toc: true
 ---
+
 Psalms
 <!--more-->
 

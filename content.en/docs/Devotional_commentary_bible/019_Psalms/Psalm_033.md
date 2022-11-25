@@ -1,17 +1,20 @@
 ---
+weight: 33
+title: Psalm 33
 authors: Lenny
 categories: null
-date: "2022-04-19"
+tags: []
 description: 
 draft: false
+date: "2022-04-19"
 lastmod: "2022-04-26"
 series: 
-tags: 
-title: 033 诗三十三章
 toc: true
 ---
+
 Psalms
 <!--more-->
+----
 
 33:1 义人哪、你们应当靠耶和华欢乐。正直人的赞美是合宜的。  
 33:2 你们应当弹琴称谢耶和华、用十弦瑟歌颂他。  

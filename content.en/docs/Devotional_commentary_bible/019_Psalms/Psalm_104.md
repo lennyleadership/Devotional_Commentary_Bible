@@ -1,6 +1,6 @@
 ---
 weight: 104
-title: 诗一百零四章
+title: Psalm 104
 authors: Lenny
 categories: null
 tags: []
@@ -13,6 +13,7 @@ toc: true
 ---
 Psalms
 <!--more-->
+----
 
 104:1 我的心哪、你要称颂耶和华。耶和华我的　神阿、你为至大。你以尊荣威严为衣服。  
 104:2 披上亮光、如披外袍。铺张穹苍、如铺幔子。  

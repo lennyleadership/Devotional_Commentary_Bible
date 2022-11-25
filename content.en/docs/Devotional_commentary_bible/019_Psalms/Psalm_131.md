@@ -1,17 +1,20 @@
 ---
+weight: 131
+title: Psalm 131
 authors: Lenny
 categories: null
-date: "2022-04-19"
+tags: [活泉小简, 安静, 司布真, Charles H. Spurgeon, 日记]
 description: 
 draft: false
-lastmod: "2022-05-04"
+date: "2022-04-19"
+lastmod: "2022-04-26"
 series: 
-tags: [活泉小简, 安静, 司布真, Charles H. Spurgeon, 日记]
-title: 131 诗一三一章
 toc: true
 ---
+
 Psalms
 <!--more-->
+----
 
 131:1 〔大卫上行之诗。〕耶和华阿、我的心不狂傲、我的眼不高大。重大和测不透的事、我也不敢行。  
 131:2 我的心平稳安静、好像断过奶的孩子在他母亲的怀中。我的心在我里面真像断过奶的孩子。[^1]  
