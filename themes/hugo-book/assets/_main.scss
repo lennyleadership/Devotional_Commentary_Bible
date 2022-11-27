@@ -620,14 +620,15 @@ figcaption.bottom {
   
   overflow-y: inherit; /*new*/
   
-  word-wrap: break-word;
+  /*word-wrap: break-word;*/
 
-  /*width: 250px;*/
+  width: max-content;
   background-color: #f1e4ff;
   color: black;
   text-align: left;
   border-radius: 5px;
-  padding: 10px;
+  /* top, right, bottom, left*/
+  padding: 10px 20px 10px 20px;
   margin-left: 50px;
   /* fade-in*/
   opacity: 0;  
