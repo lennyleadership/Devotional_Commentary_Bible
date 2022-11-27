@@ -3,7 +3,7 @@ weight: 123
 title: Psalm 123
 authors: Lenny
 categories: null
-tags: []
+tags: [Tab demo, My Utmost]
 description: 
 draft: false
 date: "2022-11-24"
@@ -19,7 +19,7 @@ toc: true
 
 <div class="tab">
   <button class="tablinks active" onclick="openReference(event, 'Psalm 123')">Psalm 123</button>
-  <button class="tablinks" onclick="openReference(event, 'Direction of Focus')">Direction of Focus</button>
+  <button class="tablinks" onclick="openReference(event, 'Devotion1')">Direction of Focus</button>
   <button class="tablinks" onclick="openReference(event, 'Devotion2')">Devotion2</button>
 </div>
 
@@ -32,9 +32,12 @@ toc: true
 <br>123:4 Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.  
 </div>
 
-<div id="Direction of Focus" class="tabcontent">
-  <h3><b>Direction of Focus</b></h3>
-  <p>   
+<div id="Devotion1" class="tabcontent">
+  <h3></h3>
+  <p>
+  My Utmost for His Highest
+  
+  by Oswald Chamber
 
 Behold, as the eyes of servants look to the hand of their masters…, so our eyes look to the Lord our God… — Psalm 123:2
 

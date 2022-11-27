@@ -1,6 +1,6 @@
 ---
 weight: 46
-title: Psalm 416
+title: Psalm 46
 authors: Lenny
 categories: null
 tags: []
@@ -13,7 +13,7 @@ toc: true
 ---
 
 
-Psalms
+
 <!--more-->
 
 46:1 〔可拉后裔的诗歌、交与伶长、调用女音。〕　神是我们的避难所、是我们的力量、是我们在患难中随时的帮助。  
