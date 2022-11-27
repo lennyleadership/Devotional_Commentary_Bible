@@ -60,20 +60,22 @@ For example, you came to a crisis in your life, took a stand for God, and even h
   >Have mercy on us, O Lord, have mercy on us! For we are exceedingly filled with contempt. 
   >— Psalm 123:3
   
-What we must beware of is not damage to our belief in God but damage to our Christian disposition or state of mind. “Take heed to your spirit, that you do not deal treacherously” (Malachi 2:16). Our state of mind is powerful in its effects. It can be the enemy that penetrates right into our soul and distracts our mind from God. There are certain attitudes we should never dare to indulge. If we do, we will find they have distracted us from faith in God. Until we get back into a quiet mood before Him, our faith is of no value, and our confidence in the flesh and in human ingenuity is what rules our lives.
+What we must beware of is not damage to our belief in God but damage to our Christian disposition or <a class = "hovertip" data-html="true" tooltip_text = "心智">state of mind</a>. “Take heed to your spirit, that you do not deal treacherously” (Malachi 2:16). Our state of mind is powerful in its effects. It can be the enemy that penetrates right into our soul and distracts our mind from God. There are certain attitudes we should never dare to <a class = "hovertip" data-html="true" tooltip_text = "放任">indulge</a>. If we do, we will find they have distracted us from faith in God. Until we get back into a quiet mood before Him, our faith is of no value, and our confidence in the flesh and in human ingenuity is what rules our lives. <a class = "marginnote"> difference: faith vs confidence</a>
 
-Beware of “the cares of this world…” (Mark 4:19). They are the very things that produce the wrong attitudes in our soul. It is incredible what enormous power there is in simple things to distract our attention away from God. Refuse to be swamped by “the cares of this world.”
+Beware of “<a class = "hovertip" data-html="true" tooltip_text = "今生的忧虑">the cares of this world…</a>” (Mark 4:19). They are the very things that produce the wrong attitudes in our soul. It is incredible what enormous power there is in simple things to distract our attention away from God. Refuse to be <a class = "hovertip" data-html="true" tooltip_text = "占有 所以当谨守你们的心，不可行诡诈。">swamped</a> by “the cares of this world.”
 
-Another thing that distracts us is our passion for vindication. St. Augustine prayed, “O Lord, deliver me from this lust of always vindicating myself.” Such a need for constant vindication destroys our soul’s faith in God. Don’t say, “I must explain myself,” or, “I must get people to understand.” Our Lord never explained anything— He left the misunderstandings or misconceptions of others to correct themselves.
+Another thing that distracts us is our passion for <a class = "hovertip" data-html="true" tooltip_text = "好辩">vindication</a>. St. Augustine prayed, “O Lord, deliver me from this lust of always vindicating myself.” Such a need for constant vindication destroys our soul’s faith in God. Don’t say, “I must explain myself,” or, “I must get people to understand.” Our Lord never explained anything— He left the misunderstandings or misconceptions of others to correct themselves.
 
 When we discern that other people are not growing spiritually and allow that discernment to turn to criticism, we block our fellowship with God. God never gives us discernment so that we may criticize, but that we may intercede.
 
 <b><font class = "font_upper">source</font></b>: <a href = "https://utmost.org/the-distraction-of-contempt/" target="_blank" rel="noopener noreferrer">My Utmost for His Highest: November 23</a>
 
+----
+<h3>使信徒分心的事</h3>
 
 >耶和华啊，求你怜悯我们，怜悯我们因为我们被藐视已到极处。（诗一二三3）
 
-最要当心的，不是那些破坏我们对神信仰的事，而是破坏我们基督徒性情的事。[所以当谨守你们的心，不可行诡诈。]心智的影响至大，它是直透人心灵的仇敌，叫人的心偏离神。心智的某些倾向，是绝不容稍有放任的；若放任，就使我们对神的信心偏离。除非回复在神面前安息的心，否则我们对他的信心就尽失，掌管我们的只是对肉体和智慧的信心。
+最要当心的，不是那些破坏我们对神信仰的事，而是破坏我们基督徒性情的事。[所以当谨守你们的心，不可行诡诈。] 心智的影响至大，它是直透人心灵的仇敌，叫人的心偏离神。心智的某些倾向，是绝不容稍有放任的；若放任，就使我们对神的信心偏离。除非回复在神面前安息的心，否则我们对他的信心就尽失，掌管我们的只是对肉体和智慧的信心。
 
 提防[今生的忧虑]，因为这些事叫心灵产生错误的性情。很细微的事也足以分散我们对神的心，其能力之大，叫人诧异。要拒绝被今生的挂虑所占有。
 
@@ -84,5 +86,7 @@ When we discern that other people are not growing spiritually and allow that dis
 <b><font class = "font_upper">source</font></b>: <a href = "https://wellsofgrace.com/daily-ch/2022/11/23/" target="_blank" rel="noopener noreferrer">《竭诚为主》11月23日 使信徒分心的事</a>
 </div>
   
+
+
 
 

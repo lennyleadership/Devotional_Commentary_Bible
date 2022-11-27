@@ -605,10 +605,13 @@ figcaption.bottom {
   caption-side: bottom;
 }
 
+
+
 /* section: Tooltip */
 .hovertip {
   position: relative;
   border-bottom: 1px dotted black;
+  
 }
 
 .hovertip:before {
@@ -616,9 +619,11 @@ figcaption.bottom {
   visibility: hidden;
   
   overflow-y: inherit; /*new*/
+  
+  word-wrap: break-word;
 
-  width: 250px;
-  background-color: #add8e6;
+  /*width: 250px;*/
+  background-color: #f1e4ff;
   color: black;
   text-align: left;
   border-radius: 5px;
@@ -651,6 +656,9 @@ figcaption.bottom {
   visibility: visible;
 }
 /* Section end*/
+
+
+
 
 
 /* set the figure caption with the same wide of figure*/
