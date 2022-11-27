@@ -399,20 +399,6 @@ body[dir="rtl"] .book-menu {
   }
 }
 
-// Extra space for big screens
-@media screen and (min-width: $container-max-width) {
-  .book-page,
-  .book-menu .book-menu-content,
-  .book-toc .book-toc-content {
-    padding: $padding-16 * 2 $padding-16;
-  }
-}
-
-
-
-
-
-
 
 
   b,
@@ -623,6 +609,7 @@ figcaption.bottom {
   /*word-wrap: break-word;*/
 
   width: max-content;
+  max-width: 250px;
   background-color: #f1e4ff;
   color: black;
   text-align: left;
@@ -872,4 +859,11 @@ label.margin-toggle:not(.sidenote-number) {
  }
  
  
-
+// Extra space for big screens
+@media screen and (min-width: $container-max-width) {
+  .book-page,
+  .book-menu .book-menu-content,
+  .book-toc .book-toc-content {
+    padding: $padding-16 * 2 $padding-16;
+  }
+}

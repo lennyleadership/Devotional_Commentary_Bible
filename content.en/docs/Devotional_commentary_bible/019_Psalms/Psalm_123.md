@@ -3,7 +3,7 @@ weight: 123
 title: Psalm 123
 authors: Lenny
 categories: null
-tags: [Tab demo, My Utmost]
+tags: [Tab demo, My Utmost, Tooltip demo]
 description: 
 draft: false
 date: "2022-11-24"
@@ -62,7 +62,7 @@ For example, you came to a crisis in your life, took a stand for God, and even h
   
 What we must beware of is not damage to our belief in God but damage to our Christian disposition or <a class = "hovertip" data-html="true" tooltip_text = "心智">state of mind</a>. “Take heed to your spirit, that you do not deal treacherously” (Malachi 2:16). Our state of mind is powerful in its effects. It can be the enemy that penetrates right into our soul and distracts our mind from God. There are certain attitudes we should never dare to <a class = "hovertip" data-html="true" tooltip_text = "放任">indulge</a>. If we do, we will find they have distracted us from faith in God. Until we get back into a quiet mood before Him, our faith is of no value, and our confidence in the flesh and in human ingenuity is what rules our lives. <a class = "marginnote"> difference: faith vs confidence</a>
 
-Beware of “<a class = "hovertip" data-html="true" tooltip_text = "今生的忧虑">the cares of this world…</a>” (Mark 4:19). They are the very things that produce the wrong attitudes in our soul. It is incredible what enormous power there is in simple things to distract our attention away from God. Refuse to be <a class = "hovertip" data-html="true" tooltip_text = "占有 所以当谨守你们的心，不可行诡诈。">swamped</a> by “the cares of this world.”
+Beware of “<a class = "hovertip" data-html="true" tooltip_text = "今生的忧虑">the cares of this world…</a>” (Mark 4:19). They are the very things that produce the wrong attitudes in our soul. It is incredible what enormous power there is in simple things to distract our attention away from God. Refuse to be <a class = "hovertip" data-html="true" tooltip_text = "占有 最要当心的，不是那些破坏我们对神信仰的事，而是破坏我们基督徒性情的事。[所以当谨守你们的心，不可行诡诈。]">swamped</a> by “the cares of this world.”
 
 Another thing that distracts us is our passion for <a class = "hovertip" data-html="true" tooltip_text = "好辩">vindication</a>. St. Augustine prayed, “O Lord, deliver me from this lust of always vindicating myself.” Such a need for constant vindication destroys our soul’s faith in God. Don’t say, “I must explain myself,” or, “I must get people to understand.” Our Lord never explained anything— He left the misunderstandings or misconceptions of others to correct themselves.
 
