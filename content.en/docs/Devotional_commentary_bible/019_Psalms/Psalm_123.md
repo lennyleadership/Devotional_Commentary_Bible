@@ -19,8 +19,8 @@ toc: true
 
 <div class="tab">
   <button class="tablinks active" onclick="openReference(event, 'Psalm 123')">Psalm 123</button>
-  <button class="tablinks" onclick="openReference(event, 'Devotion1')">Direction of Focus</button>
-  <button class="tablinks" onclick="openReference(event, 'Devotion2')">Devotion2</button>
+  <button class="tablinks" onclick="openReference(event, 'Devotion1')">verse 2</button>
+  <button class="tablinks" onclick="openReference(event, 'Devotion2')">verse 3</button>
 </div>
 
 <!-- Tab content -->
@@ -49,8 +49,24 @@ For example, you came to a crisis in your life, took a stand for God, and even h
 </div>
 
 <div id="Devotion2" class="tabcontent">
-  <h3>Devotion2</h3>
-  <p>Tokyo is the capital of Japan.</p>
+  <h3>The Distraction of Contempt</h3>
+  <p>
+  My Utmost for His Highest
+  
+  by Oswald Chamber
+  
+What we must beware of is not damage to our belief in God but damage to our Christian disposition or state of mind. “Take heed to your spirit, that you do not deal treacherously” (Malachi 2:16). Our state of mind is powerful in its effects. It can be the enemy that penetrates right into our soul and distracts our mind from God. There are certain attitudes we should never dare to indulge. If we do, we will find they have distracted us from faith in God. Until we get back into a quiet mood before Him, our faith is of no value, and our confidence in the flesh and in human ingenuity is what rules our lives.
+
+Beware of “the cares of this world…” (Mark 4:19). They are the very things that produce the wrong attitudes in our soul. It is incredible what enormous power there is in simple things to distract our attention away from God. Refuse to be swamped by “the cares of this world.”
+
+Another thing that distracts us is our passion for vindication. St. Augustine prayed, “O Lord, deliver me from this lust of always vindicating myself.” Such a need for constant vindication destroys our soul’s faith in God. Don’t say, “I must explain myself,” or, “I must get people to understand.” Our Lord never explained anything— He left the misunderstandings or misconceptions of others to correct themselves.
+
+When we discern that other people are not growing spiritually and allow that discernment to turn to criticism, we block our fellowship with God. God never gives us discernment so that we may criticize, but that we may intercede.
+
+<b><font class = "font_upper">source</font></b>: <a href = "https://utmost.org/" target="_blank" rel="noopener noreferrer">My Utmost for His Highest: November 23</a></p>
+</div>
+  
+  </p>
 </div>
 
 
