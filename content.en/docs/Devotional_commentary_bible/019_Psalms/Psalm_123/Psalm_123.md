@@ -7,11 +7,11 @@ tags: []
 description: 
 draft: false
 date: "2022-11-24"
-lastmod: "2022-11-24"
+lastmod: "2022-11-26"
 series: 
 toc: true
 ---
-Psalms
+
 <!--more-->
 ---
 
@@ -26,7 +26,7 @@ Psalms
 <!-- Tab content -->
 <div id="Psalm 123" class="tabcontent" style="display:block">
   <h3>Psalm 123</h3>
-123:1 Unto thee lift I up mine eyes, O thou that dwellest in the heavens.    
+123:1 Unto thee lift I up mine eyes, O thou that dwellest in the heavens. <a class = "marginnote">excellent</a>      
 <br>123:2 Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us.    
 <br>123:3 Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.    
 <br>123:4 Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.  
