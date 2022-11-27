@@ -26,7 +26,7 @@ toc: true
 <!-- Tab content -->
 <div id="Psalm 123" class="tabcontent" style="display:block">
   <h3>Psalm 123</h3>
-123:1 Unto thee lift I up mine eyes, O thou that dwellest in the heavens. <a class = "marginnote">excellent</a>      
+123:1 Unto thee lift I up mine eyes, O thou that dwellest in the heavens.
 <br>123:2 Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us.    
 <br>123:3 Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.    
 <br>123:4 Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.  
@@ -47,12 +47,12 @@ This verse is a description of total reliance on God. Just as the eyes of a serv
 
 For example, you came to a crisis in your life, took a stand for God, and even had the witness of the Spirit as a confirmation that what you did was right. But now, maybe weeks or years have gone by, and you are slowly coming to the conclusion — "Well, maybe what I did showed too much pride or was superficial. Was I taking a stand a bit too high for me?" Your "rational" friends come and say, "Don’t be silly. We knew when you first talked about this spiritual awakening that it was a passing impulse, that you couldn’t hold up under the strain. And anyway, God doesn’t expect you to endure." You respond by saying, “Well, I suppose I was expecting too much.” That sounds humble to say, but it means that your reliance on God is gone, and you are now relying on worldly opinion. The danger comes when, no longer relying on God, you neglect to focus your eyes on Him. Only when God brings you to a sudden stop will you realize that you have been the loser. Whenever there is a spiritual drain in your life, correct it immediately. Realize that something has been coming between you and God, and change or remove it at once.
 
-<b><font class = "font_upper">source</font></b>: <a href = "https://utmost.org/" target="_blank" rel="noopener noreferrer">My Utmost for His Highest: November 24</a></p>
+<b><font class = "font_upper">source</font></b>: <a href = "https://utmost.org/direction-of-focus/" target="_blank" rel="noopener noreferrer">My Utmost for His Highest: November 24</a></p>
 </div>
 
 <div id="Devotion2" class="tabcontent">
   <h3>The Distraction of Contempt</h3>
-  <p>
+
   My Utmost for His Highest
   
   by Oswald Chamber
@@ -68,10 +68,21 @@ Another thing that distracts us is our passion for vindication. St. Augustine pr
 
 When we discern that other people are not growing spiritually and allow that discernment to turn to criticism, we block our fellowship with God. God never gives us discernment so that we may criticize, but that we may intercede.
 
-<b><font class = "font_upper">source</font></b>: <a href = "https://utmost.org/" target="_blank" rel="noopener noreferrer">My Utmost for His Highest: November 23</a></p>
+<b><font class = "font_upper">source</font></b>: <a href = "https://utmost.org/the-distraction-of-contempt/" target="_blank" rel="noopener noreferrer">My Utmost for His Highest: November 23</a>
+
+
+>耶和华啊，求你怜悯我们，怜悯我们因为我们被藐视已到极处。（诗一二三3）
+
+最要当心的，不是那些破坏我们对神信仰的事，而是破坏我们基督徒性情的事。[所以当谨守你们的心，不可行诡诈。]心智的影响至大，它是直透人心灵的仇敌，叫人的心偏离神。心智的某些倾向，是绝不容稍有放任的；若放任，就使我们对神的信心偏离。除非回复在神面前安息的心，否则我们对他的信心就尽失，掌管我们的只是对肉体和智慧的信心。
+
+提防[今生的忧虑]，因为这些事叫心灵产生错误的性情。很细微的事也足以分散我们对神的心，其能力之大，叫人诧异。要拒绝被今生的挂虑所占有。
+
+另一分心的事，就是好辩的欲念。圣奥古斯丁祷告说：[主啊，就我脱离自我辩护的情欲。]心智的倾向，会破坏对神的信心。[我一定要为自己解释清楚，我一定要叫人明白。]主从来不解释什么；他让自己更正错处。我们有时察觉别人的属灵生命停滞不前，接着就批评起来；这样，我们就阻塞了通往神的道路。神给我们洞悉力，并不是要我们批评，乃是要我们代求。
+
+祈祷◆多少时候，我发现在我里面的是[驴]，而不是我的智力，[看见耶和华的使者而跨进田间]。主啊，求你加添我属灵的敏锐，以致我可以察觉到你最微小的举动。
+
+<b><font class = "font_upper">source</font></b>: <a href = "https://wellsofgrace.com/daily-ch/2022/11/23/" target="_blank" rel="noopener noreferrer">《竭诚为主》11月23日 使信徒分心的事</a>
 </div>
   
-  </p>
-</div>
 
 
