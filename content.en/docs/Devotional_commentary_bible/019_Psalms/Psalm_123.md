@@ -33,13 +33,15 @@ toc: true
 </div>
 
 <div id="Devotion1" class="tabcontent">
-  <h3></h3>
+  <h3>Direction of Focus</h3>
   <p>
   My Utmost for His Highest
   
   by Oswald Chamber
 
-Behold, as the eyes of servants look to the hand of their masters…, so our eyes look to the Lord our God… — Psalm 123:2
+>Behold, as the eyes of servants look to the hand of their masters…, so our eyes look to the Lord our God… 
+
+>— Psalm 123:2
 
 This verse is a description of total reliance on God. Just as the eyes of a servant are riveted on his master, our eyes should be directed to and focused on God. This is how knowledge of His countenance is gained and how God reveals Himself to us (see Isaiah 53:1). Our spiritual strength begins to be drained when we stop lifting our eyes to Him. Our stamina is sapped, not so much through external troubles surrounding us but through problems in our thinking. We wrongfully think, “I suppose I’ve been stretching myself a little too much, standing too tall and trying to look like God instead of being an ordinary humble person.” We have to realize that no effort can be too high.  
 
@@ -54,6 +56,9 @@ For example, you came to a crisis in your life, took a stand for God, and even h
   My Utmost for His Highest
   
   by Oswald Chamber
+  
+  >Have mercy on us, O Lord, have mercy on us! For we are exceedingly filled with contempt. 
+  >— Psalm 123:3
   
 What we must beware of is not damage to our belief in God but damage to our Christian disposition or state of mind. “Take heed to your spirit, that you do not deal treacherously” (Malachi 2:16). Our state of mind is powerful in its effects. It can be the enemy that penetrates right into our soul and distracts our mind from God. There are certain attitudes we should never dare to indulge. If we do, we will find they have distracted us from faith in God. Until we get back into a quiet mood before Him, our faith is of no value, and our confidence in the flesh and in human ingenuity is what rules our lives.
 
