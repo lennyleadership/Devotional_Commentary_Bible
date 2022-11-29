@@ -3,11 +3,11 @@ weight: 10
 title: 1 Corinthians 10
 authors: Lenny
 categories: null
-tags: [My Utmost for His Highest]
+tags: [My Utmost]
 description: 
 draft: false
 date: "2022-11-16"
-lastmod: "2022-11-16"
+lastmod: "2022-11-27"
 series:
 toc: true
 ---
@@ -15,6 +15,16 @@ toc: true
 <!--more-->
 ---
 
+<!-- Tab links -->
+
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'verses')">Chapter 10</button>
+  <button class="tablinks" onclick="tablabel(event, 'Devotion1')">verse 31</button>
+  <button class="tablinks" onclick="tablabel(event, 'Devotion2')">verse 31</button>
+</div>
+
+<!-- Tab content -->
+<div id="verses" class="tabcontent" style="display:block">
 
 10:1 Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;  
 10:2 And were all baptized unto Moses in the cloud and in the sea;  
@@ -52,18 +62,17 @@ toc: true
 10:29 Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man's conscience?  
 10:30 For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?  
 
-10:31 Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.  <a id="1_ref" href = "#1">[1]</a>   
+10:31 Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.    
 10:32 Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:  
 10:33 Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved.  
 
----
+</div>
 
-<p id="1">[1]  
-<b><font class = "font_upper">Still Human</font></b>!   
+<div id="Devotion1" class="tabcontent">
+  <h2>Still Human</h2>
+  By Oswald Chambers   
 
-By Oswald Chambers   
-
-…whatever you do, do all to the glory of God. — 1 Corinthians 10:31  
+>*…whatever you do, do all to the glory of God. — 1 Corinthians 10:31*  
 
 In the Scriptures, the great miracle of the incarnation slips into the ordinary life of a child; the great miracle of the transfiguration fades into the demon-possessed valley below; the glory of the resurrection descends into a breakfast on the seashore. This is not an anticlimax, but a great revelation of God.  
 
@@ -73,7 +82,10 @@ We want to be able to say, “Oh, I have had a wonderful call from God!” But t
 
 <b><font class = "font_upper">source</font></b>: <a href = "https://utmost.org/still-human/" target="_blank" rel="noopener noreferrer">My Utmost for His Highest - Still Human</a>
 
-仍然是人  
+
+---
+
+<h2>仍然是人</h2>  
 
 无论作什么，都要为荣耀神而行。（林前十31）  
 
@@ -85,26 +97,23 @@ We want to be able to say, “Oh, I have had a wonderful call from God!” But t
 
 祈祷◆主啊，在今天的读经中，以下这句话使我的心灵震荡－－[摩西这样行，耶和华怎样吩咐他，他就照样行了。]   
 
-<b><font class = "font_upper">来源</font></b>： <a href = "https://wellsofgrace.com/daily-ch/category/upmost/" target="_blank" rel="noopener noreferrer">每日灵粮：竭诚为主</a>
+<b><font class = "font_upper">来源</font></b>： <a href = "https://wellsofgrace.com/daily-ch/2022/11/16/" target="_blank" rel="noopener noreferrer">每日灵粮：《竭诚为主》11月16日 仍然是人</a>
 
-<a href="#1_ref">&#8617;</a></p>
+</div>
 
 
 ---
 
-<script>
-    var refTagger = {
-        settings: {
-            bibleVersion: "KJV" /*hlybblsmpshndtn*/
-        }
-    }; 
+<div id="Devotion2" class="tabcontent">
+<h2>Lenny's meditation</h2>
 
-    (function(d, t) {
-        var n=d.querySelector('[nonce]');
-        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-        g.nonce = refTagger.settings.nonce;
-        s.parentNode.insertBefore(g, s);
-    }(document, 'script'));
-</script>
+[2022.11.27]  
+
+中国有一句智慧的话，勿以善小而不为，勿以恶小而为之。  
+
+我常常不在乎对待家人的态度，在言语上表现不恭。养成了下意识的动作。  
+
+
+
+
+</div>

@@ -18,9 +18,9 @@ toc: true
 <!-- Tab links -->
 
 <div class="tab">
-  <button class="tablinks active" onclick="openReference(event, 'bible')">tab1</button>
-  <button class="tablinks" onclick="openReference(event, 'Devotion1')">OC</button>
-  <button class="tablinks" onclick="openReference(event, 'Devotion2')">Devotion2</button>
+  <button class="tablinks active" onclick="tablabel(event, 'bible')">tab1</button>
+  <button class="tablinks" onclick="tablabel(event, 'Devotion1')">OC</button>
+  <button class="tablinks" onclick="tablabel(event, 'Devotion2')">Devotion2</button>
 </div>
 
 <!-- Tab content -->

@@ -92,20 +92,5 @@ Book of Luke
 2022.08.03 在Kevin Yip家中周三查经聚会中我们查到35-48节，关于仆人的比喻。  
 Kevin引用了<cite class="bibleref" title="1 Corinthian 3:10-15" >林前3:10-15</cite>，并且用了勉强得救一说 (English: be saved by the skin of the (your) teeth)，典出<cite class="bibleref" title="Job 19:20" >伯19：20</cite>。
 
-<script>
-	var refTagger = {
-		settings: {
-			bibleVersion: "hlybblsmpshndtn" /*'KJV'*/
-		}
-	}; 
 
-	(function(d, t) {
-		var n=d.querySelector('[nonce]');
-		refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-		g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-		g.nonce = refTagger.settings.nonce;
-		s.parentNode.insertBefore(g, s);
-	}(document, 'script'));
-</script>
 

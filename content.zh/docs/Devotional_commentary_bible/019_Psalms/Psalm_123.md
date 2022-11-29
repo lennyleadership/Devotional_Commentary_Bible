@@ -21,9 +21,9 @@ toc: true
 
 
 <div class="tab">
-  <button class="tablinks active" onclick="openReference(event, 'Psalm 123')">诗篇 123</button>
-  <button class="tablinks" onclick="openReference(event, 'Devotion1')">第二节</button>
-  <button class="tablinks" onclick="openReference(event, 'Devotion2')">第三节</button>
+  <button class="tablinks active" onclick="tablabel(event, 'Psalm 123')">诗篇 123</button>
+  <button class="tablinks" onclick="tablabel(event, 'Devotion1')">第二节</button>
+  <button class="tablinks" onclick="tablabel(event, 'Devotion2')">第三节</button>
 </div>
 
 <!-- Tab content -->
