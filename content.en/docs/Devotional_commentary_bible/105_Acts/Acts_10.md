@@ -1,6 +1,6 @@
 ---
-weight: 
-title: 
+weight: 10
+title: Acts 10
 authors: Lenny
 categories: null
 tags: 

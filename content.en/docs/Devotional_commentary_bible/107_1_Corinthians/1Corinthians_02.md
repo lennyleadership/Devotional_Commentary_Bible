@@ -84,13 +84,14 @@ Once you are rooted in reality, nothing can shake you. If your faith is in exper
 
 ----
 
-WISDOM FROM OSWALD CHAMBERS  
+<h2>WISDOM FROM OSWALD CHAMBERS<</h2>  
 
 The emphasis to-day is placed on the furtherance of an organization; the note is, “We must keep this thing going.” If we are in God’s order the thing will go; if we are not in His order, it won’t.  Conformed to His Image, 357 R
 
 
 ----
 
+<h2>Lenny's thought</h2>
 Brother L: Believers are eager to experience miraclous experience, and yet forget to connect it to the life fruit.  Today's devotion helped me make such connection.
 
 </div>

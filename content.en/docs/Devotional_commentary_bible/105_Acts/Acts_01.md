@@ -1,5 +1,5 @@
 ---
-weight: 
+weight: 1
 title: 
 authors: Lenny
 categories: null

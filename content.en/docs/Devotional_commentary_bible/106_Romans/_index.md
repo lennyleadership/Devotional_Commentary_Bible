@@ -1,6 +1,6 @@
 ---
 Weight: 106
-title: 罗马书
+title: Romans
 authors: Lenny Lin
 categories: null
 tags: 
@@ -12,7 +12,7 @@ series:
 toc: true
 bookCollapseSection: true
 ---
-罗马书
+
 
 <!--more-->
 
