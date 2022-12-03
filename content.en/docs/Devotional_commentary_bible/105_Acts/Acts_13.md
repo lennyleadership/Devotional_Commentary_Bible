@@ -25,6 +25,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 13:1 Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.  
 13:2 As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them.  
 13:3 And when they had fasted and prayed, and laid their hands on them, they sent them away.  
@@ -50,7 +51,7 @@ toc: true
 13:20 And after that he gave unto them judges about the space of four hundred and fifty years, until Samuel the prophet.  
 
 13:21 And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years.  
-13:22 And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfill all my will. <a class = "marginnote">a man after mine own heart: understand the cross, the blood</a>  
+13:22 And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfill all my will. <a class = "marginnote">v22: a man after mine own heart: understand the cross and the blood; God's will: salvation, regeneration/ transformation</a>  
 13:23 Of this man's seed hath God according to his promise raised unto Israel a Saviour, Jesus:  
 13:24 When John had first preached before his coming the baptism of repentance to all the people of Israel.  
 13:25 And as John fulfilled his course, he said, Whom think ye that I am? I am not he. But, behold, there cometh one after me, whose shoes of his feet I am not worthy to loose.  
