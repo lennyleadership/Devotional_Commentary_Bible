@@ -20,7 +20,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'verses')">Chapter 10</button>
   <button class="tablinks" onclick="tablabel(event, 'Devotion1')">verse 31</button>
-  <button class="tablinks" onclick="tablabel(event, 'Devotion2')">verse 31</button>
+  
 </div>
 
 <!-- Tab content -->
@@ -99,12 +99,8 @@ We want to be able to say, “Oh, I have had a wonderful call from God!” But t
 
 <b><font class = "font_upper">来源</font></b>： <a href = "https://wellsofgrace.com/daily-ch/2022/11/16/" target="_blank" rel="noopener noreferrer">每日灵粮：《竭诚为主》11月16日 仍然是人</a>
 
-</div>
+----
 
-
----
-
-<div id="Devotion2" class="tabcontent">
 <h2>Lenny's meditation</h2>
 
 [2022.11.27]  
@@ -112,8 +108,8 @@ We want to be able to say, “Oh, I have had a wonderful call from God!” But t
 中国有一句智慧的话，勿以善小而不为，勿以恶小而为之。  
 
 我常常不在乎对待家人的态度，在言语上表现不恭。养成了下意识的动作。  
-
-
-
-
 </div>
+
+
+---
+
