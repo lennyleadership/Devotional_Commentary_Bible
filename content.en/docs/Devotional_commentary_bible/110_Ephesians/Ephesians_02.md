@@ -29,7 +29,7 @@ Ephesians
 2:1 And you hath he quickened, who were dead in trespasses and sins;      
 2:2 Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:   
 2:3 Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.  
-2:4 But God, who is rich in mercy, for his great love wherewith he loved us,
+2:4 But God, who is rich in mercy, for his great love wherewith he loved us,  
 2:5 Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)
 
 
@@ -134,7 +134,11 @@ Grace: What we don't deserve, God gives it to us, such as life.
 
 All believers and non-believers are masterpiece.  Non-believers like a painting with corruption on it.  Jesus removed the corruption with His blood, and the painting was restored.  
 
-Masterpiece has anew spirit.
+Masterpiece has an anew spirit.  
+
+Hebrews 12:7-15  Discipline  
+
+Philippians 1:6 keep the good work going 
 
 </div>
 
