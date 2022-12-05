@@ -16,6 +16,16 @@ toc: true
 <!--more-->
 ---
 
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+
 10:1 The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother.  
 10:2 Treasures of wickedness profit nothing: but righteousness delivereth from death.  
 10:3 The LORD will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked.  
@@ -54,6 +64,13 @@ toc: true
 
 10:31 The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out.  
 10:32 The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness.  
+
+</div>
+
+<div id="chinese" class="tabcontent">
+
+</div>
+
 
 
 

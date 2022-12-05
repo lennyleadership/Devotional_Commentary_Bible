@@ -16,6 +16,18 @@ toc: true
 <!--more-->
 ---
 
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+</div>
+
+<div id="chinese" class="tabcontent">
 8:1 智慧岂不呼叫、聪明岂不发声。  
 8:2 他在道旁高处的顶上、在十字路口站立。  
 8:3 在城门旁、在城门口、在城门洞、大声说、  
@@ -62,3 +74,5 @@ toc: true
 
 ---
 [^1]: 带应许的祝福。
+</div>
+
