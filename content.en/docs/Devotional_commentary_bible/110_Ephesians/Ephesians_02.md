@@ -37,7 +37,7 @@ Ephesians
 2:7 That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.  
 2:8 For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:  
 2:9 Not of works, lest any man should boast.  
-2:10 For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them. <a class = "marginnote">我的身份何等荣耀！</a>  
+2:10 For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.   
 
 
 2:11 Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;  
@@ -70,7 +70,7 @@ Ephesians
 2:7 要将他极丰富的恩典、就是他在基督耶稣里向我们所施的恩慈、显明给后来的世代看。  
 2:8 你们得救是本乎恩、也因着信、这并不是出于自己、乃是　神所赐的。&emsp;<a id="6_ref" href = "#6">[6]</a>  
 2:9 也不是出于行为、免得有人自夸。  
-2:10 我们原是他的工作、在基督耶稣里造成的、为要叫我们行善、就是　神所预备叫我们行的。&emsp;<a id="7_ref" href = "#7">[7]</a>  &emsp;<a id="13_ref" href = "#13">[13]</a>  
+2:10 我们原是他的工作、在基督耶稣里造成的、为要叫我们行善、就是　神所预备叫我们行的。&emsp;<a id="7_ref" href = "#7">[7]</a>  &emsp;<a id="13_ref" href = "#13">[13]</a> <a class = "marginnote">第10节：我的身份何等荣耀！</a>    
 
 2:11 所以你们应当记念、你们从前按肉体是外邦人、是称为没受割礼的这名原是那些凭人手在肉身上称为受割礼之人所起的。  
 2:12 那时、你们与基督无关、在以色列国民以外、在所应许的诸约上是局外人。并且活在世上没有指望、没有　神。  
