@@ -11,7 +11,7 @@ lastmod: "2022-12-04"
 series:
 toc: true
 ---
-Ephesians 
+Ephesians 2
 
 <!--more-->
 ---
@@ -21,6 +21,7 @@ Ephesians
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
   <button class="tablinks" onclick="tablabel(event, 'devotion1')">LBC</button>
+  <button class="tablinks" onclick="tablabel(event, 'devotion2')">Verse 10</button>
 </div>
 
 <!-- Tab content -->
@@ -143,5 +144,19 @@ Philippians 1:6 keep the good work going
 </div>
 
 
+<div id="devotion2" class="tabcontent">
 
+Date: 2022-Dec  
+
+Brother L: I felt I should add one comment on <b><font class = "font_upper">masterpiece/workmanship</font></b>, because one church I have been in Winnipeg preached self-esteem (自我价值、自我实现) before.  Although the preacher referred to the Bible verses, I don't think it is correct.  
+
+Churches should not promote self-esteem, because this idea over-values 'self', but I argue that our goal is 'yet not I, but through Christ Jesus in me', our goal is 'deny ourselves'.  
+
+On the other hand, even though we are wonderfully made.  There would be more meanings to 'masterpiece', beyond creation.   
+
+Brother K: Amen brother. We have worth only when we are found in Christ. Apart from Christ Jesus we are nothing. But in Christ Jesus God sees us as the apple of His eye.  
+
+Brother M: Agreed. Our worth comes from how God sees us - we know how much we are loved by the price He paid to redeem us; the price of His own Son!  
+
+</div>
 
