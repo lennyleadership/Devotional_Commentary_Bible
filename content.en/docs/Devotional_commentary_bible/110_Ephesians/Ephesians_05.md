@@ -1,6 +1,6 @@
 ---
 weight: 5
-title: 弗五章
+title: Ephesians 5
 authors: Lenny
 categories: null
 tags: 
@@ -15,6 +15,21 @@ Ephesians
 
 <!--more-->
 ---
+
+<!-- Tab links -->
+
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')"></button>
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+</div>
+
+----
+<div id="chinese" class="tabcontent">
 
 5:1 所以你们该效法　神、好像蒙慈爱的儿女一样。[^1]  
 5:2 也要凭爱心行事、正如基督爱我们、为我们舍了自己、当作馨香的供物、和祭物、献与　神。[^2]  
@@ -60,3 +75,6 @@ Ephesians
 [^1]: 「效法神」此处特指在「彼此饶恕」（四32）的事上。神的儿女也应当「效法神」爱人（太五44-45）、「完全」（太五48）和「慈悲」（路六36）。<u>人若没有神的生命，只能模仿神，并不是「效法神」</u>。  
 [^2]: 这「爱心」不是按人的标准礼尚往来、有来有去，而是单方向的「舍己」，是送出而不盼望返还、给予而不指望回报，甚至当别人对付、践踏、委屈我们的时候，我们还是爱他们。这爱不是从我们的肉体里出来的，而是「新人」（四24）里面神儿子的生命的流露（约十五12-13）。因着基督「舍己」的爱，肢体之间才能效法基督、彼此相爱（约十三34；约壹四10-11）。  
 
+
+  
+</div>

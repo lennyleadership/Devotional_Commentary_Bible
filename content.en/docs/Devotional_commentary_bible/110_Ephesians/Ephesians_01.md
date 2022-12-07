@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: 弗一章
+title: Ephesians 1
 authors: Lenny
 categories: null
 tags: [神的旨意, 教会, 圣洁, 刘志雄讲道, 于宏杰讲道, "bibleref", "Margine note demo"]
@@ -15,6 +15,24 @@ Ephesians
 
 <!--more-->
 ---
+
+<!-- Tab links -->
+
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'verses')">Chapter 10</button>
+  <button class="tablinks" onclick="tablabel(event, 'Devotion1')">verse 31</button>
+</div>
+
+<!-- Tab content -->
+<div id="verses" class="tabcontent" style="display:block">
+
+</div>
+
+----
+<div id="Devotion1" class="tabcontent">
+  <h2></h2>
+  
+</div>
 
 1:1 奉　神<u>旨意</u>、作基督耶稣使徒的保罗、写信给在以弗所的圣徒、就是在基督耶稣里有忠心的人。[<cite class="bibleref" title="Hebrews 10:14" >希十14</cite>, <cite class="bibleref" title="Romans 12:1-2" >罗十二1-2</cite>, <cite class="bibleref" title="Proverbs 23:7" >箴二十三7</cite>]    <font class ="marginnote">Hebrews 10:14, Romans 12:1-2</font>   
 1:2 愿恩惠平安、从　神我们的父、和主耶稣基督、归与你们。&emsp;<sup>(</sup>[^1]<sup>)</sup>  

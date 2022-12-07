@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: 弗三章
+title: Ephesians 3
 authors: Lenny
 categories: null
 tags: [奥秘, 教会]
@@ -15,6 +15,19 @@ Ephesians
 
 <!--more-->
 ---
+
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+</div>
+
+----
+<div id="chinese" class="tabcontent">
 
 3:1 因此、我保罗为你们外邦人作了基督耶稣被囚的、替你们祈祷〔此句乃照对十四节所加〕。[^1]
 3:2 谅必你们曾听见　神赐恩给我、将关切你们的职分托付我、  
@@ -45,3 +58,6 @@ Ephesians
 ---
 [^1]: 保罗越过难处的表面，看到难处背后神的手，就能在囚禁中有「平安」（一2），也能鼓励众<u>教会</u>「应当笃信不疑的来到神面前」（12节），并且「不要因我为你们所受的患难丧胆，这原是你们的荣耀」（13节）。「替你们祈祷」原文并无此句，乃是译者参照第14节的意思而添加的，因为2-13节是岔出去的一段话，14节是接续第1节的。  
 [Ephesians第3章逐节注解、祷读](https://cmcbiblereading.com/2014/11/24/%e4%bb%a5%e5%bc%97%e6%89%80%e4%b9%a6%e7%ac%ac3%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
+
+  
+</div>

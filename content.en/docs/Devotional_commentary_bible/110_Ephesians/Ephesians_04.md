@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: 弗四章
+title: Ephesians 4
 authors: Lenny
 categories: null
 tags: [接受了圣灵]
@@ -15,6 +15,19 @@ Ephesians
 
 <!--more-->
 ---
+
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+</div>
+
+----
+<div id="chinese" class="tabcontent">
 
 4:1 我为主被囚的劝你们、既然蒙召、行事为人就当与蒙召的恩相称。[^1]  
 4:2 凡事谦虚、温柔、忍耐、用爱心互相宽容、[^2]  
@@ -73,3 +86,6 @@ Ephesians
 [^11]: 圣灵的印记，在信主的时候发生了。约十四16-18那里说圣灵是一份礼物。  
 [^12]: 从「旧人」里面出来的饶恕，只是出于人的修养，过后还是耿耿于怀；而从「新人」里面出来的饶恕，就像神那样无条件而彻底，「东离西有多远，祂叫我们的过犯离我们也有多远」（诗一百零三12）。  
 [Ephesians第4章逐节注解、祷读](https://cmcbiblereading.com/2014/11/24/%e4%bb%a5%e5%bc%97%e6%89%80%e4%b9%a6%e7%ac%ac4%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
+
+  
+</div>

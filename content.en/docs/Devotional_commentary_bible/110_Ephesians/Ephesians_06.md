@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: 弗六章
+title: Ephesians 6
 authors: Lenny
 categories: null
 tags: 
@@ -15,6 +15,21 @@ Ephesians
 
 <!--more-->
 ---
+
+<!-- Tab links -->
+
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+</div>
+
+----
+<div id="chinese" class="tabcontent">
 
 6:1 你们作儿女的、要在主里听从父母、这是理所当然的。  
 6:2 要孝敬父母、使你得福、在世长寿。这是第一条带应许的诫命。  
@@ -44,4 +59,7 @@ Ephesians
 6:22 我特意打发他到你们那里去、好叫你们知道我们的光景、又叫他安慰你们的心。  
 6:23 愿平安、仁爱、信心、从父　神和主耶稣基督、归与弟兄们。  
 6:24 并愿所有诚心爱我们主耶稣基督的人、都蒙恩惠。  
+  
+</div>
+
 
