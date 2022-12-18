@@ -84,7 +84,7 @@ Book of Luke
 20:47 Which devour widows' houses, and for a shew make long prayers: the same shall receive greater damnation.  
 </div>
 
-----
+
 
 <div id="chinese" class="tabcontent" style="display:block">
 
@@ -138,7 +138,7 @@ Book of Luke
 
 20:41 耶稣对他们说、人怎么说基督是大卫的子孙呢。  
 20:42 诗篇上、大卫自己说、『主对我主说、你坐在我的右边、  
-20:43 等我使你仇敌作你的脚凳。』
+20:43 等我使你仇敌作你的脚凳。』  
 20:44 大卫既称他为主、他怎么又是大卫的子孙呢。  
 20:45 众百姓听的时候、耶稣对门徒说、
 
