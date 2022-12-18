@@ -19,7 +19,7 @@ toc: true
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'verses')">Chapter 16</button>
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'Devotion1')">verse 12</button>
 
 </div>

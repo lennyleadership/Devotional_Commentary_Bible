@@ -1,6 +1,6 @@
 ---
 Weight: 103
-title: 路加福音
+title: Luke
 authors: Lenny Lin
 categories: null
 tags: 
