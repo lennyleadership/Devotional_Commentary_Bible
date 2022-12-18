@@ -1,14 +1,14 @@
 ---
 weight: 16
-title: 路十六章
+title: Luke 16
 authors: Lenny 
 categories: null
 tags: 
-date: "2022-10-06"
+series: null
 description: 
 draft: false
+date: "2022-10-06"
 lastmod: "2022-10-06"
-series: null
 toc: true
 ---
 

@@ -1,14 +1,14 @@
 ---
 weight: 14
-title: 路十四章
+title: Luke 14
 authors: Lenny 
 categories: null
 tags: 
-date: "2022-09-14"
+series: null
 description: 
 draft: false
+date: "2022-09-14"
 lastmod: "2022-09-14"
-series: null
 toc: true
 ---
 

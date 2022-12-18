@@ -1,14 +1,14 @@
 ---
 weight: 9
+title: Luke 9
 authors: Lenny
 categories: null
-date: "2022-04-19"
+tags: 
+series:
 description: 
 draft: false
+date: "2022-04-19"
 lastmod: "2022-05-19"
-series:
-tags: 
-title: 路九章
 toc: true
 ---
 Book of Luke

@@ -1,12 +1,12 @@
 ---
 weight: 12
-title: 路十二章
+title: Luke 12
 authors: Lenny 
 categories: null
 tags: [进天国, tooltip demo]
-date: "2022-04-19"
 description: 
 draft: false
+date: "2022-04-19"
 lastmod: "2022-08-04"
 series: null
 toc: true

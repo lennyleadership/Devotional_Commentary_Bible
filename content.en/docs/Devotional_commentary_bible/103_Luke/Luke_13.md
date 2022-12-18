@@ -1,14 +1,14 @@
 ---
 weight: 13
-title: 路十三章
+title: Luke 13
 authors: Lenny 
 categories: null
 tags: 
-date: "2022-08-17"
+series: null
 description: 
 draft: false
+date: "2022-08-17"
 lastmod: "2022-08-17"
-series: null
 toc: true
 ---
 

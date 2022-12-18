@@ -1,14 +1,14 @@
 ---
 weight: 15
-title: 路十五章
+title: Luke 15
 authors: Lenny 
 categories: null
 tags: 
-date: "2022-09-21"
+series: null
 description: 
 draft: false
+date: "2022-09-21"
 lastmod: "2022-09-21"
-series: null
 toc: true
 ---
 

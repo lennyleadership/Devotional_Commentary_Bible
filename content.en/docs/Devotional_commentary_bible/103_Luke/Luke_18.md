@@ -1,6 +1,6 @@
 ---
 weight: 18
-title: 路十八章
+title: Luke 18
 authors: Lenny 
 categories: null
 tags: 

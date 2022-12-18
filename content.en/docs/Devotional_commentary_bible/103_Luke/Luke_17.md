@@ -4,11 +4,11 @@ title: Luke 17
 authors: Lenny 
 categories: null
 tags: [New Words]
-date: "2022-08-24"
+series: null
 description: 
 draft: false
+date: "2022-08-24"
 lastmod: "2022-11-20"
-series: null
 toc: true
 ---
 

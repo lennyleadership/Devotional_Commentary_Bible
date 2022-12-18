@@ -1,14 +1,14 @@
 ---
 weight: 10
+title: Luke 10
 authors: Lenny 
 categories: null
-date: "2022-04-19"
+tags: [Gospel]
+series: 
 description: 
 draft: false
+date: "2022-04-19"
 lastmod: "2022-05-19"
-series: 
-tags: [Gospel]
-title: 路十章
 toc: true
 ---
 Book of Luke

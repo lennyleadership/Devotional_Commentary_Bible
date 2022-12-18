@@ -1,12 +1,12 @@
 ---
 weight: 19
-title: Luke
+title: Luke 19
 authors: Lenny 
 categories: null
 tags: 
-date: "2022-08-24"
 description: 
 draft: false
+date: "2022-08-24"
 lastmod: "2022-08-24"
 series: null
 toc: true

@@ -1,14 +1,14 @@
 ---
 weight: 11
+title: Luke 11
 authors: Lenny 
 categories: null
-date: "2022-04-19"
+tags: [Prayer, 活泉小简, Darby, Brother D, Brother K, Brother L, Sister G]
+series: 
 description: 
 draft: false
+date: "2022-04-19"
 lastmod: "2022-05-19"
-series: 
-tags: [Prayer, 活泉小简, Darby, Brother D, Brother K, Brother L, Sister G]
-title: 路十一章
 toc: true
 ---
 Book of Luke
