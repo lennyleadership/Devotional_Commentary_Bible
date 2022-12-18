@@ -20,7 +20,7 @@ Book of Luke
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  <button class="tablinks" onclick="tablabel(event, 'verse1')">Verses 20-26</button>
+  <button class="tablinks" onclick="tablabel(event, 'verse1')">LBC</button>
 </div>
 
 <!-- Tab content -->
@@ -151,5 +151,7 @@ Book of Luke
 
 <div id="verse1" class="tabcontent" style="display:block">
 
+Question on verse 25, what belongs to God?  
+human being because they bear image of God.
 
 </div>
