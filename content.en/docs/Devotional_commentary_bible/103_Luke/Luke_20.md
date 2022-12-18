@@ -29,7 +29,7 @@ Book of Luke
 20:1 And it came to pass, that on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon him with the elders,  
 20:2 And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?  
 20:3 And he answered and said unto them, I will also ask you one thing; and answer me:  
-20:4 The baptism of John, was it from heaven, or of men?
+20:4 The baptism of John, was it from heaven, or of men?  
 20:5 And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?  
 
 20:6 But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet.  
@@ -150,5 +150,6 @@ Book of Luke
 ----
 
 <div id="verse1" class="tabcontent" style="display:block">
+
 
 </div>
