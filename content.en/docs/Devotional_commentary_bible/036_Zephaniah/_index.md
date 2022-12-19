@@ -1,6 +1,6 @@
 ---
 Weight: 36
-title: 西番亚书
+title: Zephaniah
 authors: Lenny Lin
 categories: null
 tags: 

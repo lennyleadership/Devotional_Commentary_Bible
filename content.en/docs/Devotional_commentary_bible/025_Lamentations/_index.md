@@ -1,6 +1,6 @@
 ---
 Weight: 25
-title: 耶利米哀歌
+title: Lamentations
 authors: Lenny Lin
 categories: null
 tags: 

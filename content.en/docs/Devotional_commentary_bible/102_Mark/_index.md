@@ -1,6 +1,6 @@
 ---
 Weight: 102
-title: 马可福音
+title: Mark
 authors: Lenny Lin
 categories: null
 tags: 

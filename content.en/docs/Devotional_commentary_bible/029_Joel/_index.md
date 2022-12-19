@@ -1,6 +1,6 @@
 ---
 Weight: 29
-title: 约珥书
+title: Joel
 authors: Lenny Lin
 categories: null
 tags: 

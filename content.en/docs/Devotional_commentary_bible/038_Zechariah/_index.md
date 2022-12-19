@@ -1,6 +1,6 @@
 ---
 Weight: 38
-title: 撒迦利亚书
+title: Zechariah
 authors: Lenny Lin
 categories: null
 tags: 

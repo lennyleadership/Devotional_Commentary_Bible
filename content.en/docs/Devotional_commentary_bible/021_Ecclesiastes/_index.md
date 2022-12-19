@@ -1,6 +1,6 @@
 ---
 Weight: 21
-title: 传道书
+title: Ecclesiastes
 authors: Lenny Lin
 categories: null
 tags: 

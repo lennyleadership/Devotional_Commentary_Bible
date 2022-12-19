@@ -1,6 +1,6 @@
 ---
 Weight: 39
-title: 玛拉基书
+title: Malachi
 authors: Lenny Lin
 categories: null
 tags: 

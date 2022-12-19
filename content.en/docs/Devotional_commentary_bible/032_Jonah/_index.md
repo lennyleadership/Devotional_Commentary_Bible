@@ -1,6 +1,6 @@
 ---
 Weight: 32
-title: 约拿书
+title: Jonah
 authors: Lenny Lin
 categories: null
 tags: 

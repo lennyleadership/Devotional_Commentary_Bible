@@ -1,6 +1,6 @@
 ---
 Weight: 2
-title: 出埃及记
+title: Exodus
 authors: Lenny Lin
 categories: null
 tags: 

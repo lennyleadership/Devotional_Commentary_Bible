@@ -1,6 +1,6 @@
 ---
 Weight: 26
-title: 以西结书
+title: Ezekiel
 authors: Lenny Lin
 categories: null
 tags: 

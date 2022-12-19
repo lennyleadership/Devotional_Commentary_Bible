@@ -1,6 +1,6 @@
 ---
 Weight: 27
-title: 但以理书
+title: Daniel
 authors: Lenny Lin
 categories: null
 tags: 

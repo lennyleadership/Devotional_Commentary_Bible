@@ -1,6 +1,6 @@
 ---
 Weight: 31
-title: 俄巴底亚书
+title: Obadiah
 authors: Lenny Lin
 categories: null
 tags: 

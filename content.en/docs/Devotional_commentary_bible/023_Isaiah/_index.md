@@ -1,6 +1,6 @@
 ---
 Weight: 23
-title: 以赛亚书
+title: Isaiah
 authors: Lenny Lin
 categories: null
 tags: 

@@ -1,6 +1,6 @@
 ---
 Weight: 5
-title: 申命记
+title: Deuteronomy
 authors: Lenny Lin
 categories: null
 tags: 

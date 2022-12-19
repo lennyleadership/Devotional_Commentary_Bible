@@ -1,6 +1,6 @@
 ---
 Weight: 35
-title: 哈巴谷书
+title: Habakkuk
 authors: Lenny Lin
 categories: null
 tags: 

@@ -1,6 +1,6 @@
 ---
 Weight: 121
-title: 彼得前书
+title: 1 Peter
 authors: Lenny Lin
 categories: null
 tags: 

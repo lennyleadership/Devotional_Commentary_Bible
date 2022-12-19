@@ -1,6 +1,6 @@
 ---
 Weight: 111
-title: 腓立比书
+title: Phillipians
 authors: Lenny Lin
 categories: null
 tags: 

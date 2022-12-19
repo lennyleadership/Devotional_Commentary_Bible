@@ -1,6 +1,6 @@
 ---
 Weight: 108
-title: 哥林多后书
+title: 2 Corintians
 authors: Lenny Lin
 categories: null
 tags: 

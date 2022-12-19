@@ -1,6 +1,6 @@
 ---
 Weight: 34
-title: 那鸿书
+title: Nahum
 authors: Lenny Lin
 categories: null
 tags: 

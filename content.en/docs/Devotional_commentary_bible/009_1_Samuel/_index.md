@@ -1,6 +1,6 @@
 ---
 Weight: 9
-title: 撒母耳记上
+title: 1 Samuel
 authors: Lenny Lin
 categories: null
 tags: 

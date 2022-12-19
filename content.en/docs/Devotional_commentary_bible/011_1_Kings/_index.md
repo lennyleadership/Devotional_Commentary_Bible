@@ -1,6 +1,6 @@
 ---
 Weight: 11
-title: 列王记上
+title: 1 Kings
 authors: Lenny Lin
 categories: null
 tags: 

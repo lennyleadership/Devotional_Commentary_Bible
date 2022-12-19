@@ -1,6 +1,6 @@
 ---
 Weight: 28
-title: 何西阿书
+title: Hosea
 authors: Lenny Lin
 categories: null
 tags: [刘志雄讲道]

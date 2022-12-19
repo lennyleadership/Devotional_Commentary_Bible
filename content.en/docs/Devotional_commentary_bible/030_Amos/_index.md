@@ -1,6 +1,6 @@
 ---
 Weight: 30
-title: 阿摩司书
+title: Amos
 authors: Lenny Lin
 categories: null
 tags: [时政, 审判]

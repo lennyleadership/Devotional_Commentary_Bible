@@ -1,6 +1,6 @@
 ---
 Weight: 24
-title: 耶利米书
+title: Jeremiah
 authors: Lenny Lin
 categories: null
 tags: 

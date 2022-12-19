@@ -1,6 +1,6 @@
 ---
 Weight: 33
-title: 弥迦书
+title: Micah
 authors: Lenny Lin
 categories: null
 tags: 
