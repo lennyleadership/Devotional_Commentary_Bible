@@ -45,7 +45,7 @@ toc: true
 11:15 He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure.  
 
 11:16 A gracious woman retaineth honour: and strong men retain riches.  
-11:17 The merciful man doeth good to his own soul: but he that is cruel troubleth his own flesh.  
+11:17 The merciful man doeth good to his own soul: but he that is cruel troubleth his own flesh. <a class = "marginnote"> verse 17: take care of yourself.</a>  
 11:18 The wicked worketh a deceitful work: but to him that soweth righteousness shall be a sure reward.  
 11:19 As righteousness tendeth to life: so he that pursueth evil pursueth it to his own death.  
 11:20 They that are of a froward heart are abomination to the LORD: but such as are upright in their way are his delight.  

@@ -1,6 +1,6 @@
 ---
 Weight: 108
-title: 2 Corintians
+title: 2 Corinthians
 authors: Lenny Lin
 categories: null
 tags: 
@@ -13,19 +13,7 @@ toc: true
 bookCollapseSection: true
 ---
 
----
-authors: Lenny Lin
-categories: null
-date: "2022-04-19"
-description: 
-draft: false
-lastmod: "2022-04-26"
-series:
-tags: 
-title:  
-toc: true
-bookCollapseSection: true
----
+
 
 
 
