@@ -1,4 +1,4 @@
----
++++
 title = "Bible Verse Tooltip Demo"
 description = ""
 tags = [
@@ -8,7 +8,7 @@ date = "2022-08-13"
 categories = [
 ]
 menu = "main"
----
++++
 
 
 ## Option #1 refTagger
