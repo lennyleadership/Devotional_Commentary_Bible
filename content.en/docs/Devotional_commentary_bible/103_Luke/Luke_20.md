@@ -151,7 +151,8 @@ Book of Luke
 
 <div id="verse1" class="tabcontent" style="display:block">
 
+[2022.12.14 Luke 20:20-26, 27-47]  
 Question on verse 25, what belongs to God?  
-human being because they bear image of God.
+Answer: Human being because they bear image of God.  
 
 </div>
