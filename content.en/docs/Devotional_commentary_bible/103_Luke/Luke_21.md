@@ -1,13 +1,13 @@
 ---
-weight: 
-title: Luke 2x
+weight: 21
+title: Luke 21
 authors: Lenny 
 categories: null
 tags: 
 description: 
 draft: false
-date: "2022-08-24"
-lastmod: "2022-08-24"
+date: "2022-12-26"
+lastmod: "2022-12-26"
 series: null
 toc: true
 ---
