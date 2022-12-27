@@ -153,6 +153,73 @@ Book of Luke
 
 [2022.12.14 Luke 20:20-26, 27-47]  
 Question on verse 25, what belongs to God?  
-Answer: Human being because they bear image of God.  
+Answer: Human being because they bear image of God.    
+
+Jesus is political correct.  
+
+Slave:
+
+Free will, chose to be slave of God, love my masters.  
+
+Punched a hole on an ear.  
+
+Exodus 21:4-6  
+
+Love gives choice.  
+
+Marriage dissolved when one passed away.
+
+Micha 6:8
+
+James 1:27
+
+God look at the heart.
+
+
+----
+
+[2022.12.07 Luke 20:1-26]  
+Q: Why were they interested in where Jesus' authority come from? (verse 2)  
+
+Matthew 28:18 Jesus got the authority.  
+
+Q: Did Jesus hide from people? or reveal himself to people?  
+
+Jesus did not answer the question, and He seemed no patient.   
+
+
+Romans 3:19 Pharisees thought they knew better, had all answers.  
+
+Their mouth did not stop.  They did not find themselves guilty.  They asked question after another question.  
+
+Jesus kept conversation going.  
+
+Isaiah 5:1-7  vineyard = Israel.  
+
+God sent many prophets, finally sent Jesus.  
+
+Hebrews 1:1-3  
+
+Matthew 23:37
+
+God desired to find joy in His people.  
+
+God gave prophecies to protect Jews until Jesus was born.  
+
+Luke 20:17, cornerstone.  It was for build and measurement.
+
+1 Peter 2:4-10.
+
+Jesus is also a capstone.  
+
+Hebrews 13:12-14.
+
+Religion sent people astray.  
+
+What can we learn about character of Jesus?  
+
+He was above religious leaders, nobody is as wise as Jesus.
+
+
 
 </div>
