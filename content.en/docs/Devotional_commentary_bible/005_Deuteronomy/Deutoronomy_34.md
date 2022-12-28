@@ -1,17 +1,37 @@
 ---
+weight: 34
+title: Deuteronomy 34
 authors: Lenny
 categories: null
-date: "2022-04-19"
-description: 
-draft: false
-lastmod: "2022-04-30"
 series:
 tags: [活泉小简, 宾路易师母, 安息]
-title: 34 申三十四章
+description: 
+draft: false
+date: "2022-04-19"
+lastmod: "2022-12-28"
 toc: true
 ---
-申命记
+
+
+
+
 <!--more-->
+
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+</div>
+
+
+
+<div id="chinese" class="tabcontent" style="display:block">
 
 34:1 摩西从摩押平原登尼波山、上了那与耶利哥相对的毗斯迦山顶。耶和华把基列全地直到但、  
 34:2 拿弗他利全地、以法莲、玛拿西的地、犹大全地直到西海、  
@@ -33,3 +53,4 @@ toc: true
 「以后以色列中再没有兴起先知像摩西的;他是耶和华面对面所认识的。」(申三十四 10)   
 完全安息，是从完全顺服来的。若我们深知我们所信服的是谁，结果必定是完全安息。一个作神使者的，切要学习这个教训，在一切事上，让神来负责，这样我们的「自己」就没有地位，世人也要看出他们所要对付的，是神自己，不是神的仆人了。摩西与法老谈判的时候，却常常说:「神这样说，因为他深知他所说的，既是神的话，神必负责成就。   
 --摘自《与主面对面》(宾路易师母)  
+</div>

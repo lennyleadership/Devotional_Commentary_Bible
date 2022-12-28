@@ -1,17 +1,35 @@
 ---
+weight: 32
+title: Deuteronomy 32
 authors: Lenny
 categories: null
-date: "2022-04-19"
-description: 
-draft: false
-lastmod: "2022-04-30"
 series:
 tags: [旷野吗哪, 家谱]
-title: 32 申三十二章
+description: 
+draft: false
+date: "2022-04-19"
+lastmod: "2022-12-28"
 toc: true
 ---
-申命记
+
+
 <!--more-->
+
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+</div>
+
+
+
+<div id="chinese" class="tabcontent" style="display:block">
 
 32:1 诸天哪、侧耳、我要说话、愿地也听我口中的言语。  
 32:2 我的教训要淋漓如雨、我的言语要滴落如露、如细雨降在嫩草上、如甘霖降在菜蔬中。  
@@ -90,3 +108,4 @@ toc: true
 他拉是谁呢？就是亚伯拉罕的爸爸。  
 [《旷野吗哪》灵修信息 2022年5月7日：四海一家](https://r.729ly.net/devotionals/devotionals-mw/devotionals-mw-mw220507)
  
+</div>
