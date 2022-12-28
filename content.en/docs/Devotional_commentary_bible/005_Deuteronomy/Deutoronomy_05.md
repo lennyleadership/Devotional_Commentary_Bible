@@ -1,17 +1,35 @@
 ---
+weight: 5
+title: Deuteronomy 5
 authors: Lenny
 categories: null
-date: "2022-04-19"
-description: 
-draft: false
-lastmod: "2022-04-30"
 series:
 tags: [旷野吗哪, 律法]
-title: 05 申五章
+description: 
+draft: false
+date: "2022-04-19"
+lastmod: "2022-12-28"
 toc: true
 ---
-申命记
+
+
 <!--more-->
+
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+</div>
+
+
+
+<div id="chinese" class="tabcontent" style="display:block">
 
 5:1 摩西将以色列众人召了来、对他们说、以色列人哪、我今日晓谕你们的律例、典章、你们要听、可以学习、谨守遵行。[^1]  
 5:2 耶和华我们的　神在何烈山与我们立约。  
@@ -56,3 +74,4 @@ toc: true
 [^1]: “遵守诫命”的最高动机，是因为我们爱神，并且深愿像祂。约翰壹书5章3节，约翰说，“我们遵守神的诫命，这就是爱他了；并且他的诫命不是难守的。”  
 [《旷野吗哪》灵修信息 2022年5月8日：十诫](https://r.729ly.net/devotionals/devotionals-mw/devotionals-mw-mw220508)
  
+</div>
