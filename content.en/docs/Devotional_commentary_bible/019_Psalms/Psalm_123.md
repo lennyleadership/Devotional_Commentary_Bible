@@ -18,13 +18,13 @@ toc: true
 <!-- Tab links -->
 
 <div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'verses')">Psalm 123</button>
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'Devotion1')">verse 2</button>
   <button class="tablinks" onclick="tablabel(event, 'Devotion2')">verse 3</button>
 </div>
 
 <!-- Tab content -->
-<div id="verses" class="tabcontent" style="display:block">
+<div id="english" class="tabcontent" style="display:block">
   <h2></h2>
 123:1 Unto thee lift I up mine eyes, O thou that dwellest in the heavens.
 <br>123:2 Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us.    

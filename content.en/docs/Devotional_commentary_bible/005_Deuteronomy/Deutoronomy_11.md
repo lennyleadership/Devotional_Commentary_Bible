@@ -4,7 +4,7 @@ title: Deuteronomy 11
 authors: Lenny
 categories: null
 series:
-tags: []
+tags: [Lenny's Meditation]
 description: 
 draft: false
 date: "2022-04-19"
@@ -36,8 +36,8 @@ toc: true
 11:9 And that ye may prolong your days in the land, which the LORD sware unto your fathers to give unto them and to their seed, a land that floweth with milk and honey.  
 11:10 For the land, whither thou goest in to possess it, is not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst it with thy foot, as a garden of herbs:  
 
-11:11 But the land, whither ye go to possess it, is a land of hills and valleys, and drinketh water of the rain of heaven:  
-11:12 A land which the LORD thy God careth for: the eyes of the LORD thy God are always upon it, from the beginning of the year even unto the end of the year.  
+11:11 But the land, whither ye go to possess it, is a land of hills and valleys, and drinketh water of the rain of heaven: <a class = "marginnote"> difference: faith vs confidence</a>  
+11:12 A land which the LORD thy God careth for: the eyes of the LORD thy God are always upon it, from the beginning of the year even unto the end of the year. <a class = "marginnote">verse 11-12: It is an illustration of a believer's life which is blessed</a>  
 11:13 And it shall come to pass, if ye shall hearken diligently unto my commandments which I command you this day, to love the LORD your God, and to serve him with all your heart and with all your soul,  
 11:14 That I will give you the rain of your land in his due season, the first rain and the latter rain, that thou mayest gather in thy corn, and thy wine, and thine oil.  
 11:15 And I will send grass in thy fields for thy cattle, that thou mayest eat and be full.  
