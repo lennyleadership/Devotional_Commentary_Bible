@@ -106,9 +106,37 @@ toc: true
 
 [2022.12.30 Friday morning study, Jay, Shawn, and Lenny]  
 
-First love: agape love.  sacrifice love.  
-astray from fundamental doctrine.  
+Start to study the subject: church  
+
+The purpose of discussion by Shawn:  
+1) to strength brothers  
+
+2) to glorify Him  
+
+If it is about the knowledge,  we will become pride in spirit.  
+If it is about Him,  we will become humble.  
+
+Q: What is lacking?  
+
+Q: Who is responsible for?  
+
+The purpose of discussion by Lenny:
+Q: what is the purpose of church?  What is God's will for church?
 
 
+Question has not been answered: what is the Lord's day?  
+
+
+
+What is the first love?
+First love: agape love.  sacrifice love.  Love God more than anything elese.  
+
+Hebrews 6:1-2 gone astray from fundamental doctrine.  
+
+
+We donot have the power of words.
+1) We hear Pablum baby food type of message.  
+2) We hear the words, but do not do the words.  
+Warning: Religion: do things for the sake of doing.  We should avoid it.
 
 </div>
