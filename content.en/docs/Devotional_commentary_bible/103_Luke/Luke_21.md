@@ -127,7 +127,6 @@ Book of Luke
 </div>
 
 
-----
 
 <div id="verse1" class="tabcontent" style="display:block">
 
