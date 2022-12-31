@@ -3,7 +3,7 @@ weight: 2
 title: Ephesians 2
 authors: Lenny
 categories: null
-tags: ["Margine note demo", "ezraLinkifier", "Tab Demo"]
+tags: ["Margine note demo", "ezraLinkifier", "Tab Demo", "Footnote Demo"]
 description: 
 draft: false
 date: "2022-08-17"
@@ -98,7 +98,7 @@ werwersdf^[]<a class =sidenote>`r margin_note("test")`</a>
 </figure>
 <br>
 <figure>
-  <img width = "540" src = "/docs/images/WhatsApp Image 2022-11-06 at 3.03.58 PM.jpeg"/>
+  <img width = "540" src = "/docs/images_LibertyBC/WhatsApp Image 2022-11-06 at 3.03.58 PM.jpeg"/>
 
 </figure>
 
