@@ -27,7 +27,7 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-2:1 Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;  
+2:1 Unto the angel of <mark class = "lemon">the church of Ephesus</mark> write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;  
 2:2 I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:  
 2:3 And hast borne, and hast patience, and for my name's sake hast laboured, and hast not fainted.  
 2:4 Nevertheless I have somewhat against thee, because thou hast left thy first love.  
@@ -35,19 +35,19 @@ toc: true
 
 2:6 But this thou hast, that thou hatest the deeds of the Nicolaitanes, which I also hate.  
 2:7 He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.  
-2:8 And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;  
+2:8 And unto the angel of <mark class = "lemon">the church in Smyrna</mark> write; These things saith the first and the last, which was dead, and is alive;  
 2:9 I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.  
 2:10 Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.  
 
 2:11 He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.  
-2:12 And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;  
+2:12 And to the angel of <mark class = "lemon">the church in Pergamos</mark> write; These things saith he which hath the sharp sword with two edges;  
 2:13 I know thy works, and where thou dwellest, even where Satan's seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth.  
 2:14 But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication.  
 2:15 So hast thou also them that hold the doctrine of the Nicolaitanes, which thing I hate.  
 
 2:16 Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.  
 2:17 He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.  
-2:18 And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine brass;  
+2:18 And unto the angel of <mark class = "lemon">the church in Thyatira</mark> write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine brass;  
 2:19 I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first.  
 2:20 Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.  
 
@@ -64,9 +64,10 @@ toc: true
 
 </div>
 
+
 <div id="chinese" class="tabcontent">
 
-2:1 你要写信给以弗所教会的使者、说、那右手拿着七星、在七个金灯台中间行走的、说、  
+2:1 你要写信给<mark class = "lemon">以弗所教会</mark>的使者、说、那右手拿着七星、在七个金灯台中间行走的、说、  
 2:2 我知道你的行为、劳碌、忍耐、也知道你不能容忍恶人、你也曾试验那自称为使徒却不是使徒的、看出他们是假的来。  
 2:3 你也能忍耐、曾为我的名劳苦、并不乏倦。  
 2:4 然而有一件事我要责备你、就是你把起初的爱心离弃了。[^1]  
@@ -74,19 +75,19 @@ toc: true
 
 2:6 然而你还有一件可取的事、就是你恨恶尼哥拉一党人的行为、这也是我所恨恶的。  
 2:7 圣灵向众教会所说的话、凡有耳的、就应当听。得胜的、我必将　神乐园中生命树的果子赐给他吃。  
-2:8 你要写信给士每拿教会的使者说、那首先的、末后的、死过又活的说、  
+2:8 你要写信给<mark class = "lemon">士每拿教会</mark>的使者说、那首先的、末后的、死过又活的说、  
 2:9 我知道你的患难、你的贫穷、（你却是富足的)也知道那自称是犹太人所说的毁谤话、其实他们不是犹太人、乃是撒但一会的人。  
 2:10 你将要受的苦你不用怕。魔鬼要把你们中间几个人下在监里、叫你们被试炼。你们必受患难十日。你务要至死忠心、我就赐给你那生命的冠冕。  
 
 2:11 圣灵向众教会所说的话、凡有耳的、就应当听。得胜的、必不受第二次死的害。  
-2:12 你要写信给别迦摩教会的使者、说、那有两刃利剑的说、  
+2:12 你要写信给<mark class = "lemon">别迦摩教会</mark>的使者、说、那有两刃利剑的说、  
 2:13 我知道你的居所、就是有撒但座位之处。当我忠心的见证人安提帕在你们中间、撒但所住的地方被杀之时、你还坚守我的名、没有弃绝我的道。  
 2:14 然而有几件事我要责备你、因为在你那里、有人服从了巴兰的教训。这巴兰曾教导巴勒将绊脚石放在以色列人面前、叫他们吃祭偶像之物、行奸淫的事。  
 2:15 你那里也有人照样服从了尼哥拉一党人的教训。  
 
 2:16 所以你当悔改、若不悔改、我就快临到你那里、用我口中的剑、攻击他们。  
 2:17 圣灵向众教会所说的话、凡有耳的、就应当听。得胜的、我必将那隐藏的吗哪赐给他。并赐他一块白石、石上写着新名。除了那领受的以外、没有人能认识。  
-2:18 你要写信给推雅推喇教会的使者、说、那眼目如火焰、脚像光明铜的　神之子、说、  
+2:18 你要写信给<mark class = "lemon">推雅推喇教会</mark>的使者、说、那眼目如火焰、脚像光明铜的　神之子、说、  
 2:19 我知道你的行为、爱心、信心、勤劳、忍耐。又知道你末后所行的善事、比起初所行的更多。  
 2:20 然而有一件事我要责备你、就是你容让那自称是先知的妇人耶洗别教导我的仆人、引诱他们行奸淫、吃祭偶像之物。  
 
@@ -109,9 +110,9 @@ toc: true
 「行起初所行的事」（5节），就像第一代的以弗所信徒焚烧价值「五万块钱」的邪书一样（徒十九18-19），第二、三代的信徒也当付上代价、将属灵的港口挖深，恢复与主畅通、亲密的生命交通，才能「信从主耶稣，亲爱众圣徒」（弗一15；徒二十37）。  
 「把你的灯台从原处挪去」（5节），不一定指挪去教会，而是指失去为主见证发光的资格。金灯台是神性情的发表，教会要作为神的见证，真理和爱心一样都不能少（约十三35；提前三15）。初期教父伊格那丢在《致以弗所人书》（Epistle to the Ephesians）中指出，以弗所教会已经领受了这一警告。  
 今天，我们常常和以弗所教会一样劳碌忍耐、为主劳苦、信仰纯正，但久而久之，事奉会成为责任，肉体的热心也会渐渐代替对主的「爱心」。当我们用「爱事奉」、「爱聚会」、「爱公义」、「爱怜悯」或「爱传福音」代替了「爱主」的时候，就已经「把起初的爱心离弃了」。而贯穿信徒一生的大使命（太二十八18-20），并不只是向别人传福音，更是不断向自己宣讲「耶稣基督并祂钉十字架」（林前二2）。当我们每天都体会自己就是那个把基督钉上十字架的罪人的时候，才能恢复和保持「起初的爱心」。  
-
 <a href = "https://cmcbiblereading.com/2015/01/11/%e5%90%af%e7%a4%ba%e5%bd%95%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb-2/" target="_blank" rel="noopener noreferrer">来源：启示录第2章逐节注解、祷读-2</a>
 </div>
+
 
 <div id="verse1" class="tabcontent">
 
