@@ -16,7 +16,7 @@ Ephesians 2
 <!--more-->
 ---
 
-werwersdf^[]<a class =sidenote>`r margin_note("test")`</a>
+
 
 <!-- Tab links -->
 <div class="tab">
