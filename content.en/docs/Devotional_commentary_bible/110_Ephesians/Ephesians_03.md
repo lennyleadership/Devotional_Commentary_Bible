@@ -28,13 +28,13 @@ Ephesians
 3:1 For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,  
 3:2 If ye have heard of the dispensation of the grace of God which is given me to you-ward:  
 3:3 How that by revelation he made known unto me the mystery; (as I wrote afore in few words,  
-3:4 Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)  
+3:4 Whereby, when ye read, ye may understand my knowledge in <mark class = "lemon">the mystery of Christ</mark>)  
 3:5 Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;  
  
 3:6 That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:  
 3:7 Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power.  
 3:8 Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;  
-3:9 And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:  
+3:9 And to make all men see what is <mark class = "lemon">the fellowship of the mystery</mark>, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:  
 3:10 To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God,  
  
 3:11 According to the eternal purpose which he purposed in Christ Jesus our Lord:  

@@ -1,6 +1,6 @@
 ---
-weight: 01
-title: Jeremiah 1
+weight: 
+title: Jeremiah 
 authors: Lenny
 categories: null
 series:
