@@ -21,7 +21,7 @@ toc: true
   <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
   <button class="tablinks" onclick="tablabel(event, 'verse1')">Verse 4</button>
-  
+  <button class="tablinks" onclick="tablabel(event, 'verse2')">An Ear</button>
 </div>
 
 <!-- Tab content -->
@@ -156,5 +156,19 @@ We donot have the power of words.
 1) We hear Pablum baby food type of message.  
 2) We hear the words, but do not do the words.  
 Warning: Religion: do things for the sake of doing.  We should avoid it.
+
+</div>
+
+<div id="verse2" class="tabcontent">
+
+Exo 21:6 KJV+  
+(6)  Then his masterH113 shall bringH5066 him untoH413 the judges;H430 he shall also bringH5066 him toH413 the door,H1817 orH176 untoH413 the door post;H4201 and his masterH113 shall bore his ear through<mark class = "lemon">H7527</mark> (H853) H241 with an aul;H4836 and he shall serveH5647 him for ever.H5769  
+
+Psa 40:6 KJV+  
+(6)  SacrificeH2077 and offeringH4503 thou didst notH3808 desire;H2654 mine earsH241 hast thou opened:<mark class = "lemon">H3738</mark> burnt offeringH5930 and sin offeringH2401 hast thou notH3808 required.H7592   
+
+H3738:  A primitive root; properly to dig; figuratively to plot; generally to bore or open: - dig, X make (a banquet), open.
+
+He who has an ear is a love slave to the master.  
 
 </div>
