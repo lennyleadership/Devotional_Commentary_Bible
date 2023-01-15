@@ -39,7 +39,7 @@ toc: true
 1:19 因为我知道这事借着你们的祈祷、和耶稣基督之灵的帮助、终必叫我得救。  
 1:20 照着我所切慕所盼望的、没有一事叫我羞愧、只要凡事放胆。  无论是生、是死、总叫基督在我身上照常显大。  
 
-1:21 因我活着就是基督、我死了就有益处。<a id="1_ref" href = "#1">[1]</a>
+1:21 因我活着就是基督、我死了就有益处。<a id="1_ref" href = "#1">[1]</a>  
 1:22 但我在肉身活着、若成就我工夫的果子、我就不知道该挑选甚么。  
 1:23 我正在两难之间、情愿离世与基督同在。  因为这是好得无比的。  
 1:24 然而我在肉身活着、为你们更是要紧的。  
@@ -51,4 +51,4 @@ toc: true
 1:29 因为你们蒙恩、不但得以信服基督、并要为他受苦。  
 1:30 你们的争战、就与你们在我身上从前所看见、现在所听见的一样。  
 
-<p id="1">[1]  [Ask Pastor John To Live Is Christ — What Does That Mean?](https://www.desiringgod.org/interviews/to-live-is-christ-what-does-that-mean#:~:text=To%20live%20is%20Christ.%20To%20live%20is%20to,but%20fruitful%20labor.%20So%20what%20does%20that%20mean%3F) <a href="#1_ref">&#8617;</a></p>
+<p id="1">[1]  <a href = "https://www.desiringgod.org/interviews/to-live-is-christ-what-does-that-mean#:~:text=To%20live%20is%20Christ.%20To%20live%20is%20to,but%20fruitful%20labor.%20So%20what%20does%20that%20mean%3F" target="_blank" rel="noopener noreferrer">Ask Pastor John To Live Is Christ — What Does That Mean?</a> <a href="#1_ref">&#8617;</a></p>
