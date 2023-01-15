@@ -93,7 +93,7 @@ Ephesians
 
 [2023.01.07 Sunday]  
 Why pray on knees?  
-Phillippians 2:5-11  
+Philippians 2:5-11  
 Matthew 6:5  
 
 verse 10. Colossians 1:15-20 Church is the God's body on earth, and Christ is the head.  
