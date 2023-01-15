@@ -1,5 +1,5 @@
 ---
-weight： 3
+weight：3
 title: Phillippians 3
 authors: Lenny
 categories: null
