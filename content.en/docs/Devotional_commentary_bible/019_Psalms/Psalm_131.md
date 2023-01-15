@@ -26,27 +26,7 @@ Psalms
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-```{r, eval=F}
-BPPARAM <- SnowParam(detectCores()-1, progressbar = TRUE)
 
-params <- list()
-
-params$CentWave <- CentWaveParam(peakwidth = c(10, 90), 
-                                 ppm = 10,
-                                 mzdiff = -0.01, 
-                                 snthresh = 3, 
-                                 noise = 500, 
-                                 prefilter=c(3,500), 
-                                 mzCenterFun="wMean"
-                                 integrate=1, 
-                                 fitgauss=TRUE, 
-                                 verboseColumns = TRUE
-                                 )
-
-pks <- findChromPeaks([OnDiskMSnExp instant], param = params$CentWave, BPPARAM = BPPARAM)
-
-
-```
 
 </div>
 

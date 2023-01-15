@@ -56,7 +56,7 @@ Ephesians
 
 <div id="chinese" class="tabcontent">
 
-3:1 因此、我保罗为你们外邦人作了基督耶稣被囚的、替你们祈祷〔此句乃照对十四节所加〕。[^1]
+3:1 因此、我保罗为你们外邦人作了基督耶稣被囚的、替你们祈祷〔此句乃照对十四节所加〕。<a id="1_ref" href = "#1">[1]</a>
 3:2 谅必你们曾听见　神赐恩给我、将关切你们的职分托付我、  
 3:3 用启示使我知道<u>福音的奥秘</u>、正如我以前略略写过的。  
 3:4 你们念了、就能晓得我深知<u>基督的奥秘</u>。  
@@ -83,19 +83,23 @@ Ephesians
 3:21 但愿他在<u>教会</u>中、并在基督耶稣里、得着荣耀、直到世世代代、永永远远。阿们。  
 
 
-[^1]: 保罗越过难处的表面，看到难处背后神的手，就能在囚禁中有「平安」（一2），也能鼓励众<u>教会</u>「应当笃信不疑的来到神面前」（12节），并且「不要因我为你们所受的患难丧胆，这原是你们的荣耀」（13节）。「替你们祈祷」原文并无此句，乃是译者参照第14节的意思而添加的，因为2-13节是岔出去的一段话，14节是接续第1节的。  
+<p id="1">[1] 保罗越过难处的表面，看到难处背后神的手，就能在囚禁中有「平安」（一2），也能鼓励众<u>教会</u>「应当笃信不疑的来到神面前」（12节），并且「不要因我为你们所受的患难丧胆，这原是你们的荣耀」（13节）。「替你们祈祷」原文并无此句，乃是译者参照第14节的意思而添加的，因为2-13节是岔出去的一段话，14节是接续第1节的。  
 [Ephesians第3章逐节注解、祷读](https://cmcbiblereading.com/2014/11/24/%e4%bb%a5%e5%bc%97%e6%89%80%e4%b9%a6%e7%ac%ac3%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
-
-
-----
-
-the following text messages belowe `----` can be seen in all tabs.  
-`----`以下部分的内容可以分享在所有tab里。
+<a href="#1_ref">&#8617;</a></p>
   
 </div>
 
 
 <div id="verse1" class="tabcontent">
+
+[2023.01.07 Sunday]  
+Why pray on knees?  
+Phillipians 2:5-11  
+Matthew 6:5  
+
+verse 10. Colossians 1:15-20 Church is the God's body on earth, and Christ is the head.  
+
+---
 
 [2022.12.18 Sunday, -6 <sup>0</sup>C at Surrey, gathering starts late due to treacherous road condition]
 
