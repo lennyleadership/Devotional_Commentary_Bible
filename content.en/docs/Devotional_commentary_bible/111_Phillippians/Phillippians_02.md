@@ -1,16 +1,17 @@
 ---
+weight： 2
+title: Phillippians 2
 authors: Lenny
 categories: null
+tags: [竭力, 战兢, 魂的救恩]
 date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-23"
 series:
-tags: [竭力, 战兢, 魂的救恩]
-title: 2 腓二章
 toc: true
 ---
-腓立比书
+
 <!--more--> 
 
 2:1 所以在基督里若有甚么劝勉、爱心有甚么安慰、圣灵有甚么交通、心中有甚么慈悲怜悯、  
@@ -26,7 +27,7 @@ toc: true
 2:10 叫一切在天上的、地上的、和地底下的、因耶稣的名、无不屈膝、
 
 2:11 无不口称耶稣基督为主、使荣耀归与父　神。  
-2:12 这样看来、我亲爱的弟兄、你们既是常顺服的、不但我在你们那里、就是我如今不在你们那里、更是顺服的、就当<mark>恐惧战兢</mark>、作成你们得救的工夫 [^1]。    
+2:12 这样看来、我亲爱的弟兄、你们既是常顺服的、不但我在你们那里、就是我如今不在你们那里、更是顺服的、就当<mark>恐惧战兢</mark>、作成你们得救的工夫。<a id="1_ref" href = "#1">[1]</a>
 2:13 因为你们立志行事、都是　神在你们心里运行、为要成就他的美意。  
 2:14 凡所行的、都不要发怨言、起争论、   
 2:15 使你们无可指摘、诚实无伪、在这弯曲悖谬的世代、作　神无瑕疵的儿女。你们显在这世代中、好像明光照耀、  
@@ -51,7 +52,7 @@ toc: true
 
 
 
-[^1]: [腓二12]   
+<p id="1">[1] [腓二12]   
 [应当战兢][神的怒气] [诗篇九十7 和合本] 我们因你的怒气而消灭，因你的忿怒而惊惶。  
 [‪Psalm s‬90:7 NKJV] For we have been consumed by Your anger, And by Your wrath we are terrified.
 <br />  
@@ -91,5 +92,6 @@ II. He urges this from the consideration of their readiness always to obey the g
 <br />  
 [**John MacArthur's Commentary**]  
 **work out your own salvation** The Gr. verb rendered "work out" means "to continually work to bring something to fulfillment or completion."  It can't refer to salvation by works (cf. Rom. 3:21-24; Eph. 2:8-9), but it does refer to the believer's responsibility for active pursuit of obedience in the process of sanctification (see notes on 3:13,14; Rom 6:19; cf. 1Cor. 9:24-27; 15:58; 2Cor. 7:1; Gal. 6:7-9; Eph 4:1; Col. 3:1-17; Heb. 6:10, 11; 12:1,2; 2Pet. 1:5-11)  
-**fear and trembling**. The attitude with which Christians are to pursue their sanctification.  It involves a healthy fear of offending God and a rightous awe and respect for Him (cf. Prov. 1:7; 9:10; Is. 66:1,2).  
+**fear and trembling**. The attitude with which Christians are to pursue their sanctification.  It involves a healthy fear of offending God and a rightous awe and respect for Him (cf. Prov. 1:7; 9:10; Is. 66:1,2).
+<a href="#1_ref">&#8617;</a></p>
 

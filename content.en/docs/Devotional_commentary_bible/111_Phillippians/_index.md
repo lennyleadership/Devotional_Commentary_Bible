@@ -1,6 +1,6 @@
 ---
 Weight: 111
-title: Phillipians
+title: Phillippians
 authors: Lenny Lin
 categories: null
 tags: 
