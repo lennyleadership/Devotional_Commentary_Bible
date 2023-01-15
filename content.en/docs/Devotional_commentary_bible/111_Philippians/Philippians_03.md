@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: Phillippians 3
+title: Philippians 3
 authors: Lenny
 categories: null
 date: "2022-04-19"

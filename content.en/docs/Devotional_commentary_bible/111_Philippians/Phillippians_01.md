@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Phillippians 1
+title: Philippians 1
 authors: Lenny
 categories: null
 date: "2022-04-19"

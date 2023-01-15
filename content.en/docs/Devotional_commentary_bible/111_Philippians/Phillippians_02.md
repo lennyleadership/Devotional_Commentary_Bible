@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Phillippians 2
+title: Philippians 2
 authors: Lenny
 categories: null
 tags: [竭力, 战兢, 魂的救恩]

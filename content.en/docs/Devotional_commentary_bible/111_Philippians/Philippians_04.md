@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: Phillippians 4
+title: Philippians 4
 authors: Lenny
 categories: null
 date: "2022-04-19"
