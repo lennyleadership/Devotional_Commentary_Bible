@@ -4,7 +4,7 @@ title: Jeremiah 18
 authors: Lenny
 categories: null
 series:
-tags: [Lenny's Meditation]
+tags: [Brother LL Thoughts]
 description: 
 draft: false
 date: "2023-01-02"

@@ -4,7 +4,7 @@ title: Jeremiah 42
 authors: Lenny
 categories: null
 series:
-tags: [心里早已决定要去埃及, Lenny's meditation]
+tags: [心里早已决定要去埃及, Brother LL Thoughts]
 description: 
 draft: false
 date: "2022-04-19"

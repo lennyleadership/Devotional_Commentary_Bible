@@ -4,7 +4,7 @@ title: Deuteronomy 11
 authors: Lenny
 categories: null
 series:
-tags: [Lenny's Meditation]
+tags: [Brother LL Thoughts]
 description: 
 draft: false
 date: "2022-04-19"

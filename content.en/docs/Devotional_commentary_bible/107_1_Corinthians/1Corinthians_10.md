@@ -101,7 +101,7 @@ We want to be able to say, “Oh, I have had a wonderful call from God!” But t
 
 ----
 
-<h2>Lenny's meditation</h2>
+<h2>Brother LL Thoughts</h2>
 
 [2022.11.27]  
 

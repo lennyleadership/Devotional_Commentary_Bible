@@ -91,7 +91,7 @@ The emphasis to-day is placed on the furtherance of an organization; the note is
 
 ----
 
-<h2>Lenny's meditation</h2>
+<h2>Brother LL Thoughts</h2>
 Brother L: Believers are eager to experience miraclous experience, and yet forget to connect it to the life fruit.  Today's devotion helped me make such connection.
 
 </div>
