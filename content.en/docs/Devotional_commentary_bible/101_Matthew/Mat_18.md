@@ -1,6 +1,6 @@
 ---
 weight: 18
-title: 太十八章
+title: Matthew 18
 authors: Lenny
 categories: null
 tags: []
@@ -11,7 +11,7 @@ lastmod: "2022-10-19"
 series:
 toc: true
 ---
-马太福音
+
 
 <!--more-->
 ---
