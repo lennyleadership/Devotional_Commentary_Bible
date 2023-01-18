@@ -3,7 +3,7 @@ weight: 11
 title: Luke 11
 authors: Lenny 
 categories: null
-tags: [Prayer, 活泉小简, Darby, "Brother DW Thoughts", Brother K, "Brother LL Thoughts", "Sister GB Thoughts""]
+tags: [Prayer, 活泉小简, Darby, "Brother DW Thoughts", "Brother KY Thoughts", "Brother LL Thoughts", "Sister GB Thoughts"]
 series: 
 description: 
 draft: false
@@ -98,4 +98,4 @@ Brother DW: 因为　神不是叫人混乱，乃是叫人安静。(1 Corinthians
 安静这个词在旧约和新约都有，是指内心有平稳still，休息rest，和平peace, 沉静quietness。安静与 和平平安有相似的地方，但两者是不同的字。我有时祷告，满了要说的话，但是安静的时候，才有可能听见主要说的话。我要说话，是交托，是祈求；听主说话，才能明白主心意，才知道如何行。彼前三章4节讲到的是我们的里面人(inner self)要有一个安静的灵(quiet spirit)，并说这在神的面前，是极宝贵的妆饰。  
 安静就可以有安稳，可以有很好的休息，可以重新得力。与主同在，其实不用说很多的话，安静的人是祂所喜悦的。感谢主。  
 <br>
-Brother K:  I believe when Darby used the word communion he used it as “the sharing or exchanging of intimate thoughts and feelings, especially when the exchange is on a mental or spiritual level.” I agree with what Darby said. Coming to God and enjoying God’s presence is not the same as coming to Him hurriedly solely for asking him to answer our prayers.  
+Brother KY:  I believe when Darby used the word communion he used it as “the sharing or exchanging of intimate thoughts and feelings, especially when the exchange is on a mental or spiritual level.” I agree with what Darby said. Coming to God and enjoying God’s presence is not the same as coming to Him hurriedly solely for asking him to answer our prayers.  
