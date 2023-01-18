@@ -3,7 +3,7 @@ weight: 11
 title: Luke 11
 authors: Lenny 
 categories: null
-tags: [Prayer, 活泉小简, Darby, Brother D, Brother K, Brother L, Sister G]
+tags: [Prayer, 活泉小简, Darby, "Brother DW Thoughts", Brother K, "Brother LL Thoughts", "Sister GB Thoughts""]
 series: 
 description: 
 draft: false
@@ -90,9 +90,9 @@ Joy in God is communion … presenting a want to God is not communion.
 Communion with God is the retiring place of the heart.  
 by John Darby [Pigrim Portions - Chapter 11](http://www.sedin.org/portions/p11eng.html)  
 <br>
-Brother L: 我以为祈求就是祷告。原文其实指的是大多数信徒祷告的通病 - 以自我需要为中心的祷告。  
+Brother LL: 我以为祈求就是祷告。原文其实指的是大多数信徒祷告的通病 - 以自我需要为中心的祷告。  
 <br>
-Brother D: 因为　神不是叫人混乱，乃是叫人安静。(1 Corinthians 14:33 和合本)  
+Brother DW: 因为　神不是叫人混乱，乃是叫人安静。(1 Corinthians 14:33 和合本)  
 又要立志作安静人，办自己的事，亲手做工，正如我们从前所吩咐你们的， (帖撒罗尼迦前书 4:11 和合本)  
 只要以里面存着长久温柔、安静的心为妆饰；这在　神面前是极宝贵的。(彼得前书 3:4 和合本)  
 安静这个词在旧约和新约都有，是指内心有平稳still，休息rest，和平peace, 沉静quietness。安静与 和平平安有相似的地方，但两者是不同的字。我有时祷告，满了要说的话，但是安静的时候，才有可能听见主要说的话。我要说话，是交托，是祈求；听主说话，才能明白主心意，才知道如何行。彼前三章4节讲到的是我们的里面人(inner self)要有一个安静的灵(quiet spirit)，并说这在神的面前，是极宝贵的妆饰。  

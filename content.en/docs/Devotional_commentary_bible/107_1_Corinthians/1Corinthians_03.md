@@ -3,7 +3,7 @@ weight: 3
 title: 1 Corinthians 3
 authors: Lenny
 categories: null
-tags: [得救, Brother D, Brother L]
+tags: [得救, "Brother DW Thoughts", "Brother LL Thoughts"]
 date: "2022.08.04"
 description: 
 draft: false
