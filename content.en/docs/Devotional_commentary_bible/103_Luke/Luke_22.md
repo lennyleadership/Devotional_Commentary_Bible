@@ -228,7 +228,17 @@ church is caught up in heaven.
 </details>
 
 
-Passover 
+Revelation 19:7-10 prior to the second coming  
+Revelation 19:11-16 Jesus on the white horse  
+Revelation 19:17-21 Banquet / Armageddon  
+
+Revelation 20:1-3
+
+"its meaning" (NLT) refers to passover.
+
+v19-20 is the institute of communion. We won't have passover until ..., but we have communion instead.  Jesus was the lamb in passover.  
+
+Jews commemorated the historical event in Passover. 
 
 
 </div>
