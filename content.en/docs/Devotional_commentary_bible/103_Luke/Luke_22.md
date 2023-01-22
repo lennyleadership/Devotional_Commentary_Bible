@@ -214,7 +214,19 @@ Book of Luke
 [2023.01.18 Wednesday]  
 Luke 22:14-20  
 
-God has a desire to have meal again with disciples on heaven.  
+God has a desire to have meal [passover] again with disciples on heaven.  
+
+
+<details>
+<summary>New heaven, after 1000 years</summary>
+
+Revelation 19:7  Wedding feast of the Lamb.  
+
+heaven and earth become one.  
+
+church is caught up in heaven.
+</details>
+
 
 Passover 
 
