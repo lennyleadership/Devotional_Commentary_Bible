@@ -86,8 +86,6 @@ toc: true
 </div>
 
 <div id="verse1" class="tabcontent">
-  <h3>Devotion2</h3>
-  <p>
-  
-  </p>
+
+
 </div>
