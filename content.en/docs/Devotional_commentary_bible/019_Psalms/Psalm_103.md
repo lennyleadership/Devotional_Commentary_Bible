@@ -1,13 +1,13 @@
 ---
-weight: 999
-title: Psalm
+weight: 103
+title: Psalm 103
 authors: Lenny
 categories: null
-tags: []
+tags: [Mourning]
 description: 
 draft: false
-date: "2022-11-24"
-lastmod: "2022-11-24"
+date: "2023-01-21"
+lastmod: "2023-01-21"
 series: 
 toc: true
 ---
@@ -42,7 +42,7 @@ toc: true
 103:12 As far as the east is from the west, so far hath he removed our transgressions from us.  
 103:13 Like as a father pitieth his children, so the LORD pitieth them that fear him.  
 103:14 For he knoweth our frame; he remembereth that we are dust.  
-103:15 As for man, his days are as grass: as a flower of the field, so he flourisheth. .marginnote[v15-18: comfort/ dead]  
+103:15 As for man, his days are as grass: as a flower of the field, so he flourisheth. <a class = "marginnote">[v15-18: comfort/ dead/mourning</a>  
 
 103:16 For the wind passeth over it, and it is gone; and the place thereof shall know it no more.  
 103:17 But the mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness unto children's children;  
