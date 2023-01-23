@@ -1,16 +1,17 @@
 ---
+weight: 24
+title: 1 Samuel 24 
 authors: Lenny
 categories: null
-date: "2022-04-19"
+tags: [旷野吗哪, 寻求]
 description: 
 draft: false
+date: "2022-04-19"
 lastmod: "2022-04-26"
 series:
-tags: [旷野吗哪, 寻求]
-title: 24 撒上二十四章 
 toc: true
 ---
-撒母耳记上
+
 <!--more-->
 
 24:1 扫罗追赶非利士人回来、有人告诉他说、大卫在隐基底的旷野。  
