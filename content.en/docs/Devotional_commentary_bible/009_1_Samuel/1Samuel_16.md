@@ -1,6 +1,6 @@
 ---
-weight: 1
-title: 1 Samuel 01
+weight: 16
+title: 1 Samuel 16
 authors: Lenny
 categories: null
 tags: 
