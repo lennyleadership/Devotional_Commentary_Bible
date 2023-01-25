@@ -1,6 +1,6 @@
 ---
-Weight: 999
-title: blank
+Weight: 109
+title: Galatians
 authors: Lenny Lin
 categories: null
 tags: 
