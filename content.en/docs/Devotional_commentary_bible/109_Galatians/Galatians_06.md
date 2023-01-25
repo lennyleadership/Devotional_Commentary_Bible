@@ -82,7 +82,7 @@ toc: true
 1 When I survey the wondrous cross
 on which the Prince of glory died,
 my <u class = "red">richest</u> gain I count but loss,
-and pour contempt on all my <u class = "red">pride</u>.
+and pour contempt on all my <u class = "red">pride</u>. <a class = "marginnote">contempt: The state or act of contemning; the feeling or attitude of regarding someone or something as inferior, base, or worthless; scorn, disdain.</a>
 
 2 Forbid it, Lord, that I should boast
 save in the death of Christ, my God!
