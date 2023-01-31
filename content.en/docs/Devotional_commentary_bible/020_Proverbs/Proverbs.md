@@ -15,7 +15,7 @@ toc: true
 <!--more-->
 bookHidden: true
 
-
+# English
 Proverbs Chapter 1   
 1:1 The proverbs of Solomon the son of David, king of Israel;  
 1:2 To know wisdom and instruction; to perceive the words of understanding;  
