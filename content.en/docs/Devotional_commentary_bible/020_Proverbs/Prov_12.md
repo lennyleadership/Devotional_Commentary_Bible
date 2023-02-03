@@ -103,7 +103,7 @@ toc: true
 <div id="med" class="tabcontent">
 Who is the righteous?  谁是义人？  
 
-2 A good man obtaineth favour of the LORD
+2 A good man obtaineth favour of the LORD  
 verse 26 The righteous is more excellent than his neighbour.  义人引导他的邻舍。
 
 
