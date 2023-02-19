@@ -31,7 +31,8 @@ toc: true
     <td><p>The church of Ephesus (NLT)
     <br>v2: God has seen their hard work and their patient endurance. God knows they don’t tolerate evil people. They have examined the claims of those who say they are apostles but are not. They have discovered they are liars.   
     <br> v3: They have patiently suffered for God without quitting.
-    <be> v4: They don’t love God or each other as you did at first!
+    <br> v4: They don’t love God or each other as you did at first!
+    <br> v6: They hated the evil deeds of the Nicolaitans, just as God does.
     </p></td>
     <td><p>
     </p></td>
