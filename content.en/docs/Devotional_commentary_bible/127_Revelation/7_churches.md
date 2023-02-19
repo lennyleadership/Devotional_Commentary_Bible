@@ -30,6 +30,7 @@ toc: true
 <tbody VALIGN=TOP>
   <tr class="odd">
     <td><p>The church of Ephesus  
+    <br>
     <br><b>Something is worthy of praise</b>:  
     <br>v2:2: God has seen their hard work and their patient endurance. God knows they don’t tolerate evil people. They have examined the claims of those who say they are apostles but are not. They have discovered they are liars.   
     <br> v2:3: They have patiently suffered for God without quitting.
@@ -43,7 +44,10 @@ toc: true
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>The church in Smyrna
+    <td><p>The church in Smyrna  
+    <br>  
+    <br><b>Something is worthy of praise</b>:  
+    
     </p></td>
     <td><p>
     </p></td>
