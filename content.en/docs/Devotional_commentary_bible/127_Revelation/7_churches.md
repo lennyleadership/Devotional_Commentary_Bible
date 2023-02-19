@@ -18,11 +18,12 @@ toc: true
 
 <table style="width:100%; font-size: 60%">
 <caption style="text-align:left", align = "top"><b>Alliance Church Assessment</b></caption>
-<colgroup><col style="width: 40%" /><col style="width: 60%" />
+<colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" />
 </colgroup>
 <thead>
   <tr VALIGN=TOP style="text-align:left"  class="header">
     <th><p>God's Assessment</p></th>
+    <th><p>God's Discipline</p></th>
     <th><p>Alliance Church</p></th>
   </tr>
 </thead>
@@ -34,10 +35,14 @@ toc: true
     <br> v4: They don’t love God or each other as you did at first!
     <br> v6: They hated the evil deeds of the Nicolaitans, just as God does.
     </p></td>
+    <td><p>v5: They have fallen far away (gone astray). Turn back to God and do the works they did at first.  Repent.
+    </p></td>
     <td><p>
     </p></td>
   </tr>
   <tr class="even">
+    <td><p>
+    </p></td>
     <td><p>
     </p></td>
     <td><p>
@@ -48,8 +53,29 @@ toc: true
     </p></td>
     <td><p>
     </p></td>
+    <td><p>
+    </p></td>  
   </tr>
   <tr class="even">
+    <td><p>
+    </p></td>
+    <td><p>
+    </p></td>
+    <td><p>
+    </p></td>
+  </tr>
+
+  <tr class="odd">
+    <td><p>
+    </p></td>
+    <td><p>
+    </p></td>
+    <td><p>
+    </p></td>  
+  </tr>
+  <tr class="even">
+    <td><p>
+    </p></td>
     <td><p>
     </p></td>
     <td><p>
@@ -60,8 +86,12 @@ toc: true
     </p></td>
     <td><p>
     </p></td>
+    <td><p>
+    </p></td>  
   </tr>
   <tr class="even">
+    <td><p>
+    </p></td>
     <td><p>
     </p></td>
     <td><p>
@@ -72,8 +102,12 @@ toc: true
     </p></td>
     <td><p>
     </p></td>
+    <td><p>
+    </p></td>  
   </tr>
   <tr class="even">
+    <td><p>
+    </p></td>
     <td><p>
     </p></td>
     <td><p>
@@ -84,8 +118,12 @@ toc: true
     </p></td>
     <td><p>
     </p></td>
+    <td><p>
+    </p></td>  
   </tr>
   <tr class="even">
+    <td><p>
+    </p></td>
     <td><p>
     </p></td>
     <td><p>
@@ -96,8 +134,12 @@ toc: true
     </p></td>
     <td><p>
     </p></td>
+    <td><p>
+    </p></td>  
   </tr>
   <tr class="even">
+    <td><p>
+    </p></td>
     <td><p>
     </p></td>
     <td><p>
@@ -108,8 +150,12 @@ toc: true
     </p></td>
     <td><p>
     </p></td>
+    <td><p>
+    </p></td>  
   </tr>
   <tr class="even">
+    <td><p>
+    </p></td>
     <td><p>
     </p></td>
     <td><p>
@@ -120,8 +166,12 @@ toc: true
     </p></td>
     <td><p>
     </p></td>
+    <td><p>
+    </p></td>  
   </tr>
   <tr class="even">
+    <td><p>
+    </p></td>
     <td><p>
     </p></td>
     <td><p>
@@ -132,8 +182,12 @@ toc: true
     </p></td>
     <td><p>
     </p></td>
+    <td><p>
+    </p></td>  
   </tr>
   <tr class="even">
+    <td><p>
+    </p></td>
     <td><p>
     </p></td>
     <td><p>
@@ -144,8 +198,28 @@ toc: true
     </p></td>
     <td><p>
     </p></td>
+    <td><p>
+    </p></td>  
   </tr>
   <tr class="even">
+    <td><p>
+    </p></td>
+    <td><p>
+    </p></td>
+    <td><p>
+    </p></td>
+  </tr>
+  <tr class="odd">
+    <td><p>
+    </p></td>
+    <td><p>
+    </p></td>
+    <td><p>
+    </p></td>  
+  </tr>
+  <tr class="even">
+    <td><p>
+    </p></td>
     <td><p>
     </p></td>
     <td><p>
