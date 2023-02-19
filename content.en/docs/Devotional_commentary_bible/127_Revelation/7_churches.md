@@ -30,10 +30,12 @@ toc: true
 <tbody VALIGN=TOP>
   <tr class="odd">
     <td><p>The church of Ephesus (NLT)
+    Something is worthy of praise:  
     <br>v2: God has seen their hard work and their patient endurance. God knows they don’t tolerate evil people. They have examined the claims of those who say they are apostles but are not. They have discovered they are liars.   
     <br> v3: They have patiently suffered for God without quitting.
-    <br> v4: They don’t love God or each other as you did at first!
     <br> v6: They hated the evil deeds of the Nicolaitans, just as God does.
+    Something to be pointed out:  
+    <br> v4: They don’t love God or each other as you did at first!
     </p></td>
     <td><p>v5: They have fallen far away (gone astray). Turn back to God and do the works they did at first.  Repent.
     </p></td>
