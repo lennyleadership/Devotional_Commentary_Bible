@@ -22,28 +22,28 @@ toc: true
 </colgroup>
 <thead>
   <tr VALIGN=TOP style="text-align:left"  class="header">
-    <th><p>God's Assessment</p></th>
-    <th><p>God's Discipline</p></th>
+    <th><p>God's Assessment <br> (NLT)</p></th>
+    <th><p>God's Discipline <br> (NLT)</p></th>
     <th><p>Alliance Church</p></th>
   </tr>
 </thead>
 <tbody VALIGN=TOP>
   <tr class="odd">
-    <td><p>The church of Ephesus (NLT)
+    <td><p>The church of Ephesus
     Something is worthy of praise:  
-    <br>v2: God has seen their hard work and their patient endurance. God knows they don’t tolerate evil people. They have examined the claims of those who say they are apostles but are not. They have discovered they are liars.   
-    <br> v3: They have patiently suffered for God without quitting.
-    <br> v6: They hated the evil deeds of the Nicolaitans, just as God does.
+    <br>v2:2: God has seen their hard work and their patient endurance. God knows they don’t tolerate evil people. They have examined the claims of those who say they are apostles but are not. They have discovered they are liars.   
+    <br> v2:3: They have patiently suffered for God without quitting.
+    <br> v2:6: They hated the evil deeds of the Nicolaitans, just as God does.
     Something to be pointed out:  
-    <br> v4: They don’t love God or each other as you did at first!
+    <br> v2:4: They don’t love God or each other as you did at first!
     </p></td>
-    <td><p>v5: They have fallen far away (gone astray). Turn back to God and do the works they did at first.  Repent.
+    <td><p>v2:5: They have fallen far away (gone astray). Turn back to God and do the works they did at first.  Repent.
     </p></td>
     <td><p>
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>
+    <td><p>The church in Smyrna
     </p></td>
     <td><p>
     </p></td>
