@@ -29,12 +29,12 @@ toc: true
 </thead>
 <tbody VALIGN=TOP>
   <tr class="odd">
-    <td><p>The church of Ephesus
-    Something is worthy of praise:  
+    <td><p>The church of Ephesus  
+    <br><b>Something is worthy of praise</b>:  
     <br>v2:2: God has seen their hard work and their patient endurance. God knows they don’t tolerate evil people. They have examined the claims of those who say they are apostles but are not. They have discovered they are liars.   
     <br> v2:3: They have patiently suffered for God without quitting.
-    <br> v2:6: They hated the evil deeds of the Nicolaitans, just as God does.
-    Something to be pointed out:  
+    <br> v2:6: They hated the evil deeds of the Nicolaitans, just as God does.  
+    <br><b>Something to be pointed out</b>:  
     <br> v2:4: They don’t love God or each other as you did at first!
     </p></td>
     <td><p>v2:5: They have fallen far away (gone astray). Turn back to God and do the works they did at first.  Repent.
