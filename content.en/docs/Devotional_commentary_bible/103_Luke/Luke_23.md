@@ -173,6 +173,8 @@ Book of Luke
 
 <div id="verse1" class="tabcontent">
 
+[2023.02-23 LBC v 1-49]  
+Jesus' example in suffering. 1 Peter 2:19-20  
 
 
 
