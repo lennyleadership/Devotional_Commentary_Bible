@@ -18,7 +18,7 @@ toc: true
 
 <table style="width:100%; font-size: 80%">
 <caption style="text-align:left", align = "top"><b>Alliance Church Assessment</b></caption>
-<colgroup><col style="width: 40%" /><col style="width: 40%" /><col style="width: 20%" />
+<colgroup><col style="width: 40%" /><col style="width: 40%" /><col style="width: 5%" />
 </colgroup>
 <thead>
   <tr class="left">
@@ -34,8 +34,8 @@ toc: true
   </td>
   </tr>
   <tr>
-    <td><p><b>Things are worthy of praise</b>:  
-    <br>2:2: God has seen their hard work and their patient endurance. God knows they don’t tolerate evil people. They have examined the claims of those who say they are apostles but are not. They have discovered they are liars.   
+    <td><p><b>Things are worthy of praise</b>:
+    <br>2:2: God has seen their hard work and their patient endurance. God knows they <b>don’t tolerate</b> evil people. They have examined the claims of those who say they are apostles but are not. They have discovered they are liars.   
     <br>2:3: They have patiently suffered for God without quitting.
     <br>2:6: They hated the evil deeds of the Nicolaitans, just as God does.
     </td>
@@ -44,9 +44,9 @@ toc: true
   </tr>
   <tr>
     <td><b><p>Things to be pointed out</b>:  
-    <br>2:4: They don’t love God or each other as you did at first!
+    <br>2:4: They don’t love God or each other as they did at first!
     </p></td>
-    <td><p>2:5: They have fallen far away (gone astray). Turn back to God and do the works they did at first.  Repent.
+    <td><p>2:5: They have fallen far away (gone astray). Turn back to God and do the works they did at first.  <br><br>Repent.
     </p></td>
     <td><p>
     </p></td>
@@ -99,13 +99,13 @@ toc: true
     <td><p><b>Things are worthy of praise</b>:
     <br>2:19 I know all the things you do. I have seen your love, your faith, your service, and your patient endurance. And I can see your constant improvement in all these things.
     <td><p><b>Encouragement</b>:
-    <br>2:24 God will not ask anything more of them.
+    <br>2:24 God will not ask anything more of those who have not followed this false teaching.
     </p></td>
     <td></td>
   </tr>
   <tr>
     <td><p><b>Things are pointed out</b>:
-    <br>2:20 You are <b>permitting</b> that woman—that Jezebel who calls herself a prophet—to lead my servants astray. She teaches them to commit sexual sin and to eat food offered to idols.
+    <br>2:20 <u class = "red">Some of them</u> are <b>permitting</b> that woman—that Jezebel who calls herself a prophet—to lead my servants astray. She teaches them to commit sexual sin and to eat food offered to idols.
 <br>2:21 I gave her time to repent, but she does not want to turn away from her immorality.
     </p></td>
     <td><p><b>Discipline</b>:
@@ -124,8 +124,8 @@ toc: true
     <br>3:4 There are those who have not soiled their clothes with evil.
     </p></td>
     <td><p><b>Encouragement</b>:
-    <br>3:4 who have not soiled their clothes with evil. They will walk with me in white, for they are worthy.
-<br>3:5 All who are <b>victorious</b> will be clothed in white. I will never erase their names from the Book of Life, but I will announce before my Father and his angels that they are mine.
+    <br>3:4 who have not soiled their clothes with evil. They will walk with Jesus in white, for they are worthy.
+<br>3:5 All who are <b>victorious</b> will be clothed in white. God will never erase their names from the Book of Life, but Jesus will announce before my Father and his angels that they are mine.
     </td>
     <td></td>
   </tr>
