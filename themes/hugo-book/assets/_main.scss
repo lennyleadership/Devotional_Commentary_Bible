@@ -461,35 +461,105 @@ body[dir="rtl"] .book-menu {
     }
   }
 
-  table {
-    overflow: auto;
-    display: block;
-    border-spacing: 0;
-    border-collapse: collapse;
-    margin-top: $padding-16;
-    margin-bottom: $padding-16;
 
-    tr th,
-    tr td {
-      padding: $padding-8 $padding-16;
-      border: $padding-1 solid var(--gray-200);
+/* table *****************************************/
+table {
+  width: 100%;  
+  font-size: 80%;
+  border: 1px solid #fbe4d5;
+  /*vertical-align: middle;*/
+  
+  overflow: auto;
+  display: block;
+  border-spacing: 0;
+  border-collapse: collapse;
+  margin-top: $padding-16;
+  margin-bottom: $padding-16;
+
+  tr th {
+    padding: $padding-8 $padding-16;
+    border-bottom: $padding-1 solid #000;
     }
 
-    tr:nth-child(2n) {
-      background: var(--gray-100);
+
+  tr td {
+    padding: $padding-8 $padding-16;
+    border: $padding-1 solid var(--gray-200);
     }
   }
+  
+.subtitle {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}  
 
-  hr {
+th { /*a header cell*/
+  background-color: #D6EEEE;
+}
+
+
+tr:nth-child(2n) {
+  background: var(--gray-100);
+    }
+
+
+tr:nth-child(even) {
+  /*background-color: #f2f2f2;*/
+}
+
+/* end *****/
+
+
+
+hr {
     height: $padding-1;
     border: none;
     background: var(--gray-200);
   }
 
-  ul,
-  ol {
-    padding-inline-start: $padding-16 * 2;
+
+
+/* paragraph bulletin indent ***********************************************************************/
+
+ol,li {
+    margin: 0;
+    padding: 0;
+}
+
+ol {
+    counter-reset: foo;
+    display: table;
+}
+
+ol > li {
+    counter-increment: foo;
+    display: table-row;
+}
+
+ol > li::before {
+    content: counter(foo) ")";
+    display: table-cell; /* aha! */
+    text-align: right;
+}
+
+  
+ul {
+  list-style-position: outside;
+}  
+
+ul,li {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol {
+    /*padding-inline-start: $padding-16 * 2;*/
   }
+  
+/*end **********************************************************************************************/
+
+
 
   dl {
     dt {
@@ -532,12 +602,14 @@ body[dir="rtl"] .book-menu {
     }
   }
 
-  figure {
-    margin: $padding-16 0;
-    figcaption p {
-      margin-top: 0;
+figure {
+  margin: $padding-16 0;
+  figcaption p {
+    margin-top: 0;
     }
   }
+
+
 
 /* image and text side-by-side */
 * {
@@ -700,20 +772,47 @@ a:active {
   font-size: 1rem;
 }
 
-/* highlight options */
-mark.black {
+/* color options *************************************/
+.black {
   background-color: black;
   color: white;
 }
 
-mark.grey {
+
+.grey {
   background-color: #dcdcdc;
 }
 
-mark.lemon {
+
+.blue{
+  background-color:#84b2ff;
+  border-bottom:1px solid red;
+}
+
+
+.lemon {
   background-color: #fffacd;
 }
-/* the end */
+
+
+.green{
+  background-color: #e2efd9;
+}
+
+
+.pink{
+  background-color: #fbe4d5;
+}
+/* the end **************************************/
+
+
+.left {
+  text-align: left;
+}
+
+.center {
+  text-align: center; 
+}
 
 
 .aligncenter {
