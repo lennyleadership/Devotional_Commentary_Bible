@@ -81,7 +81,7 @@ Book of Luke
 23:45 And the sun was darkened, and the veil of the temple was rent in the midst.  
 
 23:46 And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost.  
-23:47 Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man. <a class = "marginnote">[2023.02.22 LBC]glorified: it is translated as worshiped in NLT.</a>  
+23:47 Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man. <a class = "marginnote">[2023.02.22 LBC]v47 glorified: it is translated as worshiped in NLT.<br> Worship: show adoration, deity, reverent to God. <br> to agree with who he is, to acknowledge who he is, and repent.</a>  
 23:48 And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned.  
 23:49 And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things.  
 23:50 And, behold, there was a man named Joseph, a counsellor; and he was a good man, and a just:  
