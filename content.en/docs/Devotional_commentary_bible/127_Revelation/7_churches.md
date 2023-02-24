@@ -43,7 +43,7 @@ toc: true
     <td>
   </tr>
   <tr>
-    <td><b>Things to be pointed out</b>:  
+    <td><b><p>Things to be pointed out</b>:  
     <br>2:4: They don’t love God or each other as you did at first!
     </p></td>
     <td><p>2:5: They have fallen far away (gone astray). Turn back to God and do the works they did at first.  Repent.
@@ -81,7 +81,7 @@ toc: true
     <td></td>
   </tr>
   <tr>
-    <td><b>Things are pointed out</b>:
+    <td><p><b>Things are pointed out</b>:
     <br>2:14 You <b>tolerate</b> some among you whose teaching is like that of Balaam, who showed Balak how to trip up the people of Israel. He taught them to sin by <u class = "red">eating food offered to idols</u> and by <u class = "red">committing sexual sin</u>.
 <br>2:15 In a similar way, you have some Nicolaitans among you who follow the same teaching. 
     </p></td>
