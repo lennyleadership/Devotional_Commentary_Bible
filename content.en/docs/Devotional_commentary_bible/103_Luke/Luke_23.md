@@ -176,6 +176,9 @@ Book of Luke
 [2023.02-23 LBC v 1-49]  
 Jesus' example in suffering. 1 Peter 2:19-20  
 
+Mica 6:8  
+
+Isaiah 53
 
 
 
