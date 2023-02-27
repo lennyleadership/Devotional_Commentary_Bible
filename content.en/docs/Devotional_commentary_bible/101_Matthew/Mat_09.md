@@ -22,6 +22,7 @@ toc: true
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
   <button class="tablinks" onclick="tablabel(event, 'verse1')">v14-17 Commentary</button>
+  <button class="tablinks" onclick="tablabel(event, 'verse2')">v14-17 Thoughts</button>
 </div>
 
 <!-- Tab content -->
@@ -85,3 +86,10 @@ toc: true
 参考资料：  
 <a href = "https://chs.goldenlampstand.org/glb/read.php?GLID=01005" target="_blank" rel="noopener noreferrer">来源：金灯台 | 禁食的正解 吴主光著</a>
 </div>
+
+<div id="verse2" class="tabcontent">
+
+The problem of Pharisee: 2 Tim 3:5 NLV holding a form of godliness, but having denied the power thereof: from these also turn away.  
+
+Don't laugh at Pharisee but examine ourselves.  Do we
+</dv>
