@@ -92,4 +92,20 @@ toc: true
 The problem of Pharisee: 2 Tim 3:5 NLV holding a form of godliness, but having denied the power thereof: from these also turn away.  
 
 Don't laugh at Pharisee but examine ourselves.  Do we
+
+new life
+
+don't play church.  
+
+good coming out from Jesus's life vs. good coming out from education.  
+
+低调
+
+how to get the Jesus' life growing.  cleanse sins,
+
+吾日三省吾身  
+
+加拉太6:15 受割礼不受割礼都无关紧要，要紧的就是作新造的人。
+
+<a href = "https://www.southernliving.com/does-anyone-mend-clothes-anymore-7152936?utm_source=pocket-newtab" target="_blank" rel="noopener noreferrer">Does Anyone Mend Clothes Anymore?</a>
 </dv>
