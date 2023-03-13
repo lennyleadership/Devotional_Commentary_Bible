@@ -90,7 +90,7 @@ and discard them like old clothing. But you are always the same;you will live fo
 
 ----
 
-‪Hebrews‬1:5-12 NASB 
+‪Hebrews‬1:5-12 NASB   
 5 For to which of the angels did He ever say,  
 “You are My Son, Today I have fathered You”? And again, “I will be a Father to Him And He will be a Son to Me”?  
 6 And when He again brings the firstborn into the world, He says,  
