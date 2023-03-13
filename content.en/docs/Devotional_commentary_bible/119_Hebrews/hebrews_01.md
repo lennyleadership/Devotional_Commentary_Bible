@@ -40,7 +40,7 @@ toc: true
 <mark class = "lemon">1:10 And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:</mark>  
 
 <mark class = "lemon">1:11 They shall perish; but thou remainest; and they all shall wax old as doth a garment;</mark>  
-<mark class = "lemon">1:12 And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.</mark>
+<mark class = "lemon">1:12 And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.</mark>  
 1:13 But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?  
 1:14 Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?  
 
@@ -67,14 +67,15 @@ toc: true
 </div>
 
 <div id = "verse1" class = "tabcontent">
-<h1>What God Said</h1>
-‪Hebrews‬1:5-12 NLT
+<h1>What God Said</h1>  
+
+‪Hebrews‬1:5-12 NLT  
 5 For God never said to any angel what he said to Jesus:  
 “You are my Son.Today I have become your Father. ”God also said,“I will be his Father,and he will be my Son.”  
 6 And when he brought his supreme Son into the world, God said,  
 “Let all of God’s angels worship him.”  
 7 Regarding the angels, he says,  
-“He sends his angels like the winds,his servants like flames of fire.”  
+“He sends his angels like the winds,his servants like flames of fire.”   
 8 But to the Son he says,  
 “Your throne, O God, endures forever and ever.You rule with a scepter of justice.  
 9 You love justice and hate evil.  
