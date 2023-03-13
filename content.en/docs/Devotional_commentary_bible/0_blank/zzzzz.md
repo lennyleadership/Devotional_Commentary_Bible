@@ -6,8 +6,8 @@ categories: null
 tags: 
 description: 
 draft: true
-date: "2022-08-16"
-lastmod: "2022-08-16"
+date: "2023-03-12"
+lastmod: "2023-03-12"
 series:
 toc: true
 ---
@@ -19,8 +19,8 @@ bookHidden: true
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
-  <button class="tablinks" onclick="tablabel(event, 'chinese')"></button>
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
   
 </div>
 

@@ -1,6 +1,6 @@
 ---
-Weight: 999
-title: blank
+Weight: 119
+title: Hebrews
 authors: Lenny Lin
 categories: null
 tags: 
