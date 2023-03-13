@@ -85,4 +85,23 @@ Therefore, O God, your God has anointed you,pouring out the oil of joy on you mo
 They will wear out like old clothing.  
 12 You will fold them up like a cloak  
 and discard them like old clothing.But you are always the same;you will live forever.”  
+
+
+----
+‪Hebrews‬1:5-12 NASB
+5 For to which of the angels did He ever say,  
+“You are My Son,Today I have fathered You”?And again,“I will be a Father to HimAnd He will be a Son to Me”?  
+6 And when He again brings the firstborn into the world, He says,  
+“And let all the angels of God worship Him.”  
+7 And regarding the angels He says,  
+“He makes His angels winds,And His ministers a flame of fire.”  
+8 But regarding the Son He says,  
+“Your throne, God, is forever and ever,And the scepter of righteousness is the scepter of His kingdom.  
+9 You have loved righteousness and hated lawlessness;  
+Therefore God, Your God, has anointed YouWith the oil of joy above Your companions.”  
+10 And, “You, Lord, in the beginning laid the foundation of the earth,And the heavens are the works of Your hands;  
+11 They will perish, but You remain;  
+And they all will wear out like a garment,  
+12 And like a robe You will roll them up;  
+Like a garment they will also be changed.But You are the same,And Your years will not come to an end.”  
 </div>
