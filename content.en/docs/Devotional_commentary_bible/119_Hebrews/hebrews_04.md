@@ -1,6 +1,6 @@
 ---
-weight: 
-title: Hebrews 0
+weight: 4
+title: Hebrews 04
 authors: Lenny
 categories: null
 tags: 

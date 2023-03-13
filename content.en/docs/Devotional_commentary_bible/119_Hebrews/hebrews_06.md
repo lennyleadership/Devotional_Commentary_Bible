@@ -1,6 +1,6 @@
 ---
-weight: 
-title: Hebrews 0
+weight: 6
+title: Hebrews 06
 authors: Lenny
 categories: null
 tags: 

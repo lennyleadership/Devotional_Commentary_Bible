@@ -1,6 +1,6 @@
 ---
-weight: 
-title: Hebrews 0
+weight: 12
+title: Hebrews 12
 authors: Lenny
 categories: null
 tags: 

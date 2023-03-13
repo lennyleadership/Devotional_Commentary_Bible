@@ -1,6 +1,6 @@
 ---
-weight: 
-title: Hebrews 0
+weight: 7
+title: Hebrews 07
 authors: Lenny
 categories: null
 tags: 
