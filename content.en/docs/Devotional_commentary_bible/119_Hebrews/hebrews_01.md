@@ -20,6 +20,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'verse1')">What God Said</button>
   
 </div>
 
@@ -63,4 +64,25 @@ toc: true
 1:12 你要将天地卷起来、像一件外衣、天地就都改变了。惟有你永不改变、你的年数没有穷尽。』  
 1:13 所有的天使、　神从来对那一个说、『你坐在我的右边、等我使你仇敌作你的脚凳。』  
 1:14 天使岂不都是服役的灵、奉差遣为那将要承受救恩的人效力么。  
+</div>
+
+<div id = "verse1" class = "tabcontent">
+<h1>What God Said</h1>
+‪Hebrews‬1:5-12 NLT
+5 For God never said to any angel what he said to Jesus:  
+“You are my Son.Today I have become your Father. ”God also said,“I will be his Father,and he will be my Son.”  
+6 And when he brought his supreme Son into the world, God said,  
+“Let all of God’s angels worship him.”  
+7 Regarding the angels, he says,  
+“He sends his angels like the winds,his servants like flames of fire.”  
+8 But to the Son he says,  
+“Your throne, O God, endures forever and ever.You rule with a scepter of justice.  
+9 You love justice and hate evil.  
+Therefore, O God, your God has anointed you,pouring out the oil of joy on you more than on anyone else.”  
+10 He also says to the Son,  
+“In the beginning, Lord, you laid the foundation of the earthand made the heavens with your hands.  
+11 They will perish, but you remain forever.  
+They will wear out like old clothing.  
+12 You will fold them up like a cloak  
+and discard them like old clothing.But you are always the same;you will live forever.”  
 </div>
