@@ -28,7 +28,7 @@ toc: true
 <div id="english" class="tabcontent" style="display:block">
 
 1:1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,  
-1:2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;  
+1:2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;  <a class = "marginnote">Who is Jesus?:1) God has appointed Jesus heir of all things. <br>2) Jesus made the worlds.</a>
 1:3 Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;  
 1:4 Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.  
 <mark class = "lemon">1:5 For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?</mark>  
@@ -85,7 +85,7 @@ Therefore, O God, your God has anointed you, pouring out the oil of joy on you m
 11 They will perish, but you remain forever.  
 They will wear out like old clothing.  
 12 You will fold them up like a cloak  
-and discard them like old clothing. But you are always the same;you will live forever.”  
+and discard them like old clothing. But you are always the same; you will live forever.”  
 
 
 ----
