@@ -79,9 +79,9 @@ toc: true
 8 But to the Son he says,  
 “Your throne, O God, endures forever and ever.You rule with a scepter of justice.  
 9 You love justice and hate evil.  
-Therefore, O God, your God has anointed you,pouring out the oil of joy on you more than on anyone else.”  
+Therefore, O God, your God has anointed you, pouring out the oil of joy on you more than on anyone else.”  
 10 He also says to the Son,  
-“In the beginning, Lord, you laid the foundation of the earthand made the heavens with your hands.  
+“In the beginning, Lord, you laid the foundation of the earth and made the heavens with your hands.  
 11 They will perish, but you remain forever.  
 They will wear out like old clothing.  
 12 You will fold them up like a cloak  
@@ -89,7 +89,8 @@ and discard them like old clothing.But you are always the same;you will live for
 
 
 ----
-‪Hebrews‬1:5-12 NASB
+
+‪Hebrews‬1:5-12 NASB 
 5 For to which of the angels did He ever say,  
 “You are My Son,Today I have fathered You”?And again,“I will be a Father to HimAnd He will be a Son to Me”?  
 6 And when He again brings the firstborn into the world, He says,  
