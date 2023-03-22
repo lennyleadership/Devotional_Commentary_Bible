@@ -1,6 +1,6 @@
 ---
-weight: 999
-title: Psalm
+weight: 139
+title: Psalm 139
 authors: Lenny
 categories: null
 tags: []
@@ -39,7 +39,7 @@ toc: true
 139:10 Even there shall thy hand lead me, and thy right hand shall hold me.  
 
 139:11 If I say, Surely the darkness shall cover me; even the night shall be light about me.    
-139:12 Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee.<a class = "marginnote">We could be in darkness when presenting in difficult time. However, God can still work; things/situation are still in control.</a>    
+139:12 Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee.<a class = "marginnote">We could be in darkness when presenting in adversity (not adversary). However, God can still work; things/situation are still in control.</a>    
 139:13 For thou hast possessed my reins: thou hast covered me in my mother's womb.  
 139:14 I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.  
 139:15 My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.  
@@ -88,11 +88,10 @@ toc: true
 139:23 　神阿、求你鉴察我、知道我的心思、试炼我、知道我的意念。  
 139:24 看在我里面有甚么恶行没有、引导我走永生的道路。  
   
-  </p>
 </div>
 
 <div id="verse1" class="tabcontent">
 
   
-  </p>
+
 </div>
