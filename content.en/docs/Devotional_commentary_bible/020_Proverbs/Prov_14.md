@@ -1,9 +1,9 @@
 ---
-weight: 1x
-title: Proverbs 1x
+weight: 14
+title: Proverbs 14
 authors: Lenny Lin
 categories: null
-tags: []
+tags: [Reverence Fear]
 description: 
 draft: false
 date: "2023-03-22"
@@ -43,7 +43,7 @@ toc: true
 14:14 The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.  
 14:15 The simple believeth every word: but the prudent man looketh well to his going.  
 
-14:16 A wise man feareth, and departeth from evil: but the fool rageth, and is confident.  
+14:16 A wise man <u class = "red"><a class = "red">feareth</a></u>, and departeth from evil: but the fool rageth, and is confident.  
 14:17 He that is soon angry dealeth foolishly: and a man of wicked devices is hated.  
 14:18 The simple inherit folly: but the prudent are crowned with knowledge.  
 14:19 The evil bow before the good; and the wicked at the gates of the righteous.  
