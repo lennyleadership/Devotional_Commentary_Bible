@@ -43,9 +43,18 @@ Genesis 11:27-28 Terah was the father of Abram, .... They lived in Ur of the Cha
 
 Genesis 11:31 Terah took Abram and moved away from Ur of the Chaldeans, headed for the land of Canaan.  Terah did not arrive at Canaan.  
 
+Genesis 15:18 So the Lord made a covenant with Abram that day and said, “I have given this land to your descendants, all the way from the border of Egypt to the great Euphrates River, ...." 
+
 Joshua 24
 
-<iframe width="100%"  src="https://www.youtube.com/embed/L8fyCD0yZaA" title="Euphrates 2015" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
+<iframe width="320" height ="270"  src="https://www.youtube.com/embed/L8fyCD0yZaA" title="Euphrates 2015" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+---
+
+<a href = "https://sci-hub.se/10.2307/1775471" target="_blank" rel="noopener noreferrer">Through the Great Cañon of the Euphrates River</a>
+
 
 </div>
 

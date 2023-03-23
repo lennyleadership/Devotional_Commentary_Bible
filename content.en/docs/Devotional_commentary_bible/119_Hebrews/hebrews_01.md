@@ -29,7 +29,7 @@ toc: true
 1:1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,  
 1:2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;  <a class = "marginnote">Who is Jesus?<br>1) God has appointed Jesus heir of all things. <br>2) God made the worlds through Jesus.</a>  
 1:3 Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;  
-1:4 Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.  
+1:4 Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they. <a id="1_ref" href = "#1">[1]</a>  
 <mark class = "lemon">1:5 For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?</mark>  
 
 <mark class = "lemon">1:6 And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.</mark>  
@@ -43,6 +43,32 @@ toc: true
 1:13 But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?  
 1:14 Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?  
 
+
+<p id="1">[1] Angels and Human   
+<ol>
+<li>&nbsp;Both human and angels were perfect creatures.  Jesus is not a creature. (Genesis 1:31)  
+</li>
+<li>&nbsp;Only human were created in the image of God, not angels. (Genesis 1:26-27) 
+</li>
+<li>&nbsp;All the humans were born with a sin nature. (Genesis 5:3)  Some angels also sinned, but many did not.  
+</li>
+<li>&nbsp;Though all humans and some angels sinned, there is forgiveness only for humans. (2 Corinthians 5:21). The angels who sinned are awaiting the day of judgment.  (Matthew 25:41)  
+</li>
+<li>&nbsp;Believers hold exalted position because they are a new creation in Christ. (Ephesians 2:6)  
+</li>
+<li>&nbsp;Believers will be comformed to the image of Christ. (Romans 8:29)  
+</li>
+<li>&nbsp;Human will someday judge angels  1 Col 6:3 Don't you realize that we will judge angels?
+</li>
+</ol>
+<br> Angels served Jesus
+<ol>
+<li>&nbsp;Mark 1:13 in the wilderness
+</li>
+<li>&nbsp;Luke 22:39-44 in Gethsēmani
+</li>
+</ol>
+<a href="#1_ref">&#8617;</a></p>
 </div>
 
 <div id="chinese" class="tabcontent">
