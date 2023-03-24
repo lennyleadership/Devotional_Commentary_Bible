@@ -56,6 +56,25 @@ Joshua 24
 <a href = "https://sci-hub.se/10.2307/1775471" target="_blank" rel="noopener noreferrer">Through the Great Cañon of the Euphrates River</a>
 
 
+---
+
+Abraham  
+
+Abraham was the firstborn son of Terah.  
+
+Abraham crossed the Euphrates river.  
+
+Abraham had Lot (a nephew) select land first.  
+
+Abraham gave birth to Isaac.  Isaac was the firstborn son of Abraham.  
+
+Abraham had Isaac marry with Rebecca (Genesis 23).  
+
+Abraham's faith: sacrificed Isaac.  
+
+Isaac gave birth to Esau and Jacob.  Jacob was renamed to Israel (Genesis 32:28).
+
+
 </div>
 
 <div id="chinese" class="tabcontent">
