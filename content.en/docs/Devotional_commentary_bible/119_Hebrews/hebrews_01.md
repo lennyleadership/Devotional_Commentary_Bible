@@ -58,7 +58,7 @@ toc: true
 </li>
 <li>&nbsp;Believers will be comformed to the image of Christ. (Romans 8:29)  
 </li>
-<li>&nbsp;Human will someday judge angels  1 Col 6:3 Don't you realize that we will judge angels?
+<li>&nbsp;Human will someday judge angels,  1 Cor 6:3 Don't you realize that we will judge angels?
 </li>
 </ol>
 <br> Angels served Jesus
