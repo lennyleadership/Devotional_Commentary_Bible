@@ -16,6 +16,7 @@ toc: true
 <!--more-->
 ---
 
+<iframe src="https://www.esv.org/audio-player/romans+8/" style="border: 0; width: 100%; height: 109px;"></iframe>
 
 <!-- Tab links -->
 <div class="tab">
@@ -110,7 +111,7 @@ toc: true
 8:26 况且我们的软弱有<u class = "red"><a class = "lemon">圣灵</a></u>帮助、我们本不晓得当怎样祷告、只是圣灵亲自用说不出来的叹息、替我们祷告。  
 8:27 鉴察人心的、晓得<u class = "red"><a class = "lemon">圣灵</a></u>的意思。因为<u class = "red"><a class = "lemon">圣灵</a></u>照着　神的旨意替圣徒祈求。  
 8:28 我们晓得万事都互相效力、叫爱　神的人得益处、就是按他旨意被召的人。  
-8:29 因为他预先所知道的人、就预先定下效法<u class = "red">他儿子</u>的模样使<u class = "red">他儿子</u>在许多弟兄中作<u class = "red">长子</u>。  
+8:29 因为他预先所知道的人、就预先定下效法<u class = "red">他儿子</u>的模样，使<u class = "red">他儿子</u>在许多弟兄中作<u class = "red">长子</u>。  
 8:30 预先所定下的人又召他们来。所召来的人、又称他们为义。所称为义的人、又叫他们得荣耀。  
 
 8:31 既是这样、还有甚么说的呢。　神若帮助我们、谁能敌挡我们呢。  
