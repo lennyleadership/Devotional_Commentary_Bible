@@ -27,9 +27,9 @@ toc: true
 <div id="english" class="tabcontent" style="display:block">
 
 8:1 There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.  
-8:2 For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.  
+8:2 For <u class = "red"><a class = "lemon">the law of the Spirit of life in Christ Jesus</a></u> hath made me free from t<u class = "red"><a class = "lemon">he law of sin and death</a></u>.  
 8:3 For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:  
-8:4 That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.  
+8:4 That <u class = "red"><a class = "lemon">the righteousness of the law</a></u> might be fulfilled in us, who walk not after the flesh, but after the Spirit.  
 8:5 For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.  
 
 8:6 For to be carnally minded is death; but to be spiritually minded is life and peace.  
@@ -45,12 +45,12 @@ toc: true
 8:15 For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.  
 
 8:16 The Spirit itself beareth witness with our spirit, that we are the children of God:  
-8:17 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.  
-8:18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.  
+8:17 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may <a class = "red">be also glorified</a> together.  
+8:18 For I reckon that the sufferings of this present time are not worthy to be compared with <a class = "red">the glory</a> which shall be revealed in us.  
 8:19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God.  
 8:20 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,  
 
-8:21 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.  
+8:21 Because the creature itself also shall be delivered from the bondage of corruption into <a class = "red">the glorious liberty</a> of the children of God.  
 8:22 For we know that the whole creation groaneth and travaileth in pain together until now.  
 8:23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.  
 8:24 For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?  
@@ -60,7 +60,7 @@ toc: true
 8:27 And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.  
 8:28 And we know that all things work together for good to them that love God, to them who are the called according to his purpose.  
 8:29 For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.  
-8:30 Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.  
+8:30 Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also <a class = "red">glorified</a>.  
 
 8:31 What shall we then say to these things? If God be for us, who can be against us?  
 8:32 He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?  
