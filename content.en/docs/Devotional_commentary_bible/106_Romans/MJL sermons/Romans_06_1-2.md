@@ -1,5 +1,5 @@
 ---
-weight: 601
+weight: 0601
 title: Romans 6:1-2 - Spiritual Depression
 authors: Lenny
 categories: null

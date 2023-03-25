@@ -1,5 +1,5 @@
 ---
-weight: 614
+weight: 0614
 title: Romans 6:4 - Spiritual Depression
 authors: Lenny
 categories: null
