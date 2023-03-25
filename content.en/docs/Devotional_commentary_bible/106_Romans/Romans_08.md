@@ -27,7 +27,7 @@ toc: true
 <div id="english" class="tabcontent" style="display:block">
 
 8:1 There is therefore now no condemnation to them which are <a class = "blue">in Christ Jesus</a>, who walk not after the flesh, but after the Spirit.  
-8:2 For <u class = "red"><a class = "lemon">the law of the Spirit of life <a class = "blue">in Christ Jesus</a></a></u> hath made me free from t<u class = "red"><a class = "lemon">he law of sin and death</a></u>.  
+8:2 For <u class = "red"><a class = "lemon">the law of the Spirit of life</a></u> <a class = "blue">in Christ Jesus</a> hath made me free from t<u class = "red"><a class = "lemon">he law of sin and death</a></u>.  
 8:3 For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:  
 8:4 That <u class = "red"><a class = "lemon">the righteousness of the law</a></u> might be fulfilled in us, who walk not after the flesh, but after the Spirit.  
 8:5 For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.  
@@ -71,7 +71,7 @@ toc: true
 8:36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.  
 8:37 Nay, in all these things we are more than conquerors through him that loved us.  
 8:38 For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,  
-8:39 Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.  
+8:39 Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is <a class = "blue">in Christ Jesus</a> our Lord.  
 </div>
 
 ---
