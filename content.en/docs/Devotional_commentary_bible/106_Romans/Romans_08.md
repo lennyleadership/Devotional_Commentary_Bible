@@ -26,8 +26,8 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-8:1 There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.  
-8:2 For <u class = "red"><a class = "lemon">the law of the Spirit of life in Christ Jesus</a></u> hath made me free from t<u class = "red"><a class = "lemon">he law of sin and death</a></u>.  
+8:1 There is therefore now no condemnation to them which are <a class = "blue">in Christ Jesus</a>, who walk not after the flesh, but after the Spirit.  
+8:2 For <u class = "red"><a class = "lemon">the law of the Spirit of life <a class = "blue">in Christ Jesus</a></a></u> hath made me free from t<u class = "red"><a class = "lemon">he law of sin and death</a></u>.  
 8:3 For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:  
 8:4 That <u class = "red"><a class = "lemon">the righteousness of the law</a></u> might be fulfilled in us, who walk not after the flesh, but after the Spirit.  
 8:5 For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.  
