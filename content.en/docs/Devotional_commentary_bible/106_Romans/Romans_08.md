@@ -36,7 +36,7 @@ toc: true
 8:7 Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.  
 8:8 So then they that are in the flesh cannot please God.  
 8:9 But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.  
-8:10 And if <a class = "blue">Christ be in you</a>, the body is dead because of sin; but the Spirit is life because of righteousness.  
+8:10 And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.  
 
 8:11 But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.  
 8:12 Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.  
@@ -86,10 +86,10 @@ toc: true
 8:6 体贴肉体的就是死。体贴<u class = "red"><a class = "lemon">圣灵</a></u>的乃是生命平安。  
 8:7 原来体贴肉体的、就是与　神为仇。因为不服　神的律法、也是不能服。  
 8:8 而且属肉体的人、不能得　神的喜欢。  
-8:9 如果　<u class = "red"><a class = "lemon">神的灵</a></u>住在你们心里、你们就不属肉体、乃属<u class = "red"><a class = "lemon">圣灵</a></u>了。人若没有<u class = "red"><a class = "lemon">基督的灵</a></u>、就不是属基督的。  
-8:10 基督若在你们心里、身体就因罪而死、心灵却因义而活。  
+8:9 如果　<u class = "red"><a class = "lemon">神的灵</a></u><a class = "red">住在你们心里</a>、你们就不属肉体、乃属<u class = "red"><a class = "lemon">圣灵</a></u>了。人若没有<u class = "red"><a class = "lemon">基督的灵</a></u>、就不是属基督的。  
+8:10 <a class = "red">基督若在你们心里</a>、身体就因罪而死、心灵却因义而活。  
 
-8:11 然而<u class = "red"><a class = "lemon">叫耶稣从死里复活者的灵</a></u>、若住在你们心里、那叫基督耶稣从死里复活的、也必借着<u class = "red"><a class = "lemon">住在你们心里的圣灵</a></u>、使你们必死的身体又活过来。  
+8:11 然而<u class = "red"><a class = "lemon">叫耶稣从死里复活者的灵</a></u>、若<a class = "red">住在你们心里</a>、那叫基督耶稣从死里复活的、也必借着<u class = "red"><a class = "lemon">住在你们心里的圣灵</a></u>、使你们必死的身体又活过来。  
 8:12 弟兄们、这样看来、我们并不是欠肉体的债、去顺从肉体活着。  
 8:13 你们若顺从肉体活着必要死。若靠着<u class = "red"><a class = "lemon">圣灵</a></u>治死身体的恶行必要活着。  
 8:14 因为凡被　<u class = "red"><a class = "lemon">神的灵</a></u>引导的、都是　<u class = "red">神的儿子</u>。  
