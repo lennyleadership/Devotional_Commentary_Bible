@@ -36,7 +36,7 @@ toc: true
 8:7 Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.  
 8:8 So then they that are in the flesh cannot please God.  
 8:9 But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.  
-8:10 And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.  
+8:10 And if <a class = "blue">Christ be in you</a>, the body is dead because of sin; but the Spirit is life because of righteousness.  
 
 8:11 But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.  
 8:12 Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.  
