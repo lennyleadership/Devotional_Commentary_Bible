@@ -43,6 +43,8 @@ Genesis 11:27-28 Terah was the father of Abram, .... They lived in Ur of the Cha
 
 Genesis 11:31 Terah took Abram and moved away from Ur of the Chaldeans, headed for the land of Canaan.  Terah did not arrive at Canaan.  
 
+Genesis 14:13 And there came one that had escaped, and told Abram the Hebrew.  
+
 Genesis 15:18 So the Lord made a covenant with Abram that day and said, “I have given this land to your descendants, all the way from the border of Egypt to the great Euphrates River, ...." 
 
 Joshua 24

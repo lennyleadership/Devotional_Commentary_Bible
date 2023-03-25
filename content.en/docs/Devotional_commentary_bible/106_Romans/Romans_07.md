@@ -1,6 +1,6 @@
 ---
-weight: 1
-title: Romans 1
+weight: 7
+title: Romans 7
 authors: Lenny
 categories: null
 tags: 
