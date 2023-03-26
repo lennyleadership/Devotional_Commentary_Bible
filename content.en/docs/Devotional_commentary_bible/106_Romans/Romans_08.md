@@ -13,10 +13,9 @@ toc: true
 ---
 
 
+<iframe src="https://www.esv.org/audio-player/romans+8/" style="border: 0; width: 100%; height: 109px;"></iframe>
 <!--more-->
 ---
-
-<iframe src="https://www.esv.org/audio-player/romans+8/" style="border: 0; width: 100%; height: 109px;"></iframe>
 
 <!-- Tab links -->
 <div class="tab">
