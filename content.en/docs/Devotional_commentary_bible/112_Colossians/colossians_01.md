@@ -3,7 +3,7 @@ weight: 1
 title: Colossians 1
 authors: Lenny
 categories: null
-tags: 
+tags: [Be submissive to Authority]
 description: 
 draft: false
 date: "2023-03-25"
@@ -41,7 +41,7 @@ toc: true
 1:13 Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:  
 1:14 In whom we have redemption through his blood, even the forgiveness of sins:  
 1:15 Who is the image of the invisible God, the firstborn of every creature:  
-1:16 For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:  
+1:16 For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: <a class = "marginnote">Be submissive to authority because they were created by Jesus and for Jesus</a>  
 1:17 And he is before all things, and by him all things consist.  
 1:18 And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.  
 1:19 For it pleased the Father that in him should all fulness dwell;  

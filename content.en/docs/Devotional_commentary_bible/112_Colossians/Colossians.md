@@ -46,7 +46,7 @@ Colossians Chapter 1  <  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 2
 1:16 For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:  
 1:17 And he is before all things, and by him all things consist.  
 1:18 And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.  
-1:19 For it pleased the Father that in him should all fulness dwell;  
+1:19 For it pleased the Father that in him should all fullness dwell;  
 1:20 And, having made peace through the blood of his cross, by him to reconcile all things unto himself; by him, I say, whether they be things in earth, or things in heaven.  
 1:21 And you, that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled
 1:22 In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:  
@@ -68,7 +68,7 @@ Colossians Chapter 2  <  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 2
 2:6 As ye have therefore received Christ Jesus the Lord, so walk ye in him:  
 2:7 Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.  
 2:8 Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.  
-2:9 For in him dwelleth all the fulness of the Godhead bodily.  
+2:9 For in him dwelleth all the fullness of the Godhead bodily.  
 2:10 And ye are complete in him, which is the head of all principality and power:  
 2:11 In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:  
 2:12 Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.  
