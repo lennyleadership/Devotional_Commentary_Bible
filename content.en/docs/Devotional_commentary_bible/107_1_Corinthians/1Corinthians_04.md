@@ -1,6 +1,6 @@
 ---
-weight: 
-title: 
+weight: 4
+title: 1 Corinthians 4
 authors: Lenny
 categories: null
 tags: [Servant - Under Rower]
@@ -26,7 +26,7 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-4:1 Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.  
+4:1 Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. <a id="1_ref" href = "#1">[1]</a>   
 4:2 Moreover it is required in stewards, that a man be found faithful.  
 4:3 But with me it is a very small thing that I should be judged of you, or of man's judgment: yea, I judge not mine own self.  
 4:4 For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord.  
@@ -51,6 +51,12 @@ toc: true
 4:20 For the kingdom of God is not in word, but in power.  
 
 4:21 What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness?  
+
+---
+
+<p id="1">[1] The mind-set of "under rower" was not new to Paul, because he imitated Jesus.  Jesus said this:  “I tell you the truth, the Son can do nothing by himself. He does only what he sees the Father doing. Whatever the Father does, the Son also does. (John 5:19 NLT).
+
+Further reading: https://www.austin-sparks.net/english/books/002846.html <a href="#1_ref">&#8617;</a></p>
 </div>
 
 <div id="chinese" class="tabcontent">
@@ -80,6 +86,8 @@ toc: true
 4:20 因为　神的国不在乎言语、乃在乎权能。  
 
 4:21 你们愿意怎么样呢。是愿意我带着刑杖到你们那里去呢、还是要我存慈爱温柔的心呢。  
+
+---
 
 <p id="1">[1] 奴仆的角色很多。有一类奴仆是指在船甲板下面划船的奴隶。他们出卖体力，不见天日，没有人权。
 
