@@ -1,16 +1,16 @@
 ---
 authors: Lenny
 categories: null
-date: "2022-04-19"
 description: 
 draft: false
-lastmod: "2022-06-12"
+date: "2022-04-19"
+lastmod: "2023-04-09"
 series:
 tags: [魂的救恩, salvation of soul]
 title: 彼得前后书 ─ 魂的得救
 toc: true
 ---
-[圣经精华](https://sites.google.com/site/lilysbiblestudy/simplified/peter12)
+
 <!--more-->
 
 彼得前后书 ─ 魂的得救
@@ -32,13 +32,12 @@ toc: true
 魂的得救有二十四项的实行：
 
   1. [一章1～5节]
-
   分别为圣，顺服神，重生的人，必能得着基督丰盛的生命，这个 基业永不朽坏，无玷污，不衰残，因着重生成为神的儿女，蒙神的能力保守，得着灵魂体全然成圣。
 
-  2. [一6～7节]　在百般的试炼中，除去旧人，建造新人，信心增长，比金子更宝贵。十字架是除去旧人，建造新人的得胜道路。神是炼金之人的火。(玛三2)
+  2. [一6～7节]　
+  在百般的试炼中，除去旧人，建造新人，信心增长，比金子更宝贵。十字架是除去旧人，建造新人的得胜道路。神是炼金之人的火。(玛三2)
 
   3. [一8～12节]
-
   信心不断增长，达到魂的得救，信心的根基是认识神的自己，基督为全人类死而复活，显明神是可信可靠的，神的儿女要传扬祂。
 
   4. [一13～16节]
@@ -170,3 +169,5 @@ toc: true
   5. 后书一章1节 宝贵的信心
 
   6. 一4    神赐给我们宝贵又极大的应许
+
+<a href = "https://sites.google.com/site/lilysbiblestudy/simplified/peter12" target="_blank" rel="noopener noreferrer">参考：圣经精华</a>
