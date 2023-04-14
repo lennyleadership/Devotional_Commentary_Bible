@@ -26,10 +26,10 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-1:1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,  
+1:1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, <a id="1_ref" href = "#1">[1]</a> <a class = "marginnote">Acts 7:37 “Moses himself told the people of Israel, ‘God will raise up for you a Prophet like me from among your own people.’ - which refers to Jesus</a>   
 1:2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;  <a class = "marginnote">Who is Jesus?<br>1) God has appointed Jesus heir of all things. <br>2) God made the worlds through Jesus.</a>  
 1:3 Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;  
-1:4 Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they. <a id="1_ref" href = "#1">[1]</a>  
+1:4 Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they. <a id="2_ref" href = "#2">[2]</a>  
 <mark class = "lemon">1:5 For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?</mark>  
 
 <mark class = "lemon">1:6 And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.</mark>  
@@ -43,8 +43,9 @@ toc: true
 1:13 But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?  
 1:14 Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?  
 
+<p id="1">[1] Deuteronomy 18:15 Moses continued, “The Lord your God will raise up for you a prophet like me from among your fellow Israelites. You must listen to him.<a href="#1_ref">&#8617;</a></p>
 
-<p id="1">[1] Angels and Human   
+<p id="2">[2] Angels and Human   
 <ol>
 <li>&nbsp;Both human and angels were perfect creatures.  Jesus is not a creature. (Genesis 1:31)  
 </li>
@@ -68,7 +69,7 @@ toc: true
 <li>&nbsp;Luke 22:39-44 in Gethsēmani
 </li>
 </ol>
-<a href="#1_ref">&#8617;</a></p>
+<a href="#2_ref">&#8617;</a></p>
 </div>
 
 <div id="chinese" class="tabcontent">
