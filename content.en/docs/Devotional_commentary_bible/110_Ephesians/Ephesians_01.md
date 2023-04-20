@@ -19,18 +19,73 @@ Ephesians
 <!-- Tab links -->
 
 <div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'verses')">Chapter 10</button>
-  <button class="tablinks" onclick="tablabel(event, 'Devotion1')">verse 31</button>
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">verse 31</button>
+  <button class="tablinks active" onclick="tablabel(event, 'chinese')">和合本</button>
 </div>
 
 <!-- Tab content -->
-<div id="verses" class="tabcontent" style="display:block">
+<div id="english" class="tabcontent" style="display:block">
 
+1:1 Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:  
+1:2 Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.  
+1:3 Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:  
+1:4 According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:  
+1:5 Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,  
+ 
+1:6 To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.  
+1:7 In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;  
+1:8 Wherein he hath abounded toward us in all wisdom and prudence;  
+1:9 Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:  
+1:10 That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:  
+ 
+1:11 In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:  
+1:12 That we should be to the praise of his glory, who first trusted in Christ.  
+1:13 In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, <u class = "red">ye were sealed with that holy Spirit of promise</u>,  
+1:14 Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.  
+1:15 Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,  
+ 
+1:16 Cease not to give thanks for you, making mention of you in my prayers;  
+1:17 That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:  
+1:18 The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,  
+1:19 And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,  
+1:20 Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,  
+ 
+1:21 Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:  
+1:22 And hath put all things under his feet, and gave him to be the head over all things to the church,  
+1:23 Which is his body, the fulness of him that filleth all in all.  
 </div>
 
 ----
-<div id="Devotion1" class="tabcontent">
-  <h2></h2>
+<div id="chinese" class="tabcontent">
+
+1:1 奉　神旨意、作基督耶稣使徒的保罗、写信给在以弗所的圣徒、就是在基督耶稣里有忠心的人。  
+1:2 愿恩惠平安、从　神我们的父、和主耶稣基督、归与你们。  
+1:3 愿颂赞归与我们主耶稣基督的父　神、他在基督里、曾赐给我们天上各样属灵的福气。  
+1:4 就如　神从创立世界以前、在基督里拣选了我们、使我们在他面前成为圣洁、无有瑕疵。  
+1:5 又因爱我们、就按着自己意旨所喜悦的、预定我们、借着耶稣基督得儿子的名分、  
+
+1:6 使他荣耀的恩典得着称赞。这恩典是他在爱子里所赐给我们的。  
+1:7 我们借这爱子的血、得蒙救赎、过犯得以赦免、乃是照他丰富的恩典。  
+1:8 这恩典是　神用诸般智慧聪明、充充足足赏给我们的、  
+1:9 都是照他自己所预定的美意、叫我们知道他旨意的奥秘、  
+1:10 要照所安排的、在日期满足的时候、使天上地上一切所有的、都在基督里面同归于一。  
+
+1:11 我们也在他里面得了基业、〔得或作成〕这原是那位随己意行作万事的、照着他旨意所预定的。  
+1:12 叫他的荣耀、从我们这首先在基督里有盼望的人、可以得着称赞。  
+1:13 你们既听见真理的道、就是那叫你们得救的福音、也信了基督、既然信他、就受了所应许的圣灵为印记。  
+1:14 这圣灵、是我们得基业的凭据、〔原文作质〕直等到　神之民〔民原文作产业〕被赎、使他的荣耀得着称赞。  
+1:15 因此、我既听见你们信从主耶稣、亲爱众圣徒、  
+
+1:16 就为你们不住的感谢　神、祷告的时候、常提到你们。  
+1:17 求我们主耶稣基督的　神、荣耀的父、将那赐人智慧和启示的灵、赏给你们、使你们真知道他。  
+1:18 并且照明你们心中的眼睛、使你们知道他的恩召有何等指望。他在圣徒中得的基业、有何等丰盛的荣耀。  
+1:19 并知道他向我们这信的人所显的能力、是何等浩大、  
+1:20 就是照他在基督身上、所运行的大能大力、使他从死里复活、叫他在天上坐在自己的右边、  
+
+1:21 远超过一切执政的、掌权的、有能的、主治的、和一切有名的。不但是今世的、连来世的也都超过了。  
+1:22 又将万有服在他的脚下、使他为教会作万有之首。  
+1:23 教会是他的身体、是那充满万有者所充满的。  
   
 </div>
 

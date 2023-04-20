@@ -7,7 +7,7 @@ tags:
 description: 
 draft: false
 date: "2023-03-12"
-lastmod: "2023-03-12"
+lastmod: "2023-04-13"
 series:
 toc: true
 ---
@@ -32,7 +32,7 @@ toc: true
 1:4 Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they. <a id="2_ref" href = "#2">[2]</a>  
 <mark class = "lemon">1:5 For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?</mark>  
 
-<mark class = "lemon">1:6 And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.</mark>  
+<mark class = "lemon">1:6 And again, when he bringeth in the first begotten into the world, he saith, And let all the angels of God worship him.</mark>  
 <mark class = "lemon">1:7 And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.</mark>  
 <mark class = "lemon">1:8 But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.</mark>  
 <mark class = "lemon">1:9 Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.</mark>  
