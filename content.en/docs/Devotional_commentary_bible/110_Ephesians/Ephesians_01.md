@@ -36,7 +36,7 @@ Ephesians
 1:7 In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;  
 1:8 Wherein he hath abounded toward us in all wisdom and prudence;  
 1:9 Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:  
-1:10 That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:  
+1:10 That in the dispensation of the fullness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:  
  
 1:11 In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:  
 1:12 That we should be to the praise of his glory, who first trusted in Christ.  
@@ -59,7 +59,7 @@ Ephesians
 <div id="chinese" class="tabcontent">
 
 1:1 奉　神<u>旨意</u>、作基督耶稣使徒的保罗、写信给在以弗所的圣徒、就是在基督耶稣里有忠心的人。[<cite class="bibleref" title="Hebrews 10:14" >希十14</cite>, <cite class="bibleref" title="Romans 12:1-2" >罗十二1-2</cite>, <cite class="bibleref" title="Proverbs 23:7" >箴二十三7</cite>]    <font class ="marginnote">Hebrews 10:14, Romans 12:1-2</font>   
-1:2 愿恩惠平安、从　神我们的父、和主耶稣基督、归与你们。&emsp;<sup>(</sup>[^1]<sup>)</sup>  
+1:2 愿恩惠平安、从　神我们的父、和主耶稣基督、归与你们。<a id="1_ref" href = "#1">[1]</a>  
 1:3 愿颂赞归与我们主耶稣基督的父　神、他在基督里、曾赐给我们天上各样属灵的福气。[<cite class="bibleref" title="Psalms 16:5" >诗篇 十六5</cite>] &emsp;<sup>(</sup>[^2]<sup>)</sup>  
 1:4 就如　神从创立世界以前、在基督里拣选了我们、使我们在他面前成为圣洁、无有瑕疵。&emsp;<sup>(</sup>[^3]<sup>)</sup>  
 1:5 又因爱我们、就按着自己意旨所喜悦的、预定我们、借着耶稣基督得儿子的名分、  
@@ -87,8 +87,9 @@ Ephesians
 1:23 <u>教会</u>是他的身体、是那充满万有者所充满的。  
 
 
-[^1]: 保罗是在狱中写下本信（三1），却能为别人求「平安」，因为他即使在狱中，也真实地经历了神的同在、认识神的心意，所以满有不受环境影响的平安喜乐。  
-保罗的问安语结合了希腊式的「恩惠」和希伯来式的「平安」。当时的书信一般用「问候（Chairein）」一词来问安（徒十五23；二十三26），但保罗却改为双关语「恩惠（Charis）」，原意是「那引致喜乐的」，「恩惠」是神赐给不配的罪人白白的、主动的礼物，是我们喜乐的源泉。希伯来文「平安（Shalom）」不只是没有战争的状态，更表示繁荣、兴盛，特别是属灵事物上的兴盛。保罗的问候总是先「恩惠」后「平安」，因为除非神的「恩惠」已把罪对付清楚，否则就不会有真正的「平安」。在保罗心目中，「恩惠」（Charis）几乎就是「基督」（Christos）的同义词，因为除基督之外没有什么可以给人恩惠，神的平安也是借着基督来的。「恩惠」是「平安」之源，「平安」是「恩惠」之果。  
+<p id="1">[1] 保罗是在狱中写下本信（三1），却能为别人求「平安」，因为他即使在狱中，也真实地经历了神的同在、认识神的心意，所以满有不受环境影响的平安喜乐。  
+保罗的问安语结合了希腊式的「恩惠」和希伯来式的「平安」。当时的书信一般用「问候（Chairein）」一词来问安（徒十五23；二十三26），但保罗却改为双关语「恩惠（Charis）」，原意是「那引致喜乐的」，「恩惠」是神赐给不配的罪人白白的、主动的礼物，是我们喜乐的源泉。希伯来文「平安（Shalom）」不只是没有战争的状态，更表示繁荣、兴盛，特别是属灵事物上的兴盛。保罗的问候总是先「恩惠」后「平安」，因为除非神的「恩惠」已把罪对付清楚，否则就不会有真正的「平安」。在保罗心目中，「恩惠」（Charis）几乎就是「基督」（Christos）的同义词，因为除基督之外没有什么可以给人恩惠，神的平安也是借着基督来的。「恩惠」是「平安」之源，「平安」是「恩惠」之果。  <a href="#1_ref">&#8617;</a></p>
+
 [^2]: 3-14节是一首赞美诗，原文是一个长句，包括三段赞美：对圣父的颂赞（4-6节上）、对圣子的颂赞（6节下-12节）、对圣灵的颂赞（13-14节）。  
 Brother L.: 父神早已赐给我们天上各样属灵的福气，我们不应该再去求，好像我们没有一样。  
 Psalms‬16:5 NLT  
