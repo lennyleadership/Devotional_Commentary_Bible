@@ -27,7 +27,7 @@ toc: true
 <div id="english" class="tabcontent" style="display:block">
 
 1:1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, <a id="1_ref" href = "#1">[1]</a> <a class = "marginnote">v1: Acts 7:37 “Moses himself told the people of Israel, ‘God will raise up for you a Prophet like me from among your own people.’ - which refers to Jesus<br>~~~</a>   
-1:2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds; [<cite class="bibleref" title="Isaiah 41:4" >Isaiah 41:4</cite>,  <cite class="bibleref" title="Revelation 1:8">Revelation 1:8</cite>] <a id="2_ref" href = "#2">[2]</a>  <a class = "marginnote">v2: I am the first and the last</a>  
+1:2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds; [Isaiah 41:4, Revelation 1:8] <a id="2_ref" href = "#2">[2]</a>  <a class = "marginnote">v2: I am the first and the last</a>  
 1:3 Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;  
 1:4 Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they. <a id="3_ref" href = "#3">[3]</a>  
 <mark class = "lemon">1:5 For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?</mark>  
@@ -45,7 +45,12 @@ toc: true
 
 <p id="1">[1] Deuteronomy 18:15 Moses continued, “The Lord your God will raise up for you a prophet like me from among your fellow Israelites. You must listen to him. [NLT]<a href="#1_ref">&#8617;</a></p>
 
-<p id="2">[2] Who is Jesus?<br>1) God has appointed Jesus heir of all things. <br>2) God made the worlds through Jesus.<a href="#2_ref">&#8617;</a></p>
+<p id="2">[2] Who is Jesus?<br>1) God has appointed Jesus heir of all things. <br>2) God made the worlds through Jesus.
+<br><br>The work of holy Spirit:
+<br>1) We were sealed with the holy Spirit. (Ephesians 1:13 NLT, Ephesians 1:13 KJV, Ephesians 1:13 NIV)
+<br>2) The Spirit is God's guarantee that he will give us the inheritance he promised. (Ephesians 1:14 NLT, Ephesians 1:14 KJV, Ephesians 1:14 NIV)
+<br>3) Through the sanctifying work of the Spirit, we have obeyed Jesus Christ and have been cleansed by the blood of Jesus Christ. (1 Peter 1:2)
+<br>4) <a href="#2_ref">&#8617;</a></p>
 
 <p id="3">[3] Angels and Human   
 <ol>
@@ -59,7 +64,7 @@ toc: true
 </li>
 <li>&nbsp;Believers hold exalted position because they are a new creation in Christ. (Ephesians 2:6)  
 </li>
-<li>&nbsp;Believers will be comformed to the image of Christ. (Romans 8:29)  
+<li>&nbsp;Believers will be conformed to the image of Christ. (Romans 8:29)  
 </li>
 <li>&nbsp;Human will someday judge angels,  1 Cor 6:3 Don't you realize that we will judge angels?
 </li>
