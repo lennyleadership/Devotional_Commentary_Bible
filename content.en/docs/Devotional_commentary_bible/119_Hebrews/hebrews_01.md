@@ -43,7 +43,7 @@ toc: true
 1:13 But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?  
 1:14 Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?  
 
-<p id="1"><ref>[1]</ref> verse 1 <br>Moses continued, “The Lord your God will raise up for you a prophet like me from among your fellow Israelites. You must listen to him. (Deuteronomy 18:15  NLT, Deuteronomy 18:15 KJV, Deuteronomy 18:15 NIV)<a href="#1_ref">&#8617;</a></p>
+<p id="1"><ref>[1]</ref> verse 1 <br>Moses continued, “The Lord your God will raise up for you a prophet like me from among your fellow Israelites. You must listen to him. (Deuteronomy 18:15 NLT, Deuteronomy 18:15 KJV, Deuteronomy 18:15 NIV)<a href="#1_ref">&#8617;</a></p>
 
 <p id="2"><ref>[2]</ref> verse 2 <br><b>Who is Jesus?</b><br>1) God has appointed Jesus heir of all things. <br>2) God made the worlds through Jesus.
 <br><br><b>The work of holy Spirit</b>:
