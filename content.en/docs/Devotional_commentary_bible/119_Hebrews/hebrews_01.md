@@ -43,13 +43,13 @@ toc: true
 1:13 But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?  
 1:14 Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?  
 
-<p id="1">[1] Deuteronomy 18:15 Moses continued, “The Lord your God will raise up for you a prophet like me from among your fellow Israelites. You must listen to him. [NLT]<a href="#1_ref">&#8617;</a></p>
+<p id="1">[<b>1</b>] Deuteronomy 18:15 Moses continued, “The Lord your God will raise up for you a prophet like me from among your fellow Israelites. You must listen to him. [NLT]<a href="#1_ref">&#8617;</a></p>
 
 <p id="2">[2] Who is Jesus?<br>1) God has appointed Jesus heir of all things. <br>2) God made the worlds through Jesus.
 <br><br>The work of holy Spirit:
 <br>1) We were sealed with the holy Spirit. (Ephesians 1:13 NLT, Ephesians 1:13 KJV, Ephesians 1:13 NIV)
 <br>2) The Spirit is God's guarantee that he will give us the inheritance he promised. (Ephesians 1:14 NLT, Ephesians 1:14 KJV, Ephesians 1:14 NIV)
-<br>3) Through the sanctifying work of the Spirit, we have obeyed Jesus Christ and have been cleansed by the blood of Jesus Christ. (1 Peter 1:2)
+<br>3) Through the sanctifying work of the Spirit, we have obeyed Jesus Christ and have been cleansed by the blood of Jesus Christ. (1 Peter 1:2 NLT, 1 Peter 1:2 KJV, 1 Peter 1:2 NIV)
 <br>4) <a href="#2_ref">&#8617;</a></p>
 
 <p id="3">[3] Angels and Human   
