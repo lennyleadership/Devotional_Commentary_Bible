@@ -55,7 +55,7 @@ Ephesians
 1:23 Which is his body, the fulness of him that filleth all in all.  
 </div>
 
-----
+
 <div id="chinese" class="tabcontent">
 
 1:1 奉　神<u>旨意</u>、作基督耶稣使徒的保罗、写信给在以弗所的圣徒、就是在基督耶稣里有忠心的人。[<cite class="bibleref" title="Hebrews 10:14" >希十14</cite>, <cite class="bibleref" title="Romans 12:1-2" >罗十二1-2</cite>, <cite class="bibleref" title="Proverbs 23:7" >箴二十三7</cite>]    <font class ="marginnote">Hebrews 10:14, Romans 12:1-2</font>   
@@ -86,7 +86,7 @@ Ephesians
 1:22 又将万有<u>服在他的脚下</u>、使他为<u>教会</u>作万有之首。  
 1:23 <u>教会</u>是他的身体、是那充满万有者所充满的。  
 
----
+
 [^1]: 保罗是在狱中写下本信（三1），却能为别人求「平安」，因为他即使在狱中，也真实地经历了神的同在、认识神的心意，所以满有不受环境影响的平安喜乐。  
 保罗的问安语结合了希腊式的「恩惠」和希伯来式的「平安」。当时的书信一般用「问候（Chairein）」一词来问安（徒十五23；二十三26），但保罗却改为双关语「恩惠（Charis）」，原意是「那引致喜乐的」，「恩惠」是神赐给不配的罪人白白的、主动的礼物，是我们喜乐的源泉。希伯来文「平安（Shalom）」不只是没有战争的状态，更表示繁荣、兴盛，特别是属灵事物上的兴盛。保罗的问候总是先「恩惠」后「平安」，因为除非神的「恩惠」已把罪对付清楚，否则就不会有真正的「平安」。在保罗心目中，「恩惠」（Charis）几乎就是「基督」（Christos）的同义词，因为除基督之外没有什么可以给人恩惠，神的平安也是借着基督来的。「恩惠」是「平安」之源，「平安」是「恩惠」之果。  
 [^2]: 3-14节是一首赞美诗，原文是一个长句，包括三段赞美：对圣父的颂赞（4-6节上）、对圣子的颂赞（6节下-12节）、对圣灵的颂赞（13-14节）。  
@@ -111,7 +111,7 @@ Brother M.Y.: It is easy for me to focus on my problems, because we are tend to 
 第三是「祂向我们这信的人所显的能力是何等浩大」（19节），这能力是复活的能力（20节），神曾经运用在基督的身上，使基督复活、升高，如今要照样运用在信徒身上。  
 [Ephesians第1章逐节注解、祷读](https://cmcbiblereading.com/2014/11/23/%e4%bb%a5%e5%bc%97%e6%89%80%e4%b9%a6%e7%ac%ac1%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
 
----
+
 NLT uses "the authority of Christ".  
 
 ‪Ephesians‬1:10 NLT
@@ -120,7 +120,7 @@ NLT uses "the authority of Christ".
 ‪Ephesians‬1:22 NLT
 22 God has put all things <u>under the authority of Christ</u> and has made him head over all things for the benefit of the church.
 
----
+
 <iframe width="360" height="200" src="https://www.youtube.com/embed/vZvA9xcb_H8?list=PLqXK4CXm6Oq8FilwWn0mN3LYBrejpsVJE" title="2015年感恩节聚会：Ephesians第一章：神提供的救恩 01 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 
@@ -133,40 +133,39 @@ NLT uses "the authority of Christ".
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/QaTAoibExkE" title="『成全聖徒，各盡其職』（7）：保羅在成全以弗所聖徒上所立的榜樣" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
+
 
 <figure>
-  <img width = "540" src = "/docs/images/WhatsApp Image 2022-09-11 at 2.53.44 PM.jpeg"/>
+  <img width = "540" src = "/docs/images_LibertyBC/WhatsApp Image 2022-09-11 at 2.53.44 PM.jpeg"/>
   <figcaption_bottom>Sister J: verse 1-2</figcaption_bottom>
 </figure>
 
 <figure>
-  <img width = "540" src = "/docs/images/WhatsApp Image 2022-10-23 at 2.41.42 PM.jpeg"/>
+  <img width = "540" src = "/docs/images_LibertyBC/WhatsApp Image 2022-10-23 at 2.41.42 PM.jpeg"/>
   <figcaption_bottom>Sister J: verse 3-6</figcaption_bottom>
 </figure>
 
 <figure>
-  <img width = "540" src = "/docs/images/WhatsApp Image 2022-10-23 at 2.42.15 PM.jpeg"/>
+  <img width = "540" src = "/docs/images_LibertyBC/WhatsApp Image 2022-10-23 at 2.42.15 PM.jpeg"/>
   <figcaption_bottom>Sister J: verse 13-14</figcaption_bottom>
 </figure>
 
 <figure>
-  <img width = "540" src = "/docs/images/WhatsApp Image 2022-10-23 at 2.42.49 PM.jpeg"/>
+  <img width = "540" src = "/docs/images_LibertyBC/WhatsApp Image 2022-10-23 at 2.42.49 PM.jpeg"/>
   <figcaption_bottom>Sister J: verse 15-23</figcaption_bottom>
 </figure>
----
+
 
 <figure>
   <img width = "540" src = "/docs/images/pauls-roman-prison-cell.jpg"/>
   <figcaption_bottom>可能是关押保罗的监狱</figcaption_bottom>
 </figure>
 
----
+
 <figure>
   <img width = "540" src = "/docs/images/wechat_20221102065215_in_christ.jpg"/>
   <figcaption_bottom></figcaption_bottom>
 </figure>
 
----
 
 </div>
