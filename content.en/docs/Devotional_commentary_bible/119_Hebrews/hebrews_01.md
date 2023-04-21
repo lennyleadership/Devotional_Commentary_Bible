@@ -48,7 +48,7 @@ toc: true
 <p id="2"><ref>[2]</ref> verse 2 <br><b>Who is Jesus?</b><br>1) God has appointed Jesus heir of all things. <br>2) God made the worlds through Jesus.
 <br><br><b>The work of holy Spirit</b>:
 <br>1) We were sealed with the holy Spirit. (Ephesians 1:13 NLT, Ephesians 1:13 KJV, Ephesians 1:13 NIV)
-<br>2) The Spirit is God's guarantee that he will give us the inheritance he promised. (Ephesians 1:14 NLT, Ephesians 1:14 KJV, Ephesians 1:14 NIV)
+<br>2) The Spirit is God's guarantee that he will give us the inheritance he promised. (Ephesians 1:14 NLT, Ephesians 1:14 KJV, Ephesians 1:14 NIV, Ephesians 1:14 hlybblsmpshndtn)
 <br>3) Through the sanctifying work of the Spirit, we have obeyed Jesus Christ and have been cleansed by the blood of Jesus Christ. (1 Peter 1:2 NLT, 1 Peter 1:2 KJV, 1 Peter 1:2 NIV)
 <br>4) <a href="#2_ref">&#8617;</a></p>
 
