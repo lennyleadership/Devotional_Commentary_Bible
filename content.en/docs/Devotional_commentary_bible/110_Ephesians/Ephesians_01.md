@@ -60,8 +60,8 @@ Ephesians
 
 1:1 奉　神<u>旨意</u>、作基督耶稣使徒的保罗、写信给在以弗所的圣徒、就是在基督耶稣里有忠心的人。[<cite class="bibleref" title="Hebrews 10:14" >希十14</cite>, <cite class="bibleref" title="Romans 12:1-2" >罗十二1-2</cite>, <cite class="bibleref" title="Proverbs 23:7" >箴二十三7</cite>]    <font class ="marginnote">Hebrews 10:14, Romans 12:1-2</font>   
 1:2 愿恩惠平安、从　神我们的父、和主耶稣基督、归与你们。<a id="1_ref" href = "#1">[1]</a>  
-1:3 愿颂赞归与我们主耶稣基督的父　神、他在基督里、曾赐给我们天上各样属灵的福气。[<cite class="bibleref" title="Psalms 16:5" >诗篇 十六5</cite>] <a id="2_ref" href = "#2">[2]</a>
-1:4 就如　神从创立世界以前、在基督里拣选了我们、使我们在他面前成为圣洁、无有瑕疵。<a id="3_ref" href = "#3">[3]</a>
+1:3 愿颂赞归与我们主耶稣基督的父　神、他在基督里、曾赐给我们天上各样属灵的福气。[<cite class="bibleref" title="Psalms 16:5" >诗篇 十六5</cite>] <a id="2_ref" href = "#2">[2]</a>  
+1:4 就如　神从创立世界以前、在基督里拣选了我们、使我们在他面前成为圣洁、无有瑕疵。<a id="3_ref" href = "#3">[3]</a>  
 1:5 又因爱我们、就按着自己意旨所喜悦的、预定我们、借着耶稣基督得儿子的名分、  
 
 1:6 使他荣耀的恩典得着称赞。这恩典是他在爱子里所赐给我们的。  
