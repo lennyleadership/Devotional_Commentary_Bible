@@ -37,7 +37,7 @@ Acts Chapter 1
 1:7 And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.  
 1:8 But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.  
 1:9 And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.  
-1:10 And while they looked steadfastly toward heaven as he went up, behold, two men stood by them in white apparel;  
+1:10 And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;  
 
 1:11 Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.  
 1:12 Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day's journey.  

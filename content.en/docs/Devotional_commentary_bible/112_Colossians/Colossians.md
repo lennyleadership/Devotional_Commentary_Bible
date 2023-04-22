@@ -64,7 +64,7 @@ Colossians Chapter 2  <  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 2
 2:2 That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;  
 2:3 In whom are hid all the treasures of wisdom and knowledge.  
 2:4 And this I say, lest any man should beguile you with enticing words.  
-2:5 For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the steadfastness of your faith in Christ.  
+2:5 For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.  
 2:6 As ye have therefore received Christ Jesus the Lord, so walk ye in him:  
 2:7 Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.  
 2:8 Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.  

@@ -27,7 +27,7 @@ toc: true
 <div id="english" class="tabcontent" style="display:block">
 
 2:1 Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.  
-2:2 For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;  
+2:2 For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward; <a class ="marginnote">v2: stedfast is in KJV, steadfast is in other translations.</a>  
 2:3 How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him;  
 2:4 God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?  
 2:5 For unto the angels hath he not put in subjection the world to come, whereof we speak.  
