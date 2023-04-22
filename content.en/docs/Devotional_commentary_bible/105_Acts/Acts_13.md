@@ -3,7 +3,7 @@ weight: 13
 title: Acts 13
 authors: Lenny
 categories: null
-tags:  [活泉小简, 江守道, 合神心意]
+tags:  [活泉小简, 江守道, 合神心意, 长老]
 description: 
 draft: false
 date: "2022-12-03"
