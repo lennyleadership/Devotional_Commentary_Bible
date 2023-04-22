@@ -20,14 +20,14 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  <button class="tablinks" onclick="tablabel(event, 'verse1')">1:5-12</button>
+  <button class="tablinks" onclick="tablabel(event, 'verse1')">Jesus</button>
 </div>
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
 1:1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, <a id="1_ref" href = "#1">[1]</a> <a class = "marginnote">v1: Acts 7:37 “Moses himself told the people of Israel, ‘God will raise up for you a Prophet like me from among your own people.’ - which refers to Jesus<br>~~~</a>   
-1:2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds; [Isaiah 41:4, Revelation 1:8] <a id="2_ref" href = "#2">[2]</a>  <a class = "marginnote">v2: I am the first and the last.<br>~~~<br> Worlds is used in KJV and NKJV translations, world is used in other translations.</a>  
+1:2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds; [Isaiah 41:4 ESV, Revelation 1:8 ESV] <a id="2_ref" href = "#2">[2]</a>  <a class = "marginnote">v2: I am the first and the last.<br>~~~<br> Worlds is used in KJV and NKJV translations, world is used in other translations.</a>  
 1:3 Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;  
 1:4 Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they. <a id="3_ref" href = "#3">[3]</a>  
 <mark class = "lemon">1:5 For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?</mark>  
@@ -126,28 +126,34 @@ toc: true
 </ol>
 
 
-5-14节引用了七段旧约经文，从七个方面宣告神的儿子超越天使：
-祂是受生的儿子（5节）；
-祂接受天使的敬拜（6节）；
-祂的仆役是天使（7节）；
-祂是神国之王（8-9节）；
-祂是创造者（10节）；
-祂是长存者（10-12节）；
-祂是得胜者（13-14节）。
-第5节原文以「因为」（英文ESV译本）开始，表明5-14节是解释为什么神的儿子「远超过天使」（4节）。
-第5节引用了犹太人都接受的两节旧约弥赛亚预言：
-        「祢是我的儿子，我今日生祢」（5节），引自诗二7弥赛亚诗篇。
-        「我要作祂的父，祂要作我的子」（5节），引自撒下七14大卫之约。
-虽然天使也被称为「神的众子」（伯一6；诗二十九1），但他们都是受造之物。只有神的儿子才是被生的（5节），与神是在生命里的连结、并不是受造之物（西一15）。天使只是传递生命信息的使者，而神的儿子却是生命本身（约十一25；十四6）；神儿子把真正的生命显明在人面前，惟有祂才能叫人「得生命」（约五40；十10；二十31）。
-    「神使长子到世上来」（6节），引自神对弥赛亚的应许：「我也要立祂为长子，为世上最高的君王」（诗八十九27）。
-「长子」指神的儿子复活之后的尊贵地位（出四22）。祂原是神的独生子（约一18），但因着祂的死而复活，让所有信祂的人都得着「长子」的尊贵地位，来到「有名录在天上诸长子之会所共聚的总会」（十二23）。
-「长子」也表明神的儿子超越的地位，祂不仅是「首生者」（西一15），也是「从死里首先复生的」（西一18），「在许多弟兄中作长子」（罗八29），配「在凡事上居首位」（西一18）。
-    「神的使者都要拜祂」（6节），引自申三十二43：「诸天啊，当与祂一同欢乐；神的众子都要拜祂」（七十士译本、死海古卷、英文ESV译本），证明神儿子的神性。神差祂的儿子到地上来，不只是作传福音的使者，而且是要「叫一切在天上的、地上的，和地底下的，因耶稣的名无不屈膝，无不口称『耶稣基督为主』，使荣耀归与父神」（腓二9-11）。
+5-14节引用了七段旧约经文，从七个方面宣告神的儿子超越天使：  
+祂是受生的儿子（5节）；  
+祂接受天使的敬拜（6节）；  
+祂的仆役是天使（7节）；  
+祂是神国之王（8-9节）；  
+祂是创造者（10节）；  
+祂是长存者（10-12节）；  
+祂是得胜者（13-14节）。  
+第5节原文以「因为」（英文ESV译本）开始，表明5-14节是解释为什么神的儿子「远超过天使」（4节）。  
+第5节引用了犹太人都接受的两节旧约弥赛亚预言：  
+  「祢是我的儿子，我今日生祢」（5节），引自诗二7弥赛亚诗篇。  
+  「我要作祂的父，祂要作我的子」（5节），引自撒下七14大卫之约。  
+虽然天使也被称为「神的众子」（伯一6；诗二十九1），但他们都是受造之物。只有神的儿子才是被生的（5节），与神是在生命里的连结、并不是受造之物（西一15）。天使只是传递生命信息的使者，而神的儿子却是生命本身（约十一25；十四6）；神儿子把真正的生命显明在人面前，惟有祂才能叫人「得生命」（约五40；十10；二十31）。  
+  「神使长子到世上来」（6节），引自神对弥赛亚的应许：「我也要立祂为长子，为世上最高的君王」（诗八十九27）。  
+  「长子」指神的儿子复活之后的尊贵地位（出四22）。祂原是神的独生子（约一18），但因着祂的死而复活，让所有信祂的人都得着「长子」的尊贵地位，来到「有名录在天上诸长子之会所共聚的总会」（十二23）。  
+  「长子」也表明神的儿子超越的地位，祂不仅是「首生者」（西一15），也是「从死里首先复生的」（西一18），「在许多弟兄中作长子」（罗八29），配「在凡事上居首位」（西一18）。  
+  「神的使者都要拜祂」（6节），引自申三十二43：「诸天啊，当与祂一同欢乐；神的众子都要拜祂」（七十士译本、死海古卷、英文ESV译本），证明神儿子的神性。神差祂的儿子到地上来，不只是作传福音的使者，而且是要「叫一切在天上的、地上的，和地底下的，因耶稣的名无不屈膝，无不口称『耶稣基督为主』，使荣耀归与父神」（腓二9-11）。  
 
 
 </div>
 
 <div id = "verse1" class = "tabcontent">
+<h1>Jesus in the Old Testment</h1>  
+Psa 2:7-8 ESV   
+7 I will tell of the decree: The LORD said to me, “You are my Son; today I have begotten you.
+8 Ask of me, and I will make the nations your heritage, and the ends of the earth your possession.
+
+
 <h1>What God Said</h1>  
 
 ‪Hebrews‬1:5-12 NLT  
