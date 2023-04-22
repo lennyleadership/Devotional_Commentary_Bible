@@ -26,8 +26,8 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-1:1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, <a id="1_ref" href = "#1">[1]</a> <a class = "marginnote">v1: Acts 7:37 “Moses himself told the people of Israel, ‘God will raise up for you a Prophet like me from among your own people.’ - which refers to Jesus<br>~~~~~</a>   
-1:2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds; [Isaiah 41:4 ESV, Revelation 1:8 ESV] <a id="2_ref" href = "#2">[2]</a>  <a class = "marginnote">v2: I am the first and the last.<br>~~~<br> Worlds is used in KJV and NKJV translations, world is used in other translations.</a>  
+1:1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, <a id="1_ref" href = "#1">[1]</a> <a class = "marginnote">v1: Acts 7:37 “Moses himself told the people of Israel, ‘God will raise up for you a Prophet like me from among your own people.’ - which refers to Jesus.<br>~~~~~</a>   
+1:2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds; [Isaiah 41:4 ESV, Revelation 1:8 ESV] <a id="2_ref" href = "#2">[2]</a>  <a class = "marginnote">v2: I am the first and the last.~~~~<br> Worlds is used in KJV and NKJV translations, world is used in other translations.</a>  
 1:3 Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;  
 1:4 Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they. <a id="3_ref" href = "#3">[3]</a>  
 <mark class = "lemon">1:5 For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?</mark>  
