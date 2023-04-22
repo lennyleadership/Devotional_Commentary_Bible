@@ -43,30 +43,30 @@ toc: true
 1:13 But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?  
 1:14 Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?  
 
-<p id="1"><ref>[1]</ref> verse 1 <br>Moses continued, “The Lord your God will raise up for you a prophet like me from among your fellow Israelites. You must listen to him. (Deuteronomy 18:15 NLT, Deuteronomy 18:15 KJV, Deuteronomy 18:15 NIV)<a href="#1_ref">&#8617;</a></p>
+<p id="1"><ref>[1]</ref> verse 1 <br>Moses continued, “The Lord your God will raise up for you a prophet like me from among your fellow Israelites. You must listen to him. (Deuteronomy 18:15 NLT, Deuteronomy 18:15 KJV, Deuteronomy 18:15 ESV)<a href="#1_ref">&#8617;</a></p>
 
 <p id="2"><ref>[2]</ref> verse 2 <br><b>Who is Jesus?</b><br>1) God has appointed Jesus heir of all things. <br>2) God made the worlds through Jesus.
 <br><br><b>The work of holy Spirit</b>:
-<br>1) We were sealed with the holy Spirit. (Ephesians 1:13 NLT, Ephesians 1:13 KJV, Ephesians 1:13 NIV)
-<br>2) The Spirit is God's guarantee that he will give us the inheritance he promised. (Ephesians 1:14 NLT, Ephesians 1:14 KJV, Ephesians 1:14 NIV, Ephesians 1:14 hlybblsmpshndtn)
-<br>3) Through the sanctifying work of the Spirit, we have obeyed Jesus Christ and have been cleansed by the blood of Jesus Christ. (1 Peter 1:2 NLT, 1 Peter 1:2 KJV, 1 Peter 1:2 NIV)
+<br>1) We were sealed with the holy Spirit. (Ephesians 1:13 ESV, Ephesians 1:13 NLT, Ephesians 1:13 KJV,Ephesians 1:13 hlybblsmpshndtn)
+<br>2) The Spirit is God's guarantee that he will give us the inheritance he promised. (Ephesians 1:14 ESV, Ephesians 1:14 NLT, Ephesians 1:14 KJV, Ephesians 1:14 hlybblsmpshndtn)
+<br>3) Through the sanctifying work of the Spirit, we have obeyed Jesus Christ and have been cleansed by the blood of Jesus Christ. (1 Peter 1:2 ESV, 1 Peter 1:2 NLT, 1 Peter 1:2 KJV, 1 Peter 1:2 hlybblsmpshndtn)
 <br>4) <a href="#2_ref">&#8617;</a></p>
 
 <p id="3"><ref>[3]</ref> verse 4 <br><b>Angels and Human</b>   
 <ol>
-<li>&nbsp;Both human and angels were perfect creatures.  Jesus is not a creature. (Genesis 1:31)  
+<li>&nbsp;Both human and angels were perfect creatures.  Jesus is not a creature. (Genesis 1:31 ESV, Genesis 1:31 NLT, Genesis 1:31 KJV, Genesis 1:31 hlybblsmpshndtn)  
 </li>
-<li>&nbsp;Only human were created in the image of God, not angels. (Genesis 1:26-27) 
+<li>&nbsp;Only human were created in the image of God, not angels. (Genesis 1:26-27 ESV, Genesis 1:26-27 NLT, Genesis 1:26-27 KJV, Genesis 1:26-27 hlybblsmpshndtn) 
 </li>
-<li>&nbsp;All the humans were born with a sin nature. (Genesis 5:3)  Some angels also sinned, but many did not.  
+<li>&nbsp;All the humans were born with a sin nature. (Genesis 5:3 ESV, Genesis 5:3 NLT, Genesis 5:3 KJV, Genesis 5:3 hlybblsmpshndtn)  Some angels also sinned, but many did not.  
 </li>
-<li>&nbsp;Though all humans and some angels sinned, there is forgiveness only for humans. (2 Corinthians 5:21). The angels who sinned are awaiting the day of judgment.  (Matthew 25:41)  
+<li>&nbsp;Though all humans and some angels sinned, there is forgiveness only for humans. (2 Corinthians 5:21 ESV, 2 Corinthians 5:21 NLT, 2 Corinthians 5:21 KJV, 2 Corinthians 5:21 hlybblsmpshndtn). The angels who sinned are awaiting the day of judgment.  (Matthew 25:41 ESV, Matthew 25:41 NLT, Matthew 25:41 KJV, Matthew 25:41 hlybblsmpshndtn)  
 </li>
-<li>&nbsp;Believers hold exalted position because they are a new creation in Christ. (Ephesians 2:6)  
+<li>&nbsp;Believers hold exalted position because they are a new creation in Christ. (Ephesians 2:6 ESV, Ephesians 2:6 NLT, Ephesians 2:6 KJV, Ephesians 2:6 hlybblsmpshndtn)  
 </li>
-<li>&nbsp;Believers will be conformed to the image of Christ. (Romans 8:29)  
+<li>&nbsp;Believers will be conformed to the image of Christ. (Romans 8:29 ESV, Romans 8:29 NLT, Romans 8:29 KJV, Romans 8:29 hlybblsmpshndtn)  
 </li>
-<li>&nbsp;Human will someday judge angels,  1 Cor 6:3 Don't you realize that we will judge angels?
+<li>&nbsp;Human will someday judge angels,  (1 Cor 6:3 ESV, 1 Cor 6:3 NLT, 1 Cor 6:3 KJV, 1 Cor 6:3 hlybblsmpshndtn) Don't you realize that we will judge angels?
 </li>
 </ol>
 <br> Angels served Jesus
