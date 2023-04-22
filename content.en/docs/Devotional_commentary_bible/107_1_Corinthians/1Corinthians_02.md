@@ -3,7 +3,7 @@ weight: 2
 title: 1 Corinthians 2
 authors: Lenny
 categories: null
-tags: [My Utmost, Holy Spirit]
+tags: [My Utmost, holy Spirit]
 date: "2022-04-19"
 description: 
 draft: false
