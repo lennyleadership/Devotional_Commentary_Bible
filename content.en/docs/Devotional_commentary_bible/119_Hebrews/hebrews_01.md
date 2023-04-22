@@ -156,7 +156,7 @@ Psa 2:7-8 ESV
 
 <h1>What God Said</h1>  
 
-‪Hebrews‬1:5-12 NLT  
+Hebrews 1:5-12 NLT  
 5 For God never said to any angel what he said to Jesus:  
 “You are my Son.Today I have become your Father.” God also said, “I will be his Father, and he will be my Son.”  
 6 And when he brought his supreme Son into the world, God said,  
@@ -177,7 +177,7 @@ and discard them like old clothing. But you are always the same; you will live f
 
 ----
 
-‪Hebrews‬1:5-12 NASB   
+Hebrews 1:5-12 NASB95  
 5 For to which of the angels did He ever say,  
 “You are My Son, Today I have fathered You”? And again, “I will be a Father to Him And He will be a Son to Me”?  
 6 And when He again brings the firstborn into the world, He says,  
