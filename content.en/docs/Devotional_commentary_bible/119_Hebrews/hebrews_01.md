@@ -54,7 +54,7 @@ toc: true
 
 <p id="3"><ref>[3]</ref> verse 4 <br><b>Angels and Human</b>   
 <ol>
-<li>&nbsp;Both human and angels were perfect creatures.  Jesus is not a creature. (Genesis 1:31 ESV, Genesis 1:31 NLT, Genesis 1:31 KJV, Genesis 1:31 hlybblsmpshndtn)  
+<li>&nbsp;Both human and angels were perfect creatures.  Jesus is not a creature. (Genesis 1:31 ESV, 1:31 NLT, 1:31 KJV, 1:31 hlybblsmpshndtn)  
 </li>
 <li>&nbsp;Only human were created in the image of God, not angels. (Genesis 1:26-27 ESV, Genesis 1:26-27 NLT, Genesis 1:26-27 KJV, Genesis 1:26-27 hlybblsmpshndtn) 
 </li>
@@ -149,8 +149,9 @@ toc: true
 
 <div id = "verse1" class = "tabcontent">
 <h1>Jesus in the Old Testment</h1>  
-Psa 2:7-8 ESV   
-7 I will tell of the decree: The LORD said to me, “You are my Son; today I have begotten you.
+
+Psa 2:7-8 ESV    
+7 I will tell of the decree: The LORD said to me, “You are my Son; today I have begotten you.  
 8 Ask of me, and I will make the nations your heritage, and the ends of the earth your possession.
 
 
