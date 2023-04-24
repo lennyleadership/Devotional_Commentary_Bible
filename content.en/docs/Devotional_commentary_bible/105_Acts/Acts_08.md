@@ -3,11 +3,11 @@ weight: 8
 title: Acts 8
 authors: Lenny
 categories: null
-tags: 
+tags: [The baptism of the holy Spirit, holy Spirit]
 description: 
 draft: false
 date: "2023-04-22"
-lastmod: "2023-04-22"
+lastmod: "2023-04-23"
 series:
 toc: true
 ---
@@ -42,7 +42,7 @@ toc: true
 8:12 But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women.  
 8:13 Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done.  
 8:14 Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:  
-8:15 Who, when they were come down, prayed for them, that they might receive the Holy Ghost:  
+8:15 Who, when they were come down, prayed for them, that they might receive the Holy Ghost: <a id="1_ref" href = "#1">[1]</a>  
 
 8:16 (For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)  
 8:17 Then laid they their hands on them, and they received the Holy Ghost.  
@@ -73,6 +73,8 @@ toc: true
 8:38 And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him.  
 8:39 And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.  
 8:40 But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea.  
+
+<p id="1"><ref>[1]</ref> verse 15 <br>The baptism of the holy Spirit: <br>In the time of book of Acts, churches were in infancy. Jews did not live with <a href="#1_ref">&#8617;</a></p>
 </div>
 
 <div id="chinese" class="tabcontent">
