@@ -20,6 +20,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'comments')">The baptism of the holy Spirit</button>
   
 </div>
 
@@ -42,7 +43,7 @@ toc: true
 8:12 But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women.  
 8:13 Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done.  
 8:14 Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:  
-8:15 Who, when they were come down, prayed for them, that they might receive the Holy Ghost: <a id="1_ref" href = "#1">[1]</a> <a class ="marginnote">verse 15: It was studied at the LBC on 2023.04.18 - Tuesday night, Chinese Bible study.</a>  
+8:15 Who, when they were come down, prayed for them, that they might receive the Holy Ghost: <a class ="marginnote">verse 15: It was studied at the LBC on 2023.04.18 - Tuesday night, Chinese Bible study.</a>  
 
 8:16 (For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)  
 8:17 Then laid they their hands on them, and they received the Holy Ghost.  
@@ -74,23 +75,7 @@ toc: true
 8:39 And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.  
 8:40 But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea.  
 
-<p id="1"><ref>[1]</ref> verse 15 <br>The baptism of the holy Spirit: <br>Brother K: <br>In the time of book of Acts, churches were in infancy, and Jews did not live with Samaritan.<br>~~~<br>8:14-17 When news that Samaria had avidly received the word reached the apostles ... at Jerusalem, they sent Peter and John to them. By the time they arrived, the believers had been baptized in the name of the Lord Jesus, but they had not received the Holy Spirit. Obviously acting in accordance with divine guidance, the apostles prayed that these believers might receive the Holy Spirit and laid their hands on them. As soon as this was done, they received the Holy Spirit.  
-<br>This immediately raises the question, “Why the difference between the order of events here and on the day of Pentecost?” At Pentecost the Jewish people:  
-<br>1. Repented.  
-<br>2. Were baptized.  
-<br>3. Received the Holy Spirit.  
-<br>Here the Samaritans:  
-<br>1. Believed.  
-<br>2. Were baptized.  
-<br>3. Had the apostles pray for them and lay their hands on them.  
-<br>4. Received the Holy Spirit.  
-<br>Of one thing we can be sure: they were all saved in the same way—by faith in the Lord Jesus Christ. He is the only Way of Salvation. However, during this transitional time, bridging Judaism and Christianity, God chose to act sovereignly in connection with various communities of believers. Jewish believers were asked to dissociate themselves from the nation of Israel by baptism before they received the Spirit. Now the Samaritans must have special prayer and the apostles' hands laid on them. But why?  
-<br>Perhaps the best answer is that it was intended to give expression to the unity of the church, whether made up of Jews or Samaritans. There was a real danger that the church in Jerusalem might retain ideas of Jewish superiority, and that they might continue to have no dealings with their Samaritan brethren. To avoid the possibility of schism, or the thought of two churches (one Jewish and one Samaritan), God sent the apostles to lay their hands on the Samaritans. This expressed full fellowship with them as believers in the Lord Jesus. They were all members of one body, all one in Christ Jesus. [copied from Believers' Bible commentary by W. MacDonald]
-<br>~~~
-<br>Philip however went down to Samaria, and preached Christ to them, and wrought miracles. They all give heed to him and are even baptised. A man who until then had bewitched them with sorcery, so that they had said he was the great power of God, even he also submits to the power which eclipsed his false marvels, and convinced him so much the more of its reality as he was conscious of the falseness of his own. The apostles make no difficulty with regard to Samaria. The history of Jesus must have enlightened them in that respect. Moreover, the Samaritans were not Gentiles. Still it was a Hellenist who preached the gospel there.
-<br>A new truth comes out here in connection with the regular process of the assembly — namely, that the apostles conferred the Holy Ghost by means of prayer and the laying on of hands: a very important fact in the history of God's dealings. Moreover Samaria was a conquest which all the energy of Judaism had never been able to make. It was a new and splendid triumph for the gospel. Spiritual energy to subdue the world appertained to the assembly. Jerusalem was set aside: its day was over in that respect. [copied from John Darby's commentary]
-<br>~~~
-<br>How they advanced and improved those of them that were sincere. It is said (Acts 8:16), The Holy Ghost was as yet fallen upon none of them, in those extraordinary powers which were conveyed by the descent of the Spirit upon the day of pentecost. They were none of them endued with the gift of tongues, which seems then to have been the most usual immediate effect of the pouring out of the Spirit. See Acts 10:45, Acts 10:46. This was both an eminent sign to those that believed not, and of excellent service to those that did. This, and other such gifts, they had not, only they were baptized in the name of the Lord Jesus, and so engaged in him and interested in him, which was necessary to salvation, and in this they had joy and satisfaction (Acts 10:8), though they could not speak with tongues. Those that are indeed given up to Christ, and have experienced the sanctifying influences and operations of the Spirit of grace, have great reason to be thankful, and no reason to complain, though they have not those gifts that are for ornament, and would make them bright. But it is intended that they should go on to the perfection of the present dispensation, for the greater honour of the gospel. We have reason to think that Philip had received these gifts of the Holy Ghost himself, but had not a power to confer them; the apostles must come to do this; and they did it not upon all that were baptized, but upon some of them, and, it should seem, such as were designed for some office in the church, or at least to be eminent active members of it; and upon some of them one gift of the Holy Ghost, and upon others another. See 1 Co 12:4, 1 Co 12:8; 1 Co 14:26. <br>Now in order to this, 1. The apostles prayed for them, Acts 8:15. The Spirit is given, not to ourselves only (Luke 11:13), but to others also, in answer to prayer: I will put my Spirit within you (Eze 36:27), but I will for this be enquired of, Acts 8:37. We may take encouragement from this example in praying to God to give the renewing graces of the Holy Ghost to those whose spiritual welfare we are concerned for - for our children, for our friends, for our ministers. We should pray, and pray earnestly, that they may receive the Holy Ghost; for this includes all blessings. <br>2. They laid their hands on them, to signify that their prayers were answered, and that the gift of the Holy Ghost was conferred upon them; for, upon the use of this sign, they received the Holy Ghost, and spoke with tongues. The laying on of hands was anciently used in blessing, by those who blessed with authority. Thus the apostles blessed these new converts, ordained some to be ministers, and confirmed others in their Christianity. We cannot now, nor can any, thus give the Holy Ghost by the laying on of hands; but this may intimate to us that those whom we pray for we should use our endeavours with. [copied from Matthew Henry's commentary]<a href="#1_ref">&#8617;</a></p>
+
 </div>
 
 <div id="chinese" class="tabcontent">
@@ -143,4 +128,31 @@ toc: true
 8:39 从水里上来、主的灵把腓利提了去、太监也不再见他了、就欢欢喜喜的走路。  
 8:40 后来有人在亚锁都遇见腓利、他走遍那地方、在各城宣传福音、直到该撒利亚。  
 
+</div>
+
+<div id="comments" class="tabcontent">
+
+verse 15 <br>The baptism of the holy Spirit: <br>Brother K. Y.: <br>In the time of book of Acts, churches were in infancy, and Jews did not live with Samaritan.
+
+<br>~~~<br>Believers' Bible commentary by W. MacDonald  
+
+8:14-17 When news that Samaria had avidly received the word reached the apostles ... at Jerusalem, they sent Peter and John to them. By the time they arrived, the believers had been baptized in the name of the Lord Jesus, but they had not received the Holy Spirit. Obviously acting in accordance with divine guidance, the apostles prayed that these believers might receive the Holy Spirit and laid their hands on them. As soon as this was done, they received the Holy Spirit.  
+<br>This immediately raises the question, “Why the difference between the order of events here and on the day of Pentecost?” At Pentecost the Jewish people:  
+<br>1. Repented.  
+<br>2. Were baptized.  
+<br>3. Received the Holy Spirit.  
+<br>Here the Samaritans:  
+<br>1. Believed.  
+<br>2. Were baptized.  
+<br>3. Had the apostles pray for them and lay their hands on them.  
+<br>4. Received the Holy Spirit.  
+<br>Of one thing we can be sure: they were all saved in the same way—by faith in the Lord Jesus Christ. He is the only Way of Salvation. However, during this transitional time, bridging Judaism and Christianity, God chose to act sovereignly in connection with various communities of believers. Jewish believers were asked to dissociate themselves from the nation of Israel by baptism before they received the Spirit. Now the Samaritans must have special prayer and the apostles' hands laid on them. But why?  
+<br>Perhaps the best answer is that it was intended to give expression to the unity of the church, whether made up of Jews or Samaritans. There was a real danger that the church in Jerusalem might retain ideas of Jewish superiority, and that they might continue to have no dealings with their Samaritan brethren. To avoid the possibility of schism, or the thought of two churches (one Jewish and one Samaritan), God sent the apostles to lay their hands on the Samaritans. This expressed full fellowship with them as believers in the Lord Jesus. They were all members of one body, all one in Christ Jesus.
+
+<br>~~~<br>John Darby's commentary
+<br>Philip however went down to Samaria, and preached Christ to them, and wrought miracles. They all give heed to him and are even baptised. A man who until then had bewitched them with sorcery, so that they had said he was the great power of God, even he also submits to the power which eclipsed his false marvels, and convinced him so much the more of its reality as he was conscious of the falseness of his own. The apostles make no difficulty with regard to Samaria. The history of Jesus must have enlightened them in that respect. Moreover, the Samaritans were not Gentiles. Still it was a Hellenist who preached the gospel there.
+<br>A new truth comes out here in connection with the regular process of the assembly — namely, that the apostles conferred the Holy Ghost by means of prayer and the laying on of hands: a very important fact in the history of God's dealings. Moreover Samaria was a conquest which all the energy of Judaism had never been able to make. It was a new and splendid triumph for the gospel. Spiritual energy to subdue the world appertained to the assembly. Jerusalem was set aside: its day was over in that respect.
+
+<br>~~~<br>Matthew Henry's commentary
+<br>How they advanced and improved those of them that were sincere. It is said (Acts 8:16), The Holy Ghost was as yet fallen upon none of them, in those extraordinary powers which were conveyed by the descent of the Spirit upon the day of pentecost. They were none of them endued with the gift of tongues, which seems then to have been the most usual immediate effect of the pouring out of the Spirit. See Acts 10:45, Acts 10:46. This was both an eminent sign to those that believed not, and of excellent service to those that did. This, and other such gifts, they had not, only they were baptized in the name of the Lord Jesus, and so engaged in him and interested in him, which was necessary to salvation, and in this they had joy and satisfaction (Acts 10:8), though they could not speak with tongues. Those that are indeed given up to Christ, and have experienced the sanctifying influences and operations of the Spirit of grace, have great reason to be thankful, and no reason to complain, though they have not those gifts that are for ornament, and would make them bright. But it is intended that they should go on to the perfection of the present dispensation, for the greater honour of the gospel. We have reason to think that Philip had received these gifts of the Holy Ghost himself, but had not a power to confer them; the apostles must come to do this; and they did it not upon all that were baptized, but upon some of them, and, it should seem, such as were designed for some office in the church, or at least to be eminent active members of it; and upon some of them one gift of the Holy Ghost, and upon others another. See 1 Co 12:4, 1 Co 12:8; 1 Co 14:26. <br>Now in order to this, 1. The apostles prayed for them, Acts 8:15. The Spirit is given, not to ourselves only (Luke 11:13), but to others also, in answer to prayer: I will put my Spirit within you (Eze 36:27), but I will for this be enquired of, Acts 8:37. We may take encouragement from this example in praying to God to give the renewing graces of the Holy Ghost to those whose spiritual welfare we are concerned for - for our children, for our friends, for our ministers. We should pray, and pray earnestly, that they may receive the Holy Ghost; for this includes all blessings. <br>2. They laid their hands on them, to signify that their prayers were answered, and that the gift of the Holy Ghost was conferred upon them; for, upon the use of this sign, they received the Holy Ghost, and spoke with tongues. The laying on of hands was anciently used in blessing, by those who blessed with authority. Thus the apostles blessed these new converts, ordained some to be ministers, and confirmed others in their Christianity. We cannot now, nor can any, thus give the Holy Ghost by the laying on of hands; but this may intimate to us that those whom we pray for we should use our endeavours with.
 </div>
