@@ -54,7 +54,7 @@ toc: true
 2:22 Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.  
 2:23 Whosoever denieth the Son, the same hath not the Father: he that acknowledgeth the Son hath the Father also.  
 2:24 Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.  
-2:25 And this is the promise that he hath promised us, even eternal life.  
+2:25 And this is the promise that he hath promised us, even eternal life. [1 John 2:25 NLT] <a class ="marginnote">verse 25: NLT uses "enjoy". It says: We <b>enjoy</b> the eternal life.  This verse echoes 1 John 1:4.</a>  
 
 2:26 These things have I written unto you concerning them that seduce you.  
 2:27 But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.  
