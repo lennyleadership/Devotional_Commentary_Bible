@@ -74,7 +74,18 @@ toc: true
 8:39 And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.  
 8:40 But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea.  
 
-<p id="1"><ref>[1]</ref> verse 15 <br>The baptism of the holy Spirit: <br>In the time of book of Acts, churches were in infancy. Jews did not live with <a href="#1_ref">&#8617;</a></p>
+<p id="1"><ref>[1]</ref> verse 15 <br>The baptism of the holy Spirit: <br>In the time of book of Acts, churches were in infancy, and Jews did not live with Samaritan.<br><br>8:14-17 When news that Samaria had avidly received the word reached the apostles ... at Jerusalem, they sent Peter and John to them. By the time they arrived, the believers had been baptized in the name of the Lord Jesus, but they had not received the Holy Spirit. Obviously acting in accordance with divine guidance, the apostles prayed that these believers might receive the Holy Spirit and laid their hands on them. As soon as this was done, they received the Holy Spirit.  
+This immediately raises the question, “Why the difference between the order of events here and on the day of Pentecost?” At Pentecost the Jewish people:  
+1. Repented.  
+2. Were baptized.  
+3. Received the Holy Spirit.  
+Here the Samaritans:  
+1. Believed.  
+2. Were baptized.  
+3. Had the apostles pray for them and lay their hands on them.  
+4. Received the Holy Spirit.  
+Of one thing we can be sure: they were all saved in the same way—by faith in the Lord Jesus Christ. He is the only Way of Salvation. However, during this transitional time, bridging Judaism and Christianity, God chose to act sovereignly in connection with various communities of believers. Jewish believers were asked to dissociate themselves from the nation of Israel by baptism before they received the Spirit. Now the Samaritans must have special prayer and the apostles' hands laid on them. But why?  
+Perhaps the best answer is that it was intended to give expression to the unity of the church, whether made up of Jews or Samaritans. There was a real danger that the church in Jerusalem might retain ideas of Jewish superiority, and that they might continue to have no dealings with their Samaritan brethren. To avoid the possibility of schism, or the thought of two churches (one Jewish and one Samaritan), God sent the apostles to lay their hands on the Samaritans. This expressed full fellowship with them as believers in the Lord Jesus. They were all members of one body, all one in Christ Jesus. [copied from Believers' Bible]<a href="#1_ref">&#8617;</a></p>
 </div>
 
 <div id="chinese" class="tabcontent">
