@@ -42,7 +42,7 @@ toc: true
 2:12 I write unto you, little children, because your sins are forgiven you for his name's sake.  
 2:13 I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.  
 2:14 I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.  
-2:15 Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him. <a class ="marginnote">world: Strong number: G2889.  Same Greek word in John 3:16.</a>  
+2:15 Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him. <a class ="marginnote">verse 15: world - Strong number: G2889.  Same Greek word used in John 3:16, but different angle.</a>  
 
 2:16 For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.  
 2:17 And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.  
