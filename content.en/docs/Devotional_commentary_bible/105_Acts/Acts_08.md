@@ -132,7 +132,12 @@ toc: true
 
 <div id="comments" class="tabcontent">
 
-verse 15 <br>The baptism of the holy Spirit: <br>Brother K. Y.: <br>In the time of book of Acts, churches were in infancy, and Jews did not live with Samaritan.
+verse 15 <br>The baptism of the holy Spirit: 
+<br>Brother K. Y.: 
+<br><br>This is one occasion in the early church where we believe that God wanted to show that all who believe in Christ will receive the Holy Spirit as is told us in the Epistles.  Irrespective of whether they are Jew or Samaritan as the early Jewish believers may doubt if the Samaritans can be part of the church. So when the apostles prayed and the Samaritan believers received the Holy Spirit it showed to everyone that all who are in Christ is part of the Church and have the Holy Spirit.   
+<br><br>After this occasion we know that as the new testament epistles tell us, all believer are sealed with the Holy Spirit the moment they believe.   
+
+<br><br>But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. (Romans 8:9 KJV)
 
 <br>~~~<br>Believers' Bible commentary by W. MacDonald  
 
