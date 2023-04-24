@@ -136,7 +136,7 @@ verse 15 <br>The baptism of the holy Spirit:
 <br>Brother K. Y.: 
 <br><br>This is one occasion in the early church where we believe that God wanted to show that all who believe in Christ will receive the Holy Spirit as is told us in the Epistles.  Irrespective of whether they are Jew or Samaritan as the early Jewish believers may doubt if the Samaritans can be part of the church. So when the apostles prayed and the Samaritan believers received the Holy Spirit it showed to everyone that all who are in Christ is part of the Church and have the Holy Spirit.   
 <br>After this occasion we know that as the new testament epistles tell us, all believer are sealed with the Holy Spirit the moment they believe.   
-<br>But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. (Romans 8:9 KJV)
+<br>But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. (Romans 8:9 KJV)  
 <br>Believers today receive the Holy Spirit at the point they put their trust in Christ and confess him as Saviour and Lord. Baptism has nothing to do with receiving of the Holy Spirit.  Even though a believer may be baptised 2 year after believing and trusting the Lord Jesus Christ as Saviour. The believer already is indwelled by the Holy Spirit at the point of believing 2 years ago. The moment a person believes in Christ the Holy Spirit comes and lives in Him.
 
 <br>~~~<br>Brother L. L.:
