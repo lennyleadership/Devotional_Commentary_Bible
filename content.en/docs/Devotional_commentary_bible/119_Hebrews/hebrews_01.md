@@ -155,6 +155,7 @@ Psa 2:7-8 ESV
 7 I will tell of the decree: The LORD said to me, “You are my Son; today I have begotten you.  
 8 Ask of me, and I will make the nations your heritage, and the ends of the earth your possession.
 
+Proverbs 8 ESV  
 
 <h1>What God Said</h1>  
 
