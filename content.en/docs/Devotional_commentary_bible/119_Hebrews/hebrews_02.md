@@ -3,7 +3,7 @@ weight: 2
 title: Hebrews 02
 authors: Lenny
 categories: null
-tags: 
+tags: [Angels-messengers]
 description: 
 draft: false
 date: "2023-03-12"
@@ -20,15 +20,15 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  
+  <button class="tablinks" onclick="tablabel(event, 'comments')">Comments</button>
 </div>
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
 2:1 Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.  
-2:2 For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward; <a class ="marginnote">v2: stedfast is in KJV, steadfast is in other translations.</a>  
-2:3 How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him;  
+2:2 For if <u class = "red">the word spoken by angels</u> was stedfast, and every transgression and disobedience received a just recompence of reward; <a class ="marginnote">v2: stedfast is in KJV, steadfast is in other translations.<br> Angels are God's messengers who spoke[NASB, NKJV]/ delivered[NLT]/ declared[ESV]  God's words.</a>  
+2:3 How shall we escape, if we neglect so great <u class = "red">salvation</u>; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him;  
 2:4 God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?  
 2:5 For unto the angels hath he not put in subjection the world to come, whereof we speak.  
 
@@ -86,4 +86,10 @@ toc: true
 </li>
 </ul>
 
+</div>
+
+<div id="comments" class="tabcontent">
+
+The key word in this chapter is salvation.  
+Jesus, angles, and human being 
 </div>
