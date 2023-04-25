@@ -28,9 +28,9 @@ toc: true
 
 2:1 Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.  
 2:2 For if <u class = "red">the word spoken by angels</u> was stedfast, and every transgression and disobedience received a just recompence of reward; <a class ="marginnote">verse 2: stedfast is in KJV, steadfast is in other translations.<br> Angels are God's messengers who spoke[NASB, NKJV]/ delivered[NLT]/ declared[ESV]  God's words.<br>~~~~</a>  
-2:3 How shall we escape, if we neglect so great <u class = "red">salvation</u>; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him; <a class ="marginnote">verse 3: It echoes Hebrews 1:1. <br>There is no excuse that human being can neglect the salvation. No one. It is hard to believe that God spoke the salvation to some, and did not speak to others.</a>  
+2:3 How shall we escape, if we neglect so great <u class = "red">salvation</u>; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him; <a class ="marginnote">verse 3: It echoes Hebrews 1:1. <br>God revealed himself and salvation to us. There is no excuse that human being can neglect the salvation. No one. It is hard to believe that God spoke the salvation to some, and did not speak to others. Therefore, it implies predestination is wrong.</a>  
 2:4 God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?  
-2:5 For unto the angels hath he not put in subjection the world to come, whereof we speak.  
+2:5 For unto the angels hath he not put in subjection the world to come, whereof we speak. <a class ="marginnote">verse 5: <u class = "red">in subjection to</u> under the power. ie. our subjection to the laws.</a>  
 
 2:6 But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him?  
 2:7 Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:  
