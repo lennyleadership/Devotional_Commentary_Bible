@@ -40,12 +40,12 @@ toc: true
 
 2:11 For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,  
 2:12 Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.  
-2:13 And again, I will put <a class = "red">my trust in him</a>. And again, Behold I and the children which God hath given me.  
-2:14 Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil; <a class ="marginnote">verse 14: This verse can be referred to the communion service.</a>  
+2:13 And again, I will put <a class = "red">my trust in him</a>. And again, Behold I and the children which God hath given me. <a class ="marginnote">verse 13: "in" is important. It implies "believe in".</a>  
+2:14 Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil; <a class ="marginnote">verse 14: This verse can be referred in the communion service.<br>~~~~</a>  
 2:15 And deliver them who through fear of death were all their lifetime subject to bondage. <a class ="marginnote">verse 15: <b>subject to</b></a>  
 
 2:16 For verily he took not on him the nature of angels; but he took on him the seed of Abraham.  
-2:17 Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people.  
+2:17 Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people. <a class ="marginnote">verse 17: Jesus is a high priest.</a>  
 2:18 For in that he himself hath suffered being tempted, he is able to succour them that are tempted.  
 
 </div>
