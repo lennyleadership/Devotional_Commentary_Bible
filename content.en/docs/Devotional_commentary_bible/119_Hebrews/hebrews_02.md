@@ -30,7 +30,7 @@ toc: true
 2:2 For if <u class = "red">the word spoken by angels</u> was stedfast, and every transgression and disobedience received a just recompence of reward; <a class ="marginnote">verse 2: stedfast is in KJV, steadfast is in other translations.<br> Angels are God's messengers who spoke[NASB, NKJV]/ delivered[NLT]/ declared[ESV]  God's words.<br>~~~~</a>  
 2:3 How shall we escape, if we neglect so great <u class = "red">salvation</u>; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him; <a class ="marginnote">verse 3: It echoes Hebrews 1:1. <br>God revealed himself and salvation to us. There is no excuse that human being can neglect the salvation. No one. It is hard to believe that God spoke the salvation to some, and did not speak to others. Therefore, it implies predestination is wrong.<br>~~~~</a>  
 2:4 God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?  
-2:5 For unto the angels hath he not put in subjection the world to come, whereof we speak. <a class ="marginnote">verse 5: <u class = "red">in subjection to</u> means "under the power". ie. our subjection to the laws.</a>  
+2:5 For unto the angels hath he not put in subjection the world to come, whereof we speak. <a class ="marginnote">verse 5: <b>in subjection to</b> means "under the power". ie. our subjection to the laws.</a>  
 
 2:6 But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him?  
 2:7 Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:  
@@ -40,9 +40,9 @@ toc: true
 
 2:11 For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,  
 2:12 Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.  
-2:13 And again, I will put my trust in him. And again, Behold I and the children which God hath given me.  
-2:14 Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;  
-2:15 And deliver them who through fear of death were all their lifetime subject to bondage.  
+2:13 And again, I will put <a class = "red">my trust in him</a>. And again, Behold I and the children which God hath given me.  
+2:14 Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil; <a class ="marginnote">verse 14: This verse can be referred to the communion service.</a>  
+2:15 And deliver them who through fear of death were all their lifetime subject to bondage. <a class ="marginnote">verse 15: <b>subject to</b></a>  
 
 2:16 For verily he took not on him the nature of angels; but he took on him the seed of Abraham.  
 2:17 Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people.  
