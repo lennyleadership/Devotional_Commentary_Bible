@@ -36,7 +36,7 @@ toc: true
 2:7 Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:  
 2:8 Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him. <a class ="marginnote">verse 8: <b>in subjection under</b></a>  
 2:9 But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man. <a class ="marginnote">verse 9: "for every man" implies no predestination.</a>  
-2:10 For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.  
+2:10 For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their <u class = "red">salvation</u> perfect through sufferings. <a class ="marginnote">verse 10: Jesus is the caption of salvation.</a>  
 
 2:11 For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,  
 2:12 Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.  
