@@ -28,14 +28,14 @@ toc: true
 
 2:1 Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.  
 2:2 For if <u class = "red">the word spoken by angels</u> was stedfast, and every transgression and disobedience received a just recompence of reward; <a class ="marginnote">verse 2: stedfast is in KJV, steadfast is in other translations.<br> Angels are God's messengers who spoke[NASB, NKJV]/ delivered[NLT]/ declared[ESV]  God's words.<br>~~~~</a>  
-2:3 How shall we escape, if we neglect so great <u class = "red">salvation</u>; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him; <a class ="marginnote">verse 3: It echoes Hebrews 1:1. <br>God revealed himself and salvation to us. There is no excuse that human being can neglect the salvation. No one. It is hard to believe that God spoke the salvation to some, and did not speak to others. Therefore, it implies predestination is wrong.</a>  
+2:3 How shall we escape, if we neglect so great <u class = "red">salvation</u>; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him; <a class ="marginnote">verse 3: It echoes Hebrews 1:1. <br>God revealed himself and salvation to us. There is no excuse that human being can neglect the salvation. No one. It is hard to believe that God spoke the salvation to some, and did not speak to others. Therefore, it implies predestination is wrong.<br>~~~~</a>  
 2:4 God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?  
-2:5 For unto the angels hath he not put in subjection the world to come, whereof we speak. <a class ="marginnote">verse 5: <u class = "red">in subjection to</u> under the power. ie. our subjection to the laws.</a>  
+2:5 For unto the angels hath he not put in subjection the world to come, whereof we speak. <a class ="marginnote">verse 5: <u class = "red">in subjection to</u> means "under the power". ie. our subjection to the laws.</a>  
 
 2:6 But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him?  
 2:7 Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:  
-2:8 Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him.  
-2:9 But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man.  
+2:8 Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him. <a class ="marginnote">verse 8: <b>in subjection under</b></a>  
+2:9 But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man. <a class ="marginnote">verse 9: "for every man" implies no predestination.</a>  
 2:10 For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.  
 
 2:11 For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,  
