@@ -3,7 +3,7 @@ weight: 2
 title: Hebrews 02
 authors: Lenny
 categories: null
-tags: [Angels-messengers, Jesus titles]
+tags: [Angels-messengers, Jesus titles, Predestination]
 description: 
 draft: false
 date: "2023-03-12"
