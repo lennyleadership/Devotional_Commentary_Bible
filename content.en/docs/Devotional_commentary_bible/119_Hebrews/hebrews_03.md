@@ -12,19 +12,20 @@ series:
 toc: true
 ---
 
-
-<!--more-->
----
+## <!--more-->
 
 <!-- Tab links -->
+
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
   <button class="tablinks" onclick="tablabel(event, 'note1')">Moses</button>
   <button class="tablinks" onclick="tablabel(event, 'note2')">Moses vs Jesus</button>
+  <button class="tablinks" onclick="tablabel(event, 'note3')">Adam vs Jesus</button>
 </div>
 
 <!-- Tab content -->
+
 <div id="english" class="tabcontent" style="display:block">
 
 3:1 Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;  
@@ -97,11 +98,18 @@ toc: true
   </thead>
   <tbody>
     <tr>
+      <td colspan = "3" ><p>
+Moses Personal Life 摩西的个人生活
+</p></td>
+    </tr> 
+    <tr>
       <td><p>
       </p></td>
       <td><p>
       </p></td>
       <td><p>
+出埃及记 2:1    
+有一个利未家的人娶了一个利未女子为妻。  
 出埃及记 6:20  
 暗兰娶了他父亲的妹妹约基别为妻，她给他生了亚伦和摩西。暗兰一生的岁数是一百三十七岁。[*摩西和亚伦的族谱]      
 </p></td>
@@ -122,8 +130,78 @@ toc: true
       <td><p>
       </p></td>
       <td><p>
+      </p></td>
+    </tr>    
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+民数记 12:1
+摩西娶了古实女子为妻。米利暗和亚伦因他所娶的古实女子就毁谤他...  
 出埃及记 4:20  
 摩西就带着妻子和两个儿子，叫他们骑上驴，回埃及地去。摩西手里拿着<b>神的杖</b>。[*上帝赐摩西能力]
+</p></td>
+    </tr>
+    <tr>
+      <td colspan = "3" ><p>
+Moses Characters
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+民数记 12:3  
+摩西为人极其谦和，胜过世上的众人。
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>    
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>    
+    <tr>
+      <td colspan = "3" ><p>
+Events
 </p></td>
     </tr>
     <tr>
@@ -147,6 +225,175 @@ toc: true
 出埃及记 5:1  
 后来摩西、亚伦去对法老说：“耶和华以色列的神这样说：‘容我的百姓去，在旷野向我守节。’”[*摩西和亚伦见法老]
 </p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+出埃及记 15:2
+<b>耶和华是</b>我的力量，我的诗歌，也成了我的拯救。这是我的神，我要赞美他，是我[*摩西]父亲的神，我要尊崇他。
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+出埃及记 18:3-4  
+又带着西坡拉的两个儿子，一个名叫革舜，因为摩西说：“我在外邦作了寄居的”；[*葉忒羅帶西坡拉和兩個外孫來見摩西]
+一个名叫以利以谢，因为他说：“我父亲的神帮助了我，救我[*摩西]脱离法老的刀。”
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+出埃及记 18:16  
+他们有事的时候就到我[*摩西]这里来，我便在两造之间施行审判；我又叫他们知道神的律例和法度。”  
+出埃及记 18:20  
+又要将律例和法度教训他们，指示他们当行的道，当做的事；
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+出埃及记 19:3
+摩西到神那里，耶和华从山上呼唤他说：“你要这样告诉雅各家，晓谕以色列人说：
+出埃及记 19:6
+你们要归我作祭司的国度，为圣洁的国民。’这些话你要告诉以色列人。”
+出埃及记 19:7
+摩西去召了民间的长老来，将耶和华所吩咐他的话都在他们面前陈明。
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+出埃及记 24:2
+<b>惟独</b>你可以<b>亲近</b>耶和华；他们却不可亲近；百姓也不可和你一同上来。”
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+出埃及记 32:30
+到了第二天，摩西对百姓说：“你们犯了大罪。<b>我</b>如今要<b>上</b>耶和华那里去，或者可以为你们赎罪。”[*摩西代祷]  
+注：不是献祭的仪式  
+  
+出埃及记 32:31-32  
+摩西回到耶和华那里，说：“唉！这百姓犯了大罪，为自己做了金像。  
+倘或你肯赦免他们的罪......不然，求你从你所写的册上<b>涂抹</b>我[*摩西]的名。”
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+出埃及记 33:8-9
+当摩西出营到会幕去的时候，百姓就都起来，各人站在自己帐棚的门口，望着摩西，直等到他进了会幕。[*摩西进会幕]    
+摩西进会幕的时候，云柱降下来，立在会幕的门前，耶和华便与摩西说话。  
+注：摩西是祭司
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+‪出埃及记‬33:12-23 和合本  
+12 摩西对耶和华说：“你吩咐我说：‘将这百姓领上去’，却没有叫我知道你要打发谁与我同去，只说：‘我按你的名认识你，你在我眼前也蒙了恩。’   
+13 我如今若在你眼前蒙恩，求你将你的道指示我，使我可以认识你，好在你眼前蒙恩。求你想到这民是你的民。”   
+14 耶和华说：“我必亲自和你同去，使你得安息。”   
+15 摩西说：“你若不亲自和我同去，就不要把我们从这里领上去。   
+16 人在何事上得以知道我和你的百姓在你眼前蒙恩呢？岂不是因你与我们同去、使我和你的百姓与地上的万民有分别吗？”  
+17 耶和华对摩西说：“你这所求的我也要行；因为你在我眼前蒙了恩，并且我按你的名认识你。”   
+18 摩西说：“求你显出你的荣耀给我看。”   
+19 耶和华说：“我要显我一切的恩慈，在你面前经过，宣告我的名。我要恩待谁就恩待谁；要怜悯谁就怜悯谁”；   
+20 又说：“你不能看见我的面，因为人见我的面不能存活。”   
+21 耶和华说：“看哪，在我这里有地方，你要站在磐石上。   
+22 我的荣耀经过的时候，我必将你放在磐石穴中，用我的手遮掩你，等我过去，   
+23 然后我要将我的手收回，你就得见我的背，却不得见我的面。”
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+出埃及记 34:28  
+摩西在耶和华那里四十昼夜，也不吃饭也不喝水。耶和华将<b>这约</b>的话，就是十条诫，写在两块版上。
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+民数记 7:89
+摩西进会幕要与耶和华说话的时候，听见法柜的施恩座以上、二基路伯中间有与他说话的声音，就是耶和华与他说话。
+注：摩西也是祭司</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+民数记 11:25  
+耶和华在云中降临，对摩西说话，把降与他[*摩西]身上的灵分赐那七十个长老。灵停在他们身上的时候，他们就受感说话，以后却没有再说。  
+民数记 11:29  
+摩西对他说：“你为我的缘故嫉妒人吗？惟愿耶和华的百姓都受感说话！<b>愿耶和华把他的灵</b>降在他们身上！”  
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
     </tr>
     <tr>
       <td><p>
@@ -202,6 +449,8 @@ toc: true
 </div>
 
 <div id="note2" class="tabcontent">
+Moses is the foreshadowing of Jesus
+
 <h1>In what ways was Moses like Jesus?</h1>
 In one of Moses’ final speeches, he gave this messianic prophecy: “The Lord your God will raise up for you a prophet like me from among you, from your fellow Israelites. You must listen to him” (Deuteronomy 18:15). The prophet whom Moses foretells bears these qualities: He will be raised up by God, He will come from among the Israelites, He will be like Moses, and He will be worthy of being heard and obeyed. The prophet who fulfills these words is Jesus Christ, the prophet like Moses.
 
@@ -215,11 +464,11 @@ Moses and Jesus were alike in that they both led God’s people out of captivity
 
 Moses was also like Jesus in that he performed miracles—not all prophets did. Several of the miracles of Moses bear a resemblance to Jesus’ miracles, most notably the provision of bread in the wilderness (Exodus 16:35), which is comparable to Jesus’ feeding of the 5,000 (John 6:1–13). In fact, after Jesus multiplied the loaves and fishes, the people’s thoughts ran immediately to Moses’ prophecy: “After the people saw the sign Jesus performed, they began to say, ‘Surely this is the Prophet who is to come into the world’” (John 6:14).
 
-Another way that Moses was like Jesus is that he held intimate conversations with God: “The LORD would speak to Moses face to face, as one speaks to a friend” (Exodus 33:11). Jesus also had a special relationship to God: “No one knows the Son except the Father, and no one knows the Father except the Son” (Matthew 11:27); “The Father knows me and I know the Father” (John 10:15). When Moses stood in God’s presence, his face shone with a heavenly glory and had to be covered with a veil (Exodus 34:29–35), and this reminds us of Jesus’ transfiguration, when “His face shone like the sun” (Matthew 17:2).
+Another way that Moses was like Jesus is that <b>he held intimate conversations with God</b>: “The LORD would speak to Moses face to face, as one speaks to a friend” (Exodus 33:11). Jesus also had a special relationship to God: “No one knows the Son except the Father, and no one knows the Father except the Son” (Matthew 11:27); “The Father knows me and I know the Father” (John 10:15). When Moses stood in God’s presence, his face shone with a heavenly glory and had to be covered with a veil (Exodus 34:29–35), and this reminds us of Jesus’ transfiguration, when “His face shone like the sun” (Matthew 17:2).
 
-Another important way that Moses was like Jesus is that he constantly interceded for his people. When the Israelites sinned, Moses was always standing by, ready to petition God on their behalf and plead for their forgiveness. After the blatant idolatry at the foot of Mt. Sinai involving the golden calf, Moses interceded twice for the people (Exodus 32:11–13, 30–32), and his intercession was needed at other times, too (e.g., Numbers 11:2; 12:13; 21:7). Moses’ intercession was temporary, but our Lord’s is everlasting. “If anybody does sin, we have an advocate with the Father—Jesus Christ, the Righteous One” (1 John 2:1). Jesus is right now “at the right hand of God and is also interceding for us” (Romans 8:34). Jesus “always lives to intercede” for us (Hebrews 7:25).
+Another important way that Moses was like Jesus is that <b>he constantly interceded for his people</b>. When the Israelites sinned, Moses was always standing by, ready to petition God on their behalf and plead for their forgiveness. After the blatant idolatry at the foot of Mt. Sinai involving the golden calf, Moses interceded twice for the people (Exodus 32:11–13, 30–32), and his intercession was needed at other times, too (e.g., Numbers 11:2; 12:13; 21:7). Moses’ intercession was temporary, but our Lord’s is everlasting. “If anybody does sin, we have an advocate with the Father—Jesus Christ, the Righteous One” (1 John 2:1). Jesus is right now “at the right hand of God and is also interceding for us” (Romans 8:34). Jesus “always lives to intercede” for us (Hebrews 7:25).
 
-Not only was Moses an intercessor for God’s people but, like Jesus, he was willing to die for them. In Exodus 32:32, Moses offers his life in exchange for sinners. “Greater love has no one than this: to lay down one’s life for one’s friends,” Jesus said (John 15:13), and Jesus proved His love when He “laid down his life for us” (1 John 3:16; cf. John 10:15).
+Not only was Moses an intercessor for God’s people but, like Jesus, <b>he was willing to die for them</b>. In Exodus 32:32, Moses offers his life in exchange for sinners. “Greater love has no one than this: to lay down one’s life for one’s friends,” Jesus said (John 15:13), and Jesus proved His love when He “laid down his life for us” (1 John 3:16; cf. John 10:15).
 
 <b>Reference</b>: <a href = "https://www.gotquestions.org/Moses-and-Jesus.html" target="_blank" rel="noopener noreferrer">Got Questions | In what ways was Moses like Jesus?</a>
 
@@ -292,4 +541,8 @@ Moses was a prophet, priest
     </tr>
   </tbody>
 </table>
+</div>
+
+<div id="note3" class="tabcontent">
+耶稣是末后的亚当
 </div>
