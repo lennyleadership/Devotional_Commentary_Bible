@@ -98,7 +98,7 @@ toc: true
   </thead>
   <tbody>
     <tr>
-      <td colspan = "3" ><p>
+      <td colspan = "3" class = "pink subtitle"><p>
 Moses Personal Life 摩西的个人生活
 </p></td>
     </tr> 
@@ -138,14 +138,14 @@ Moses Personal Life 摩西的个人生活
       <td><p>
       </p></td>
       <td><p>
-民数记 12:1
-摩西娶了古实女子为妻。米利暗和亚伦因他所娶的古实女子就毁谤他...  
-出埃及记 4:20  
+民数记 12:1   
+摩西娶了古实女子为妻。米利暗和亚伦因他所娶的古实女子就毁谤他...     
+出埃及记 4:20    
 摩西就带着妻子和两个儿子，叫他们骑上驴，回埃及地去。摩西手里拿着<b>神的杖</b>。[*上帝赐摩西能力]
 </p></td>
     </tr>
     <tr>
-      <td colspan = "3" ><p>
+      <td colspan = "3" class = "pink subtitle"><p>
 Moses Characters
 </p></td>
     </tr>
@@ -155,8 +155,12 @@ Moses Characters
       <td><p>
       </p></td>
       <td><p>
-民数记 12:3  
-摩西为人极其谦和，胜过世上的众人。
+民数记 12:3    
+摩西为人极其谦和，胜过世上的众人。  
+民数记 12:7  
+我的仆人摩西不是这样；他是在我全家尽忠的。  
+民数记 12:8  
+我要与他[*摩西]面对面说话，乃是明说，不用谜语，并且他必见我的形像。你们毁谤我的仆人摩西，为何不惧怕呢？”
 </p></td>
     </tr>
     <tr>
@@ -200,7 +204,7 @@ Moses Characters
       </p></td>
     </tr>    
     <tr>
-      <td colspan = "3" ><p>
+      <td colspan = "3" class = "pink subtitle"><p>
 Events
 </p></td>
     </tr>
@@ -369,7 +373,9 @@ Events
       <td><p>
       </p></td>
       <td><p>
-      </p></td>
+民数记 16:22
+摩西、亚伦就俯伏在地，说：“神，万人之灵的神啊，一人犯罪，你就要向全会众发怒吗？”[*永恆主吩咐摩西亞倫叫他們要跟會眾分別出來]
+</p></td>
     </tr>
     <tr>
       <td><p>
