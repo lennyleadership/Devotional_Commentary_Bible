@@ -3,7 +3,7 @@ weight: 10
 title: 1 Corinthians 10
 authors: Lenny
 categories: null
-tags: [My Utmost]
+tags: [My Utmost, Moses struck the rock, The Rock]
 description: 
 draft: false
 date: "2022-11-16"
@@ -18,18 +18,19 @@ toc: true
 <!-- Tab links -->
 
 <div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'verses')">Chapter 10</button>
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
   <button class="tablinks" onclick="tablabel(event, 'Devotion1')">verse 31</button>
   
 </div>
 
 <!-- Tab content -->
-<div id="verses" class="tabcontent" style="display:block">
+<div id="english" class="tabcontent" style="display:block">
 
 10:1 Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;  
 10:2 And were all baptized unto Moses in the cloud and in the sea;  
 10:3 And did all eat the same spiritual meat;  
-10:4 And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.  
+10:4 And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ. <a class ="marginnote">the spiritual rock</a>  
 10:5 But with many of them God was not well pleased: for they were overthrown in the wilderness.  
 
 10:6 Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.  
@@ -66,6 +67,49 @@ toc: true
 10:32 Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:  
 10:33 Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved.  
 
+</div>
+
+<div id="chinese" class="tabcontent">
+
+10:1 弟兄们、我不愿意你们不晓得、我们的祖宗从前都在云下、都从海中经过。  
+10:2 都在云里海里受洗归了摩西。  
+10:3 并且都吃了一样的灵食。  
+10:4 也都喝了一样的灵水。所喝的是出于随着他们的灵磐石。那磐石就是基督。<a class ="marginnote">那作为基督表号的盘石已经被击打一次，表明基督必须一次被献。第二次，只需向磐石说话，正如我们现今只需奉耶稣的名祈求恩典一样。由于摩西第二次又击打磐石，这预表基督的美妙灵意就被破坏了。</a>  
+10:5 但他们中间、多半是　神不喜欢的人。所以在旷野倒毙。  
+
+10:6 这些事都是我们的鉴戒、叫我们不要贪恋恶事、像他们那样贪恋的。  
+10:7 也不要拜偶像、像他们有人拜的。如经上所记、『百姓坐下吃喝、起来玩耍。』  
+10:8 我们也不要行奸淫、像他们有人行的、一天就倒毙了二万三千人。  
+10:9 也不要试探主、〔主有古卷作基督〕像他们有人试探的、就被蛇所灭。  
+10:10 你们也不要发怨言、像他们有发怨言的、就被灭命的所灭。  
+
+10:11 他们遭遇这些事、都要作为鉴戒。并且写在经上、正是警戒我们这末世的人。  
+10:12 所以自己以为站得稳的、须要谨慎、免得跌倒。  
+10:13 你们所遇见的试探、无非是人所能受的、　神是信实的、必不叫你们受试探过于所能受的。在受试探的时候、总要给你们开一条出路、叫你们能忍受得住。  
+10:14 我所亲爱的弟兄阿、你们要逃避拜偶像的事。  
+10:15 我好像对明白人说的、你们要审察我的话。  
+
+10:16 我们所祝福的杯、岂不是同领基督的血么。我们所擘开的饼、岂不是同领基督的身体么。  
+10:17 我们虽多、仍是一个饼、一个身体。因为我们都是分受这一个饼。  
+10:18 你们看属肉体的以色列人。那吃祭物的、岂不是在祭坛上有分么。  
+10:19 我是怎么说呢。岂是说祭偶像之物算得甚么呢。或说偶像算得甚么呢。  
+10:20 我乃是说、外邦人所献的祭、是祭鬼、不是祭　神。我不愿意你们与鬼相交。  
+
+10:21 你们不能喝主的杯、又喝鬼的杯。不能吃主的筵席、又吃鬼的筵席。  
+10:22 我们可惹主的愤恨么。我们比他还有能力么。  
+10:23 凡事都可行。但不都有益处。凡事都可行。但不都造就人。  
+10:24 无论何人、不要求自己的益处、乃要求别人的益处。  
+10:25 凡市上所卖的、你们只管吃、不要为良心的缘故问甚么话。  
+
+10:26 因为地和其中所充满的、都属乎主。  
+10:27 倘有一个不信的人请你们赴席、你们若愿意去、凡摆在你们面前的、只管吃、不要为良心的缘故问甚么话。  
+10:28 若有人对你们说、这是献过祭的物、就要为那告诉你们的人、并为良心的缘故、不吃。  
+10:29 我说的良心、不是你的、乃是他的。我这自由、为甚么被别人的良心论断呢。  
+10:30 我若谢恩而吃、为甚么因我谢恩的物被人毁谤呢。  
+
+10:31 所以你们或吃或喝、无论作甚么、都要为荣耀　神而行。  
+10:32 不拘是犹太人、是希利尼人、是　神的教会、你们都不要使他跌倒。  
+10:33 就好像我凡事都叫众人喜欢、不求自己的益处、只求众人的益处、叫他们得救。  
 </div>
 
 <div id="Devotion1" class="tabcontent">

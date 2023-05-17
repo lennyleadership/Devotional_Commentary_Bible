@@ -3,7 +3,7 @@ weight: 20
 title: Numbers 20
 authors: Lenny
 categories: null
-tags: [Moses struck the rock]
+tags: [Moses struck the rock, The Rock]
 description: 
 draft: false
 date: "2023-05-17"
