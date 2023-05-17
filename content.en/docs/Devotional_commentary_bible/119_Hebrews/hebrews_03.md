@@ -137,7 +137,7 @@ Moses Personal Life 摩西的个人生活
 <br>出埃及记 18:12
 <b>摩西的岳父叶忒罗</b>把燔祭和平安祭献给神。亚伦和以色列的众长老都来了，与摩西的岳父在神面前吃饭。
 <br>民数记 10:29
-摩西对他岳父米甸人流珥的儿子何巴说：“我们要行路，往耶和华所应许之地去；他曾说：‘我要将这地赐给你们。’现在求你和我们同去，我们必厚待你，因为耶和华指着以色列人已经应许给好处。”
+<b>摩西对他岳父米甸人流珥的儿子何巴</b>说：“我们要行路，往耶和华所应许之地去；他曾说：‘我要将这地赐给你们。’现在求你和我们同去，我们必厚待你，因为耶和华指着以色列人已经应许给好处。”
 <br>士师记 4:11
 <b>摩西岳父何巴</b>的后裔，基尼人希百曾离开基尼族，到靠近基低斯、撒拿音的橡树旁支搭帐棚。
 <br>民数记 12:1   
@@ -175,10 +175,10 @@ Moses Personal Life 摩西的个人生活
       </p></td>
       <td><p>
 摩西孙子的情况：
-<br>摩西后代作了祭司
+<br>1. 摩西后代作了祭司
 <br>士师记 18:30
 但人就为自己设立那雕刻的像。摩西的孙子、革舜的儿子约拿单，和他的子孙作但支派的祭司，直到那地遭掳掠的日子。
-<br>摩西后代掌管府库
+<br>2. 摩西后代掌管府库
 <br>历代志上 26:24
 摩西的孙子、革舜的儿子细布业掌管府库。
 </p></td>
@@ -240,9 +240,9 @@ Moses Title 摩西的称谓
       </p></td>
       <td><p>
 他是神人
-历代志上 23:14
+<br>历代志上 23:14
 至于神人摩西，他的子孙名字记在利未支派的册上。
-注：尽管摩西娶了外邦女子为妻，他的后代依然属于利未支派。
+<br>注：尽管摩西娶了外邦女子为妻，他的后代依然属于利未支派。
 </p></td>
     </tr>
     <tr>
@@ -274,8 +274,16 @@ Moses Characters
       <td><p>
 民数记 12:3    
 摩西<b>为人极其谦和</b>，胜过世上的众人。  
-<br>民数记 12:7  
-我的仆人摩西不是这样；他是<b>在我全家尽忠</b>的。  
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+民数记 12:7  
+我的仆人摩西不是这样；他是<b>在我全家尽忠</b>的。
 </p></td>
     </tr>
     <tr>
@@ -287,14 +295,6 @@ Moses Characters
 民数记 27:18
 耶和华对摩西说：“嫩的儿子约书亚是<b>心中有圣灵</b>的；你将他领来，按手在他头上，[*约书亚承继摩西的职位]
 </p></td>
-    </tr>
-    <tr>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
     </tr>
     <tr>
       <td><p>
@@ -315,6 +315,27 @@ Moses Characters
     <tr>
       <td colspan = "3" class = "pink subtitle"><p>
 Events
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+‪路加福音‬20:38
+神原不是死人的　神，乃是活人的　神；因为在他那里（“那里”或作“看来”），人都是活的。”
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+上帝早有预备
+<br>弥迦书 6:4
+我曾将你从埃及地领出来，从作奴仆之家救赎你；我也差遣摩西、亚伦，和米利暗在你前面行。
 </p></td>
     </tr>
     <tr>
@@ -556,7 +577,9 @@ Events
       <td><p>
       </p></td>
       <td><p>
-      </p></td>
+诗篇 90
+神人摩西的祈祷。
+</p></td>
     </tr>
     <tr>
       <td><p>
@@ -588,7 +611,13 @@ Events
 </div>
 
 <div id="note2" class="tabcontent">
-Moses is the foreshadowing of Jesus
+
+# Moses did different things
+
+约翰福音 1:17
+律法本是藉着摩西传的；恩典和真理都是由耶稣基督来的。
+
+# God used Moses to reveal His will in future
 
 <h1>In what ways was Moses like Jesus?</h1>
 In one of Moses’ final speeches, he gave this messianic prophecy: “The Lord your God will raise up for you a prophet like me from among you, from your fellow Israelites. You must listen to him” (Deuteronomy 18:15). The prophet whom Moses foretells bears these qualities: He will be raised up by God, He will come from among the Israelites, He will be like Moses, and He will be worthy of being heard and obeyed. The prophet who fulfills these words is Jesus Christ, the prophet like Moses.
