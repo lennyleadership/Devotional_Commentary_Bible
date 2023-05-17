@@ -13,6 +13,8 @@ toc: true
 ---
 
 
+<!--more-->
+
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
