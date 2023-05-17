@@ -722,9 +722,9 @@ Moses was a prophet, priest
 <table>
   <caption style="text-align:left", align = "top"><b>Bible verses on Moses</b></caption>
   <colgroup>
-    <col style="width: 34%" /><col style="width: 33%" /><col style="width: 33%" />
+    <col style="width: 20%" /><col style="width: 40%" /><col style="width: 40%" />
   </colgroup>
-  <thead>
+  <thead style="text-align:left">
     <tr>
       <th><p>Comparison</p></th>
       <th><p>Moses</p></th>
