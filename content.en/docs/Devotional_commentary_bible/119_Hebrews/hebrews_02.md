@@ -45,7 +45,7 @@ toc: true
 2:15 And deliver them who through fear of death were all their lifetime subject to bondage. <a class ="marginnote">verse 15: <b>subject to</b></a>  
 
 2:16 For verily he took not on him the nature of angels; but he took on him the seed of Abraham.  
-2:17 Wherefore in all things it behoved him to be made like unto his brethren, that he might be <a class = "red">a merciful and faithful high priest</a> in things pertaining to God, to make reconciliation for the sins of the people. [Hebrews 10:12 NLT, Hebrews 10:12 ESV, Hebrews 10:12 KJV.] <a class ="marginnote">verse 17: Jesus is <b>a high priest. <br> The High Priest offered himself to God as a single sacrifice for sins in the NLT translation</b>.</a>  
+2:17 Wherefore in all things it behoved him to be made like unto his brethren, that he might be <a class = "red">a merciful and faithful high priest</a> in things pertaining to God, to make reconciliation for the sins of the people. [Hebrews 10:12 NLT, Hebrews 10:12 ESV, Hebrews 10:12 KJV.] <a class ="marginnote">verse 17: Jesus is <b>a high priest</b>. <br> The High Priest offered himself to God as a single sacrifice for sins in the NLT translation.</a>  
 2:18 For in that he himself hath suffered being tempted, he is able to succour them that are tempted.  
 
 </div>

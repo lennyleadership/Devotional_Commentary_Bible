@@ -734,11 +734,70 @@ Moses was a prophet, priest
   <tbody>
     <tr>
       <td><p>
-      </p></td>
+Prophet
+</p></td>
       <td><p>
-      </p></td>
+Moses was a prophet.
+</p></td>
       <td><p>
-      </p></td>
+Jesus was a prophet.[Acts 3:22, Deuteronomy 18:15, Matthew 21:46]
+</p></td>
+    </tr>    
+    <tr>
+      <td><p>
+Priest      
+</p></td>
+      <td><p>
+Moses was a priest
+</p></td>
+      <td><p>
+Jesus was a High Priest.
+</p></td>
+    </tr> 
+    <tr>
+      <td><p>
+Savior
+</p></td>
+      <td><p>
+Moses took the Israelites out of Egypt from slavery
+</p></td>
+      <td><p>
+Jesus saved human beings out of sin.
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+Sinful
+</p></td>
+      <td><p>
+Moses struck the rock at the desert Zin.  
+<br>Moses was a sinner. He can't be the sacrifice.
+</p></td>
+      <td><p>
+Jesus was not a sinner.
+He can be the perfect sacrifice.</p></td>
+    </tr>
+    <tr>
+      <td><p>
+Messages
+</p></td>
+      <td><p>
+Moses delivered Law.
+</p></td>
+      <td><p>
+Jesus delivered grace and love.
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+Meekness
+</p></td>
+      <td><p>
+Numbers 12:3 Moses was very meek, above all the men.
+</p></td>
+      <td><p>
+Matthew 11:29 Jesus was meek and lowly in heart.
+</p></td>
     </tr>
     <tr>
       <td><p>
@@ -755,7 +814,7 @@ Moses was a prophet, priest
       </p></td>
       <td><p>
       </p></td>
-    </tr>
+    </tr>    
     <tr>
       <td><p>
       </p></td>
@@ -763,7 +822,7 @@ Moses was a prophet, priest
       </p></td>
       <td><p>
       </p></td>
-    </tr>
+    </tr>    
     <tr>
       <td><p>
       </p></td>
@@ -771,7 +830,7 @@ Moses was a prophet, priest
       </p></td>
       <td><p>
       </p></td>
-    </tr>
+    </tr>    
     <tr>
       <td><p>
       </p></td>
@@ -779,7 +838,7 @@ Moses was a prophet, priest
       </p></td>
       <td><p>
       </p></td>
-    </tr>
+    </tr>    
   </tbody>
 </table>
 </div>
