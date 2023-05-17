@@ -3,7 +3,7 @@ weight: 17
 title: Exodus 17
 authors: Lenny
 categories: null
-tags: [Moses strike the rock]
+tags: [Moses struck the rock]
 description: 
 draft: false
 date: "2023-05-17"
