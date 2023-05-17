@@ -44,7 +44,7 @@ toc: true
 </div>
 
 
-<div id="chinese" class="tabcontent" style="display:block">
+<div id="chinese" class="tabcontent">
 
 17:1 以色列全会众都遵耶和华的吩咐、按着站口从汛的旷野往前行、在利非订安营。  百姓没有水喝、
 17:2 所以与摩西争闹、说、给我们水喝吧。  摩西对他们说、你们为甚么与我争闹、为甚么试探耶和华呢。  

@@ -1,13 +1,14 @@
 ---
+weight: 1
+title: Exodus 1
 authors: Lenny
 categories: null
-date: "2022-04-19"
 description: 
 draft: false
-lastmod: "2022-04-26"
+date: "2023-05-17"
+lastmod: "2023-05-17"
 series: 
 tags: 
-title: 01 出一章
 toc: true
 ---
 
@@ -25,7 +26,7 @@ toc: true
 </div>
 
 
-<div id="chinese" class="tabcontent" style="display:block">
+<div id="chinese" class="tabcontent">
 
 </div>
 
