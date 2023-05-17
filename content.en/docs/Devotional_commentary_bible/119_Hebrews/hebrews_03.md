@@ -28,7 +28,7 @@ toc: true
 
 <div id="english" class="tabcontent" style="display:block">
 
-3:1 Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;  
+3:1 Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus; <a class ="marginnote">Jesus is <b>the Apostle</b>, and <b>the High Priest</b></a>  
 3:2 Who was faithful to him that appointed him, as also Moses was faithful in all his house.  
 3:3 For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.  
 3:4 For every house is builded by some man; but he that built all things is God.  
