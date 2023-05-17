@@ -1,16 +1,34 @@
 ---
+weight: 33
+title: Exodus 33
 authors: Lenny
 categories: null
-date: "2022-04-19"
 description: 
 draft: false
-lastmod: "2022-04-26"
+date: "2022-04-19"
+lastmod: "2023-05-17"
 series:
 tags: 
-title: 33 出三十三章
 toc: true
 ---
-出埃及记
+
+
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+</div>
+
+
+<div id="chinese" class="tabcontent" style="display:block">
+
+</div>
 
 
 33:1 耶和华吩咐摩西说、我曾起誓应许亚伯拉罕、以撒、雅各说、要将迦南地赐给你的后裔。  现在你和你从埃及地所领出来的百姓、要从这里往那地去。  

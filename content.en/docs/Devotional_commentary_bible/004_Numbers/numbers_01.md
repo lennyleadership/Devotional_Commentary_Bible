@@ -1,16 +1,20 @@
 ---
+weight: 1
+title: Numbers 1
 authors: Lenny
 categories: null
-date: "2022-04-19"
+tags: 
 description: 
 draft: false
-lastmod: "2022-04-26"
-series: 
-tags: 
-title: 01 出一章
+date: "2023-05-17"
+lastmod: "2023-05-17"
+series:
 toc: true
 ---
 
+
+<!--more-->
+---
 
 <!-- Tab links -->
 <div class="tab">
@@ -24,9 +28,6 @@ toc: true
 
 </div>
 
-
-<div id="chinese" class="tabcontent" style="display:block">
+<div id="chinese" class="tabcontent">
 
 </div>
-
-
