@@ -21,7 +21,7 @@ toc: true
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
   <button class="tablinks" onclick="tablabel(event, 'note1')">Moses</button>
   <button class="tablinks" onclick="tablabel(event, 'note2')">Moses vs Jesus</button>
-  <button class="tablinks" onclick="tablabel(event, 'note3')">Adam vs Jesus</button>
+  <button class="tablinks" onclick="tablabel(event, 'note3')">Shadowing of Jesus</button>
 </div>
 
 <!-- Tab content -->
@@ -294,6 +294,8 @@ Moses Characters
       <td><p>
 民数记 12:7  
 我的仆人摩西不是这样；他是<b>在我全家尽忠</b>的。
+<br>‪希伯来书‬3:2
+他为那设立他的尽忠，如同摩西在　神的全家尽忠一样。
 </p></td>
     </tr>
     <tr>
@@ -320,6 +322,18 @@ Moses Characters
 <br>他因着信，就守（或作“立”）逾越节，行洒血的礼，免得那灭长子的临近以色列人。
 </p></td>
     </tr>    
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+摩西甘愿付上生命的代价
+<br>出埃及记 32:31-32  
+<br>摩西回到耶和华那里，说：“唉！这百姓犯了大罪，为自己做了金像。  
+<br>倘或你肯赦免他们的罪......不然，求你从你所写的册上<b>涂抹</b>我[*摩西]的名。” 
+</p></td>
+    </tr> 
     <tr>
       <td><p>
       </p></td>
@@ -468,10 +482,6 @@ Events
 出埃及记 32:30
 到了第二天，摩西对百姓说：“你们犯了大罪。<b>我</b>如今要<b>上</b>耶和华那里去，或者可以为你们赎罪。”[*摩西代祷]  
 <br>注：不是献祭的仪式  
-<br>  
-<br>出埃及记 32:31-32  
-<br>摩西回到耶和华那里，说：“唉！这百姓犯了大罪，为自己做了金像。  
-<br>倘或你肯赦免他们的罪......不然，求你从你所写的册上<b>涂抹</b>我[*摩西]的名。”
 </p></td>
     </tr>
     <tr>
@@ -734,6 +744,17 @@ Moses was a prophet, priest
   <tbody>
     <tr>
       <td><p>
+God's plan
+</p></td>
+      <td><p>
+yes, Moses was the role in God's plan. <br> God heard Israelites' complains on hard-working, and answered their prayers by preparing Moses.  God did not take a proactive action.
+</p></td>
+      <td><p>
+yes, Jesus was the role in God's plan. <br> Human being do not complain about sin. God voluntarily prepared Jesus.
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
 Prophet
 </p></td>
       <td><p>
@@ -767,11 +788,12 @@ Jesus saved human beings out of sin.
     </tr>
     <tr>
       <td><p>
-Sinful
+Sinful Nature
 </p></td>
       <td><p>
 Moses struck the rock at the desert Zin.  
 <br>Moses was a sinner. He can't be the sacrifice.
+<br>Reference: Moses offered himself a sacrifice, but he was not qualified. [Exodus 32:31-32]
 </p></td>
       <td><p>
 Jesus was not a sinner.
@@ -844,5 +866,20 @@ Matthew 11:29 Jesus was meek and lowly in heart.
 </div>
 
 <div id="note3" class="tabcontent">
-耶稣是末后的亚当
+
+# 首先的亚当 和 末后的亚当
+林前15:45-49
+<br>经上也是这样记著说：「首先的人亚当成了有灵的活人」；末後的亚当成了叫人活的灵。
+<br>但属灵的不在先，属血气的在先，以後才有属灵的。
+<br>头一个人是出於地，乃属土；第二个人是出於天。
+<br>那属土的怎样，凡属土的也就怎样；属天的怎样，凡属天的也就怎样。 
+<br>我们既有属土的形状，将来也必有属天的形状。
+
+# 首先的摩西 和 末后的摩西
+
+‪希伯来书‬3:2,5
+2 他为那设立他的尽忠，如同摩西在　神的全家尽忠一样。……
+5 摩西为仆人，在　神的全家诚然尽忠，为要证明将来必传说的事。
+# 灵磐石
+
 </div>
