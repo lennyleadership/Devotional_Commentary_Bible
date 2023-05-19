@@ -3,7 +3,7 @@ weight: 2
 title: Hebrews 02
 authors: Lenny
 categories: null
-tags: [Angels-messengers, Jesus titles, Predestination, Jesus is the High Priest and the Sacrifice]
+tags: [Angels-messengers, Jesus titles, Predestination, Jesus is the High Priest and the Sacrifice, Perfect]
 description: 
 draft: false
 date: "2023-03-12"
@@ -36,7 +36,7 @@ toc: true
 2:7 Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:  
 2:8 Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him. <a class ="marginnote">verse 8: <b>in subjection under</b></a>  
 2:9 But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man. <a class ="marginnote">verse 9: "for every man" implies no predestination.</a>  
-2:10 For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make <a class = "red">the captain of their salvation</a> <a class = "red">perfect</a> through sufferings.<a class ="marginnote">verse 10: Jesus is <b>the captain</b> of salvation.</a>     
+2:10 For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make <a class = "red">the captain of their salvation</a> <a class = "red">perfect</a> through sufferings.<a class ="marginnote">verse 10: "The captain" and "the author" come from the same Greek word (the strong number G747). <br>Perfect in the sense that Jesus had to be a sacrifice for saving us.</a>     
 [Note: Hebrews 12:2 ESV, Hebrews 12:2 NKJV, Hebrews 12:2 NLT]     
 
 2:11 For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,  
@@ -46,7 +46,7 @@ toc: true
 2:15 And deliver them who through fear of death were all their lifetime subject to bondage. <a class ="marginnote">verse 15: <b>subject to</b></a>  
 
 2:16 For verily he took not on him the nature of angels; but he took on him the seed of Abraham.  
-2:17 Wherefore in all things it behoved him to be made like unto his brethren, that he might be <a class = "red">a merciful and faithful high priest</a> in things pertaining to God, to make reconciliation for the sins of the people.   <a class ="marginnote">verse 17: Jesus is <b>a high priest</b>.</a>    
+2:17 Wherefore in all things it behoved him to be made like unto his brethren, that he might be <a class = "red">a merciful and faithful high priest</a> in things pertaining to God, to make reconciliation for the sins of the people.   <a class ="marginnote">verse 17: Perfect in the sense that Jesus is <b>a high priest</b> and the sacrifice.</a>    
 [Note: Hebrews 2:17 ESV, Hebrews 2:17 NLT, Hebrews 2:17 hlybblsmpshndtn, <br>Hebrews 10:12 NLT, Hebrews 10:12 ESV, Hebrews 10:12 KJV, Hebrews 10:12 hlybblsmpshndtn.]   
 2:18 For in that he himself hath suffered being tempted, he is able to succour them that are tempted.  
 
