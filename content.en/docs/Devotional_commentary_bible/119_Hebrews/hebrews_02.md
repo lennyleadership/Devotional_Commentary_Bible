@@ -37,8 +37,7 @@ toc: true
 2:8 Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him. <a class ="marginnote">verse 8: <b>in subjection under</b></a>  
 2:9 But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man. <a class ="marginnote">verse 9: "for every man" implies no predestination.</a>  
 2:10 For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make <a class = "red">the captain of their salvation</a> <a class = "red">perfect</a> through sufferings.  
-[Note: Hebrews 12:2 ESV, Hebrews 12:2 NKJV, Hebrews 12:2 NLT] <a class ="marginnote">verse 10:
-<ol>
+[Note: Hebrews 12:2 ESV, Hebrews 12:2 NKJV, Hebrews 12:2 NLT] <a class ="marginnote">verse 10:  
 <li>"The captain" and "the author" come from the same Greek word (the strong number G747). Joshua in Hebrew means savior.</li>
 <li>Perfect in the sense that Jesus had to be a sacrifice for saving us.</li></a>  
 
