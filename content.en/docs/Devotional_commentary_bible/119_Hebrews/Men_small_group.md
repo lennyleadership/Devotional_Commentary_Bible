@@ -22,14 +22,14 @@ Participates: Jay O'Connor, Shawn Hewitt, and Lenny Lin. Andrew Plew attended oc
 <div id="toc_container">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
-  <li><a href="#Header_1">2023-05-18</a></li>
-  <li><a href="#Header_2">2023-05-26</a></li>
-  <li><a href="#Header_3"></a></li>
-  <li><a href="#Header_4"></a></li>
+  <li><a href="#header_1">2023-05-18</a></li>
+  <li><a href="#header_2">2023-05-26</a></li>
+  <li><a href="#header_3">2023-06-01</a></li>
+  <li><a href="#header_4"></a></li>
 </ul>
 </div>
 
-<h1 id="Header_1"><span class = "overline">2023-05-18</span></h1>
+<h1 id="header_1"><span class = "overline">2023-05-18</span></h1>
 Here is the summary.  
 
 God revealed his salvation plan in the OT time.  
@@ -42,7 +42,14 @@ Moses can't be the sacrifice to the Israelite.
 
 Two books: The book of life and the lamb's book of life
 
-<h1 id="Header_2"><span class = "overline">2023-05-26</span></h1>
+<h1 id="header_2"><span class = "overline">2023-05-26</span></h1>
+
+Discussion #1: What does "in Christ" mean?
+Analogy: the ark, the shelter, the chicken wings.
+
+be righteous, be separated, 
+
+<h1 id="header_3"><span class = "overline">2023-06-01</span></h1>
 
 Point #1: The book of Hebrews to the New Testment is like the book of Deuteronomy to Torah.  Both of them restate what are important in belief foundation.
 
@@ -58,3 +65,4 @@ Hebrews 6:1-2 NLT
 (Hebrews 6:1-2 ESV)  
 1 Therefore let us leave the elementary doctrine of Christ and go on to maturity, not laying again a foundation of repentance from dead works and of faith toward God  
 2 and of instruction about washings, the laying on of hands, the resurrection of the dead, and eternal judgment.  
+
