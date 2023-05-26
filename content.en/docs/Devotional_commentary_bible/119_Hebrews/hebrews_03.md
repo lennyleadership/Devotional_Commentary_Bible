@@ -654,7 +654,7 @@ Events
 
 <div id="note2" class="tabcontent">
 
-# Moses did different things
+<h1>Moses did different things</h1>
 
 约翰福音 1:17
 律法本是藉着摩西传的；恩典和真理都是由耶稣基督来的。
@@ -867,7 +867,7 @@ Matthew 11:29 Jesus was meek and lowly in heart.
 
 <div id="note3" class="tabcontent">
 
-# 首先的亚当 和 末后的亚当
+<h1><span class ="overline">首先的亚当 和 末后的亚当</span></h1>
 
 林前15:45-49
 <br>经上也是这样记著说：「首先的人亚当成了有灵的活人」；末後的亚当成了叫人活的灵。
@@ -877,14 +877,14 @@ Matthew 11:29 Jesus was meek and lowly in heart.
 <br>我们既有属土的形状，将来也必有属天的形状。
 
 
-# 首先的摩西/约书亚 和 末后的摩西/约书亚
+<h1><span class ="overline">首先的摩西/约书亚 和 末后的摩西/约书亚</span></h1>
 
 ‪希伯来书‬3:2,5
 <br>2 他为那设立他的尽忠，如同摩西在　神的全家尽忠一样。……
 <br>5 摩西为仆人，在　神的全家诚然尽忠，为要证明将来必传说的事。
 
 
-# 灵磐石
+<h1><span class ="overline">灵磐石</span></h1>
 
 ‪哥林多前书‬10:1-4
 <br>1 弟兄们，我不愿意你们不晓得，我们的祖宗从前都在云下，都从海中经过， 

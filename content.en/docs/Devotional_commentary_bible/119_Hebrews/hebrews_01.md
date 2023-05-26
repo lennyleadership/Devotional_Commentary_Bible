@@ -14,7 +14,7 @@ toc: true
 
 
 <!--more-->
----
+
 
 <!-- Tab links -->
 <div class="tab">
@@ -42,6 +42,8 @@ toc: true
 <mark class = "lemon">1:12 And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.</mark>  
 1:13 But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?  
 1:14 Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?  
+
+---
 
 <p id="1"><ref>[1]</ref> verse 1 <br>Moses continued, “The Lord your God will raise up for you a prophet like me from among your fellow Israelites. You must listen to him. (Deuteronomy 18:15 ESV, Deuteronomy 18:15 NLT, Deuteronomy 18:15 KJV, Deuteronomy 18:15 hlybblsmpshndtn)<a href="#1_ref">&#8617;</a></p>
 
