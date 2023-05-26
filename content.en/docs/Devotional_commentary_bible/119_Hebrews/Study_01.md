@@ -205,9 +205,13 @@ Moses Title 摩西的称谓
     </tr>
     <tr>
       <td><p>
-      </p></td>
+14 But the sons of Moses <b>the man of God</b> were named among the tribe of Levi.  
+1 Chronicles 23:14 (ESV)
+</p></td>
       <td><p>
-      </p></td>
+14 Now concerning Moses <b>the man of God</b>, his sons were named of the tribe of Levi.  
+1 Chronicles 23:14 (KJV)
+</p></td>
       <td><p>
 他是神人
 <br>历代志上 23:14
