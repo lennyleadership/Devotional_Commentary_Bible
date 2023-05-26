@@ -34,7 +34,7 @@ h6 {
     text-transform: uppercase;
     font-weight: $header-font-weight;
     font-size: 1rem;
-    line-height: 1;
+    line-height: 2;
     margin-top: 1.5em;
     margin-bottom: $padding-16;
 
@@ -462,7 +462,7 @@ body[dir="rtl"] .book-menu {
   }
 
 
-/* table *****************************************/
+/* table *//////////////////////////////////////////////////////////////////////////////////////////
 table {
   width: 100%;  
   font-size: 80%;
@@ -507,7 +507,7 @@ tr:nth-child(even) {
   /*background-color: #f2f2f2;*/
 }
 
-/* end *****/
+/* end *********************************************************************************************
 
 
 
@@ -519,7 +519,7 @@ hr {
 
 
 
-//* paragraph bulletin indent *********************************************************************/
+/* paragraph bulletin indent */////////////////////////////////////////////////////////////////////
 
 ol,li {
     margin: 0;
@@ -548,8 +548,8 @@ ul {
 }  
 
 ul,li {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 ul,
@@ -557,19 +557,19 @@ ol {
     /*padding-inline-start: $padding-16 * 2;*/
   }
   
-//*end *********************************************************************************************
+/* end *********************************************************************************************
 
 
 
-  dl {
-    dt {
-      font-weight: bolder;
-      margin-top: $padding-16;
+dl {
+  dt {
+    font-weight: bolder;
+    margin-top: $padding-16;
     }
 
-    dd {
-      margin-inline-start: 0;
-      margin-bottom: $padding-16;
+  dd {
+    margin-inline-start: 0;
+    margin-bottom: $padding-16;
     }
   }
 
@@ -611,7 +611,7 @@ figure {
 
 
 
-/* image and text side-by-side */
+/* side-by-side *///////////////////////////////////////////////////////////////////////////////////
 * {
   box-sizing: border-box;
 }
@@ -634,15 +634,16 @@ figure {
   
 }
 
-/* Clearfix (clear floats) */
+/* Clearfix (clear floats)
 .row::after {
   content: "";
   clear: both;
   display: table;
 }
-/* end of side-by-side*/
+/* end *********************************************************************************************
 
 
+/* figure */////////////////////////////////////////////////////////////////////////////////////////
 figure {
   text-align: left;
   font-style: italic;
@@ -663,6 +664,10 @@ figcaption.bottom {
   caption-side: bottom;
 }
 
+/* end *********************************************************************************************
+
+
+
 ref {
   color: red;
   font-weight:bolder;
@@ -670,7 +675,7 @@ ref {
 }
 
 
-/* section: Tooltip */
+/* section: Tooltip *///////////////////////////////////////////////////////////////////////////////
 .hovertip {
   position: relative;
   border-bottom: 1px dotted black;
@@ -721,7 +726,7 @@ ref {
   opacity: 1;
   visibility: visible;
 }
-/* Section end*/
+/* end *********************************************************************************************
 
 
 
@@ -758,7 +763,7 @@ a:active {
 /* the end*/
 
 
-/* quoting with background */
+/* quoting with background *////////////////////////////////////////////////////////////////////////
 .quote {
   margin: 0;
   background: #eee;
@@ -769,7 +774,7 @@ a:active {
 .quote blockquote {
   margin: 1em;
 }
-/* the end */
+/* the end *****************************************************************************************
 
 
 .font_upper {
@@ -777,7 +782,7 @@ a:active {
   font-size: 1rem;
 }
 
-/* color options *************************************/
+/* color options *//////////////////////////////////////////////////////////////////////////////////
 .black {
   background-color: black;
   color: white;
@@ -808,9 +813,12 @@ a:active {
 .pink{
   background-color: #fbe4d5;
 }
-/* the end **************************************/
+/* end *********************************************************************************************
 
 
+
+
+/* *////////////////////////////////////////////////////////////////////////////////////////////////
 .left {
   text-align: left;
 }
@@ -828,19 +836,20 @@ a:active {
 u.red{
   border-bottom:1px solid red;
 }
-/* end ******/
+/* end *********************************************************************************************
 
 
-/*below is tab css*/
 
-/* Style the tab */
+/*tab */////////////////////////////////////////////////////////////////////////////////////////////
+
+// Style the tab
 .tab {
   overflow: hidden;
   /*border: 1px solid #ccc;*/
   /*background-color: #f1f1f1;*/
 }
 
-/* Style the buttons that are used to open the tab content */
+// Style the buttons that are used to open the tab content
 .tab button {
   background-color: #f1e4ff;
   float: left;
@@ -853,26 +862,26 @@ u.red{
   margin-left:0.3em;
 }
 
-/* Change background color of buttons on hover */
+// Change background color of buttons on hover
 .tab button:hover {
   background-color: #e4e5ff;
 }
 
-/* Create an active/current tablink class */
+// Create an active/current tablink class
 .tab button.active {
   background-color: #ffe4ff;
   color: #fff;
   background-color: #2b8cc4;
 }
 
-/* Style the tab content */
+// Style the tab content
 .tabcontent {
   display: none;
   padding: 6px 12px;
   /*border: 1px solid #ccc;*/
   border-top: none;
 }
-/*end*/
+/*end **********************************************************************************************
 
 
 
@@ -880,7 +889,7 @@ u.red{
 
 
 
-/*below is the tufte style */
+/*tufte style */////////////////////////////////////////////////////////////////////////////////////
 
 .sidenote,
 .marginnote {
@@ -964,9 +973,63 @@ label.margin-toggle:not(.sidenote-number) {
         cursor: pointer;
     }
  }
+
+/* end *********************************************************************************************
+
+
+
+// spaced overline *////////////////////////////////////////////////////////////////////////////////
+.overline {
+  padding-top: 25px;
+  border-top-style: solid;
+  border-top-width: 5px;
+  width: fit-content;
+  border-top-color: orange;
+  }
+  
+
+h1:before {
+  content:' ';
+  display:block;
+  padding-top: 25px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: lightgrey;
+}
+
+
+/* the end *****************************************************************************************
+
+
+
+
+// table of content *///////////////////////////////////////////////////////////////////////////////
+#toc_container {
+    background: #f9f9f9 none repeat scroll 0 0;
+    border: 1px solid #aaa;
+    display: table;
+    font-size: 95%;
+    margin-bottom: 1em;
+    padding: 20px;
+    width: auto;
+}
+
+.toc_title {
+    font-weight: 700;
+    text-align: center;
+}
+
+#toc_container li, #toc_container ul, #toc_container ul li{
+    list-style: outside none none !important;
+}
+
+/* the end *****************************************************************************************
+
+
+
+
  
- 
-// Extra space for big screens
+// Extra space for big screens *////////////////////////////////////////////////////////////////////
 @media screen and (min-width: $container-max-width) {
   .book-page,
   .book-menu .book-menu-content,

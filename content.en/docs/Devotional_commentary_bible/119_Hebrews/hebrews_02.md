@@ -20,8 +20,6 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  <button class="tablinks" onclick="tablabel(event, 'note1')">Preparation</button>
-  <button class="tablinks" onclick="tablabel(event, 'note2')">PAC Bible Study</button>
 </div>
 
 <!-- Tab content -->
@@ -97,8 +95,4 @@ toc: true
 
 The key word in this chapter is salvation.  
 Jesus, angles, and human being 
-</div>
-
-<div id="note2" class="tabcontent">
-
 </div>
