@@ -22,8 +22,8 @@ Jay, Sean, and me.
 <div id="toc_container">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
-  <li><a href="#Header_1"></a>2023-05-18</li>
-  <li><a href="#Header_2"></a></li>
+  <li><a href="#Header_1">2023-05-18</a></li>
+  <li><a href="#Header_2">2023-05-26</a></li>
   <li><a href="#Header_3"></a></li>
   <li><a href="#Header_4"></a></li>
 </ul>
@@ -32,4 +32,4 @@ Jay, Sean, and me.
 <h1 id="Header_1"><span class = "overline">2023-05-18</span></h1>
 
 
-<h1 id="Header_1"><span class = "overline"></span></h1>
+<h1 id="Header_2"><span class = "overline">2023-05-26</span></h1>
