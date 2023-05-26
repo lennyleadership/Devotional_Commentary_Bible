@@ -38,6 +38,10 @@ Jesus is perfect in the sense that:
 1) he suffered what we suffered, so that he understood pain in sin;  
 2) he was the high priest and the sacrifice.
 
+Moses can't be the sacrifice to the Israelite.  
+
+Two books: The book of life and the lamb's book of life
+
 <h1 id="Header_2"><span class = "overline">2023-05-26</span></h1>
 
 Point #1: The book of Hebrews to the New Testment is like the book of Deuteronomy to Torah.  Both of them restate what are important in belief foundation.

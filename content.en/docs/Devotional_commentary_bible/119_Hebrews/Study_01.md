@@ -41,8 +41,20 @@ Jesus, angles, and human being
 
 <h1><span class = "overline">Chapter 3</span></h1>
 
-<h2>Who is Moses from authors perspective?</h2>  
+<div id="toc_container">
+<p class="toc_title">Contents</p>
+<ul class="toc_list">
+  <li><a href="#header_1">Who is Moses from authors perspective?</a></li>
+  <li><a href="#header_2">Moses did different things</a></li>
+  <li><a href="#header_3">In what ways was Moses like Jesus?</a></li>
+  <li><a href="#header_4">Comparison</a></li>
+</ul>
+</div>
 
+
+
+
+<h2 id = "header_1">Who is Moses from authors perspective?</h2>  
 
 <table>
   <caption style="text-align:left", align = "top"><b>Bible verses on Moses</b></caption>
@@ -616,7 +628,7 @@ Events
 
 
 
-<h2>Moses did different things</h2>
+<h2 id = "header_2">Moses did different things</h2>
 
 约翰福音 1:17
 律法本是藉着摩西传的；恩典和真理都是由耶稣基督来的。
@@ -664,7 +676,10 @@ Events
 
 God used Moses to reveal His will in future
 
-<h2>In what ways was Moses like Jesus?</h2>
+
+
+
+<h2 id = "header_3">In what ways was Moses like Jesus?</h2>
 In one of Moses’ final speeches, he gave this messianic prophecy: “The Lord your God will raise up for you a prophet like me from among you, from your fellow Israelites. You must listen to him” (Deuteronomy 18:15). The prophet whom Moses foretells bears these qualities: He will be raised up by God, He will come from among the Israelites, He will be like Moses, and He will be worthy of being heard and obeyed. The prophet who fulfills these words is Jesus Christ, the prophet like Moses.
 
 On the banks of the Jordan River, the Jews questioned John the Baptist about who he was and why he was baptizing. Their question “Are you the Prophet?” (John 1:21) shows that they were looking for the fulfillment of Moses’ prophecy. John plainly informed them that he was not the Prophet but pointed them to the One who was: “Among you stands one you do not know. He is the one who comes after me, the straps of whose sandals I am not worthy to untie” (verses 26–27). John’s description of the Messiah as one “among you” recalls Moses’ prediction that God would raise up the Prophet “from among you” in Deuteronomy 18:15. The very next day, John specifically identifies Jesus as the One they were waiting for (John 1:29–31).
@@ -685,7 +700,7 @@ Not only was Moses an intercessor for God’s people but, like Jesus, <b>he was 
 
 <b>Reference</b>: <a href = "https://www.gotquestions.org/Moses-and-Jesus.html" target="_blank" rel="noopener noreferrer">Got Questions | In what ways was Moses like Jesus?</a>
 
-<h2>Comparison</h2>
+<h2 id = "header_4">Comparison</h2>
 Could we see Jesus in Moses?
 
 performed miracles
