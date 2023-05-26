@@ -40,9 +40,12 @@ Jesus, angles, and human being
 
 <div id="chinese" class="tabcontent">
 
+<h1><span class = "overline">第一章</span></h1>
+
 Date: 2023-03-17  
 
-立根基。‪希伯来书‬6:1-2 和合本
+希伯来书重申了信仰的根基。  
+‪希伯来书‬6:1-2 和合本
 <br>1 所以，我们应当离开基督道理的开端，竭力进到完全的地步，不必再<u class = "red">立根基</u>，就如那懊悔死行、信靠　神、 <br>2 各样洗礼、按手之礼、死人复活，以及永远审判各等教训。  
 
 起誓。‪希伯来书‬6:16 和合本

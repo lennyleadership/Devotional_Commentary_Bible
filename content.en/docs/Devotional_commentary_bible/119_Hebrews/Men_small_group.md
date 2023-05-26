@@ -14,7 +14,7 @@ toc: true
 
 Records on studying the book of Hebrews in year 2023, beginning April.
 
-Participates: Jay O'Connor, Sean Hewitt, and Lenny Lin, Andrew Plew occasionally.
+Participates: Jay O'Connor, Shawn Hewitt, and Lenny Lin. Andrew Plew attended occasionally.
 
 <!--more-->
 ---
@@ -39,3 +39,18 @@ Jesus is perfect in the sense that:
 2) he was the high priest and the sacrifice.
 
 <h1 id="Header_2"><span class = "overline">2023-05-26</span></h1>
+
+The book of Hebrews to the New Testment is like the book of Deuteronomy to Torah.  Both of them restate what are important in belief foundation.
+
+Hebrews 5:11-14 NLT  
+(Hebrews 5:11-14 ESV)
+11 About this we have much to say, and it is hard to explain, since you have become dull of hearing.   
+12 For though by this time you ought to be teachers, you need someone to teach you again the basic principles of the oracles of God. You need milk, not solid food,   
+13 for everyone who lives on milk is unskilled in the word of righteousness, since he is a child.   
+14 But solid food is for the mature, for those who have their powers of discernment trained by constant practice to distinguish good from evil.
+
+
+Hebrews 6:1-2 NLT    
+Hebrews 6:1-2 ESV
+1 Therefore let us leave the elementary doctrine of Christ and go on to maturity, not laying again a foundation of repentance from dead works and of faith toward God  
+2 and of instruction about washings, the laying on of hands, the resurrection of the dead, and eternal judgment.  
