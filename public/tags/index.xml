@@ -1,62 +1,1232 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Book</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Hugo Book</description>
+    <title>Tags on Devotional Commentary Bible</title>
+    <link>https://devotional-commentary-bible.netlify.app/tags/</link>
+    <description>Recent content in Tags on Devotional Commentary Bible</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://devotional-commentary-bible.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>development</title>
-      <link>https://example.com/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Jesus is the rock</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Jesus-is-the-rock/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/development/</guid>
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Jesus-is-the-rock/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>go</title>
-      <link>https://example.com/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Moses struck the rock</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Moses-struck-the-rock/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/go/</guid>
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Moses-struck-the-rock/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://example.com/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Angry</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Angry/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/golang/</guid>
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Angry/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://example.com/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>holy Spirit</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/holy-Spirit/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/hugo/</guid>
+      <guid>https://devotional-commentary-bible.netlify.app/tags/holy-Spirit/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>templates</title>
-      <link>https://example.com/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>The baptism of the holy Spirit</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/The-baptism-of-the-holy-Spirit/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/templates/</guid>
+      <guid>https://devotional-commentary-bible.netlify.app/tags/The-baptism-of-the-holy-Spirit/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>https://example.com/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Servant - Under Rower</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Servant-Under-Rower/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/themes/</guid>
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Servant-Under-Rower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Be submissive to Authority</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Be-submissive-to-Authority/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Be-submissive-to-Authority/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martyn Lloyd-Jones 钟马田</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Martyn-Lloyd-Jones-%E9%92%9F%E9%A9%AC%E7%94%B0/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Martyn-Lloyd-Jones-%E9%92%9F%E9%A9%AC%E7%94%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverence Fear</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Reverence-Fear/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Reverence-Fear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angels-messengers</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Angels-messengers/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Angels-messengers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesus is the High Priest and the Sacrifice</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Jesus-is-the-High-Priest-and-the-Sacrifice/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Jesus-is-the-High-Priest-and-the-Sacrifice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesus titles</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Jesus-titles/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Jesus-titles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perfect</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Perfect/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Perfect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predestination</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Predestination/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Predestination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Righteous</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/The-Righteous/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/The-Righteous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mourning</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Mourning/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Mourning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brother WW Thoughts</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Brother-WW-Thoughts/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Brother-WW-Thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brother LL Thoughts</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Brother-LL-Thoughts/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Brother-LL-Thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>合神心意</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%90%88%E7%A5%9E%E5%BF%83%E6%84%8F/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%90%88%E7%A5%9E%E5%BF%83%E6%84%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>江守道</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%B1%9F%E5%AE%88%E9%81%93/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%B1%9F%E5%AE%88%E9%81%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>活泉小简</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%B4%BB%E6%B3%89%E5%B0%8F%E7%AE%80/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%B4%BB%E6%B3%89%E5%B0%8F%E7%AE%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>长老</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E9%95%BF%E8%80%81/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E9%95%BF%E8%80%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Utmost</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/My-Utmost/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/My-Utmost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tab demo</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Tab-demo/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Tab-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tooltip demo</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Tooltip-demo/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Tooltip-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joy with the Lord</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Joy-with-the-Lord/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Joy-with-the-Lord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promise</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Promise/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Promise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Why/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Why/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>得财富</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%BE%97%E8%B4%A2%E5%AF%8C/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%BE%97%E8%B4%A2%E5%AF%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Words</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/New-Words/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/New-Words/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depression</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Depression/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bibleref</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/bibleref/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/bibleref/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ezraLinkifier</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/ezraLinkifier/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/ezraLinkifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Footnote Demo</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Footnote-Demo/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Footnote-Demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incoming redemption</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Incoming-redemption/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Incoming-redemption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margine note demo</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Margine-note-demo/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Margine-note-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>于宏杰讲道</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E4%BA%8E%E5%AE%8F%E6%9D%B0%E8%AE%B2%E9%81%93/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E4%BA%8E%E5%AE%8F%E6%9D%B0%E8%AE%B2%E9%81%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>刘志雄讲道</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%88%98%E5%BF%97%E9%9B%84%E8%AE%B2%E9%81%93/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%88%98%E5%BF%97%E9%9B%84%E8%AE%B2%E9%81%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>唐崇荣</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%94%90%E5%B4%87%E8%8D%A3/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%94%90%E5%B4%87%E8%8D%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>圣洁</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%9C%A3%E6%B4%81/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%9C%A3%E6%B4%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>奥秘</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%A5%A5%E7%A7%98/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%A5%A5%E7%A7%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教会</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%95%99%E4%BC%9A/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%95%99%E4%BC%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>旷野吗哪</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%97%B7%E9%87%8E%E5%90%97%E5%93%AA/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%97%B7%E9%87%8E%E5%90%97%E5%93%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>神的旨意</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E7%A5%9E%E7%9A%84%E6%97%A8%E6%84%8F/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E7%A5%9E%E7%9A%84%E6%97%A8%E6%84%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>虚空</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E8%99%9A%E7%A9%BA/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E8%99%9A%E7%A9%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chinese bible ref</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/chinese-bible-ref/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/chinese-bible-ref/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>主与我们同负一轭</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E4%B8%BB%E4%B8%8E%E6%88%91%E4%BB%AC%E5%90%8C%E8%B4%9F%E4%B8%80%E8%BD%AD/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E4%B8%BB%E4%B8%8E%E6%88%91%E4%BB%AC%E5%90%8C%E8%B4%9F%E4%B8%80%E8%BD%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>人的尽头是神的开头</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E4%BA%BA%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E7%A5%9E%E7%9A%84%E5%BC%80%E5%A4%B4/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E4%BA%BA%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E7%A5%9E%E7%9A%84%E5%BC%80%E5%A4%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>对今日教会的提醒</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%AF%B9%E4%BB%8A%E6%97%A5%E6%95%99%E4%BC%9A%E7%9A%84%E6%8F%90%E9%86%92/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%AF%B9%E4%BB%8A%E6%97%A5%E6%95%99%E4%BC%9A%E7%9A%84%E6%8F%90%E9%86%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>时政</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%97%B6%E6%94%BF/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%97%B6%E6%94%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>等候神</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E7%AD%89%E5%80%99%E7%A5%9E/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E7%AD%89%E5%80%99%E7%A5%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>背起自己的十字架</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E8%83%8C%E8%B5%B7%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%81%E5%AD%97%E6%9E%B6/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E8%83%8C%E8%B5%B7%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%81%E5%AD%97%E6%9E%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>认识上帝</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E8%AE%A4%E8%AF%86%E4%B8%8A%E5%B8%9D/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E8%AE%A4%E8%AF%86%E4%B8%8A%E5%B8%9D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安慰</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%AE%89%E6%85%B0/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%AE%89%E6%85%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>管教</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E7%AE%A1%E6%95%99/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E7%AE%A1%E6%95%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hovertip</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/hovertip/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/hovertip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>以东</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E4%BB%A5%E4%B8%9C/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E4%BB%A5%E4%B8%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>以利法</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E4%BB%A5%E5%88%A9%E6%B3%95/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E4%BB%A5%E5%88%A9%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>恢复</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%81%A2%E5%A4%8D/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%81%A2%E5%A4%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>提幔</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%8F%90%E5%B9%94/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%8F%90%E5%B9%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>恩典与审判</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%81%A9%E5%85%B8%E4%B8%8E%E5%AE%A1%E5%88%A4/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%81%A9%E5%85%B8%E4%B8%8E%E5%AE%A1%E5%88%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>将心意指示人</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%B0%86%E5%BF%83%E6%84%8F%E6%8C%87%E7%A4%BA%E4%BA%BA/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%B0%86%E5%BF%83%E6%84%8F%E6%8C%87%E7%A4%BA%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>万国都在神的管理之下</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E4%B8%87%E5%9B%BD%E9%83%BD%E5%9C%A8%E7%A5%9E%E7%9A%84%E7%AE%A1%E7%90%86%E4%B9%8B%E4%B8%8B/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E4%B8%87%E5%9B%BD%E9%83%BD%E5%9C%A8%E7%A5%9E%E7%9A%84%E7%AE%A1%E7%90%86%E4%B9%8B%E4%B8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>主造蝗虫</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E4%B8%BB%E9%80%A0%E8%9D%97%E8%99%AB/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E4%B8%BB%E9%80%A0%E8%9D%97%E8%99%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>审判</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%AE%A1%E5%88%A4/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%AE%A1%E5%88%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>救恩的计划</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%95%91%E6%81%A9%E7%9A%84%E8%AE%A1%E5%88%92/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%95%91%E6%81%A9%E7%9A%84%E8%AE%A1%E5%88%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>耶和华后悔</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E8%80%B6%E5%92%8C%E5%8D%8E%E5%90%8E%E6%82%94/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E8%80%B6%E5%92%8C%E5%8D%8E%E5%90%8E%E6%82%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>谐音</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E8%B0%90%E9%9F%B3/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E8%B0%90%E9%9F%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>阴间</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E9%98%B4%E9%97%B4/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E9%98%B4%E9%97%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brother DW Thoughts</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Brother-DW-Thoughts/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Brother-DW-Thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brother KY Thoughts</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Brother-KY-Thoughts/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Brother-KY-Thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charles H. Spurgeon</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Charles-H.-Spurgeon/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Charles-H.-Spurgeon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darby</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Darby/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Darby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faith&#39;s Cheque Book</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Faiths-Cheque-Book/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Faiths-Cheque-Book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gospel</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Gospel/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Gospel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hegel</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Hegel/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Hegel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LibertyBC</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/LibertyBC/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/LibertyBC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prayer</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Prayer/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Prayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>salvation of soul</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/salvation-of-soul/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/salvation-of-soul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sara&#39;s Note</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Saras-Note/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Saras-Note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sister GB Thoughts</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Sister-GB-Thoughts/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Sister-GB-Thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spurgeon</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/Spurgeon/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/Spurgeon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一次得救永远得救</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E4%B8%80%E6%AC%A1%E5%BE%97%E6%95%91%E6%B0%B8%E8%BF%9C%E5%BE%97%E6%95%91/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E4%B8%80%E6%AC%A1%E5%BE%97%E6%95%91%E6%B0%B8%E8%BF%9C%E5%BE%97%E6%95%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>上帝的保护</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E4%B8%8A%E5%B8%9D%E7%9A%84%E4%BF%9D%E6%8A%A4/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E4%B8%8A%E5%B8%9D%E7%9A%84%E4%BF%9D%E6%8A%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>以色列复国</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%8D%E5%9B%BD/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%8D%E5%9B%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>信心</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E4%BF%A1%E5%BF%83/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E4%BF%A1%E5%BF%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>先求神的国</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%85%88%E6%B1%82%E7%A5%9E%E7%9A%84%E5%9B%BD/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%85%88%E6%B1%82%E7%A5%9E%E7%9A%84%E5%9B%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>内心世界</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%86%85%E5%BF%83%E4%B8%96%E7%95%8C/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%86%85%E5%BF%83%E4%B8%96%E7%95%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>分别为圣</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%88%86%E5%88%AB%E4%B8%BA%E5%9C%A3/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%88%86%E5%88%AB%E4%B8%BA%E5%9C%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>医治</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%8C%BB%E6%B2%BB/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%8C%BB%E6%B2%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>千年国度</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%8D%83%E5%B9%B4%E5%9B%BD%E5%BA%A6/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%8D%83%E5%B9%B4%E5%9B%BD%E5%BA%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>叶公好龙</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%8F%B6%E5%85%AC%E5%A5%BD%E9%BE%99/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%8F%B6%E5%85%AC%E5%A5%BD%E9%BE%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>司布真</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%8F%B8%E5%B8%83%E7%9C%9F/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%8F%B8%E5%B8%83%E7%9C%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>圣灵</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%9C%A3%E7%81%B5/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%9C%A3%E7%81%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>在神凡事都能</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%9C%A8%E7%A5%9E%E5%87%A1%E4%BA%8B%E9%83%BD%E8%83%BD/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%9C%A8%E7%A5%9E%E5%87%A1%E4%BA%8B%E9%83%BD%E8%83%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>坎伯摩根</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%9D%8E%E4%BC%AF%E6%91%A9%E6%A0%B9/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%9D%8E%E4%BC%AF%E6%91%A9%E6%A0%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>复兴</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%A4%8D%E5%85%B4/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%A4%8D%E5%85%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>娱乐化的敬拜</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%A8%B1%E4%B9%90%E5%8C%96%E7%9A%84%E6%95%AC%E6%8B%9C/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%A8%B1%E4%B9%90%E5%8C%96%E7%9A%84%E6%95%AC%E6%8B%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安息</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%AE%89%E6%81%AF/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%AE%89%E6%81%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安静</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%AE%89%E9%9D%99/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%AE%89%E9%9D%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>家谱</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%AE%B6%E8%B0%B1/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%AE%B6%E8%B0%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>宾路易师母</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%AE%BE%E8%B7%AF%E6%98%93%E5%B8%88%E6%AF%8D/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%AE%BE%E8%B7%AF%E6%98%93%E5%B8%88%E6%AF%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>寻求</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%AF%BB%E6%B1%82/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%AF%BB%E6%B1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>属灵争战</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%B1%9E%E7%81%B5%E4%BA%89%E6%88%98/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%B1%9E%E7%81%B5%E4%BA%89%E6%88%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>属灵的法则</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%B1%9E%E7%81%B5%E7%9A%84%E6%B3%95%E5%88%99/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%B1%9E%E7%81%B5%E7%9A%84%E6%B3%95%E5%88%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>建圣殿</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%BB%BA%E5%9C%A3%E6%AE%BF/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%BB%BA%E5%9C%A3%E6%AE%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>律法</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%BE%8B%E6%B3%95/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%BE%8B%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>得救</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%BE%97%E6%95%91/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%BE%97%E6%95%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>心里早已决定要去埃及</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E5%BF%83%E9%87%8C%E6%97%A9%E5%B7%B2%E5%86%B3%E5%AE%9A%E8%A6%81%E5%8E%BB%E5%9F%83%E5%8F%8A/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E5%BF%83%E9%87%8C%E6%97%A9%E5%B7%B2%E5%86%B3%E5%AE%9A%E8%A6%81%E5%8E%BB%E5%9F%83%E5%8F%8A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>悔改</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%82%94%E6%94%B9/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%82%94%E6%94%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>战兢</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%88%98%E5%85%A2/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%88%98%E5%85%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>把福音传回耶路撒冷</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%8A%8A%E7%A6%8F%E9%9F%B3%E4%BC%A0%E5%9B%9E%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%8A%8A%E7%A6%8F%E9%9F%B3%E4%BC%A0%E5%9B%9E%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>拣选</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%8B%A3%E9%80%89/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%8B%A3%E9%80%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>推罗</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%8E%A8%E7%BD%97/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%8E%A8%E7%BD%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>摩西出来</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%91%A9%E8%A5%BF%E5%87%BA%E6%9D%A5/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%91%A9%E8%A5%BF%E5%87%BA%E6%9D%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>救恩</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%95%91%E6%81%A9/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%95%91%E6%81%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日记</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%97%A5%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>清晨甘露</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E6%B8%85%E6%99%A8%E7%94%98%E9%9C%B2/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E6%B8%85%E6%99%A8%E7%94%98%E9%9C%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>灵魂</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E7%81%B5%E9%AD%82/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E7%81%B5%E9%AD%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>神的性情</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E7%A5%9E%E7%9A%84%E6%80%A7%E6%83%85/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E7%A5%9E%E7%9A%84%E6%80%A7%E6%83%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>神的爱</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E7%A5%9E%E7%9A%84%E7%88%B1/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E7%A5%9E%E7%9A%84%E7%88%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>神的管教</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E7%A5%9E%E7%9A%84%E7%AE%A1%E6%95%99/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E7%A5%9E%E7%9A%84%E7%AE%A1%E6%95%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>祷告</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E7%A5%B7%E5%91%8A/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E7%A5%B7%E5%91%8A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>祷告带来的力量</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E7%A5%B7%E5%91%8A%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%8A%9B%E9%87%8F/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E7%A5%B7%E5%91%8A%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%8A%9B%E9%87%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>竭力</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E7%AB%AD%E5%8A%9B/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E7%AB%AD%E5%8A%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>竭诚为主</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E7%AB%AD%E8%AF%9A%E4%B8%BA%E4%B8%BB/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E7%AB%AD%E8%AF%9A%E4%B8%BA%E4%B8%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>等候</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E7%AD%89%E5%80%99/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E7%AD%89%E5%80%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>耶稣</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E8%80%B6%E7%A8%A3/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E8%80%B6%E7%A8%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>耶稣被出卖</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E8%80%B6%E7%A8%A3%E8%A2%AB%E5%87%BA%E5%8D%96/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E8%80%B6%E7%A8%A3%E8%A2%AB%E5%87%BA%E5%8D%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>职场</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E8%81%8C%E5%9C%BA/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E8%81%8C%E5%9C%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>荣耀神</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E8%8D%A3%E8%80%80%E7%A5%9E/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E8%8D%A3%E8%80%80%E7%A5%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>赞美</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E8%B5%9E%E7%BE%8E/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E8%B5%9E%E7%BE%8E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>进天国</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E8%BF%9B%E5%A4%A9%E5%9B%BD/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E8%BF%9B%E5%A4%A9%E5%9B%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>骄傲</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E9%AA%84%E5%82%B2/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E9%AA%84%E5%82%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>魂的救恩</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E9%AD%82%E7%9A%84%E6%95%91%E6%81%A9/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E9%AD%82%E7%9A%84%E6%95%91%E6%81%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>黑格尔</title>
+      <link>https://devotional-commentary-bible.netlify.app/tags/%E9%BB%91%E6%A0%BC%E5%B0%94/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devotional-commentary-bible.netlify.app/tags/%E9%BB%91%E6%A0%BC%E5%B0%94/</guid>
       <description></description>
     </item>
     
