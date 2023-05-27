@@ -15,7 +15,6 @@ toc: true
 
 <!--more-->
 
-
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
@@ -55,17 +54,6 @@ Jesus, angles, and human being
 
 
 <h2 id = "header_1">Who is Moses from authors perspective?</h2>  
-
-<p>A Collapsible:</p>
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
-
-
-
-
 
 <table>
   <caption style="text-align:left", align = "top"><b>Bible verses on Moses</b></caption>

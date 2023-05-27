@@ -44,12 +44,13 @@ Two books: The book of life and the lamb's book of life
 
 <h1 id="header_2"><span class = "overline">2023-05-26</span></h1>
 
+
+
+<h1 id="header_3"><span class = "overline">2023-06-01</span></h1>
 Discussion #1: What does "in Christ" mean?
 Analogy: the ark, the shelter, the chicken wings.
 
 be righteous, be separated, 
-
-<h1 id="header_3"><span class = "overline">2023-06-01</span></h1>
 
 Point #1: The book of Hebrews to the New Testment is like the book of Deuteronomy to Torah.  Both of them restate what are important in belief foundation.
 
