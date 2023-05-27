@@ -1101,7 +1101,7 @@ h1:before {
 
 .accordion > input[type="checkbox"]:checked ~ .content {
   height: auto;
-  overflow: hidden;/*visible;*/
+  overflow: visible;
 }
 
 .accordion label {
