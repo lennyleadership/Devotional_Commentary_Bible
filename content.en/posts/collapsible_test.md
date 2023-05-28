@@ -20,7 +20,7 @@ menu = "main"
 
 
 <h1><span class = "overline">Option #2</span></h1>
-<div class="accordion">
+<section class="accordion">
   <input type="checkbox" name="collapse" id="handle1" checked="checked">
   <h2 class="handle">
     <label for="handle1">26A. Trappist Single</label>
@@ -28,7 +28,7 @@ menu = "main"
   <div class="content">
     <p><strong>Overall Impression:</strong> A pale, bitter, highly attenuated and well carbonated Trappist ale, showing a fruity-spicy Trappist yeast character, a spicy-floral hop profile, and a soft, supportive grainy-sweet malt palate.</p>
   </div>
-</div>
+</section>
 
 <a href = "https://codepen.io/markcaron/pen/RVvmaz" target="_blank" rel="noopener noreferrer">[Source]</a>
 
