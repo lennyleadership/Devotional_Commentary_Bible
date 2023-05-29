@@ -483,17 +483,15 @@ for (i=0; i<accordion.length; i++) {
 </ul>
 
 <style>
-  
-
 .transition, ul li i:before, ul li i:after, p {
   transition: all 0.25s ease-in-out;
 }
 
-.flipIn, ul li, h1 {
+.flipIn, ul li {
   animation: flipdown 0.5s ease both;
 }
 
-.no-select, h2 {
+.no-select {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-touch-callout: none;
   -webkit-user-select: none;
