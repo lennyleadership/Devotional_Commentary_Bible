@@ -1073,7 +1073,7 @@ h1:before {
   margin-left: 5px;
 }
 
-.active:after {
+.collapsible.active:after {
   content: "\2716"; /* Unicode character for "Heavy multiplication X" sign (X) */
   font-size: 13px;
   color: white;

@@ -21,152 +21,338 @@ menu = "main"
 
 <h1><span class = "overline">Option #2</span></h1>
 
-<h1>BJCP Style 26. Trappist Ale</h1>
-<section class="accordion">
-  <input type="checkbox" name="collapse" id="handle1" checked="checked">
-  <h2 class="handle">
-    <label for="handle1">26A. Trappist Single</label>
-  </h2>
-  <div class="content">
-    <p><strong>Overall Impression:</strong> A pale, bitter, highly attenuated and well carbonated Trappist ale, showing a fruity-spicy Trappist yeast character, a spicy-floral hop profile, and a soft, supportive grainy-sweet malt palate.</p>
-    <p><strong>History:</strong> While Trappist breweries have a tradition of brewing a lower-strength beer as a monk’s daily ration, the bitter, pale beer this style describes is a relatively modern invention reflecting current tastes. Westvleteren first brewed theirs in 1999, but replaced older lower-gravity products.</p>
-  </div>
-</section>
-<section class="accordion">
-  <input type="checkbox" name="collapse2" id="handle2">
-  <h2 class="handle">
-    <label for="handle2">26B. Belgian Dubbel</label>
-  </h2>
-  <div class="content">
-    <p><strong>Overall Impression:</strong> A deep reddish-copper, moderately strong, malty, complex Trappist ale with rich malty flavors, dark or dried fruit esters, and light alcohol blended together in a malty presentation that still finishes fairly dry.</p>
-    <p><strong>History:</strong> Originated at monasteries in the Middle Ages, and was revived in the mid-1800s after the Napoleonic era.</p>
-  </div>
-</section>
-<section class="accordion">
-  <input type="checkbox" name="collapse2" id="handle3">
-  <h2 class="handle">
-    <label for="handle3">26C. Belgian Tripel</label>
-  </h2>
-  <div class="content">
-    <p><strong>Overall Impression:</strong> A pale, somewhat spicy, dry, strong Trappist ale with a pleasant rounded malt flavor and firm bitterness. Quite aromatic, with spicy, fruity, and light alcohol notes combining with the supportive clean malt character to produce a surprisingly drinkable beverage considering the high alcohol level.</p>
-    <p><strong>History:</strong> Originally popularized by the Trappist monastery at Westmalle.</p>
-  </div>
-</section>
-
-<p><small>Source: <cite><a href="https://www.bjcp.org/stylecenter.php">BJCP Style Guidelines</a></cite></small></p>
-
-<a href = "https://codepen.io/markcaron/pen/RVvmaz" target="_blank" rel="noopener noreferrer">[Source]</a>
-
+<div class="container">
+          <h1>Simple Flat UI CSS Accordion</h1>
+          <div class="accordion">
+            <dl>
+              <dt><a class="accordionTitle" href="#">Test Simple Flat UI CSS Accordion 1</a></dt>
+              <dd class="accordionItem accordionItemCollapsed">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu interdum diam. Donec interdum porttitor risus non bibendum. Maecenas sollicitudin eros in quam imperdiet placerat. Cras justo purus, rhoncus nec lobortis ut, iaculis vel ipsum. Donec dignissim arcu nec elit faucibus condimentum. Donec facilisis consectetur enim sit amet varius. Pellentesque justo dui, sodales quis luctus a, iaculis eget mauris. </p>
+              </dd>
+              <dt><a href="#" class="accordionTitle">Test Simple Flat UI CSS Accordion 2</a></dt>
+              <dd class="accordionItem accordionItemCollapsed">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu interdum diam. Donec interdum porttitor risus non bibendum. Maecenas sollicitudin eros in quam imperdiet placerat. Cras justo purus, rhoncus nec lobortis ut, iaculis vel ipsum. Donec dignissim arcu nec elit faucibus condimentum. Donec facilisis consectetur enim sit amet varius. Pellentesque justo dui, sodales quis luctus a, iaculis eget mauris. </p>
+              </dd>
+              <dt><a href="#" class="accordionTitle">Test Simple Flat UI CSS Accordion 3</a></dt>
+              <dd class="accordionItem accordionItemCollapsed">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu interdum diam. Donec interdum porttitor risus non bibendum. Maecenas sollicitudin eros in quam imperdiet placerat. Cras justo purus, rhoncus nec lobortis ut, iaculis vel ipsum. Donec dignissim arcu nec elit faucibus condimentum. Donec facilisis consectetur enim sit amet varius. Pellentesque justo dui, sodales quis luctus a, iaculis eget mauris. </p>
+              </dd>
+            </dl>
+          </div>
+</div>
 
 <style>
-.accordion > input[type="checkbox"] {
-  position: absolute;
-  left: -100vw;
-}
 
-.accordion .content {
-  overflow-y: hidden;
-  height: 0;
-  transition: height 0.3s ease;
-}
-
-.accordion > input[type="checkbox"]:checked ~ .content {
-  height: auto;
-  overflow: visible;
-}
-
-.accordion label {
-  display: block;
-}
-
-/*
- Styling
-*/
-body {
-  font: 16px/1.5em "Overpass", "Open Sans", Helvetica, sans-serif;
-  color: #333;
-  font-weight: 300;
-}
-
-.accordion {
-  margin-bottom: 1em;
-}
-
-.accordion > input[type="checkbox"]:checked ~ .content {
-  padding: 15px;
-  border: 1px solid #e8e8e8;
-  border-top: 0;
-}
-
-.accordion .handle {
-  margin: 0;
-  font-size: 1.125em;
-  line-height: 1.2em;
-}
-
-.accordion label {
-  color: #333;
-  cursor: pointer;
-  font-weight: normal;
-  padding: 15px;
-  background: #e8e8e8;
-}
-
-.accordion label:hover,
-.accordion label:focus {
-  background: #d8d8d8;
-}
-
-.accordion .handle label:before {
-  font-family: 'fontawesome';
-  content: "\f054";
-  display: inline-block;
-  margin-right: 10px;
-  font-size: .58em;
-  line-height: 1.556em;
-  vertical-align: middle;
-}
-
-.accordion > input[type="checkbox"]:checked ~ .handle label:before {
-  content: "\f078";
-}
-
-
-/*
- Demo purposes only
-*/
-*,
-*:before,
-*:after {
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
 
 body {
-  padding: 40px;
+  font-family: 'Lato';
 }
 
-a {
-  color: #06c;
+
+.accordion dl {
 }
 
-p {
-  margin: 0 0 1em;
+.accordion dt > a {
+  text-align: center;
+  font-weight: 700;
+  padding: 2em;
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  -webkit-transition: background-color 0.5s ease-in-out;
 }
-
-h1 {
-  margin: 0 0 1.5em;
-  font-weight: 600;
-  font-size: 1.5em;
+.accordion dd {
+  background-color: #1abc9c;
+  color:#fafafa;
+  font-size: 1em;
+  line-height: 1.5em;
+}
+.accordion dd > p {
+  padding: 1em 2em 1em 2em;
 }
 
 .accordion {
-  max-width: 65em;
+  position: relative;
+  background-color: #16a085;
 }
 
-.accordion p:last-child {
-  margin-bottom: 0;
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2em 0 2em 0;
 }
+
+.accordionTitle {
+  background-color: #22313F;
+  border-bottom: 1px solid #2c3e50;
+}
+.accordionTitle:before {
+  content: "+";
+  font-size: 1.5em;
+  line-height: 0.5em;
+  float: left;
+  -moz-transition: -moz-transform 0.3s ease-in-out;
+  -o-transition: -o-transform 0.3s ease-in-out;
+  -webkit-transition: -webkit-transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
+}
+.accordionTitle:hover {
+  background-color: #2c3e50;
+}
+
+.accordionTitleActive {
+  background-color:#34495e;
+}
+.accordionTitleActive:before {
+  -webkit-transform: rotate(-225deg);
+  -moz-transform: rotate(-225deg);
+  transform: rotate(-225deg);
+}
+
+.accordionItem {
+  height: auto;
+  overflow: hidden;
+}
+@media all {
+  .accordionItem {
+    max-height: 50em;
+    -moz-transition: max-height 1s;
+    -o-transition: max-height 1s;
+    -webkit-transition: max-height 1s;
+    transition: max-height 1s;
+  }
+}
+@media screen and (min-width: 48em) {
+  .accordionItem {
+    max-height: 15em;
+    -moz-transition: max-height 0.5s;
+    -o-transition: max-height 0.5s;
+    -webkit-transition: max-height 0.5s;
+    transition: max-height 0.5s;
+  }
+}
+
+.accordionItemCollapsed {
+  max-height: 0;
+}
+
+.animateIn {
+  -webkit-animation-name: accordionIn;
+  -webkit-animation-duration: 0.65s;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-direction: normal;
+  -webkit-animation-timing-function: ease-in-out;
+  -webkit-animation-fill-mode: both;
+  -webkit-animation-delay: 0s;
+  -moz-animation-name: normal;
+  -moz-animation-duration: 0.65s;
+  -moz-animation-iteration-count: 1;
+  -moz-animation-direction: alternate;
+  -moz-animation-timing-function: ease-in-out;
+  -moz-animation-fill-mode: both;
+  -moz-animation-delay: 0s;
+  animation-name: accordionIn;
+  animation-duration: 0.65s;
+  animation-iteration-count: 1;
+  animation-direction: normal;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: both;
+  animation-delay: 0s;
+}
+
+.animateOut {
+  -webkit-animation-name: accordionOut;
+  -webkit-animation-duration: 0.75s;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-direction: alternate;
+  -webkit-animation-timing-function: ease-in-out;
+  -webkit-animation-fill-mode: both;
+  -webkit-animation-delay: 0s;
+  -moz-animation-name: accordionOut;
+  -moz-animation-duration: 0.75s;
+  -moz-animation-iteration-count: 1;
+  -moz-animation-direction: alternate;
+  -moz-animation-timing-function: ease-in-out;
+  -moz-animation-fill-mode: both;
+  -moz-animation-delay: 0s;
+  animation-name: accordionOut;
+  animation-duration: 0.75s;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: both;
+  animation-delay: 0s;
+}
+
+@-webkit-keyframes accordionIn {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.8);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+  }
+}
+@-moz-keyframes accordionIn {
+  0% {
+    opacity: 0;
+    -moz-transform: scale(0.8);
+  }
+  100% {
+    opacity: 1;
+    -moz-transform: scale(1);
+  }
+}
+@keyframes accordionIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+@-webkit-keyframes accordionOut {
+  0% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: scale(0.8);
+  }
+}
+@-moz-keyframes accordionOut {
+  0% {
+    opacity: 1;
+    -moz-transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    -moz-transform: scale(0.8);
+  }
+}
+@keyframes accordionOut {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+}
+
 </style>
+
+<script>
+/*!
+ * classie - class helper functions
+ * from bonzo https://github.com/ded/bonzo
+/*!
+ * classie - class helper functions
+ * from bonzo https://github.com/ded/bonzo
+ * 
+ * classie.has( elem, 'my-class' ) -> true/false
+ * classie.add( elem, 'my-new-class' )
+ * classie.remove( elem, 'my-unwanted-class' )
+ * classie.toggle( elem, 'my-class' )
+ */
+
+/*jshint browser: true, strict: true, undef: true */
+/*global define: false */
+( function( window ) {
+'use strict';
+function classReg( className ) {
+  return new RegExp("(^|\\s+)" + className + "(\\s+|$)");
+}
+var hasClass, addClass, removeClass;
+
+if ( 'classList' in document.documentElement ) {
+  hasClass = function( elem, c ) {
+    return elem.classList.contains( c );
+  };
+  addClass = function( elem, c ) {
+    elem.classList.add( c );
+  };
+  removeClass = function( elem, c ) {
+    elem.classList.remove( c );
+  };
+}
+else {
+  hasClass = function( elem, c ) {
+    return classReg( c ).test( elem.className );
+  };
+  addClass = function( elem, c ) {
+    if ( !hasClass( elem, c ) ) {
+      elem.className = elem.className + ' ' + c;
+    }
+  };
+  removeClass = function( elem, c ) {
+    elem.className = elem.className.replace( classReg( c ), ' ' );
+  };
+}
+
+function toggleClass( elem, c ) {
+  var fn = hasClass( elem, c ) ? removeClass : addClass;
+  fn( elem, c );
+}
+var classie = {
+  hasClass: hasClass,
+  addClass: addClass,
+  removeClass: removeClass,
+  toggleClass: toggleClass,
+  has: hasClass,
+  add: addClass,
+  remove: removeClass,
+  toggle: toggleClass
+};
+if ( typeof define === 'function' && define.amd ) {
+  define( classie );
+} else {
+  window.classie = classie;
+}
+})( window );
+var $ = function(selector){
+  return document.querySelector(selector);
+}
+var accordion = $('.accordion');
+accordion.addEventListener("click",function(e) {
+  e.stopPropagation();
+  e.preventDefault();
+  if(e.target && e.target.nodeName == "A") {
+    var classes = e.target.className.split(" ");
+    if(classes) {
+      for(var x = 0; x < classes.length; x++) {
+        if(classes[x] == "accordionTitle") {
+          var title = e.target;
+          var content = e.target.parentNode.nextElementSibling;
+          classie.toggle(title, 'accordionTitleActive');
+          if(classie.has(content, 'accordionItemCollapsed')) {
+            if(classie.has(content, 'animateOut')){
+              classie.remove(content, 'animateOut');
+            }
+            classie.add(content, 'animateIn');
+          }else{
+             classie.remove(content, 'animateIn');
+             classie.add(content, 'animateOut');
+          }
+          classie.toggle(content, 'accordionItemCollapsed');      
+        }
+      }
+    }  
+  }
+});
+</script>
+
 
 
 
@@ -325,273 +511,9 @@ summary::-webkit-details-marker {
 
 
 <h1><span class = "overline">Option #7</span></h1>
-<a href = "https://www.freecodecamp.org/news/build-an-accordion-menu-using-html-css-and-javascript/" target="_blank" rel="noopener noreferrer">[source]</a>
 
-
-<body>
-  <div class="accordion-body">
-  <div class="accordion">
-    <h1>Frequently Asked Questions</h1>
-    <hr>
-    <div class="container">
-      <div class="label">What is HTML?</div>
-      <div class="content">Hypertext Markup Language (HTML) is a computer language that makes up most web pages and online applications. A hypertext is a text that is used to reference other pieces of text, while a markup language is a series of markings that tells web servers the style and structure of a document. HTML is very simple to learn and use.</div>
-    </div>
-    <hr>
-    <div class="container">
-      <div class="label">What is CSS?</div>
-      <div class="content">CSS stands for Cascading Style Sheets. It is the language for describing the presentation of Web pages, including colours, layout, and fonts, thus making our web pages presentable to the users. CSS is designed to make style sheets for the web. It is independent of HTML and can be used with any XML-based markup language. CSS is popularly called the design language of the web.
-</div>
-    </div>
-    <hr>
-    <div class="container">
-      <div class="label">What is JavaScript?</div>
-      <div class="content">JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third of the web trio.</div>
-    </div>
-    <hr>
-    <div class="container">
-      <div class="label">What is React?</div>
-      <div class="content">React is a JavaScript library created for building fast and interactive user interfaces for web and mobile applications. It is an open-source, component-based, front-end library responsible only for the application’s view layer. In Model View Controller (MVC) architecture, the view layer is responsible for how the app looks and feels. React was created by Jordan Walke, a software engineer at Facebook. </div>
-    </div>
-    <hr>
-    <div class="container">
-      <div class="label">What is PHP?</div>
-      <div class="content">PHP is a server-side and general-purpose scripting language that is especially suited for web development. PHP originally stood for Personal Home Page. However, now, it stands for Hypertext Preprocessor. It’s a recursive acronym because the first word itself is also an acronym.</div>
-    </div>
-    <hr>
-    <div class="container">
-      <div class="label">What is Node JS?</div>
-      <div class="content">Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm</div>
-    </div>
-    <hr>
-  </div>
-  </div>
-
-</body>
-
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
-
-/* Sets the background color of the body to blue. Sets font to Rubik */
-
-body {
-  font-family: 'rubik', sans-serif;
-}
-
-/* Aligns the heading text to the center. */
- 
-h1 {
-  text-align: center;
-}
-
-/* Sets the width for the accordion. Sets the margin to 90px on the top and bottom and auto to the left and right */
-
-.accordion {
-  width: 800px;
-  margin: 90px auto;
-  color: black;
-  background-color: white;
-  padding: 45px 45px;
-}
-
-
-/* Positions the plus sign 5px from the right. Centers it using the transform property. */
-
-.accordion .label::before {
-  content: '+';
-  color: black;
-  position: absolute;
-  top: 50%;
-  right: -5px;
-  font-size: 30px;
-  transform: translateY(-50%);
-}
-
-/* Hides the content (height: 0), decreases font size, justifies text and adds transition */
-
-.accordion .content {
-  position: relative;
-  background: white;
-  height: 0;
-  font-size: 20px;
-  text-align: justify;
-  width: 780px;
-  overflow: hidden;
-  transition: 0.5s;
-}
-
-/* Adds a horizontal line between the contents */
-
-.accordion hr {
-  width: 100;
-  margin-left: 0;
-  border: 1px solid grey;
-}
-
-
-/* Unhide the content part when active. Sets the height */
-
-.accordion .container.active .content {
-  height: 150px;
-}
-
-/* Changes from plus sign to negative sign once active */
-
-.accordion .container.active .label::before {
-  content: '-';
-  font-size: 30px;
-}
-
-
-</style>
-
-<script src="index.js" type="text/javascript">
-  const accordion = document.getElementsByClassName('container');
-
-for (i=0; i<accordion.length; i++) {
-  accordion[i].addEventListener('click', function () {
-    this.classList.toggle('active')
-  })
-}
-
-  </script>
 
 
 <h1><span class = "overline">Option #8</span></h1>
 
 
-<h1>CSS + HTML only Accordion Element</h1>
-<ul>
-  <li>
-    <input type="checkbox" checked>
-    <i></i>
-    <h2>Languages Used</h2>
-    <p>This page was written in HTML and CSS. The CSS was compiled from SASS. I used Normalize as my CSS reset and -prefix-free to save myself some headaches. I haven't quite gotten the hang of Slim for compiling into HTML, but someday I'll use it since its syntax compliments that of SASS. Regardless, this could all be done in plain HTML and CSS.</p>
-  </li>
-  <li>
-    <input type="checkbox" checked>
-    <i></i>
-    <h2>How it Works</h2>
-    <p>Using the sibling and checked selectors, we can determine the styling of sibling elements based on the checked state of the checkbox input element. One use, as demonstrated here, is an entirely CSS and HTML accordion element. Media queries are used to make the element responsive to different screen sizes.</p>
-  </li>
-  <li>
-    <input type="checkbox" checked>
-    <i></i>
-    <h2>Points of Interest</h2>
-    <p>By making the open state default for when :checked isn't detected, we can make this system accessable for browsers that don't recognize :checked. The fallback is simply an open accordion. The accordion can be manipulated with Javascript (if needed) by changing the "checked" property of the input element.</p>
-  </li>
-</ul>
-
-<style>
-.transition, ul li i:before, ul li i:after, p {
-  transition: all 0.25s ease-in-out;
-}
-
-.flipIn, ul li {
-  animation: flipdown 0.5s ease both;
-}
-
-.no-select {
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-
-
-
-ul {
-  list-style: none;
-  perspective: 900;
-  padding: 0;
-  margin: 0;
-}
-ul li {
-  position: relative;
-  padding: 0;
-  margin: 0;
-  padding-bottom: 4px;
-  padding-top: 18px;
-  border-top: 1px dotted #dce7eb;
-}
-ul li:nth-of-type(1) {
-  animation-delay: 0.5s;
-}
-ul li:nth-of-type(2) {
-  animation-delay: 0.75s;
-}
-ul li:nth-of-type(3) {
-  animation-delay: 1s;
-}
-ul li:last-of-type {
-  padding-bottom: 0;
-}
-ul li i {
-  position: absolute;
-  transform: translate(-6px, 0);
-  margin-top: 16px;
-  right: 0;
-}
-ul li i:before, ul li i:after {
-  content: "";
-  position: absolute;
-  background-color: #ff6873;
-  width: 3px;
-  height: 9px;
-}
-ul li i:before {
-  transform: translate(-2px, 0) rotate(45deg);
-}
-ul li i:after {
-  transform: translate(2px, 0) rotate(-45deg);
-}
-ul li input[type=checkbox] {
-  position: absolute;
-  cursor: pointer;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-  opacity: 0;
-}
-ul li input[type=checkbox]:checked ~ p {
-  margin-top: 0;
-  max-height: 0;
-  opacity: 0;
-  transform: translate(0, 50%);
-}
-ul li input[type=checkbox]:checked ~ i:before {
-  transform: translate(2px, 0) rotate(45deg);
-}
-ul li input[type=checkbox]:checked ~ i:after {
-  transform: translate(-2px, 0) rotate(-45deg);
-}
-
-@keyframes flipdown {
-  0% {
-    opacity: 0;
-    transform-origin: top center;
-    transform: rotateX(-90deg);
-  }
-  5% {
-    opacity: 1;
-  }
-  80% {
-    transform: rotateX(8deg);
-  }
-  83% {
-    transform: rotateX(6deg);
-  }
-  92% {
-    transform: rotateX(-3deg);
-  }
-  100% {
-    transform-origin: top center;
-    transform: rotateX(0deg);
-  }
-}
-
-
-</style>
