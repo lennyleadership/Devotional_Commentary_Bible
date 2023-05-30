@@ -746,7 +746,7 @@ summary::-webkit-details-marker {
   flex-grow:1;
   flex-shrink:1;
   overflow:hidden;
-  transition:all .5s ease;
+  transition: all .5s ease;
   border:5px solid aliceblue;
   border-radius:50px;
   position:relative
