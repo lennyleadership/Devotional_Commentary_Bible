@@ -7,6 +7,20 @@ categories = []
 menu = "main"
 +++
 
+<style>
+body {
+  height: calc(100% - 20px);
+  width: calc(100% - 20px);
+  margin: 0;
+  padding: 10px;
+  display: flex;
+  background: #f2f2f2;
+  color: rgba(0,0,0,.87);
+  font-family: 'Roboto', sans-serif;
+}
+</style>
+
+
 
 <h1><span class = "overline">Option #1</span></h1>
 
@@ -36,7 +50,6 @@ menu = "main"
 
 
 <style>
-
 
 #faq {
   max-width: 700px;
@@ -307,6 +320,7 @@ img {
   height: auto;
   overflow: hidden;
 }
+
 @media all {
   .accordionItem {
     max-height: 50em;
