@@ -1,12 +1,9 @@
 +++
-title = "Collapsible test"
+title = "Accordion / Collapsible test"
 description = ""
-tags = [
-
-]
-date = "2023-05-27"
-categories = [
-]
+tags = ["Accordion / Collapsible test"]
+date = "2023-05-29"
+categories = []
 menu = "main"
 +++
 
@@ -725,12 +722,11 @@ summary::-webkit-details-marker {
   </div>
 </div>
 
-<style>
 
+<style>
 .acc-wraper{
   margin: 30px auto;
   width:100%;
-  
 }
 
 .accordion{
@@ -761,7 +757,6 @@ summary::-webkit-details-marker {
   height:100%;
   object-fit: cover;
 }  
-  
 </style>
 
 
