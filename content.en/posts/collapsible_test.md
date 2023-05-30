@@ -742,7 +742,7 @@ summary::-webkit-details-marker {
 }
 
 .accordion > div{
-  width:50%;
+  width:70%;
   flex-grow:1;
   flex-shrink:1;
   overflow:hidden;
