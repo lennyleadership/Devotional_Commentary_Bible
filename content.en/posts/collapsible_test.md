@@ -729,7 +729,7 @@ summary::-webkit-details-marker {
 
 .acc-wraper{
   margin: 30px auto;
-  width:70%;
+  width:100%;
   
 }
 
