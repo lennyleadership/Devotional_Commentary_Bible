@@ -256,6 +256,22 @@ img {
 
 
 <style>
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato';
+}
+
+h1 {
+  font-size: 2em;
+  padding: 2em;
+  text-align: center;
+}
 
 .accordion dl {
 }
@@ -270,6 +286,7 @@ img {
   -webkit-transition: background-color 0.5s ease-in-out;
 }
 .accordion dd {
+  background-color: #1abc9c;
   color:#fafafa;
   font-size: 1em;
   line-height: 1.5em;
@@ -320,7 +337,6 @@ img {
   height: auto;
   overflow: hidden;
 }
-
 @media all {
   .accordionItem {
     max-height: 50em;
