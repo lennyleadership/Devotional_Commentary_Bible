@@ -51,8 +51,6 @@ Jesus, angles, and human being
 </div>
 
 
-
-
 <h2 id = "header_1">Who is Moses from authors perspective?</h2>  
 
 <table>

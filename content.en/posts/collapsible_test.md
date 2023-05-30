@@ -74,14 +74,12 @@ section.faq {
 
 #faq h2 {
   color: #cc071e;
-  font-family: 'hm_light', sans-serif;
   font-size: 20px;
   line-height: 34px;
   text-align: left;
   padding: 15px 15px 0;
   text-transform: none;
   font-weight: 300;
-  letter-spacing: 1px;
   display: block;
   margin: 0;
   cursor: pointer;
@@ -91,7 +89,6 @@ section.faq {
 #faq p {
   color: #333;
   text-align: left;
-  font-family: 'hm_light', sans-serif;
   font-size: 14px;
   line-height: 1.45;
   position: relative;
@@ -705,6 +702,67 @@ summary::-webkit-details-marker {
 
 <h1><span class = "overline">Option #7</span></h1>
 
+<div class="acc-wraper">
+  <div class="accordion">
+    <div>
+      <img src="https://image.freepik.com/free-photo/lake-mountains_1204-507.jpg" alt="">
+    </div>
+    <div>
+      <img src="https://image.freepik.com/free-photo/sunlight-forest_1004-9.jpg" alt="">
+    </div>
+    <div>
+      <img src="https://image.freepik.com/free-photo/beautiful-green-park_1417-1443.jpg" alt="">
+    </div>
+    <div>
+      <img src="https://image.freepik.com/free-photo/waterfall-that-is-layer-thailand_1150-15650.jpg" alt="">
+    </div>
+    <div>
+      <img src="https://image.freepik.com/free-photo/sunrise-bali-jungle_1385-1644.jpg" alt="">
+    </div>
+    <div>
+      <img src="https://image.freepik.com/free-photo/grass-with-sunlight-countryside-suburban_53876-42989.jpg" alt="">
+    </div>
+  </div>
+</div>
+
+<style>
+
+.acc-wraper{
+  margin: 30px auto;
+  width:70%;
+  
+}
+
+.accordion{
+  display:flex;
+  flex-wrap:nowrap;
+  overflow:hidden;
+  width:100%;
+  height:350px
+}
+
+.accordion > div{
+  width:50%;
+  flex-grow:1;
+  flex-shrink:1;
+  overflow:hidden;
+  transition:all .5s ease;
+  border:5px solid aliceblue;
+  border-radius:50px;
+  position:relative
+}
+
+.accordion > div:hover{
+  flex-shrink:0
+}
+
+.accordion div img{
+  width:100%;
+  height:100%;
+  object-fit: cover;
+}  
+  
+</style>
 
 
 <h1><span class = "overline">Option #8</span></h1>
