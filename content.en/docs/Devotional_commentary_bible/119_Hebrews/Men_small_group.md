@@ -45,16 +45,17 @@ Two books: The book of life and the lamb's book of life
 <h1 id="header_2"><span class = "overline">2023-05-26</span></h1>
 Jay was absent.
 
-Shawn and Lenny watched a couple of YouTube videos on 
+Shawn and Lenny watched a couple of YouTube videos on Jehovah's Witnesses so that I can show them something I know about them and care for them.  
 
 
 <h1 id="header_3"><span class = "overline">2023-06-01</span></h1>
-Discussion #1: What does "in Christ" mean?
+
+<h2>Discussion #1: What does "in Christ" mean?</h2>
 Analogy: the ark, the shelter, the chicken wings.
 
 be righteous, be separated, 
 
-Point #1: The book of Hebrews to the New Testment is like the book of Deuteronomy to Torah.  Both of them restate what are important in belief foundation.
+<h2>Point #1</h2>: The book of Hebrews to the New Testment is like the book of Deuteronomy to Torah.  Both of them restate what are important in belief foundation.
 
 Hebrews 5:11-14 NLT  
 (Hebrews 5:11-14 ESV)  
@@ -69,3 +70,5 @@ Hebrews 6:1-2 NLT
 1 Therefore let us leave the elementary doctrine of Christ and go on to maturity, not laying again a foundation of repentance from dead works and of faith toward God  
 2 and of instruction about washings, the laying on of hands, the resurrection of the dead, and eternal judgment.  
 
+
+<span><h2>Point #2</h2></span>: text
