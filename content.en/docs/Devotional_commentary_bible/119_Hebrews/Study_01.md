@@ -809,9 +809,7 @@ tr.hidden {
 God used Moses to reveal His will in future
 
 
-<div class="scroll-container">
-    <a href="#header_2">To Header 2</a>
-</div>
+
 
 
 <h2 id = "header_3">In what ways was Moses like Jesus?</h2>
@@ -835,9 +833,7 @@ Not only was Moses an intercessor for God’s people but, like Jesus, <b>he was 
 
 <b>Reference</b>: <a href = "https://www.gotquestions.org/Moses-and-Jesus.html" target="_blank" rel="noopener noreferrer">Got Questions | In what ways was Moses like Jesus?</a>
 
-<div class="scroll-container">
-    <a href="#header_3">To Header 3</a>
-</div>
+
 
 
 <h2 id = "header_4">Comparison</h2>
