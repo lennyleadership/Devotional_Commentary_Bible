@@ -13,7 +13,7 @@ body {
   width: calc(100% - 20px);
   margin: 0;
   padding: 10px;
-  display: flex;
+  /*display: flex;*/
   background: #f2f2f2;
   color: rgba(0,0,0,.87);
   font-family: 'Roboto', sans-serif;
