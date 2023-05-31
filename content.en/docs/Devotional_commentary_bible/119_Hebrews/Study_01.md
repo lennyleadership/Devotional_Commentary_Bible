@@ -51,11 +51,6 @@ Jesus, angles, and human being
 </div>
 
 
-<div class="scroll-container">
-    <a href="#top">To Top</a>
-</div>
-
-
 <h2 id = "header_1">Who is Moses from authors perspective?</h2>  
 
 <style>
@@ -761,7 +756,9 @@ tr.hidden {
   </tbody>
 </table>
 
-
+<div class="scroll-container">
+    <a href="#header_1">To Top</a>
+</div>
 
 <h2 id = "header_2">Moses did different things</h2>
 
