@@ -757,7 +757,7 @@ tr.hidden {
 </table>
 
 <div class="scroll-container">
-    <a href="#toc_container">To TOC</a>
+    <a href="#header_1">To Table Header</a>
 </div>
 
 <h2 id = "header_2">Moses did different things</h2>
