@@ -1081,12 +1081,12 @@ summary::-webkit-details-marker {
 
 <style>
   body {
-  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-  line-height: 1.4;
-  background: #fefefe;
-  color: #333;
-  margin: 0 1em;
+  /*font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;*/
+  /*line-height: 1.4;*/
+  /*background: #fefefe;*/
+  /*color: #333;*/
+  /*margin: 0 1em;*/
 }
 
 table {
