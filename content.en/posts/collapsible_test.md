@@ -193,7 +193,7 @@ section.faq {
 }
 
 html, body {
-  height: 100%;
+  /*height: 100%;*/
 }
 
 a,
@@ -271,7 +271,7 @@ body {
 h1 {
   font-size: 2em;
   padding: 2em;
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .accordion dl {
