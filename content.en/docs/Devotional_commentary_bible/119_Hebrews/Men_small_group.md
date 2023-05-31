@@ -55,20 +55,59 @@ Analogy: the ark, the shelter, the chicken wings.
 
 be righteous, be separated, 
 
-<h2>Point #1</h2>: The book of Hebrews to the New Testment is like the book of Deuteronomy to Torah.  Both of them restate what are important in belief foundation.
+<h2>Point #1: The book of Hebrews is like the book of Deuteronomy</h2>
 
-Hebrews 5:11-14 NLT  
-(Hebrews 5:11-14 ESV)  
+The book of Hebrews to the New Testment is like the book of Deuteronomy to Torah.  Both of them restate what are important in belief foundation.
+
+
+Hebrews 5:11-14 NLT (or Hebrews 5:11-14 ESV)    
 11 About this we have much to say, and it is hard to explain, since you have become dull of hearing.   
 12 For though by this time you ought to be teachers, you need someone to teach you again the basic principles of the oracles of God. You need milk, not solid food,   
 13 for everyone who lives on milk is unskilled in the word of righteousness, since he is a child.   
 14 But solid food is for the mature, for those who have their powers of discernment trained by constant practice to distinguish good from evil.
 
 
-Hebrews 6:1-2 NLT    
-(Hebrews 6:1-2 ESV)  
+Hebrews 6:1-2 NLT (or Hebrews 6:1-2 ESV)  
 1 Therefore let us leave the elementary doctrine of Christ and go on to maturity, not laying again a foundation of repentance from dead works and of faith toward God  
 2 and of instruction about washings, the laying on of hands, the resurrection of the dead, and eternal judgment.  
 
 
-<span><h2>Point #2</h2></span>: text
+<h2>Point #2: God had a plan</h2>
+
+1) God had a plan and prepared ahead.   
+
+Micah 6:4 NLT  (Micah 6:4 ESV)  
+4 For I brought you out of Egypt and redeemed you from slavery. I sent Moses, Aaron, and Miriam to help you.
+
+God went ahead and took actions before Israelite complained.
+
+
+<h2>Point #3: God Prepared Moses</h2>
+<p></p>
+
+<ol>
+<li>&nbsp;First 40 years
+<br>* Moses was trained. He was eloquent.  
+<br>&nbsp;Acts 7:22 NLT (or Acts 7:22 ESV)  
+<br>&nbsp;22 Moses was taught all the wisdom of the Egyptians, and he was powerful in both speech and action.
+<br>* His faith grew.
+<br>&nbsp;Hebrews 11:24-26 NLT
+<br>&nbsp;24 It was by faith that Moses, when he grew up, refused to be called the son of Pharaoh’s daughter. 
+<br>&nbsp;25 He chose to share the oppression of God’s people instead of enjoying the fleeting pleasures of sin. 
+<br>&nbsp;26 He thought it was better to suffer for the sake of Christ than to own the treasures of Egypt, for he was looking ahead to his great reward. 
+<br>&nbsp;Exodus 2:11 NLT (or Exodus 2:11 ESV)
+<br>&nbsp;11 Many years later, when Moses had <b>grown up</b> (40-year-old), he <b>went out</b> to visit his own people, the Hebrews, and he saw how hard they were forced to work. During his visit, he saw an Egyptian beating one of his fellow Hebrews.
+<br>&nbsp;Acts 7:23 NLT (or Acts 7:23 ESV)
+<br>&nbsp;23 “One day when Moses was forty years old, he <b>decided</b> to visit his relatives, the people of Israel.
+</li>
+
+<li>&nbsp;Second 40 years
+<br>&nbsp;Hebrews 11:7 NLT  
+<br>&nbsp;27 It was by faith that Moses left the land of Egypt, not fearing the king’s anger. He kept right on going because he kept his eyes on the one who is invisible. 
+
+</li>
+<li>&nbsp;Third 40 years
+<br>&nbsp;Hebrews 11:28 NLT
+<br>&nbsp;28 It was by faith that Moses commanded the people of Israel to keep the Passover and to sprinkle blood on the doorposts so that the angel of death would not kill their firstborn sons.
+</li>
+</ol>
