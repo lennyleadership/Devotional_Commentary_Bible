@@ -1,7 +1,7 @@
 +++
 title = "Accordion / Collapsible test"
 description = ""
-tags = ["Accordion / Collapsible test"]
+tags = ["Demo Accordion Table", "Demo Accordion Text"]
 date = "2023-05-29"
 categories = []
 menu = "main"
@@ -792,4 +792,465 @@ summary::-webkit-details-marker {
 
 <h1><span class = "overline">Option #8</span></h1>
 
+<h1>Table with Expando Rows</h1>
 
+<p>
+  For a detailed explanation of what is going on here, read my post <a href="http://adrianroselli.com/2019/09/table-with-expando-rows.html"><cite>Table with Expando Rows</cite></a>.
+</p>
+
+
+<h2>Disclosure Control in Cell</h2>
+
+<p>
+  The disclosure control lives in its own cell/column.
+</p>
+
+<table class="cell">
+  <caption>Books I May or May Not Have Read</caption>
+  <thead>
+    <tr>
+      <th><span class="visually-hidden">Toggle</span></th>
+      <th>Author</th>
+      <th>Title</th>
+      <th>Year</th>
+      <th>ISBN-13</th>
+      <th>ISBN-10</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>Miguel De Cervantes</td>
+      <td>The Ingenious Gentleman Don Quixote of La Mancha</td>
+      <td>1605</td>
+      <td>9783125798502</td>
+      <td>3125798507</td>
+    </tr>
+    <tr>
+      <td>
+        <button type="button" id="btnMSb" aria-expanded="false" onclick="toggle(this.id,'#MS01b,#MS02b,#MS03b');" aria-controls="MS01b MS02b MS03b" aria-label="3 more from" aria-labelledby="btnMSb lblMSb">
+          <svg xmlns="\http://www.w3.org/2000/svg&quot;" viewBox="0 0 80 80" focusable="false"><path d="M70.3 13.8L40 66.3 9.7 13.8z"></path></svg>
+        </button>
+      </td>
+      <td id="lblMSb">Mary Shelley</td>
+      <td>Frankenstein; or, The Modern Prometheus</td>
+      <td>1818</td>
+      <td>9781530278442</td>
+      <td>1530278449</td>
+    </tr>
+    <tr id="MS01b" class="hidden">
+      <td></td>
+      <td>Mary Shelley</td>
+      <td>Valperga: Or, the Life and Adventures of Castruccio, Prince of Lucca</td>
+      <td>1823</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr id="MS02b" class="hidden">
+      <td></td>
+      <td>Mary Shelley</td>
+      <td>The Last Man</td>
+      <td>1826</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr id="MS03b" class="hidden">
+      <td></td>
+      <td>Mary Shelley</td>
+      <td>The Fortunes of Perkin Warbeck, A Romance</td>
+      <td>1830</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Herman Melville</td>
+      <td>Moby-Dick; or, The Whale</td>
+      <td>1851</td>
+      <td>9781530697908</td>
+      <td>1530697905</td>
+    </tr>
+    <tr>
+      <td>
+        <button type="button" id="btnEDENSb" aria-expanded="false" onclick="toggle(this.id,'#EDENS01b,#EDENS02b,#EDENS03b,#EDENS04b,#EDENS05b');" aria-controls="EDENS01b EDENS02b EDENS03b EDENS04b EDENS05b" aria-label="5 more from" aria-labelledby="btnEDENSb lblEDENSb">
+          <svg xmlns="\http://www.w3.org/2000/svg&quot;" viewBox="0 0 80 80" focusable="false"><path d="M70.3 13.8L40 66.3 9.7 13.8z"></path></svg>
+        </button>
+      </td>
+      <td id="lblEDENSb">Emma Dorothy Eliza Nevitte Southworth</td>
+      <td>The Hidden Hand</td>
+      <td>1888</td>
+      <td>9780813512969</td>
+      <td>0813512964</td>
+    </tr>
+    <tr id="EDENS01b" class="hidden">
+      <td></td>
+      <td>Emma Dorothy Eliza Nevitte Southworth</td>
+      <td>A Leap in the Dark: A Novel</td>
+      <td>1889</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr id="EDENS02b" class="hidden">
+      <td></td>
+      <td>Emma Dorothy Eliza Nevitte Southworth</td>
+      <td>Unknown; or the Mystery of Raven Rocks</td>
+      <td>1889</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr id="EDENS03b" class="hidden">
+      <td></td>
+      <td>Emma Dorothy Eliza Nevitte Southworth</td>
+      <td>The Lost Lady of Lone</td>
+      <td>1890</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr id="EDENS04b" class="hidden">
+      <td></td>
+      <td>Emma Dorothy Eliza Nevitte Southworth</td>
+      <td>The Rejected Bride</td>
+      <td>1894</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr id="EDENS05b" class="hidden">
+      <td></td>
+      <td>Emma Dorothy Eliza Nevitte Southworth</td>
+      <td>Gertrude Haddon</td>
+      <td>1894</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>F. Scott Fitzgerald</td>
+      <td>The Great Gatsby</td>
+      <td>1925</td>
+      <td>9780743273565</td>
+      <td>0743273567</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>George Orwell</td>
+      <td>Nineteen Eighty-Four</td>
+      <td>1948</td>
+      <td>9780451524935</td>
+      <td>0451524934</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h2>Disclosure Control as Entire Row</h2>
+
+<p>
+  The disclosure control lives in a cell spanning all columns, taking up an entire row.
+</p>
+
+
+<table class="row">
+  <caption>Books I May or May Not Have Read</caption>
+  <thead>
+    <tr>
+      <th>Author</th>
+      <th>Title</th>
+      <th>Year</th>
+      <th>ISBN-13</th>
+      <th>ISBN-10</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Miguel De Cervantes</td>
+      <td>The Ingenious Gentleman Don Quixote of La Mancha</td>
+      <td>1605</td>
+      <td>9783125798502</td>
+      <td>3125798507</td>
+    </tr>
+    <tr>
+      <td>Mary Shelley</td>
+      <td>Frankenstein; or, The Modern Prometheus</td>
+      <td>1818</td>
+      <td>9781530278442</td>
+      <td>1530278449</td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <button type="button" id="btnMSa" aria-expanded="false" onclick="toggle(this.id,'#MS01a,#MS02a,#MS03a');" aria-controls="MS01a MS02a MS03a">
+          <svg xmlns="\http://www.w3.org/2000/svg&quot;" viewBox="0 0 80 80" focusable="false"><path d="M70.3 13.8L40 66.3 9.7 13.8z"></path></svg>
+          3 more from Mary Shelley…
+        </button>
+      </td>
+    </tr>
+    <tr id="MS01a" class="hidden">
+      <td>Mary Shelley</td>
+      <td>Valperga: Or, the Life and Adventures of Castruccio, Prince of Lucca</td>
+      <td>1823</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr id="MS02a" class="hidden">
+      <td>Mary Shelley</td>
+      <td>The Last Man</td>
+      <td>1826</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr id="MS03a" class="hidden">
+      <td>Mary Shelley</td>
+      <td>The Fortunes of Perkin Warbeck, A Romance</td>
+      <td>1830</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Herman Melville</td>
+      <td>Moby-Dick; or, The Whale</td>
+      <td>1851</td>
+      <td>9781530697908</td>
+      <td>1530697905</td>
+    </tr>
+    <tr>
+      <td>Emma Dorothy Eliza Nevitte Southworth</td>
+      <td>The Hidden Hand</td>
+      <td>1888</td>
+      <td>9780813512969</td>
+      <td>0813512964</td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <button type="button" id="btnEDENSa" aria-expanded="false" onclick="toggle(this.id,'#EDENS01a,#EDENS02a,#EDENS03a,#EDENS04a,#EDENS05a');" aria-controls="EDENS01a EDENS02a EDENS03a EDENS04a EDENS05a">
+          <svg xmlns="\http://www.w3.org/2000/svg&quot;" viewBox="0 0 80 80" focusable="false"><path d="M70.3 13.8L40 66.3 9.7 13.8z"></path></svg>
+          5 more from Emma Dorothy Eliza Nevitte Southworth…
+        </button>
+      </td>
+    </tr>
+    <tr id="EDENS01a" class="hidden">
+      <td>Emma Dorothy Eliza Nevitte Southworth</td>
+      <td>A Leap in the Dark: A Novel</td>
+      <td>1889</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr id="EDENS02a" class="hidden">
+      <td>Emma Dorothy Eliza Nevitte Southworth</td>
+      <td>Unknown; or the Mystery of Raven Rocks</td>
+      <td>1889</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr id="EDENS03a" class="hidden">
+      <td>Emma Dorothy Eliza Nevitte Southworth</td>
+      <td>The Lost Lady of Lone</td>
+      <td>1890</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr id="EDENS04a" class="hidden">
+      <td>Emma Dorothy Eliza Nevitte Southworth</td>
+      <td>The Rejected Bride</td>
+      <td>1894</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr id="EDENS05a" class="hidden">
+      <td>Emma Dorothy Eliza Nevitte Southworth</td>
+      <td>Gertrude Haddon</td>
+      <td>1894</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>F. Scott Fitzgerald</td>
+      <td>The Great Gatsby</td>
+      <td>1925</td>
+      <td>9780743273565</td>
+      <td>0743273567</td>
+    </tr>
+    <tr>
+      <td>George Orwell</td>
+      <td>Nineteen Eighty-Four</td>
+      <td>1948</td>
+      <td>9780451524935</td>
+      <td>0451524934</td>
+    </tr>
+  </tbody>
+</table>
+
+<style>
+  body {
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  line-height: 1.4;
+  background: #fefefe;
+  color: #333;
+  margin: 0 1em;
+}
+
+table {
+  margin: 1em 0;
+  border-collapse: collapse;
+}
+
+caption {
+  text-align: left;
+  font-style: italic;
+  padding: 0.25em 0.5em 0.5em 0.5em;
+}
+
+th,
+td {
+  padding: 0.25em 0.5em 0.25em 1em;
+  vertical-align: text-top;
+  text-align: left;
+  text-indent: -0.5em;
+}
+
+th {
+  vertical-align: bottom;
+  background-color: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  font-weight: bold;
+}
+
+.row td:nth-of-type(2), .cell td:nth-of-type(3) {
+  font-style: italic;
+}
+
+.row th:nth-of-type(3),
+.row td:nth-of-type(3),
+.cell th:nth-of-type(4),
+.cell td:nth-of-type(4) {
+  text-align: right;
+}
+
+td[colspan] {
+  background-color: #eee;
+  color: #000;
+  font-weight: normal;
+  font-style: italic;
+  padding: 0;
+  text-indent: 0;
+}
+
+tr.shown, tr.hidden {
+  background-color: #eee;
+  display: table-row;
+}
+
+tr.hidden {
+  display: none;
+}
+
+.row button {
+  background-color: transparent;
+  border: .1em solid transparent;
+  font: inherit;
+  padding: 0.25em 0.5em 0.25em .25em;
+  width: 100%;
+  text-align: left;
+}
+
+.row button:focus, .row button:hover {
+  background-color: #ddd;
+  outline: .2em solid #00f;
+}
+
+.row button svg {
+  width: .8em;
+  height: .8em;
+  margin: 0 0 -.05em 0;
+  fill: #66f;
+  transition: transform 0.25s ease-in;
+  transform-origin: center 45%;
+}
+
+.row button:hover svg,
+.row button:focus svg {
+  fill: #00c;
+}
+
+/* Lean on programmatic state for styling */
+.row button[aria-expanded="true"] svg {
+  transform: rotate(180deg);
+}
+
+.cell button {
+  font-size: 60%;
+  color: #000;
+  background-color: #00f;
+  padding: 0.3em 0.2em 0 0.2em;
+  border: 0.2em solid #00f;
+  border-radius: 50%;
+  line-height: 1;
+  text-align: center;
+  text-indent: 0;
+  transform: rotate(270deg);
+}
+
+.cell button svg {
+  width: 1.25em;
+  height: 1.25em;
+  fill: #fff;
+  transition: transform 0.25s ease-in;
+  transform-origin: center 45%;
+}
+
+.cell button:hover,
+.cell button:focus {
+  background-color: #fff;
+  outline: none;
+}
+
+.cell button:hover svg,
+.cell button:focus svg {
+  fill: #00f;
+}
+
+/* Lean on programmatic state for styling */
+.cell button[aria-expanded="true"] svg {
+  transform: rotate(90deg);
+}
+
+/* Proven method to visually hide something but */
+/* still make it available to assistive technology */
+.visually-hidden {
+  position: absolute;
+  top: auto;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px); /* IE 6/7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  width: 1px;
+  height: 1px;
+  white-space: nowrap;
+}
+</style>
+
+<script>
+  function toggle(btnID, eIDs) {
+  // Feed the list of ids as a selector
+  var theRows = document.querySelectorAll(eIDs);
+  // Get the button that triggered this
+  var theButton = document.getElementById(btnID);
+  // If the button is not expanded...
+  if (theButton.getAttribute("aria-expanded") == "false") {
+    // Loop through the rows and show them
+    for (var i = 0; i < theRows.length; i++) {
+      theRows[i].classList.add("shown");
+      theRows[i].classList.remove("hidden");
+    }
+    // Now set the button to expanded
+    theButton.setAttribute("aria-expanded", "true");
+  // Otherwise button is not expanded...
+  } else {
+    // Loop through the rows and hide them
+    for (var i = 0; i < theRows.length; i++) {
+      theRows[i].classList.add("hidden");
+      theRows[i].classList.remove("shown");
+    }
+    // Now set the button to collapsed
+    theButton.setAttribute("aria-expanded", "false");
+  }
+}
+</script>

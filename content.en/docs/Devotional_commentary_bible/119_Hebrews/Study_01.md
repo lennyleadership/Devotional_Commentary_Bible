@@ -3,7 +3,7 @@ weight: 14
 title: Bible Study
 authors: Lenny
 categories: null
-tags: 
+tags: [Demo Accordion Table]
 description: 
 draft: false
 date: "2023-03-17"
@@ -53,7 +53,129 @@ Jesus, angles, and human being
 
 <h2 id = "header_1">Who is Moses from authors perspective?</h2>  
 
-<table>
+<style>
+
+table {
+  margin: 1em 0;
+  border-collapse: collapse;
+}
+
+
+th,
+td {
+  padding: 0.25em 0.5em 0.25em 1em;
+  vertical-align: text-top;
+  text-align: left;
+  text-indent: -0.5em;
+}
+
+.row td:nth-of-type(2), .cell td:nth-of-type(3) {
+  font-style: italic;
+}
+
+.row th:nth-of-type(3),
+.row td:nth-of-type(3),
+.cell th:nth-of-type(4),
+.cell td:nth-of-type(4) {
+  text-align: left;
+}
+
+td[colspan] {
+  /*background-color: #eee;*/
+  color: #000;
+  font-weight: normal;
+  font-style: italic;
+  padding: 0;
+  text-indent: 0;
+}
+
+tr.shown, tr.hidden {
+  /*background-color: #eee;*/
+  *display: table-row;
+}
+
+tr.hidden {
+  display: none;
+}
+
+.row button {
+  background-color: transparent;
+  border: .1em solid transparent;
+  font: inherit;
+  padding: 0.25em 0.5em 0.25em .25em;
+  width: 100%;
+  text-align: left;
+}
+
+.row button:focus, .row button:hover {
+  background-color: #ddd;
+  outline: .2em solid #00f;
+}
+
+.row button svg {
+  width: .8em;
+  height: .8em;
+  margin: 0 0 -.05em 0;
+  fill: #66f;
+  transition: transform 0.25s ease-in;
+  transform-origin: center 45%;
+}
+
+.row button:hover svg,
+.row button:focus svg {
+  fill: #00c;
+}
+
+/* Lean on programmatic state for styling */
+.row button[aria-expanded="true"] svg {
+  transform: rotate(180deg);
+}
+
+
+/* Proven method to visually hide something but */
+/* still make it available to assistive technology */
+.visually-hidden {
+  position: absolute;
+  top: auto;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px); /* IE 6/7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  width: 1px;
+  height: 1px;
+  white-space: nowrap;
+}
+</style>
+
+<script>
+  function toggle(btnID, eIDs) {
+  // Feed the list of ids as a selector
+  var theRows = document.querySelectorAll(eIDs);
+  // Get the button that triggered this
+  var theButton = document.getElementById(btnID);
+  // If the button is not expanded...
+  if (theButton.getAttribute("aria-expanded") == "false") {
+    // Loop through the rows and show them
+    for (var i = 0; i < theRows.length; i++) {
+      theRows[i].classList.add("shown");
+      theRows[i].classList.remove("hidden");
+    }
+    // Now set the button to expanded
+    theButton.setAttribute("aria-expanded", "true");
+  // Otherwise button is not expanded...
+  } else {
+    // Loop through the rows and hide them
+    for (var i = 0; i < theRows.length; i++) {
+      theRows[i].classList.add("hidden");
+      theRows[i].classList.remove("shown");
+    }
+    // Now set the button to collapsed
+    theButton.setAttribute("aria-expanded", "false");
+  }
+}
+</script>
+
+
+<table class="row">
   <caption style="text-align:left", align = "top"><b>Bible verses on Moses</b></caption>
   <colgroup>
     <col style="width: 34%" /><col style="width: 33%" /><col style="width: 33%" />
@@ -67,11 +189,14 @@ Jesus, angles, and human being
   </thead>
   <tbody>
     <tr>
-      <td colspan = "3" class = "pink subtitle"><p>
-Moses Personal Life 摩西的个人生活
-</p></td>
+      <td colspan="3" class = "pink subtitle">
+        <button type="button" id="btnlife" aria-expanded="false" onclick="toggle(this.id,'#life01,#life02,#life03,#life04,#life05,#life06,#life07,#life08');" aria-controls="life01 life02 life03 life04 life05 life06 life07 life08">
+          <svg xmlns="\http://www.w3.org/2000/svg&quot;" viewBox="0 0 80 80" focusable="false"><path d="M70.3 13.8L40 66.3 9.7 13.8z"></path></svg>
+          Moses Personal Life 摩西的个人生活
+        </button>
+      </td>
     </tr> 
-    <tr>
+    <tr id="life01" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -85,7 +210,7 @@ Moses Personal Life 摩西的个人生活
 暗兰的妻名叫约基别，是利未女子，生在埃及。她给暗兰生了亚伦、摩西，并他们的姐姐米利暗。
 </p></td>
     </tr>
-    <tr>
+    <tr id="life02" class="hidden">
       <td VALIGN=Middle><p>
       </p></td>
       <td VALIGN=TOP><p>
@@ -95,7 +220,7 @@ Moses Personal Life 摩西的个人生活
 孩子渐长，妇人把他带到法老的女儿那里，就作了她的儿子。她给孩子起名叫摩西，<b>意思说：“因我把他从水里拉出来。”</b>[*摩西出生]
 </p></td>
     </tr>
-    <tr>
+    <tr id="life03" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -105,7 +230,7 @@ Moses Personal Life 摩西的个人生活
 摩西学了埃及人一切的学问，说话行事都有才能。
 </p></td>
     </tr>
-    <tr>
+    <tr id="life04" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -124,7 +249,7 @@ Moses Personal Life 摩西的个人生活
 <br>参考：<a href = "https://www.ccbiblestudy.org/Old%20Testament/04Num/04GS12.htm" target="_blank" rel="noopener noreferrer">华人基督徒查经资料网站 | 民数记第十二章拾穗</a>
 </p></td>
     </tr>
-    <tr>
+    <tr id="life05" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -136,7 +261,7 @@ Moses Personal Life 摩西的个人生活
 摩西死的时候年一百二十岁；眼目没有昏花，精神没有衰败。[*摩西去世]
 </p></td>
     </tr>    
-    <tr>
+    <tr id="life06" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -147,7 +272,7 @@ Moses Personal Life 摩西的个人生活
 注：尽管摩西娶了外邦女子为妻，他的后代依然属于利未支派。
 </p></td>
     </tr>
-    <tr>
+    <tr id="life07" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -162,7 +287,7 @@ Moses Personal Life 摩西的个人生活
 摩西的孙子、革舜的儿子细布业掌管府库。
 </p></td>
     </tr>
-    <tr>
+    <tr id="life08" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -171,11 +296,14 @@ Moses Personal Life 摩西的个人生活
       </p></td>
     </tr>
     <tr>
-      <td colspan = "3" class = "pink subtitle"><p>
-Moses Title 摩西的称谓
-</p></td>
+    <td colspan="3" class = "pink subtitle">
+        <button type="button" id="btntitle" aria-expanded="false" onclick="toggle(this.id,'#title01,#title02,#title03,#title04,#title05,#title06');" aria-controls="title01 title02 title03 title04 title05 title06">
+          <svg xmlns="\http://www.w3.org/2000/svg&quot;" viewBox="0 0 80 80" focusable="false"><path d="M70.3 13.8L40 66.3 9.7 13.8z"></path></svg>
+          Moses Title 摩西的称谓
+        </button>
+    </td>
     </tr> 
-    <tr>
+    <tr id="title01" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -186,7 +314,7 @@ Moses Title 摩西的称谓
 在他的祭司中有摩西和亚伦；在求告他名的人中有撒母耳。他们求告耶和华，他就应允他们。
 </p></td>
     </tr>
-    <tr>
+    <tr id="title02" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -199,7 +327,7 @@ Moses Title 摩西的称谓
 我要与他[*摩西]面对面说话，乃是明说，不用谜语，并且他必见我的形像。你们毁谤我的仆人摩西，为何不惧怕呢？”
 </p></td>
     </tr>    
-    <tr>
+    <tr id="title03" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -212,7 +340,7 @@ Moses Title 摩西的称谓
 <br>又在以色列众人眼前显大能的手，行一切大而可畏的事。
 </p></td>
     </tr>
-    <tr>
+    <tr id="title04" class="hidden">
       <td><p>
 14 But the sons of Moses <b>the man of God</b> were named among the tribe of Levi.  
 1 Chronicles 23:14 (ESV)
@@ -228,7 +356,15 @@ Moses Title 摩西的称谓
 <br>注：尽管摩西娶了外邦女子为妻，他的后代依然属于利未支派。
 </p></td>
     </tr>
-    <tr>
+    <tr id="title05" class="hidden">
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>
+    <tr id="title06" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -237,19 +373,13 @@ Moses Title 摩西的称谓
       </p></td>
     </tr>
     <tr>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
+    <td colspan = "3" class = "pink subtitle">
+      <button type="button" id="btncharacter" aria-expanded="false" onclick="toggle(this.id,'#character01,#character02,#character03,#character04,#character05,#character06');" aria-controls="character01 character02 character03 character04 character05 character06">
+      <svg xmlns="\http://www.w3.org/2000/svg&quot;" viewBox="0 0 80 80" focusable="false"><path d="M70.3 13.8L40 66.3 9.7 13.8z"></path></svg>
+          Moses Characters 摩西的品格
+    </td>
     </tr>
-    <tr>
-    <td colspan = "3" class = "pink subtitle"><p>
-Moses Characters
-</p></td>
-    </tr>
-    <tr>
+    <tr id="character01" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -259,7 +389,7 @@ Moses Characters
 摩西<b>为人极其谦和</b>，胜过世上的众人。  
 </p></td>
     </tr>
-    <tr>
+    <tr  id="character02" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -271,7 +401,7 @@ Moses Characters
 他为那设立他的尽忠，如同摩西在　神的全家尽忠一样。
 </p></td>
     </tr>
-    <tr>
+    <tr  id="character03" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -281,7 +411,7 @@ Moses Characters
 耶和华对摩西说：“嫩的儿子约书亚是<b>心中有圣灵</b>的；你将他领来，按手在他头上，[*约书亚承继摩西的职位]
 </p></td>
     </tr>
-    <tr>
+    <tr id="character04" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -295,7 +425,7 @@ Moses Characters
 <br>他因着信，就守（或作“立”）逾越节，行洒血的礼，免得那灭长子的临近以色列人。
 </p></td>
     </tr>    
-    <tr>
+    <tr id="character05" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -307,7 +437,7 @@ Moses Characters
 <br>倘或你肯赦免他们的罪......不然，求你从你所写的册上<b>涂抹</b>我[*摩西]的名。” 
 </p></td>
     </tr> 
-    <tr>
+    <tr id="character06" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -316,11 +446,14 @@ Moses Characters
       </p></td>
     </tr>    
     <tr>
-      <td colspan = "3" class = "pink subtitle"><p>
-Events
-</p></td>
+      <td colspan = "3" class = "pink subtitle">
+      <button type="button" id="btnevent" aria-expanded="false" onclick="toggle(this.id,'#event01,#event02,#event03,#event04,#event05,#event06,#event07,#event08,#event09,#event10,#event11,#event12,#event13,#event14,#event15,#event16,#event17,#event18,#event19,#event20,#event21,#event22,#event23,#event24,#event25,#event26,#event27');" aria-controls="event01 event02 event03 event04 event05 event06 event07 event08 event09 event10 event11 event12 event13 event14 event15 event16 event17 event18 event19 event20 event21 event22 event23 event24 event25 event26 event27">
+          <svg xmlns="\http://www.w3.org/2000/svg&quot;" viewBox="0 0 80 80" focusable="false"><path d="M70.3 13.8L40 66.3 9.7 13.8z"></path></svg>
+          Moses Events 摩西大事件
+        </button>
+      </td>
     </tr>
-    <tr>
+    <tr id="event01" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -330,7 +463,7 @@ Events
 神原不是死人的　神，乃是活人的　神；因为在他那里（“那里”或作“看来”），人都是活的。”
 </p></td>
     </tr>
-    <tr>
+    <tr id="event02" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -343,7 +476,7 @@ Events
 “他将到四十岁，心中起意去看望他[*摩西]的弟兄以色列人；
 </p></td>
     </tr>
-    <tr>
+    <tr id="event03" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -355,7 +488,7 @@ Events
 他以为弟兄必明白神是藉他[*摩西]的手搭救他们；他们却不明白。[*拒绝摩西的拯救]
 </p></td>
     </tr>    
-    <tr>
+    <tr id="event04" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -365,7 +498,7 @@ Events
 摩西就带着妻子和两个儿子，叫他们骑上驴，回埃及地去。摩西手里拿着<b>神的杖</b>。[*上帝赐摩西能力]      
 </p></td>
     </tr>
-    <tr>
+    <tr id="event05" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -379,7 +512,7 @@ Events
 摩西传割礼给你们（其实不是从摩西起的，乃是从祖先起的），因此你们也在安息日给人行割礼。
 </p></td>
     </tr>
-    <tr>
+    <tr id="event06" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -389,7 +522,7 @@ Events
 后来摩西、亚伦去对法老说：“耶和华以色列的神这样说：‘容我的百姓去，在旷野向我守节。’”[*摩西和亚伦见法老]
 </p></td>
     </tr>
-    <tr>
+    <tr id="event07" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -399,7 +532,7 @@ Events
 <b>耶和华是</b>我的力量，我的诗歌，也成了我的拯救。这是我的神，我要赞美他，是我[*摩西]父亲的神，我要尊崇他。
 </p></td>
     </tr>
-    <tr>
+    <tr id="event08" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -410,7 +543,7 @@ Events
 <br>一个名叫以利以谢，因为他说：“我父亲的神帮助了我，救我[*摩西]脱离法老的刀。”
 </p></td>
     </tr>
-    <tr>
+    <tr id="event09" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -422,7 +555,7 @@ Events
 又要将律例和法度教训他们，指示他们当行的道，当做的事；
 </p></td>
     </tr>
-    <tr>
+    <tr id="event10" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -436,7 +569,7 @@ Events
 摩西去召了民间的长老来，将耶和华所吩咐他的话都在他们面前陈明。
 </p></td>
     </tr>
-    <tr>
+    <tr id="event11" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -446,7 +579,7 @@ Events
 <br><b>惟独</b>你可以<b>亲近</b>耶和华；他们却不可亲近；百姓也不可和你一同上来。”
 </p></td>
     </tr>
-    <tr>
+    <tr id="event12" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -457,7 +590,7 @@ Events
 <br>注：不是献祭的仪式  
 </p></td>
     </tr>
-    <tr>
+    <tr id="event13" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -469,7 +602,7 @@ Events
 <br>注：摩西是祭司
 </p></td>
     </tr>
-    <tr>
+    <tr id="event14" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -490,7 +623,7 @@ Events
 <br>23 然后我要将我的手收回，你就得见我的背，却不得见我的面。”
 </p></td>
     </tr>
-    <tr>
+    <tr id="event15" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -500,7 +633,7 @@ Events
 摩西在耶和华那里四十昼夜，也不吃饭也不喝水。耶和华将<b>这约</b>的话，就是十条诫，写在两块版上。
 </p></td>
     </tr>
-    <tr>
+    <tr id="event16" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -510,7 +643,7 @@ Events
 摩西进会幕要与耶和华说话的时候，听见法柜的施恩座以上、二基路伯中间有与他说话的声音，就是耶和华与他说话。
 <br>注：摩西也是祭司</p></td>
     </tr>
-    <tr>
+    <tr id="event17" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -522,7 +655,7 @@ Events
 <br>摩西对他说：“你为我的缘故嫉妒人吗？惟愿耶和华的百姓都受感说话！<b>愿耶和华把他的灵</b>降在他们身上！”  
 </p></td>
     </tr>
-    <tr>
+    <tr id="event18" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -532,7 +665,7 @@ Events
 摩西、亚伦就俯伏在地，说：“神，万人之灵的神啊，一人犯罪，你就要向全会众发怒吗？”[*永恆主吩咐摩西亞倫叫他們要跟會眾分別出來]
 </p></td>
     </tr>
-    <tr>
+    <tr id="event19" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -542,7 +675,7 @@ Events
 第二天，摩西进法柜的帐幕去。谁知利未族亚伦的杖已经发了芽，生了花苞，开了花，结了熟杏。
 </p></td>
     </tr>
-    <tr>
+    <tr id="event20" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -552,7 +685,7 @@ Events
 耶和华对摩西说：“你制造一条火蛇，挂在杆子上；凡被咬的，一望这蛇，就必得活。”
 </p></td>
     </tr>
-    <tr>
+    <tr id="event21" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -565,7 +698,7 @@ Events
 <br>注：摩西是先知，讲祝福的话，也讲咒诅的话。
 </p></td>
     </tr>
-    <tr>
+    <tr id="event22" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -576,7 +709,7 @@ Events
 <br>注：过河
 </p></td>
     </tr>
-    <tr>
+    <tr id="event23" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -586,7 +719,7 @@ Events
 他说：“耶和华从西奈而来，从西珥向他们显现，从巴兰山发出光辉，从万万圣者中来临，从他右手为百姓传出烈火的律法。
 <br>注：上帝来就近人。</p></td>
     </tr>
-    <tr>
+    <tr id="event24" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -596,7 +729,7 @@ Events
 神人摩西的祈祷。
 </p></td>
     </tr>
-    <tr>
+    <tr id="event25" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -604,7 +737,7 @@ Events
       <td><p>
       </p></td>
     </tr>
-    <tr>
+    <tr id="event26" class="hidden">
       <td><p>
       </p></td>
       <td><p>
@@ -612,7 +745,7 @@ Events
       <td><p>
       </p></td>
     </tr>
-    <tr>
+    <tr id="event27" class="hidden">
       <td><p>
       </p></td>
       <td><p>
