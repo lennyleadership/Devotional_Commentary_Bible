@@ -51,6 +51,11 @@ Jesus, angles, and human being
 </div>
 
 
+<div class="scroll-container">
+    <a href="#top">To Top</a>
+</div>
+
+
 <h2 id = "header_1">Who is Moses from authors perspective?</h2>  
 
 <style>
@@ -970,10 +975,6 @@ Matthew 11:29 Jesus was meek and lowly in heart.
     </tr>    
   </tbody>
 </table>
-
-
-
-
 </div>
 
 <div id="chinese" class="tabcontent">
@@ -1033,6 +1034,3 @@ Date: 2023-03-17
 
 </div>
 
-<div class="scroll-container">
-    <a href="#top">To Top</a>
-</div>
