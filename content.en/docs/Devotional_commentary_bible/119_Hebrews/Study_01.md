@@ -809,6 +809,9 @@ tr.hidden {
 God used Moses to reveal His will in future
 
 
+<div class="scroll-container">
+    <a href="#header_2">To Header 2</a>
+</div>
 
 
 <h2 id = "header_3">In what ways was Moses like Jesus?</h2>
@@ -831,6 +834,11 @@ Another important way that Moses was like Jesus is that <b>he constantly interce
 Not only was Moses an intercessor for God’s people but, like Jesus, <b>he was willing to die for them</b>. In Exodus 32:32, Moses offers his life in exchange for sinners. “Greater love has no one than this: to lay down one’s life for one’s friends,” Jesus said (John 15:13), and Jesus proved His love when He “laid down his life for us” (1 John 3:16; cf. John 10:15).
 
 <b>Reference</b>: <a href = "https://www.gotquestions.org/Moses-and-Jesus.html" target="_blank" rel="noopener noreferrer">Got Questions | In what ways was Moses like Jesus?</a>
+
+<div class="scroll-container">
+    <a href="#header_3">To Header 3</a>
+</div>
+
 
 <h2 id = "header_4">Comparison</h2>
 Could we see Jesus in Moses?

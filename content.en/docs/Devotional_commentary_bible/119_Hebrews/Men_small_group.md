@@ -43,7 +43,9 @@ Moses can't be the sacrifice to the Israelite.
 Two books: The book of life and the lamb's book of life
 
 <h1 id="header_2"><span class = "overline">2023-05-26</span></h1>
+Jay was absent.
 
+Shawn and Lenny watched a couple of YouTube videos on 
 
 
 <h1 id="header_3"><span class = "overline">2023-06-01</span></h1>
