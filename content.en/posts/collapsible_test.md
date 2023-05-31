@@ -9,8 +9,8 @@ menu = "main"
 
 <style>
 body {
-  height: calc(100% - 20px);
-  width: calc(100% - 20px);
+  /*height: calc(100% - 20px);*/
+  /*width: calc(100% - 20px);*/
   margin: 0;
   padding: 10px;
   /*display: flex;*/
