@@ -291,20 +291,29 @@ And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he 
     </tr>
     <tr id="life05" class="hidden">
       <td><p>
+Deuteronomy 34:6-7 ESV
+and he buried him in the valley in the land of Moab opposite Beth-peor; but no one knows the place of his burial to this day.
+<br>Moses was 120 years old when he died. His eye was undimmed, and his vigor unabated.
       </p></td>
       <td><p>
+Deuteronomy 34:6-7 KJV
+And he buried him in a valley in the land of Moab, over against Beth-peor: but no man knoweth of his sepulchre unto this day.
+<br>And Moses was an hundred and twenty years old when he died: his eye was not dim, nor his natural force abated.
       </p></td>
       <td><p>
-申命记 34:6
+申命记 34:6-7
 <b>耶和华将他</b>埋葬在摩押地、伯毗珥对面的谷中，只是到今日没有人知道他[*摩西]的坟墓。
-<br>申命记 34:7
-摩西死的时候年一百二十岁；眼目没有昏花，精神没有衰败。[*摩西去世]
+<br>摩西死的时候年一百二十岁；眼目没有昏花，精神没有衰败。[*摩西去世]
 </p></td>
     </tr>    
     <tr id="life06" class="hidden">
       <td><p>
+1 Chronicles 23:14 ESV
+But the sons of Moses the man of God were named among the tribe of Levi.
       </p></td>
       <td><p>
+1 Chronicles 23:14 KJV
+Now concerning Moses the man of God, his sons were named of the tribe of Levi.
       </p></td>
       <td><p>
 历代志上 23:14
@@ -314,8 +323,16 @@ And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he 
     </tr>
     <tr id="life07" class="hidden">
       <td><p>
+Judges 18:30 ESV
+And the people of Dan set up the carved image for themselves, and Jonathan the son of Gershom, son of Moses, and his sons were priests to the tribe of the Danites until the day of the captivity of the land.
+<br><br>1 Chronicles 26:24 ESV
+and Shebuel the son of Gershom, son of Moses, was chief officer in charge of the treasuries.
       </p></td>
       <td><p>
+Judges 18:30 KJV
+And the children of Dan set up the graven image: and Jonathan, the son of Gershom, the son of Manasseh, he and his sons were priests to the tribe of Dan until the day of the captivity of the land.
+<br><br>1 Chronicles 26:24 KJV
+And Shebuel the son of Gershom, the son of Moses, was ruler of the treasures.
       </p></td>
       <td><p>
 摩西孙子的情况：
@@ -345,8 +362,14 @@ And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he 
     </tr> 
     <tr id="title01" class="hidden">
       <td><p>
+He was a priest  
+<br><br>Psalm 99:6 ESV
+Moses and Aaron were among his priests, Samuel also was among those who called upon his name. They called to the LORD, and he answered them.
       </p></td>
       <td><p>
+He was a priest  
+<br><br>Psalm 99:6 KJV
+Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the Lord, and he answered them.
       </p></td>
       <td><p>
 他是祭司
@@ -356,15 +379,20 @@ And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he 
     </tr>
     <tr id="title02" class="hidden">
       <td><p>
+He was a servant  
+<br><br>Numbers 12:7-8 ESV
+Not so with my servant Moses. He is faithful in all my house. [8] With him I speak mouth to mouth, clearly, and not in riddles, and he beholds the form of the LORD. Why then were you not afraid to speak against my servant Moses?"
       </p></td>
       <td><p>
+He was a servant  
+<br><br>Numbers 12:7-8 KJV
+My servant Moses is not so, who is faithful in all mine house. [8] With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the Lord shall he behold: wherefore then were ye not afraid to speak against my servant Moses?
       </p></td>
       <td><p>
 他是仆人
-<br>民数记 12:7  
+<br>民数记 12:7-8  
 我的仆人摩西不是这样；他是<b>在我全家尽忠</b>的。  
-<br>民数记 12:8  
-我要与他[*摩西]面对面说话，乃是明说，不用谜语，并且他必见我的形像。你们毁谤我的仆人摩西，为何不惧怕呢？”
+<br>我要与他[*摩西]面对面说话，乃是明说，不用谜语，并且他必见我的形像。你们毁谤我的仆人摩西，为何不惧怕呢？”
 </p></td>
     </tr>    
     <tr id="title03" class="hidden">
