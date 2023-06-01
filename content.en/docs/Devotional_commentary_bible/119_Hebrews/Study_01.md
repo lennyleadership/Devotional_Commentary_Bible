@@ -212,8 +212,12 @@ tr.hidden {
     </tr>
     <tr id="life02" class="hidden">
       <td VALIGN=Middle><p>
+Exodus 2:10 ESV  
+When the child grew older, she brought him to Pharaoh's daughter, and he became her son. She named him Moses, "Because," she said, "I drew him out of the water."
       </p></td>
       <td VALIGN=TOP><p>
+Exodus 2:10 KJV
+And the child grew, and she brought him unto Pharaoh's daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.
       </p></td>
       <td VALIGN=TOP><p>
 出埃及记 2:10  
@@ -222,12 +226,12 @@ tr.hidden {
     </tr>
     <tr id="life03" class="hidden">
       <td><p>
-Exodus 2:10 ESV  
-When the child grew older, she brought him to Pharaoh's daughter, and he became her son. She named him Moses, "Because," she said, "I drew him out of the water."
+Acts 7:22 ESV
+And Moses was instructed in all the wisdom of the Egyptians, and he was mighty in his words and deeds.
       </p></td>
       <td><p>
-Exodus 2:10 KJV
-And the child grew, and she brought him unto Pharaoh's daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.
+Acts 7:22 KJV
+And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.
       </p></td>
       <td><p>
 使徒行传 7:22
