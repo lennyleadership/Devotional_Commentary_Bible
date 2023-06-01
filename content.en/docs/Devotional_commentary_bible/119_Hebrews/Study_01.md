@@ -240,8 +240,12 @@ And Moses was learned in all the wisdom of the Egyptians, and was mighty in word
     </tr>
     <tr id="life04" class="hidden">
       <td><p>
+Exodus 2:16 ESV
+Now the priest of Midian had seven daughters, and they came and drew water and filled the troughs to water their father's flock.
       </p></td>
       <td><p>
+Exodus 2:16 KJV
+Now the priest of Midian had seven daughters: and they came and drew water, and filled the troughs to water their father's flock.
       </p></td>
       <td><p>
 ‪出埃及记‬2:16
