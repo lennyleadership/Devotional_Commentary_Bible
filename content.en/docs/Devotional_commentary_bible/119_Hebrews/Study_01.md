@@ -198,15 +198,27 @@ tr.hidden {
     </tr> 
     <tr id="life01" class="hidden">
       <td><p>
-      </p></td>
+Exodus 2:1 ESV
+Now a man from the house of Levi went and took as his wife a Levite woman.
+<br><br>Exodus 6:20 ESV
+Amram took as his wife Jochebed his father's sister, and she bore him Aaron and Moses, the years of the life of Amram being 137 years.
+Numbers 26:59 ESV
+The name of Amram's wife was Jochebed the daughter of Levi, who was born to Levi in Egypt. And she bore to Amram Aaron and Moses and Miriam their sister.
+     </p></td>
       <td><p>
-      </p></td>
+Exodus 2:1 KJV
+And there went a man of the house of Levi, and took to wife a daughter of Levi.
+<br><br>Exodus 6:20 KJV
+And Amram took him Jochebed his father's sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram were an hundred and thirty and seven years.
+<br><br>Numbers 26:59 KJV
+And the name of Amram's wife was Jochebed, the daughter of Levi, whom her mother bare to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister.
+       </p></td>
       <td><p>
 出埃及记 2:1    
 有一个利未家的人娶了一个利未女子为妻。  
-<br>出埃及记 6:20  
+<br><br>出埃及记 6:20  
 暗兰娶了他父亲的妹妹约基别为妻，她给他生了亚伦和摩西。暗兰一生的岁数是一百三十七岁。[*摩西和亚伦的族谱]
-<br>民数记 26:59
+<br><br>民数记 26:59
 暗兰的妻名叫约基别，是利未女子，生在埃及。她给暗兰生了亚伦、摩西，并他们的姐姐米利暗。
 </p></td>
     </tr>
