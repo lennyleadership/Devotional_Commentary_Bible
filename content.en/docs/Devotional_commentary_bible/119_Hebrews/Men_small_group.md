@@ -83,31 +83,30 @@ God went ahead and took actions before Israelite complained.
 
 
 <h2>Point #3: God Prepared Moses</h2>
-<p></p>
+The providential hand of God, God works in unexpected ways.
 
 <ol>
 <li>&nbsp;First 40 years
 <br>* Moses was trained. He was eloquent.  
 <br>&nbsp;Acts 7:22 NLT (or Acts 7:22 ESV)  
-<br>&nbsp;22 Moses was taught all the wisdom of the Egyptians, and he was powerful in both speech and action.
+<br>&nbsp;Moses was taught all the wisdom of the Egyptians, and he was powerful in both speech and action.
 <br>* His faith grew.
-<br>&nbsp;Hebrews 11:24-26 NLT
-<br>&nbsp;24 It was by faith that Moses, when he grew up, refused to be called the son of Pharaoh’s daughter. 
+<br>&nbsp;Hebrews 11:24-27 NLT
+<br>&nbsp;24 It was by faith that Moses, when he <b>grew up</b>, refused to be called the son of Pharaoh’s daughter. 
 <br>&nbsp;25 He chose to share the oppression of God’s people instead of enjoying the fleeting pleasures of sin. 
 <br>&nbsp;26 He thought it was better to suffer for the sake of Christ than to own the treasures of Egypt, for he was looking ahead to his great reward. 
-<br>&nbsp;Exodus 2:11 NLT (or Exodus 2:11 ESV)
-<br>&nbsp;11 Many years later, when Moses had <b>grown up</b> (40-year-old), he <b>went out</b> to visit his own people, the Hebrews, and he saw how hard they were forced to work. During his visit, he saw an Egyptian beating one of his fellow Hebrews.
-<br>&nbsp;Acts 7:23 NLT (or Acts 7:23 ESV)
-<br>&nbsp;23 “One day when Moses was forty years old, he <b>decided</b> to visit his relatives, the people of Israel.
-</li>
-
-<li>&nbsp;Second 40 years
-<br>&nbsp;Hebrews 11:7 NLT  
 <br>&nbsp;27 It was by faith that Moses left the land of Egypt, not fearing the king’s anger. He kept right on going because he kept his eyes on the one who is invisible. 
-
+<br>&nbsp;Exodus 2:11 NLT (or Exodus 2:11 ESV)
+<br>&nbsp;Many years later, when Moses had <b>grown up</b> (40-year-old), he <b>went out</b> to visit his own people, the Hebrews, and he saw how hard they were forced to work. During his visit, he saw an Egyptian beating one of his fellow Hebrews.
+<br>&nbsp;Acts 7:23 NLT (or Acts 7:23 ESV)
+<br>&nbsp;“One day when Moses was forty years old, he <b>decided</b> to visit his relatives, the people of Israel.
+</li>
+<li>&nbsp;Second 40 years
+<br>&nbsp;Exodus 4:20 NLT (or Exodus 4:20 ESV)
+<br>&nbsp;So Moses took his wife and sons, put them on a donkey, and headed back to the land of Egypt. In his hand <b>he carried the staff of God</b>.
 </li>
 <li>&nbsp;Third 40 years
 <br>&nbsp;Hebrews 11:28 NLT
-<br>&nbsp;28 It was by faith that Moses commanded the people of Israel to keep the Passover and to sprinkle blood on the doorposts so that the angel of death would not kill their firstborn sons.
+<br>&nbsp;It was by faith that Moses commanded the people of Israel to keep the Passover and to sprinkle blood on the doorposts so that the angel of death would not kill their firstborn sons.
 </li>
 </ol>

@@ -222,8 +222,12 @@ tr.hidden {
     </tr>
     <tr id="life03" class="hidden">
       <td><p>
+Exodus 2:10 ESV  
+When the child grew older, she brought him to Pharaoh's daughter, and he became her son. She named him Moses, "Because," she said, "I drew him out of the water."
       </p></td>
       <td><p>
+Exodus 2:10 KJV
+And the child grew, and she brought him unto Pharaoh's daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.
       </p></td>
       <td><p>
 使徒行传 7:22
