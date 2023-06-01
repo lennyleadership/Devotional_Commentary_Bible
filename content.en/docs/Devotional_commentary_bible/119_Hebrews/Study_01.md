@@ -202,7 +202,7 @@ Exodus 2:1 ESV
 Now a man from the house of Levi went and took as his wife a Levite woman.
 <br><br>Exodus 6:20 ESV
 Amram took as his wife Jochebed his father's sister, and she bore him Aaron and Moses, the years of the life of Amram being 137 years.
-Numbers 26:59 ESV
+<br><br>Numbers 26:59 ESV
 The name of Amram's wife was Jochebed the daughter of Levi, who was born to Levi in Egypt. And she bore to Amram Aaron and Moses and Miriam their sister.
      </p></td>
       <td><p>
@@ -254,23 +254,39 @@ And Moses was learned in all the wisdom of the Egyptians, and was mighty in word
       <td><p>
 Exodus 2:16 ESV
 Now the priest of Midian had seven daughters, and they came and drew water and filled the troughs to water their father's flock.
-      </p></td>
+<br><br>Exodus 18:12 ESV
+And Jethro, Moses' father-in-law, brought a burnt offering and sacrifices to God; and Aaron came with all the elders of Israel to eat bread with Moses' father-in-law before God.
+<br><br>Numbers 10:29 ESV
+And Moses said to Hobab the son of Reuel the Midianite, Moses' father-in-law, "We are setting out for the place of which the LORD said, 'I will give it to you.' Come with us, and we will do good to you, for the LORD has promised good to Israel."
+<br><br>Judges 4:11 ESV
+Now Heber the Kenite had separated from the Kenites, the descendants of Hobab the father-in-law of Moses, and had pitched his tent as far away as the oak in Zaanannim, which is near Kedesh.
+<br><br>Numbers 12:1 ESV
+Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married, for he had married a Cushite woman.
+     </p></td>
       <td><p>
 Exodus 2:16 KJV
 Now the priest of Midian had seven daughters: and they came and drew water, and filled the troughs to water their father's flock.
-      </p></td>
+<br><br>Exodus 18:12 KJV
+And Jethro, Moses' father in law, took a burnt offering and sacrifices for God: and Aaron came, and all the elders of Israel, to eat bread with Moses' father in law before God.
+<br><br>Numbers 10:29 KJV
+And Moses said unto Hobab, the son of Raguel the Midianite, Moses' father in law, We are journeying unto the place of which the Lord said, I will give it you: come thou with us, and we will do thee good: for the Lord hath spoken good concerning Israel.
+<br><br>Judges 4:11 KJV
+Now Heber the Kenite, which was of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which is by Kedesh.
+<br><br>Numbers 12:1 KJV
+And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
+       </p></td>
       <td><p>
 ‪出埃及记‬2:16
 一日，他在井旁坐下。<b>米甸</b>的祭司有七个女儿；她们来打水，打满了槽，要饮父亲的群羊。
-<br>出埃及记 18:12
+<br><br>出埃及记 18:12
 <b>摩西的岳父叶忒罗</b>把燔祭和平安祭献给神。亚伦和以色列的众长老都来了，与摩西的岳父在神面前吃饭。
-<br>民数记 10:29
+<br><br>民数记 10:29
 <b>摩西对他岳父米甸人流珥的儿子何巴</b>说：“我们要行路，往耶和华所应许之地去；他曾说：‘我要将这地赐给你们。’现在求你和我们同去，我们必厚待你，因为耶和华指着以色列人已经应许给好处。”
-<br>士师记 4:11
+<br><br>士师记 4:11
 <b>摩西岳父何巴</b>的后裔，基尼人希百曾离开基尼族，到靠近基低斯、撒拿音的橡树旁支搭帐棚。
-<br>民数记 12:1   
+<br><br>民数记 12:1   
 摩西娶了<b>古实</b>女子为妻。米利暗和亚伦因他所娶的古实女子就毁谤他...
-<br>参考：<a href = "https://www.ccbiblestudy.org/Old%20Testament/04Num/04GS12.htm" target="_blank" rel="noopener noreferrer">华人基督徒查经资料网站 | 民数记第十二章拾穗</a>
+<br><br>参考：<a href = "https://www.ccbiblestudy.org/Old%20Testament/04Num/04GS12.htm" target="_blank" rel="noopener noreferrer">华人基督徒查经资料网站 | 民数记第十二章拾穗</a>
 </p></td>
     </tr>
     <tr id="life05" class="hidden">
