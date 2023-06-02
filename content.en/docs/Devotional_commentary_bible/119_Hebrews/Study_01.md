@@ -965,8 +965,8 @@ And he said, The Lord came from Sinai, and rose up from Seir unto them; he shine
   </tbody>
 </table>
 
-<div class="scroll-container" style ="margin-right: -15%;">
-    <a href="#header_1">To Table Header</a>
+<div class="scroll-container">
+    <a href="#header_1" >To Table Header</a>
 </div>
 
 <h2 id = "header_2">Moses did different things</h2>
