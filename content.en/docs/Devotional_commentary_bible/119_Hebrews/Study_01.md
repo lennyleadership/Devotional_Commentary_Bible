@@ -175,7 +175,7 @@ tr.hidden {
 </script>
 
 
-<table class="row">
+<table class="row" style="width:100%">
   <caption style="text-align:left", align = "top"><b>Bible verses on Moses</b></caption>
   <colgroup>
     <col style="width: 34%" /><col style="width: 33%" /><col style="width: 33%" />
@@ -363,21 +363,21 @@ And Shebuel the son of Gershom, the son of Moses, was ruler of the treasures.
     <tr id="title01" class="hidden">
       <td><p>
 He was a high priest  
-<br><br>Psalm 99:6 ESV
+<br>>Psalm 99:6 ESV
 Moses and Aaron were among his priests, Samuel also was among those who called upon his name. They called to the LORD, and he answered them.
 <br>Numbers 7:89 ESV
 And when Moses went into the tent of meeting to speak with the LORD, he heard the voice speaking to him from above the mercy seat that was on the ark of the testimony, from between the two cherubim; and it spoke to him.
       </p></td>
       <td><p>
 He was a high priest  
-<br><br>Psalm 99:6 KJV
+<br>Psalm 99:6 KJV
 Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the Lord, and he answered them.
 Numbers 7:89 KJV
 And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him.
       </p></td>
       <td><p>
 摩西是大祭司
-<br><br>《保留》诗篇 99:6
+<br>诗篇 99:6
 在他的祭司中有摩西和亚伦；在求告他名的人中有撒母耳。他们求告耶和华，他就应允他们。
 <br>民数记 7:89
 摩西进会幕要与耶和华说话的时候，听见法柜的施恩座以上、二基路伯中间有与他说话的声音，就是耶和华与他说话。
