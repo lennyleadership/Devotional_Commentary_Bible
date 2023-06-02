@@ -1066,7 +1066,11 @@ html {
 }
 // end *********************************************************************************************
 
- 
+
+.index{
+  margin: 0 0 0 510px;
+  color: orange;
+}
  
 // Extra space for big screens *////////////////////////////////////////////////////////////////////
 @media screen and (min-width: $container-max-width) {
