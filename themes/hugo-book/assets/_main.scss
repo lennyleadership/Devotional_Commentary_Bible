@@ -1039,7 +1039,7 @@ h1:before {
 //* this is the pure css solution, no javascript is involved
 .scroll-container {
       position: absolute;
-      margin-right: -15%;
+      /*margin-right: -15%;*/
       top: 0;
       right:0;
       height: 100%;
@@ -1056,7 +1056,6 @@ h1:before {
     // fixed to right bottom of page
 .scroll-container a {
       position: sticky;
-      margin-right: -15%;
       top: 88vh;
       cursor: pointer;
       font-size: 15px;
