@@ -1,6 +1,6 @@
 ---
-weight: 1
-title: Exodus 1
+weight: 34
+title: Exodus 34
 authors: Lenny
 categories: null
 description: 
