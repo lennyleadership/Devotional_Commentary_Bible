@@ -27,7 +27,7 @@ toc: true
 
 2:1 And there went a man of the house of Levi, and took to wife a daughter of Levi.  
 2:2 And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months.  
-2:3 And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river's brink.  
+2:3 And when she could not longer hide him, she took for him an <a class = "red">ark</a> of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river's brink. <a class = "marginnote">v3: it is ark in KJV translation, which is the same word for Noah's ark.</a>  
 2:4 And his sister stood afar off, to wit what would be done to him.  
 2:5 And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river's side; and when she saw the ark among the flags, she sent her maid to fetch it.  
 
@@ -57,7 +57,7 @@ toc: true
 </div>
 
 
-<div id="chinese" class="tabcontent" style="display:block">
+<div id="chinese" class="tabcontent">
 
 2:1 有一个利未家的人、娶了一个利未女子为妻。  
 2:2 那女人怀孕、生一个儿子、见他俊美就藏了他三个月。  
@@ -91,8 +91,8 @@ toc: true
 
 <p id="1">[1] 2022 年4月 27 日 活泉小简  
 <br>摩西的「出来」  
-<br>[出二 10]「她给孩子起名叫摩西，意思说:因我把他从水里拉出来。  
-<br>摩西的意思乃是「出来」。这「出来」二字，便可以把摩西一生的历史包括尽了。起初他是由水里「出来」到王宫里；等到长大了，他又蒙引导「出来」，离开那属世的环境到旷野去，独自与神交通；后来神把他从旷野带「出来」，成为神的器皿，去带领以色列百姓出埃及。再后他又被召离开他的工作，由帐幕里「出来」到小上去与神有更亲密的交通；最后他就由这世界「出来」，到那永生神的怀抱里。 
+<br>[出二 10]「她给孩子起名叫摩西，意思说：因我把他从水里拉出来。  
+<br>摩西的意思乃是「出来」。这「出来」二字，便可以把摩西一生的历史包括尽了。起初他是由水里「出来」到王宫里；等到长大了，他又蒙引导「出来」，离开那属世的环境到旷野去，独自与神交通；后来神把他从旷野带「出来」，成为神的器皿，去带领以色列百姓出埃及。再后他又被召离开他的工作，由帐幕里「出来」到山上去与神有更亲密的交通；最后他就由这世界「出来」，到那永生神的怀抱里。 
 <br>--摘自《与主面对面》(宾路易师母)
 <a href="#1_ref">&#8617;</a>
 </p>
