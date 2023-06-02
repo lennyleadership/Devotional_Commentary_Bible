@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 1:1 Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.  
 1:2 Reuben, Simeon, Levi, and Judah,  
 1:3 Issachar, Zebulun, and Benjamin,  
@@ -53,6 +54,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 1:1 以色列的众子、各带家眷和雅各一同来到埃及、他们的名字记在下面。  
 1:2 有流便、西缅、利未、犹大、
 1:3 以萨迦、西布伦、便雅悯、

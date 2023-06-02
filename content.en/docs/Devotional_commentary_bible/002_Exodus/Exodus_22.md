@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 22:1 If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.  
 22:2 If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him.  
 22:3 If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft.  
@@ -65,6 +66,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 22:1 人若偷牛、或羊、无论是宰了、是卖了、他就要以五牛赔一牛、四羊赔一羊。  
 22:2 人若遇见贼挖窟窿、把贼打了、以致于死、就不能为他有流血的罪。  
 22:3 若太阳已经出来、就为他有流血的罪。  贼若被拿、总要赔还、若他一无所有、就要被卖、顶他所偷的物。  

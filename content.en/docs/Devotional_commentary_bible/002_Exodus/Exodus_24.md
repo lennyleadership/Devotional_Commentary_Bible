@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 24:1 And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off.  
 24:2 And Moses alone shall come near the LORD: but they shall not come nigh; neither shall the people go up with him.  
 24:3 And Moses came and told the people all the words of the LORD, and all the judgments: and all the people answered with one voice, and said, All the words which the LORD hath said will we do.  
@@ -49,6 +50,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 24:1 耶和华对摩西说、你和亚伦、拿答、亚比户、并以色列长老中的七十人、都要上到我这里来、远远的下拜。  
 24:2 惟独你可以亲近耶和华。  他们却不可亲近。  百姓也不可和你一同上来。  
 24:3 摩西下山、将耶和华的命令、典章、都述说与百姓听。  众百姓齐声说、耶和华所吩咐的、我们都必遵行。  

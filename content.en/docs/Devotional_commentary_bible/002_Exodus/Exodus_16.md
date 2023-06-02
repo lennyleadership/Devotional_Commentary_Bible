@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 16:1 And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.  
 16:2 And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:  
 16:3 And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.  
@@ -70,6 +71,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 16:1 以色列全会众从以琳起行、在出埃及后第二个月十五日、到了以琳和西乃中间、汛的旷野。  
 16:2 以色列全会众在旷野向摩西、亚伦发怨言、
 16:3 说、巴不得我们早死在埃及地耶和华的手下、那时我们坐在肉锅旁边、吃得饱足。  你们将我们领出来、到这旷野、是要叫这全会众都饿死阿。  

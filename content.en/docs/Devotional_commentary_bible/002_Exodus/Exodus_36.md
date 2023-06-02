@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 36:1 Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the LORD had commanded.  
 36:2 And Moses called Bezaleel and Aholiab, and every wise hearted man, in whose heart the LORD had put wisdom, even every one whose heart stirred him up to come unto the work to do it:  
 36:3 And they received of Moses all the offering, which the children of Israel had brought for the work of the service of the sanctuary, to make it withal. And they brought yet unto him free offerings every morning.  
@@ -73,6 +74,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 36:1 比撒列和亚何利亚伯、并一切心里有智慧的、就是蒙耶和华赐智慧聪明、叫他知道作圣所各样使用之工的、都要照耶和华所吩咐的作工。  
 36:2 凡耶和华赐他心里有智慧、而且受感前来作这工的、摩西把他们和比撒列、并亚何利亚伯、一同召来。  
 36:3 这些人就从摩西收了以色列人为作圣所、并圣所使用之工所拿来的礼物。百姓每早晨、还把甘心献的礼物拿来。  

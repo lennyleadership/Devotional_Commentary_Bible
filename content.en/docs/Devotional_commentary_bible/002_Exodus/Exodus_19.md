@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 19:1 In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai.  
 19:2 For they were departed from Rephidim, and were come to the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount.  
 19:3 And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel;  
@@ -56,6 +57,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 19:1 以色列人出埃及地以后、满了三个月的那一天、就来到西乃的旷野。  
 19:2 他们离了利非订来到西乃的旷野、就在那里的山下安营。  
 19:3 摩西到　神那里、耶和华从山上呼唤他说、你要这样告诉雅各家、晓谕以色列人、说、

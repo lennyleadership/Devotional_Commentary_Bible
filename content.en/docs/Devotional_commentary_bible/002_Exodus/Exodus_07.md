@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 7:1 And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet.  
 7:2 Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land.  
 7:3 And I will harden Pharaoh's heart, and multiply my signs and my wonders in the land of Egypt.  
@@ -56,6 +57,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 7:1 耶和华对摩西说、我使你在法老面前代替　神、你的哥哥亚伦是替你说话的。  
 7:2 凡我所吩咐你的、你都要说、你的哥哥亚伦要对法老说、容以色列人出他的地。  
 7:3 我要使法老的心刚硬、也要在埃及地多行神迹奇事。  

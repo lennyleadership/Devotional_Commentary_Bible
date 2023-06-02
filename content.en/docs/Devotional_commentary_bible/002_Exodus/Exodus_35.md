@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 35:1 And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them.  
 35:2 Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death.  
 35:3 Ye shall kindle no fire throughout your habitations upon the sabbath day.  
@@ -69,6 +70,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 35:1 摩西招聚以色列全会众、对他们说、这是耶和华所吩咐的话、叫你们照着行。  
 35:2 六日要作工、第七日乃为圣日、当向耶和华守为安息圣日、凡这日之内作工的、必把他治死。  
 35:3 当安息日、不可在你们一切的住处生火。  

@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 28:1 And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest's office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron's sons.  
 28:2 And thou shalt make holy garments for Aaron thy brother for glory and for beauty.  
 28:3 And thou shalt speak unto all that are wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron's garments to consecrate him, that he may minister unto me in the priest's office.  
@@ -78,6 +79,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 28:1 你要从以色列人中使你的哥哥亚伦、和他的儿子拿答、亚比户、以利亚撒、以他玛、一同就近你、给我供祭司的职分。  
 28:2 你要给你哥哥亚伦作圣衣为荣耀、为华美。  
 28:3 又要吩咐一切心中有智慧的、就是我用智慧的灵所充满的、给亚伦作衣服、使他分别为圣、可以给我供祭司的职分。  

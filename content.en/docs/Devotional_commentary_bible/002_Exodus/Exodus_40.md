@@ -24,6 +24,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 40:1 And the LORD spake unto Moses, saying,  
 40:2 On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation.  
 40:3 And thou shalt put therein the ark of the testimony, and cover the ark with the vail.  
@@ -74,6 +75,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent" style="display:block">
+
 40:1 耶和华晓谕摩西说、
 40:2 正月初一日、你要立起帐幕。  
 40:3 把法柜安放在里面、用幔子将柜遮掩。  

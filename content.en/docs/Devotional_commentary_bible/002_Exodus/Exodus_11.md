@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 11:1 And the LORD said unto Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he shall surely thrust you out hence altogether.  
 11:2 Speak now in the ears of the people, and let every man borrow of his neighbour, and every woman of her neighbour, jewels of silver, and jewels of gold.  
 11:3 And the LORD gave the people favour in the sight of the Egyptians. Moreover the man Moses was very great in the land of Egypt, in the sight of Pharaoh's servants, and in the sight of the people.  
@@ -39,6 +40,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 11:1 耶和华对摩西说、我再使一样的灾殃临到法老和埃及、然后他必容你们离开这地。  他容你们去的时候、总要催逼你们都从这地出去。  
 11:2 你要传于百姓的耳中、叫他们男女各人向邻舍要金器银器。  
 11:3 耶和华叫百姓在埃及人眼前蒙恩、并且摩西在埃及地法老臣仆、和百姓的眼中、看为极大。  

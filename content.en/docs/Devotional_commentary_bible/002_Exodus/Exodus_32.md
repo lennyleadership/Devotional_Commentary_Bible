@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 32:1 And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.  
 32:2 And Aaron said unto them, Break off the golden earrings, which are in the ears of your wives, of your sons, and of your daughters, and bring them unto me.  
 32:3 And all the people brake off the golden earrings which were in their ears, and brought them unto Aaron.  
@@ -69,6 +70,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 32:1 百姓见摩西迟延不下山、就大家聚集到亚伦那里、对他说、起来、为我们作神像、可以在我们前面引路、因为领我们出埃及地的那个摩西、我们不知道他遭了甚么事。  
 32:2 亚伦对他们说、你们去摘下你们妻子儿女耳上的金环、拿来给我。  
 32:3 百姓就都摘下他们耳上的金环、拿来给亚伦。  

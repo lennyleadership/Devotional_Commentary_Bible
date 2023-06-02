@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 14:1 And the LORD spake unto Moses, saying,  
 14:2 Speak unto the children of Israel, that they turn and encamp before Pihahiroth, between Migdol and the sea, over against Baalzephon: before it shall ye encamp by the sea.  
 14:3 For Pharaoh will say of the children of Israel, They are entangled in the land, the wilderness hath shut them in.  
@@ -65,6 +66,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 14:1 耶和华晓谕摩西说、
 14:2 你吩咐以色列人转回、安营在比哈希录前、密夺和海的中间、对着巴力洗分靠近海边安营。  
 14:3 法老必说、以色列人在地中绕迷了、旷野把他们困住了。  

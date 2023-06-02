@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 13:1 And the LORD spake unto Moses, saying,  
 13:2 Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine.  
 13:3 And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this place: there shall no leavened bread be eaten.  
@@ -53,6 +54,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 13:1 耶和华晓谕摩西说、
 13:2 以色列中凡头生的、无论是人是牲畜、都是我的、要分别为圣归我。  
 13:3 摩西对百姓说、你们要记念从埃及为奴之家出来的这日、因为耶和华用大能的手将你们从这地方领出来。  有酵的饼都不可吃。  

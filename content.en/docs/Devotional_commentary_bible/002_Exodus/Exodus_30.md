@@ -24,6 +24,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 30:1 And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it.  
 30:2 A cubit shall be the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits shall be the height thereof: the horns thereof shall be of the same.  
 30:3 And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about.  
@@ -73,6 +74,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent" style="display:block">
+
 30:1 你要用皂荚木作一座烧香的坛。  
 30:2 这坛要四方的、长一肘、宽一肘、高二肘。  坛的四角、要与坛接连一块。  
 30:3 要用精金、把坛的上面、与坛的四围、并坛的四角包裹。  又要在坛的四围镶上金牙边。  

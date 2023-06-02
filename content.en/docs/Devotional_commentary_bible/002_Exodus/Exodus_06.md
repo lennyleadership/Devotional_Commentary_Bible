@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 6:1 Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.  
 6:2 And God spake unto Moses, and said unto him, I am the LORD:  
 6:3 And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.  
@@ -62,6 +63,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 6:1 耶和华对摩西说、现在你必看见我向法老所行的事、使他因我大能的手容以色列人去、且把他们赶出他的地。  
 6:2 　神晓谕摩西说、我是耶和华。  
 6:3 我从前向亚伯拉罕、以撒、雅各、显现为全能的　神、至于我名耶和华、他们未曾知道。  

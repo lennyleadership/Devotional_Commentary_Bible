@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 31:1 And the LORD spake unto Moses, saying,  
 31:2 See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:  
 31:3 And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,  
@@ -49,6 +50,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 31:1 耶和华晓谕摩西说。  
 31:2 看哪、犹大支派中户珥的孙子、乌利的儿子比撒列、我已经提他的名召他。  
 31:3 我也以我的灵充满了他、使他有智慧、有聪明、有知识、能作各样的工、

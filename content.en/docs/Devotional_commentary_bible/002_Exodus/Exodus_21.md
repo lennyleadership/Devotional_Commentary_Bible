@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 21:1 Now these are the judgments which thou shalt set before them.  
 21:2 If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.  
 21:3 If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.  
@@ -71,6 +72,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 21:1 你在百姓面前所要立的典章是这样。  
 21:2 你若买希伯来人作奴仆、他必服事你六年、第七年他可以自由、白白地出去。  
 21:3 他若孤身来、就可以孤身去。  他若有妻、他的妻就可以同他出去。  

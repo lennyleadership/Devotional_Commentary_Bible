@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 20:1 And God spake all these words, saying,  
 20:2 I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.  
 20:3 Thou shalt have no other gods before me.  
@@ -59,6 +60,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 20:1 　神吩咐这一切的话、说、
 20:2 我是耶和华你的　神、曾将你从埃及地为奴之家领出来。  
 20:3 除了我以外、你不可有别的神。  

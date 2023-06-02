@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 10:1 And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him:  
 10:2 And that thou mayest tell in the ears of thy son, and of thy son's son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I am the LORD.  
 10:3 And Moses and Aaron came in unto Pharaoh, and said unto him, Thus saith the LORD God of the Hebrews, How long wilt thou refuse to humble thyself before me? let my people go, that they may serve me.  
@@ -61,6 +62,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 10:1 耶和华对摩西说、你进去见法老、我使他和他臣仆的心刚硬、为要在他们中间显我这些神迹。  
 10:2 并要叫你将我向埃及人所作的事、和在他们中间所行的神迹、传于你儿子和你孙子的耳中、好叫你们知道我是耶和华。  
 10:3 摩西亚伦就进去见法老、对他说、耶和华希伯来人的　神、这样说、你在我面前不肯自卑、要到几时呢、容我的百姓去、好事奉我。  

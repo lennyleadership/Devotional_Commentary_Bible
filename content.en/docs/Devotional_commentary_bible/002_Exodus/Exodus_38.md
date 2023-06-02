@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 38:1 And he made the altar of burnt offering of shittim wood: five cubits was the length thereof, and five cubits the breadth thereof; it was foursquare; and three cubits the height thereof.  
 38:2 And he made the horns thereof on the four corners of it; the horns thereof were of the same: and he overlaid it with brass.  
 38:3 And he made all the vessels of the altar, the pots, and the shovels, and the basons, and the fleshhooks, and the firepans: all the vessels thereof made he of brass.  
@@ -65,6 +66,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 38:1 他用皂荚木作燔祭坛、是四方的、长五肘、宽五肘、高三肘。  
 38:2 在坛的四拐角上作四个角、与坛接连一块、用铜把坛包裹。  
 38:3 他作坛上的盆、铲子、盘子、肉锸子、火鼎。  这一切器具都是用铜作的。  

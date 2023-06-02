@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 39:1 And of the blue, and purple, and scarlet, they made cloths of service, to do service in the holy place, and made the holy garments for Aaron; as the LORD commanded Moses.  
 39:2 And he made the ephod of gold, blue, and purple, and scarlet, and fine twined linen.  
 39:3 And they did beat the gold into thin plates, and cut it into wires, to work it in the blue, and in the purple, and in the scarlet, and in the fine linen, with cunning work.  
@@ -79,6 +80,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 39:1 比撒列用蓝色紫色朱红色线、作精致的衣服、在圣所用以供职、又为亚伦作圣衣。  是照耶和华所吩咐摩西的。  
 39:2 他用金线和蓝色紫色朱红色线、并捻的细麻作以弗得。  
 39:3 把金子锤成薄片、剪出线来、与蓝色紫色朱红色线、用巧匠的手工一同绣上。  

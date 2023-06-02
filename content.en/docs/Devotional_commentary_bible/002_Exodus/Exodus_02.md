@@ -24,6 +24,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 2:1 And there went a man of the house of Levi, and took to wife a daughter of Levi.  
 2:2 And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months.  
 2:3 And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river's brink.  

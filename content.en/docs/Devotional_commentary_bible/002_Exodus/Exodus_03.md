@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 3:1 Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb.  
 3:2 And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.  
 3:3 And Moses said, I will now turn aside, and see this great sight, why the bush is not burnt.  
@@ -53,6 +54,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 3:1 摩西牧养他岳父米甸祭司叶忒罗的羊群、一日领羊群往野外去、到了　神的山、就是何烈山。  
 3:2 耶和华的使者从荆棘里火焰中向摩西显现。  摩西观看、不料、荆棘被火烧着、却没有烧毁。  
 3:3 摩西说、我要过去看这大异象、这荆棘为何没有烧坏呢。  

@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 37:1 And Bezaleel made the ark of shittim wood: two cubits and a half was the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:  
 37:2 And he overlaid it with pure gold within and without, and made a crown of gold to it round about.  
 37:3 And he cast for it four rings of gold, to be set by the four corners of it; even two rings upon the one side of it, and two rings upon the other side of it.  
@@ -62,6 +63,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 37:1 比撒列用皂荚木作柜、长二肘半、宽一肘半、高一肘半。  
 37:2 里外包上精金、四围镶上金牙边。  
 37:3 又铸四个金环、安在柜的四脚上、这边两环、那边两环。  

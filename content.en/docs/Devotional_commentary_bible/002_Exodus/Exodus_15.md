@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 15:1 Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.  
 15:2 The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.  
 15:3 The LORD is a man of war: the LORD is his name.  
@@ -60,6 +61,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 15:1 那时摩西和以色列人、向耶和华唱歌说、我要向耶和华歌唱、因他大大战胜、将马和骑马的投在海中。  
 15:2 耶和华是我的力量、我的诗歌、也成了我的拯救。  这是我的　神、我要赞美他、是我父亲的　神、我要尊崇他。  
 15:3 耶和华是战士、他的名是耶和华。  

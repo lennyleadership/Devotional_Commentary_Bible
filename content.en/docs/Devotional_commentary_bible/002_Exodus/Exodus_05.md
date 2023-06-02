@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 5:1 And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.  
 5:2 And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go.  
 5:3 And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days' journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword.  
@@ -54,6 +55,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 5:1 后来摩西亚伦去对法老说、耶和华以色列的　神这样说、容我的百姓去、在旷野向我守节。  
 5:2 法老说、耶和华是谁、使我听他的话、容以色列人去呢、我不认识耶和华、也不容以色列人去。  
 5:3 他们说、希伯来人的　神遇见了我们、求你容我们往旷野去、走三天的路程、祭祀耶和华我们的　神、免得他用瘟疫、刀兵、攻击我们。  

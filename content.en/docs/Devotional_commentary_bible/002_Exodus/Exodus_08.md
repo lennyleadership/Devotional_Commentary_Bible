@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 8:1 And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me.  
 8:2 And if thou refuse to let them go, behold, I will smite all thy borders with frogs:  
 8:3 And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:  
@@ -65,6 +66,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 8:1 耶和华吩咐摩西说、你进去见法老、对他说、耶和华这样说、容我的百姓去、好事奉我。  
 8:2 你若不肯容他们去、我必使青蛙糟蹋你的四境。  
 8:3 河里要滋生青蛙、这青蛙要上来进你的宫殿、和你的卧房、上你的床榻、进你臣仆的房屋、上你百姓的身上、进你的炉灶、和你的抟面盆。  

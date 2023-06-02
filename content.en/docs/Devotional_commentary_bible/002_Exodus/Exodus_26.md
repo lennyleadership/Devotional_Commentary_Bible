@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 26:1 Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.  
 26:2 The length of one curtain shall be eight and twenty cubits, and the breadth of one curtain four cubits: and every one of the curtains shall have one measure.  
 26:3 The five curtains shall be coupled together one to another; and other five curtains shall be coupled one to another.  
@@ -71,6 +72,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 26:1 你要用十幅幔子作帐幕。  这些幔子要用捻的细麻、和蓝色紫色朱红色线制造。  并用巧匠的手工绣上基路伯。  
 26:2 每幅幔子、要长二十八肘、宽四肘、幔子都要一样的尺寸。  
 26:3 这五幅幔子要幅幅相连。  那五幅幔子也要幅幅相连。  

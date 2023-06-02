@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 27:1 And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits.  
 27:2 And thou shalt make the horns of it upon the four corners thereof: his horns shall be of the same: and thou shalt overlay it with brass.  
 27:3 And thou shalt make his pans to receive his ashes, and his shovels, and his basons, and his fleshhooks, and his firepans: all the vessels thereof thou shalt make of brass.  
@@ -52,6 +53,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 27:1 你要用皂荚木作坛。  这坛要四方的、长五肘、宽五肘、高三肘。  
 27:2 要在坛的四拐角上作四个角、与坛接连一块、用铜把坛包裹。  
 27:3 要作盆、收去坛上的灰、又作铲子、盘子、肉锸子、火鼎、坛上一切的器具、都用铜作。  

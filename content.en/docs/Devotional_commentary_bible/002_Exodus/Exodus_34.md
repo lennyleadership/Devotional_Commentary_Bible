@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 34:1 And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest.  
 34:2 And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount.  
 34:3 And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.  
@@ -69,6 +70,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 34:1 耶和华吩咐摩西说、你要凿出两块石版、和先前你摔碎的那版一样。  其上的字我要写在这版上。  
 34:2 明日早晨、你要预备好了、上西乃山、在山顶上站在我面前。  
 34:3 谁也不可和你一同上去、遍山都不可有人、在山根也不可叫羊群牛群吃草。  

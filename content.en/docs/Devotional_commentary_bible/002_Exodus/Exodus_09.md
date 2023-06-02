@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 9:1 Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.  
 9:2 For if thou refuse to let them go, and wilt hold them still,  
 9:3 Behold, the hand of the LORD is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain.  
@@ -69,6 +70,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 9:1 耶和华吩咐摩西说、你进去见法老、对他说、耶和华希伯来人的　神这样说、容我的百姓去、好事奉我。  
 9:2 你若不肯容他们去、仍旧强留他们、
 9:3 耶和华的手加在你田间的牲畜上、就是在马、驴、骆驼、牛群、羊群上、必有重重的瘟疫。  

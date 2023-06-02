@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 23:1 Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.  
 23:2 Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment:  
 23:3 Neither shalt thou countenance a poor man in his cause.  
@@ -67,6 +68,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 23:1 不可随伙布散谣言、不可与恶人连手妄作见证。  
 23:2 不可随众行恶。  不可在争讼的事上、随众偏行、作见证屈枉正直。  
 23:3 也不可在争讼的事上、偏护穷人。  

@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 12:1 And the LORD spake unto Moses and Aaron in the land of Egypt, saying,  
 12:2 This month shall be unto you the beginning of months: it shall be the first month of the year to you.  
 12:3 Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house:  
@@ -88,6 +89,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 12:1 耶和华在埃及地晓谕摩西亚伦说、
 12:2 你们要以本月为正月、为一年之首。  
 12:3 你们吩咐以色列全会众说、本月初十日、各人要按着父家取羊羔、一家一只。  

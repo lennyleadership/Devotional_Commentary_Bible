@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 29:1 And this is the thing that thou shalt do unto them to hallow them, to minister unto me in the priest's office: Take one young bullock, and two rams without blemish,  
 29:2 And unleavened bread, and cakes unleavened tempered with oil, and wafers unleavened anointed with oil: of wheaten flour shalt thou make them.  
 29:3 And thou shalt put them into one basket, and bring them in the basket, with the bullock and the two rams.  
@@ -82,6 +83,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 29:1 你使亚伦和他儿子成圣、给我供祭司的职分、要如此行。  取一只公牛犊、两只无残疾的公绵羊、
 29:2 无酵饼、和调油的无酵饼、与抹油的无酵薄饼。  这都要用细麦面作成。  
 29:3 这饼要装在一个筐子里、连筐子带来、又把公牛和两只公绵羊牵来。  

@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 4:1 And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee.  
 4:2 And the LORD said unto him, What is that in thine hand? And he said, A rod.  
 4:3 And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it.  
@@ -64,6 +65,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 4:1 摩西回答说、他们必不信我、也不听我的话、必说、耶和华并没有向你显现。  
 4:2 耶和华对摩西说、你手里是甚么。  他说、是杖。  
 4:3 耶和华说、丢在地上、他一丢下去、就变作蛇、摩西便跑开。  

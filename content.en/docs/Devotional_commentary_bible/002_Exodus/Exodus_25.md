@@ -23,6 +23,7 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
 25:1 And the LORD spake unto Moses, saying,  
 25:2 Speak unto the children of Israel, that they bring me an offering: of every man that giveth it willingly with his heart ye shall take my offering.  
 25:3 And this is the offering which ye shall take of them; gold, and silver, and brass,  
@@ -74,6 +75,7 @@ toc: true
 
 
 <div id="chinese" class="tabcontent">
+
 25:1 耶和华晓谕摩西说、
 25:2 你告诉以色列人当为我送礼物来、凡甘心乐意的、你们就可以收下归我。  
 25:3 所要收的礼物、就是金、银、铜、
