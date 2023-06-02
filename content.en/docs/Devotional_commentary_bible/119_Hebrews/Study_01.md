@@ -66,17 +66,15 @@ td {
   padding: 0.25em 0.5em 0.25em 1em;
   vertical-align: text-top;
   text-align: left;
-  text-indent: -0.5em;
+  /*text-indent: -0.5em;*/
 }
 
-.row td:nth-of-type(2), .cell td:nth-of-type(3) {
+.row td:nth-of-type(1),.row td:nth-of-type(2) {
   font-style: italic;
 }
 
 .row th:nth-of-type(3),
-.row td:nth-of-type(3),
-.cell th:nth-of-type(4),
-.cell td:nth-of-type(4) {
+.row td:nth-of-type(3) {
   text-align: left;
 }
 
@@ -108,8 +106,8 @@ tr.hidden {
 }
 
 .row button:focus, .row button:hover {
-  background-color: #ddd;
-  outline: .2em solid #00f;
+  background-color: #eee;
+  /*outline: .2em solid #00f;*/
 }
 
 .row button svg {
