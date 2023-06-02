@@ -362,30 +362,36 @@ And Shebuel the son of Gershom, the son of Moses, was ruler of the treasures.
     </tr> 
     <tr id="title01" class="hidden">
       <td><p>
-He was a priest  
+He was a high priest  
 <br><br>Psalm 99:6 ESV
 Moses and Aaron were among his priests, Samuel also was among those who called upon his name. They called to the LORD, and he answered them.
+<br>Numbers 7:89 ESV
+And when Moses went into the tent of meeting to speak with the LORD, he heard the voice speaking to him from above the mercy seat that was on the ark of the testimony, from between the two cherubim; and it spoke to him.
       </p></td>
       <td><p>
-He was a priest  
+He was a high priest  
 <br><br>Psalm 99:6 KJV
 Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the Lord, and he answered them.
+Numbers 7:89 KJV
+And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him.
       </p></td>
       <td><p>
-他是祭司
-<br>诗篇 99:6
+摩西是大祭司
+<br><br>《保留》诗篇 99:6
 在他的祭司中有摩西和亚伦；在求告他名的人中有撒母耳。他们求告耶和华，他就应允他们。
+<br>民数记 7:89
+摩西进会幕要与耶和华说话的时候，听见法柜的施恩座以上、二基路伯中间有与他说话的声音，就是耶和华与他说话。
 </p></td>
     </tr>
     <tr id="title02" class="hidden">
       <td><p>
 He was a servant  
-<br><br>Numbers 12:7-8 ESV
+<br>Numbers 12:7-8 ESV
 Not so with my servant Moses. He is faithful in all my house. [8] With him I speak mouth to mouth, clearly, and not in riddles, and he beholds the form of the LORD. Why then were you not afraid to speak against my servant Moses?"
       </p></td>
       <td><p>
 He was a servant  
-<br><br>Numbers 12:7-8 KJV
+<br>Numbers 12:7-8 KJV
 My servant Moses is not so, who is faithful in all mine house. [8] With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the Lord shall he behold: wherefore then were ye not afraid to speak against my servant Moses?
       </p></td>
       <td><p>
@@ -397,8 +403,14 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>    
     <tr id="title03" class="hidden">
       <td><p>
+He was a prophet
+<br>Deuteronomy 34:10-12 ESV
+And there has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face, [11] none like him for all the signs and the wonders that the LORD sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land, [12] and for all the mighty power and all the great deeds of terror that Moses did in the sight of all Israel.
       </p></td>
       <td><p>
+He was a prophet
+<br>Deuteronomy 34:10-12 KJV
+And there arose not a prophet since in Israel like unto Moses, whom the Lord knew face to face, [11] In all the signs and the wonders, which the Lord sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land, [12] And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel.
       </p></td>
       <td><p>
 他是先知
@@ -410,27 +422,27 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="title04" class="hidden">
       <td><p>
-14 But the sons of Moses <b>the man of God</b> were named among the tribe of Levi.  
-1 Chronicles 23:14 (ESV)
-</p></td>
+He was a man of God
+<br>1 Chronicles 23:14 (ESV)
+But the sons of Moses <b>the man of God</b> were named among the tribe of Levi.  
+<br> Psalms 90 (ESV)
+The prayer of the man of God
+      </p></td>
       <td><p>
-14 Now concerning Moses <b>the man of God</b>, his sons were named of the tribe of Levi.  
-1 Chronicles 23:14 (KJV)
-</p></td>
+He was a man of God
+<br>1 Chronicles 23:14 (KJV)
+Now concerning Moses <b>the man of God</b>, his sons were named of the tribe of Levi.  
+<br> Psalms 90 (KJV)
+The prayer of the man of God
+      </p></td>
       <td><p>
 他是神人
 <br>历代志上 23:14
 至于神人摩西，他的子孙名字记在利未支派的册上。
 <br>注：尽管摩西娶了外邦女子为妻，他的后代依然属于利未支派。
-</p></td>
-    </tr>
-    <tr id="title05" class="hidden">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
+<br>诗篇 90
+神人摩西的祈祷。
+    </p></td>
     </tr>
     <tr id="title06" class="hidden">
       <td><p>
@@ -449,8 +461,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="character01" class="hidden">
       <td><p>
+Numbers 12:3 ESV
+Now the man Moses was very meek, more than all people who were on the face of the earth.
       </p></td>
       <td><p>
+Numbers 12:3 KJV
+(Now the man Moses was very meek, above all the men which were upon the face of the earth.)
       </p></td>
       <td><p>
 民数记 12:3    
@@ -459,8 +475,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr  id="character02" class="hidden">
       <td><p>
+Numbers 12:7 ESV
+Not so with my servant Moses. He is faithful in all my house.
       </p></td>
       <td><p>
+Numbers 12:7 KJV
+My servant Moses is not so, who is faithful in all mine house.
       </p></td>
       <td><p>
 民数记 12:7  
@@ -471,8 +491,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr  id="character03" class="hidden">
       <td><p>
+Numbers 27:18 ESV
+So the LORD said to Moses, "Take Joshua the son of Nun, a man in whom is the Spirit, and lay your hand on him.
       </p></td>
       <td><p>
+Numbers 27:18 KJV
+And the Lord said unto Moses, Take thee Joshua the son of Nun, a man in whom is the spirit, and lay thine hand upon him;
       </p></td>
       <td><p>
 民数记 27:18
@@ -481,8 +505,20 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="character04" class="hidden">
       <td><p>
+Hebrews 11:24-28 ESV
+By faith Moses, when he was grown up, refused to be called the son of Pharaoh's daughter, 
+<br>[25] choosing rather to be mistreated with the people of God than to enjoy the fleeting pleasures of sin. 
+<br>[26] He considered the reproach of Christ greater wealth than the treasures of Egypt, for he was looking to the reward. 
+<br>[27] By faith he left Egypt, not being afraid of the anger of the king, for he endured as seeing him who is invisible. 
+<br>[28] By faith he kept the Passover and sprinkled the blood, so that the Destroyer of the firstborn might not touch them.
       </p></td>
       <td><p>
+Hebrews 11:24-28 KJV
+By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter; 
+<br>[25] Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season; 
+<br>[26] Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward. 
+<br>[27] By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible. 
+<br>[28] Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.
       </p></td>
       <td><p>
 希伯来书 11:24-28
@@ -495,8 +531,14 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>    
     <tr id="character05" class="hidden">
       <td><p>
+Exodus 32:31-32 ESV
+So Moses returned to the LORD and said, "Alas, this people has sinned a great sin. They have made for themselves gods of gold. 
+<br>[32] But now, if you will forgive their sin-but if not, please blot me out of your book that you have written."
       </p></td>
       <td><p>
+Exodus 32:31-32 KJV
+And Moses returned unto the Lord, and said, Oh, this people have sinned a great sin, and have made them gods of gold. 
+<br>[32] Yet now, if thou wilt forgive their sin--; and if not, blot me, I pray thee, out of thy book which thou hast written.
       </p></td>
       <td><p>
 摩西甘愿付上生命的代价
@@ -523,8 +565,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event01" class="hidden">
       <td><p>
+Luke 20:38 ESV
+Now he is not God of the dead, but of the living, for all live to him."
       </p></td>
       <td><p>
+Luke 20:38 KJV
+For he is not a God of the dead, but of the living: for all live unto him.
       </p></td>
       <td><p>
 ‪路加福音‬20:38
@@ -533,8 +579,18 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event02" class="hidden">
       <td><p>
+God's providence
+<br>Micah 6:4 ESV
+For I brought you up from the land of Egypt and redeemed you from the house of slavery, and I sent before you Moses, Aaron, and Miriam.
+<br><br>Acts 7:23 ESV
+"When he was forty years old, it came into his heart to visit his brothers, the children of Israel.
       </p></td>
       <td><p>
+God's providence
+<br>Micah 6:4 KJV
+For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam.
+<br><br>Acts 7:23 KJV
+And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.
       </p></td>
       <td><p>
 上帝早有预备
@@ -546,8 +602,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event03" class="hidden">
       <td><p>
+Acts 7:25 ESV
+He supposed that his brothers would understand that God was giving them salvation by his hand, but they did not understand.
       </p></td>
       <td><p>
+Acts 7:25 KJV
+For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not.
       </p></td>
       <td><p>
 摩西自以为是
@@ -558,8 +618,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>    
     <tr id="event04" class="hidden">
       <td><p>
+Exodus 4:20 ESV
+So Moses took his wife and his sons and had them ride on a donkey, and went back to the land of Egypt. And Moses took the staff of God in his hand.
       </p></td>
       <td><p>
+Exodus 4:20 KJV
+And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand.
       </p></td>
       <td><p>
 出埃及记 4:20    
@@ -568,22 +632,38 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event05" class="hidden">
       <td><p>
+Exodus 4:24-26 ESV
+At a lodging place on the way the LORD met him and sought to put him to death. 
+<br>[25] Then Zipporah took a flint and cut off her son's foreskin and touched Moses' feet with it and said, "Surely you are a bridegroom of blood to me!" 
+<br>[26] So he let him alone. It was then that she said, "A bridegroom of blood," because of the circumcision.
+<br><br>John 7:22 ESV
+Moses gave you circumcision (not that it is from Moses, but from the fathers), and you circumcise a man on the Sabbath.
       </p></td>
       <td><p>
+Exodus 4:24-26 KJV
+And it came to pass by the way in the inn, that the Lord met him, and sought to kill him. 
+<br>[25] Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast it at his feet, and said, Surely a bloody husband art thou to me. 
+<br>[26] So he let him go: then she said, A bloody husband thou art, because of the circumcision.
+<br><br>John 7:22 KJV
+Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man.
       </p></td>
       <td><p>
 出埃及记 4:24-26   
 <br>摩西在路上住宿的地方，耶和华遇见他，想要杀他[*摩西]。[*摩西給兒子行割禮]  
 <br>西坡拉就拿一块火石，割下他儿子的阳皮，丢在摩西脚前，说：“你[*摩西]真是我的血郎了。”  
 <br>这样，耶和华才放了他[*摩西]。西坡拉说：“你因割礼就是血郎了。”
-<br>约翰福音 7:22
+<br><br>约翰福音 7:22
 摩西传割礼给你们（其实不是从摩西起的，乃是从祖先起的），因此你们也在安息日给人行割礼。
 </p></td>
     </tr>
     <tr id="event06" class="hidden">
       <td><p>
+Exodus 5:1 ESV
+Afterward Moses and Aaron went and said to Pharaoh, "Thus says the LORD, the God of Israel, 'Let my people go, that they may hold a feast to me in the wilderness.'"
       </p></td>
       <td><p>
+Exodus 5:1 KJV
+And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the Lord God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.
       </p></td>
       <td><p>
 出埃及记 5:1  
@@ -592,8 +672,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event07" class="hidden">
       <td><p>
+Exodus 15:2 ESV
+The LORD is my strength and my song, and he has become my salvation; this is my God, and I will praise him, my father's God, and I will exalt him.
       </p></td>
       <td><p>
+Exodus 15:2 KJV
+The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.
       </p></td>
       <td><p>
 出埃及记 15:2
@@ -602,19 +686,29 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event08" class="hidden">
       <td><p>
+Exodus 18:3-4 ESV
+along with her two sons. The name of the one was Gershom ( for he said, "I have been a sojourner in a foreign land"), 
+<br>[4] and the name of the other, Eliezer (for he said, "The God of my father was my help, and delivered me from the sword of Pharaoh").
       </p></td>
       <td><p>
+Exodus 18:3-4 KJV
+And her two sons; of which the name of the one was Gershom; for he said, I have been an alien in a strange land: 
+<br>[4] And the name of the other was Eliezer; for the God of my father, said he, was mine help, and delivered me from the sword of Pharaoh:
       </p></td>
       <td><p>
 出埃及记 18:3-4  
-<br>又带着西坡拉的两个儿子，一个名叫革舜，因为摩西说：“我在外邦作了寄居的”；[*葉忒羅帶西坡拉和兩個外孫來見摩西]
+又带着西坡拉的两个儿子，一个名叫革舜，因为摩西说：“我在外邦作了寄居的”；[*葉忒羅帶西坡拉和兩個外孫來見摩西]
 <br>一个名叫以利以谢，因为他说：“我父亲的神帮助了我，救我[*摩西]脱离法老的刀。”
 </p></td>
     </tr>
     <tr id="event09" class="hidden">
       <td><p>
+Exodus 18:16 ESV
+when they have a dispute, they come to me and I decide between one person and another, and I make them know the statutes of God and his laws."
       </p></td>
       <td><p>
+Exodus 18:16 KJV
+When they have a matter, they come unto me; and I judge between one and another, and I do make them know the statutes of God, and his laws.
       </p></td>
       <td><p>
 出埃及记 18:16  
@@ -625,22 +719,32 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event10" class="hidden">
       <td><p>
+Exodus 19:3,6-7 ESV
+while Moses went up to God. The LORD called to him out of the mountain, saying, "Thus you shall say to the house of Jacob, and tell the people of Israel: 
+<br>[6] and you shall be to me a kingdom of priests and a holy nation.' These are the words that you shall speak to the people of Israel." 
+<br>[7] So Moses came and called the elders of the people and set before them all these words that the LORD had commanded him.
       </p></td>
       <td><p>
+Exodus 19:3,6-7 KJV
+And Moses went up unto God, and the Lord called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel; 
+<br>[6] And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel. 
+<br>[7] And Moses came and called for the elders of the people, and laid before their faces all these words which the Lord commanded him.
       </p></td>
       <td><p>
-出埃及记 19:3
+出埃及记 19:3, 6-7
 摩西到神那里，耶和华从山上呼唤他说：“你要这样告诉雅各家，晓谕以色列人说：
-<br>出埃及记 19:6
-你们要归我作祭司的国度，为圣洁的国民。’这些话你要告诉以色列人。”
-<br>出埃及记 19:7
-摩西去召了民间的长老来，将耶和华所吩咐他的话都在他们面前陈明。
+<br>你们要归我作祭司的国度，为圣洁的国民。’这些话你要告诉以色列人。”
+<br>摩西去召了民间的长老来，将耶和华所吩咐他的话都在他们面前陈明。
 </p></td>
     </tr>
     <tr id="event11" class="hidden">
       <td><p>
+Exodus 24:2 ESV
+Moses alone shall come near to the LORD, but the others shall not come near, and the people shall not come up with him."
       </p></td>
       <td><p>
+Exodus 24:2 KJV
+And Moses alone shall come near the Lord : but they shall not come nigh; neither shall the people go up with him.
       </p></td>
       <td><p>
 出埃及记 24:2
@@ -649,8 +753,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event12" class="hidden">
       <td><p>
+Exodus 32:30 ESV
+The next day Moses said to the people, "You have sinned a great sin. And now I will go up to the LORD; perhaps I can make atonement for your sin."
       </p></td>
       <td><p>
+Exodus 32:30 KJV
+And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the Lord ; peradventure I shall make an atonement for your sin.
       </p></td>
       <td><p>
 出埃及记 32:30
@@ -660,8 +768,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event13" class="hidden">
       <td><p>
+Exodus 33:8-9 ESV
+Whenever Moses went out to the tent, all the people would rise up, and each would stand at his tent door, and watch Moses until he had gone into the tent. [9] When Moses entered the tent, the pillar of cloud would descend and stand at the entrance of the tent, and the LORD would speak with Moses.
       </p></td>
       <td><p>
+Exodus 33:8-9 KJV
+And it came to pass, when Moses went out unto the tabernacle, that all the people rose up, and stood every man at his tent door, and looked after Moses, until he was gone into the tabernacle. [9] And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood at the door of the tabernacle, and the Lord talked with Moses.
       </p></td>
       <td><p>
 出埃及记 33:8-9
@@ -672,8 +784,34 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event14" class="hidden">
       <td><p>
+Exodus 33:12-19,22-23 ESV
+Moses said to the LORD, "See, you say to me, 'Bring up this people,' but you have not let me know whom you will send with me. Yet you have said, 'I know you by name, and you have also found favor in my sight.' 
+<br>[13] Now therefore, if I have found favor in your sight, please show me now your ways, that I may know you in order to find favor in your sight. Consider too that this nation is your people." 
+<br>[14] And he said, "My presence will go with you, and I will give you rest." 
+<br>[15] And he said to him, "If your presence will not go with me, do not bring us up from here. 
+<br>[16] For how shall it be known that I have found favor in your sight, I and your people? Is it not in your going with us, so that we are distinct, I and your people, from every other people on the face of the earth?" 
+<br>[17] And the LORD said to Moses, "This very thing that you have spoken I will do, for you have found favor in my sight, and I know you by name." 
+<br>[18] Moses said, "Please show me your glory." 
+<br>[19] And he said, "I will make all my goodness pass before you and will proclaim before you my name 'The LORD.' And I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy. 
+<br>[20]But," he said, "you cannot see my face, for man shall not see me and live." 
+<br>[21] And the LORD said, "Behold, there is a place by me where you shall stand on the rock,
+<br>[22] and while my glory passes by I will put you in a cleft of the rock, and I will cover you with my hand until I have passed by. 
+<br>[23] Then I will take away my hand, and you shall see my back, but my face shall not be seen."
       </p></td>
       <td><p>
+Exodus 33:12-23 KJV
+And Moses said unto the Lord, See, thou sayest unto me, Bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and thou hast also found grace in my sight. 
+<br>[13] Now therefore, I pray thee, if I have found grace in thy sight, shew me now thy way, that I may know thee, that I may find grace in thy sight: and consider that this nation is thy people. 
+<br>[14] And he said, My presence shall go with thee, and I will give thee rest. 
+<br>[15] And he said unto him, If thy presence go not with me, carry us not up hence. 
+<br>[16] For wherein shall it be known here that I and thy people have found grace in thy sight? is it not in that thou goest with us? so shall we be separated, I and thy people, from all the people that are upon the face of the earth. 
+<br>[17] And the Lord said unto Moses, I will do this thing also that thou hast spoken: for thou hast found grace in my sight, and I know thee by name. 
+<br>[18] And he said, I beseech thee, shew me thy glory. 
+<br>[19] And he said, I will make all my goodness pass before thee, and I will proclaim the name of the Lord before thee; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy. 
+<br>[20] And he said, Thou canst not see my face: for there shall no man see me, and live. 
+<br>[21] And the Lord said, Behold, there is a place by me, and thou shalt stand upon a rock: 
+<br>[22] And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by: 
+<br>[23] And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen.
       </p></td>
       <td><p>
 ‪出埃及记‬33:12-23 和合本  
@@ -693,8 +831,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event15" class="hidden">
       <td><p>
-      </p></td>
+Exodus 34:28 ESV
+So he was there with the LORD forty days and forty nights. He neither ate bread nor drank water. And he wrote on the tablets the words of the covenant, the Ten Commandments.
+     </p></td>
       <td><p>
+Exodus 34:28 KJV
+And he was there with the Lord forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.
       </p></td>
       <td><p>
 出埃及记 34:28  
@@ -707,26 +849,33 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
       <td><p>
       </p></td>
       <td><p>
-民数记 7:89
-摩西进会幕要与耶和华说话的时候，听见法柜的施恩座以上、二基路伯中间有与他说话的声音，就是耶和华与他说话。
-<br>注：摩西也是祭司</p></td>
+      </p></td>
     </tr>
     <tr id="event17" class="hidden">
       <td><p>
+Numbers 11:25,29 ESV
+Then the LORD came down in the cloud and spoke to him, and took some of the Spirit that was on him and put it on the seventy elders. And as soon as the Spirit rested on them, they prophesied. But they did not continue doing it. 
+<br>[29] But Moses said to him, "Are you jealous for my sake? Would that all the LORD's people were prophets, that the LORD would put his Spirit on them!"
       </p></td>
       <td><p>
+Numbers 11:25,29 KJV
+And the Lord came down in a cloud, and spake unto him, and took of the spirit that was upon him, and gave it unto the seventy elders: and it came to pass, that, when the spirit rested upon them, they prophesied, and did not cease. 
+<br>[29] And Moses said unto him, Enviest thou for my sake? would God that all the Lord's people were prophets, and that the Lord would put his spirit upon them!
       </p></td>
       <td><p>
-民数记 11:25  
+民数记 11:25, 29  
 <br>耶和华在云中降临，对摩西说话，把降与他[*摩西]身上的灵分赐那七十个长老。灵停在他们身上的时候，他们就受感说话，以后却没有再说。  
-<br>民数记 11:29  
 <br>摩西对他说：“你为我的缘故嫉妒人吗？惟愿耶和华的百姓都受感说话！<b>愿耶和华把他的灵</b>降在他们身上！”  
-</p></td>
+    </p></td>
     </tr>
     <tr id="event18" class="hidden">
       <td><p>
+Numbers 16:22 ESV
+And they fell on their faces and said, "O God, the God of the spirits of all flesh, shall one man sin, and will you be angry with all the congregation?"
       </p></td>
       <td><p>
+Numbers 16:22 KJV
+And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?
       </p></td>
       <td><p>
 民数记 16:22
@@ -735,8 +884,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event19" class="hidden">
       <td><p>
+Numbers 17:8 ESV
+On the next day Moses went into the tent of the testimony, and behold, the staff of Aaron for the house of Levi had sprouted and put forth buds and produced blossoms, and it bore ripe almonds.
       </p></td>
       <td><p>
+Numbers 17:8 KJV
+And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.
       </p></td>
       <td><p>
 民数记 17:8   
@@ -745,8 +898,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event20" class="hidden">
       <td><p>
+Numbers 17:8 ESV
+On the next day Moses went into the tent of the testimony, and behold, the staff of Aaron for the house of Levi had sprouted and put forth buds and produced blossoms, and it bore ripe almonds.
       </p></td>
       <td><p>
+Numbers 17:8 KJV
+And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.
       </p></td>
       <td><p>
 民数记 21:8  
@@ -755,21 +912,30 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event21" class="hidden">
       <td><p>
+Deuteronomy 11:13,26 ESV
+"And if you will indeed obey my commandments that I command you today, to love the LORD your God, and to serve him with all your heart and with all your soul, 
+<br>[26] "See, I am setting before you today a blessing and a curse:
       </p></td>
       <td><p>
+Deuteronomy 11:13,26 KJV
+And it shall come to pass, if ye shall hearken diligently unto my commandments which I command you this day, to love the Lord your God, and to serve him with all your heart and with all your soul, 
+<br>[26] Behold, I set before you this day a blessing and a curse;
       </p></td>
       <td><p>
-申命记 11:13
+申命记 11:13, 26
 “你们若留意听从我[*摩西]今日所吩咐的诫命，爱耶和华你们的神，尽心尽性侍奉他，
-<br>申命记 11:26
-“看哪，我[*摩西]今日将祝福与咒诅的话都陈明在你们面前。
+<br>“看哪，我[*摩西]今日将祝福与咒诅的话都陈明在你们面前。
 <br>注：摩西是先知，讲祝福的话，也讲咒诅的话。
 </p></td>
     </tr>
     <tr id="event22" class="hidden">
       <td><p>
+Deuteronomy 31:2 ESV
+And he said to them, "I am 120 years old today. I am no longer able to go out and come in. The LORD has said to me, 'You shall not go over this Jordan.'
       </p></td>
       <td><p>
+Deuteronomy 31:2 KJV
+And he said unto them, I am an hundred and twenty years old this day; I can no more go out and come in: also the Lord hath said unto me, Thou shalt not go over this Jordan.
       </p></td>
       <td><p>
 申命记 31:2
@@ -779,8 +945,12 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
     </tr>
     <tr id="event23" class="hidden">
       <td><p>
+Deuteronomy 33:2 ESV
+He said, "The LORD came from Sinai and dawned from Seir upon us; he shone forth from Mount Paran; he came from the ten thousands of holy ones, with flaming fire at his right hand.
       </p></td>
       <td><p>
+Deuteronomy 33:2 KJV
+And he said, The Lord came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand went a fiery law for them.
       </p></td>
       <td><p>
 申命记 33:2
@@ -793,27 +963,9 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
       <td><p>
       </p></td>
       <td><p>
-诗篇 90
-神人摩西的祈祷。
-</p></td>
+      </p></td>
     </tr>
     <tr id="event25" class="hidden">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr id="event26" class="hidden">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
-    <tr id="event27" class="hidden">
       <td><p>
       </p></td>
       <td><p>
