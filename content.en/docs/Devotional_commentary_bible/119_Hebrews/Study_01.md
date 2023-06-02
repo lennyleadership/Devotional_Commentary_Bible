@@ -569,9 +569,9 @@ And Moses returned unto the Lord, and said, Oh, this people have sinned a great 
     </tr>    
     <tr>
       <td colspan = "3" class = "pink subtitle">
-      <button type="button" id="btnevent" aria-expanded="false" onclick="toggle(this.id,'#event01,#event02,#event03,#event04,#event05,#event06,#event07,#event08,#event09,#event10,#event11,#event12,#event13,#event14,#event15,#event16,#event17,#event18,#event19,#event20,#event21,#event22,#event23,#event24,#event25,#event26,#event27');" aria-controls="event01 event02 event03 event04 event05 event06 event07 event08 event09 event10 event11 event12 event13 event14 event15 event16 event17 event18 event19 event20 event21 event22 event23 event24 event25 event26 event27">
+      <button type="button" id="btnevent" aria-expanded="false" onclick="toggle(this.id,'#event01,#event02,#event03,#event04,#event05,#event06,#event07,#event08,#event09,#event10,#event11,#event12,#event13,#event14,#event15,#event17,#event18,#event19,#event20,#event21,#event22,#event23,#event24');" aria-controls="event01 event02 event03 event04 event05 event06 event07 event08 event09 event10 event11 event12 event13 event14 event15 event17 event18 event19 event20 event21 event22 event23 event24">
           <svg xmlns="\http://www.w3.org/2000/svg&quot;" viewBox="0 0 80 80" focusable="false"><path d="M70.3 13.8L40 66.3 9.7 13.8z"></path></svg>
-          Moses Events 摩西大事件
+          Moses Events 摩西大事记
         </button>
       </td>
     </tr>
@@ -848,14 +848,6 @@ And he was there with the Lord forty days and forty nights; he did neither eat b
 摩西在耶和华那里四十昼夜，也不吃饭也不喝水。耶和华将<b>这约</b>的话，就是十条诫，写在两块版上。
 </p></td>
     </tr>
-    <tr id="event16" class="hidden">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
     <tr id="event17" class="hidden">
       <td><p>
 Numbers 11:25,29 ESV
@@ -929,7 +921,7 @@ And it shall come to pass, if ye shall hearken diligently unto my commandments w
       <td><p>
 申命记 11:13, 26
 “你们若留意听从我[*摩西]今日所吩咐的诫命，爱耶和华你们的神，尽心尽性侍奉他，
-<br>“看哪，我[*摩西]今日将祝福与咒诅的话都陈明在你们面前。
+<br>[26] “看哪，我[*摩西]今日将祝福与咒诅的话都陈明在你们面前。
 <br>注：摩西是先知，讲祝福的话，也讲咒诅的话。
 </p></td>
     </tr>
@@ -970,18 +962,10 @@ And he said, The Lord came from Sinai, and rose up from Seir unto them; he shine
       <td><p>
       </p></td>
     </tr>
-    <tr id="event25" class="hidden">
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-      <td><p>
-      </p></td>
-    </tr>
   </tbody>
 </table>
 
-<div class="scroll-container">
+<div class="scroll-container" style ="margin-right: -55%;">
     <a href="#header_1">To Table Header</a>
 </div>
 
