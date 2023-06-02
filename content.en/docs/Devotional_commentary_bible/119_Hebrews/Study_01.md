@@ -133,7 +133,7 @@ tr.hidden {
 /* Proven method to visually hide something but */
 /* still make it available to assistive technology */
 .visually-hidden {
-  position: absolute;
+  position: relative;/*absolute;*/
   top: auto;
   overflow: hidden;
   clip: rect(1px 1px 1px 1px); /* IE 6/7 */
@@ -361,23 +361,33 @@ And Shebuel the son of Gershom, the son of Moses, was ruler of the treasures.
     <tr id="title01" class="hidden">
       <td><p>
 He was a high priest  
-<br>>Psalm 99:6 ESV
+<br>Exodus 33:8-9 ESV
+Whenever Moses went out to the tent, all the people would rise up, and each would stand at his tent door, and watch Moses until he had gone into the tent. 
+<br>[9] When Moses entered the tent, the pillar of cloud would descend and stand at the entrance of the tent, and the LORD would speak with Moses.
+<br><br>Psalm 99:6 ESV
 Moses and Aaron were among his priests, Samuel also was among those who called upon his name. They called to the LORD, and he answered them.
 <br>Numbers 7:89 ESV
 And when Moses went into the tent of meeting to speak with the LORD, he heard the voice speaking to him from above the mercy seat that was on the ark of the testimony, from between the two cherubim; and it spoke to him.
+
       </p></td>
       <td><p>
 He was a high priest  
-<br>Psalm 99:6 KJV
+<br>Exodus 33:8-9 KJV
+And it came to pass, when Moses went out unto the tabernacle, that all the people rose up, and stood every man at his tent door, and looked after Moses, until he was gone into the tabernacle. 
+<br>[9] And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood at the door of the tabernacle, and the Lord talked with Moses.
+<br><br>Psalm 99:6 KJV
 Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the Lord, and he answered them.
-Numbers 7:89 KJV
+<br><br>Numbers 7:89 KJV
 And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him.
       </p></td>
       <td><p>
 摩西是大祭司
-<br>诗篇 99:6
+<br>出埃及记 33:8-9
+<br>当摩西出营到会幕去的时候，百姓就都起来，各人站在自己帐棚的门口，望着摩西，直等到他进了会幕。[*摩西进会幕]    
+<br>[9] 摩西进会幕的时候，云柱降下来，立在会幕的门前，耶和华便与摩西说话。  
+<br><br>诗篇 99:6
 在他的祭司中有摩西和亚伦；在求告他名的人中有撒母耳。他们求告耶和华，他就应允他们。
-<br>民数记 7:89
+<br><br>民数记 7:89
 摩西进会幕要与耶和华说话的时候，听见法柜的施恩座以上、二基路伯中间有与他说话的声音，就是耶和华与他说话。
 </p></td>
     </tr>
@@ -403,19 +413,23 @@ My servant Moses is not so, who is faithful in all mine house. [8] With him will
       <td><p>
 He was a prophet
 <br>Deuteronomy 34:10-12 ESV
-And there has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face, [11] none like him for all the signs and the wonders that the LORD sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land, [12] and for all the mighty power and all the great deeds of terror that Moses did in the sight of all Israel.
+And there has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face, 
+<br>[11] none like him for all the signs and the wonders that the LORD sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land, 
+<br>[12] and for all the mighty power and all the great deeds of terror that Moses did in the sight of all Israel.
       </p></td>
       <td><p>
 He was a prophet
 <br>Deuteronomy 34:10-12 KJV
-And there arose not a prophet since in Israel like unto Moses, whom the Lord knew face to face, [11] In all the signs and the wonders, which the Lord sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land, [12] And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel.
+And there arose not a prophet since in Israel like unto Moses, whom the Lord knew face to face, 
+<br>[11] In all the signs and the wonders, which the Lord sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land, 
+<br>[12] And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel.
       </p></td>
       <td><p>
 他是先知
 <br>申命记 34:10-12
-<br>以后以色列中再没有兴起<b>先知</b>像摩西的。他是耶和华面对面所认识的。
-<br>耶和华打发他[*摩西]在埃及地向法老和他的一切臣仆，并他的全地，行各样神迹奇事，
-<br>又在以色列众人眼前显大能的手，行一切大而可畏的事。
+<br>[10] 以后以色列中再没有兴起<b>先知</b>像摩西的。他是耶和华面对面所认识的。
+<br>[11] 耶和华打发他[*摩西]在埃及地向法老和他的一切臣仆，并他的全地，行各样神迹奇事，
+<br>[12] 又在以色列众人眼前显大能的手，行一切大而可畏的事。
 </p></td>
     </tr>
     <tr id="title04" class="hidden">
@@ -520,11 +534,11 @@ By faith Moses, when he was come to years, refused to be called the son of Phara
       </p></td>
       <td><p>
 希伯来书 11:24-28
-<br>摩西因着信，长大了就不肯称为法老女儿之子。[*摩西]
-<br>他宁可和神的百姓同受苦害，也不愿暂时享受罪中之乐。
-<br>他看为基督受的凌辱比埃及的财物更宝贵，因他想望所要得的赏赐。[*摩西看为基督受凌辱胜于埃及的宝贝]
-<br>他因着信，就离开埃及，不怕王怒；因为他恒心忍耐，如同看见那不能看见的主。 
-<br>他因着信，就守（或作“立”）逾越节，行洒血的礼，免得那灭长子的临近以色列人。
+<br>[24] 摩西因着信，长大了就不肯称为法老女儿之子。[*摩西]
+<br>[25] 他宁可和神的百姓同受苦害，也不愿暂时享受罪中之乐。
+<br>[26] 他看为基督受的凌辱比埃及的财物更宝贵，因他想望所要得的赏赐。[*摩西看为基督受凌辱胜于埃及的宝贝]
+<br>[27] 他因着信，就离开埃及，不怕王怒；因为他恒心忍耐，如同看见那不能看见的主。 
+<br>[28] 他因着信，就守（或作“立”）逾越节，行洒血的礼，免得那灭长子的临近以色列人。
 </p></td>
     </tr>    
     <tr id="character05" class="hidden">
@@ -542,7 +556,7 @@ And Moses returned unto the Lord, and said, Oh, this people have sinned a great 
 摩西甘愿付上生命的代价
 <br>出埃及记 32:31-32  
 <br>摩西回到耶和华那里，说：“唉！这百姓犯了大罪，为自己做了金像。  
-<br>倘或你肯赦免他们的罪......不然，求你从你所写的册上<b>涂抹</b>我[*摩西]的名。” 
+<br>[32] 倘或你肯赦免他们的罪......不然，求你从你所写的册上<b>涂抹</b>我[*摩西]的名。” 
 </p></td>
     </tr> 
     <tr id="character06" class="hidden">
@@ -647,9 +661,9 @@ Moses therefore gave unto you circumcision; (not because it is of Moses, but of 
       </p></td>
       <td><p>
 出埃及记 4:24-26   
-<br>摩西在路上住宿的地方，耶和华遇见他，想要杀他[*摩西]。[*摩西給兒子行割禮]  
-<br>西坡拉就拿一块火石，割下他儿子的阳皮，丢在摩西脚前，说：“你[*摩西]真是我的血郎了。”  
-<br>这样，耶和华才放了他[*摩西]。西坡拉说：“你因割礼就是血郎了。”
+<br>[24] 摩西在路上住宿的地方，耶和华遇见他，想要杀他[*摩西]。[*摩西給兒子行割禮]  
+<br>[25] 西坡拉就拿一块火石，割下他儿子的阳皮，丢在摩西脚前，说：“你[*摩西]真是我的血郎了。”  
+<br>[26] 这样，耶和华才放了他[*摩西]。西坡拉说：“你因割礼就是血郎了。”
 <br><br>约翰福音 7:22
 摩西传割礼给你们（其实不是从摩西起的，乃是从祖先起的），因此你们也在安息日给人行割礼。
 </p></td>
@@ -696,23 +710,24 @@ And her two sons; of which the name of the one was Gershom; for he said, I have 
       <td><p>
 出埃及记 18:3-4  
 又带着西坡拉的两个儿子，一个名叫革舜，因为摩西说：“我在外邦作了寄居的”；[*葉忒羅帶西坡拉和兩個外孫來見摩西]
-<br>一个名叫以利以谢，因为他说：“我父亲的神帮助了我，救我[*摩西]脱离法老的刀。”
+<br>[4] 一个名叫以利以谢，因为他说：“我父亲的神帮助了我，救我[*摩西]脱离法老的刀。”
 </p></td>
     </tr>
     <tr id="event09" class="hidden">
       <td><p>
-Exodus 18:16 ESV
+Exodus 18:16-20 ESV
 when they have a dispute, they come to me and I decide between one person and another, and I make them know the statutes of God and his laws."
+<br>[20] and you shall warn them about the statutes and the laws, and make them know the way in which they must walk and what they must do.
       </p></td>
       <td><p>
-Exodus 18:16 KJV
+Exodus 18:16-20 KJV
 When they have a matter, they come unto me; and I judge between one and another, and I do make them know the statutes of God, and his laws.
+<br>[20] And thou shalt teach them ordinances and laws, and shalt shew them the way wherein they must walk, and the work that they must do.
       </p></td>
       <td><p>
-出埃及记 18:16  
-他们有事的时候就到我[*摩西]这里来，我便在两造之间施行审判；我又叫他们知道神的律例和法度。”  
-<br>出埃及记 18:20  
-又要将律例和法度教训他们，指示他们当行的道，当做的事；
+出埃及记 18:16-20  
+<br>[16] 他们有事的时候就到我[*摩西]这里来，我便在两造之间施行审判；我又叫他们知道神的律例和法度。”  
+<br>[20] 又要将律例和法度教训他们，指示他们当行的道，当做的事；
 </p></td>
     </tr>
     <tr id="event10" class="hidden">
@@ -731,8 +746,8 @@ And Moses went up unto God, and the Lord called unto him out of the mountain, sa
       <td><p>
 出埃及记 19:3, 6-7
 摩西到神那里，耶和华从山上呼唤他说：“你要这样告诉雅各家，晓谕以色列人说：
-<br>你们要归我作祭司的国度，为圣洁的国民。’这些话你要告诉以色列人。”
-<br>摩西去召了民间的长老来，将耶和华所吩咐他的话都在他们面前陈明。
+<br>[6] 你们要归我作祭司的国度，为圣洁的国民。’这些话你要告诉以色列人。”
+<br>[7] 摩西去召了民间的长老来，将耶和华所吩咐他的话都在他们面前陈明。
 </p></td>
     </tr>
     <tr id="event11" class="hidden">
@@ -766,23 +781,15 @@ And it came to pass on the morrow, that Moses said unto the people, Ye have sinn
     </tr>
     <tr id="event13" class="hidden">
       <td><p>
-Exodus 33:8-9 ESV
-Whenever Moses went out to the tent, all the people would rise up, and each would stand at his tent door, and watch Moses until he had gone into the tent. [9] When Moses entered the tent, the pillar of cloud would descend and stand at the entrance of the tent, and the LORD would speak with Moses.
       </p></td>
       <td><p>
-Exodus 33:8-9 KJV
-And it came to pass, when Moses went out unto the tabernacle, that all the people rose up, and stood every man at his tent door, and looked after Moses, until he was gone into the tabernacle. [9] And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood at the door of the tabernacle, and the Lord talked with Moses.
       </p></td>
       <td><p>
-出埃及记 33:8-9
-<br>当摩西出营到会幕去的时候，百姓就都起来，各人站在自己帐棚的门口，望着摩西，直等到他进了会幕。[*摩西进会幕]    
-<br>摩西进会幕的时候，云柱降下来，立在会幕的门前，耶和华便与摩西说话。  
-<br>注：摩西是祭司
-</p></td>
+      </p></td>
     </tr>
     <tr id="event14" class="hidden">
       <td><p>
-Exodus 33:12-19,22-23 ESV
+Exodus 33:12-23 ESV
 Moses said to the LORD, "See, you say to me, 'Bring up this people,' but you have not let me know whom you will send with me. Yet you have said, 'I know you by name, and you have also found favor in my sight.' 
 <br>[13] Now therefore, if I have found favor in your sight, please show me now your ways, that I may know you in order to find favor in your sight. Consider too that this nation is your people." 
 <br>[14] And he said, "My presence will go with you, and I will give you rest." 
