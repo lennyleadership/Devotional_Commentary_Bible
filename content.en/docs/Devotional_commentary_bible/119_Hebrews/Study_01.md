@@ -965,7 +965,7 @@ And he said, The Lord came from Sinai, and rose up from Seir unto them; he shine
   </tbody>
 </table>
 
-<div class="scroll-container" style ="margin-right: -55%;">
+<div class="scroll-container" style ="margin-right: -15%;">
     <a href="#header_1">To Table Header</a>
 </div>
 
