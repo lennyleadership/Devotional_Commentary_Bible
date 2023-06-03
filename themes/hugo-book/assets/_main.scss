@@ -471,10 +471,10 @@ body[dir="rtl"] .book-menu {
 
 /* table *//////////////////////////////////////////////////////////////////////////////////////////
 table {
-  width: 100%;  
+  /*width: 100%;*/  
   font-size: 80%;
-  border: 1px solid #fbe4d5;
-  /*vertical-align: middle;*/
+  /*border: 1px solid #fbe4d5;*/
+  vertical-align: middle;
   
   overflow: auto;
   display: block;
@@ -522,7 +522,7 @@ hr {
     height: $padding-1;
     border: none;
     background: var(--gray-200);
-  }
+}
 
 
 
@@ -678,7 +678,6 @@ figcaption.bottom {
 ref {
   color: red;
   font-weight:bolder;
-  
 }
 
 
@@ -686,7 +685,6 @@ ref {
 .hovertip {
   position: relative;
   border-bottom: 1px dotted black;
-  
 }
 
 .hovertip:before {

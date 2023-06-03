@@ -58,6 +58,7 @@ Jesus, angles, and human being
 table {
   margin: 1em 0;
   border-collapse: collapse;
+  width: 90%;
 }
 
 
@@ -79,7 +80,7 @@ td {
 }
 
 td[colspan] {
-  /*background-color: #eee;*/
+  background-color: #eee;
   color: #000;
   font-weight: normal;
   font-style: italic;
@@ -133,7 +134,7 @@ tr.hidden {
 /* Proven method to visually hide something but */
 /* still make it available to assistive technology */
 .visually-hidden {
-  position: relative;/*absolute;*/
+  position: absolute;
   top: auto;
   overflow: hidden;
   clip: rect(1px 1px 1px 1px); /* IE 6/7 */
@@ -173,7 +174,7 @@ tr.hidden {
 </script>
 
 
-<table class="row" style="width:100%">
+<table class="row">
   <caption style="text-align:left", align = "top"><b>Bible verses on Moses</b></caption>
   <colgroup>
     <col style="width: 34%" /><col style="width: 33%" /><col style="width: 33%" />
@@ -368,7 +369,6 @@ Whenever Moses went out to the tent, all the people would rise up, and each woul
 Moses and Aaron were among his priests, Samuel also was among those who called upon his name. They called to the LORD, and he answered them.
 <br>Numbers 7:89 ESV
 And when Moses went into the tent of meeting to speak with the LORD, he heard the voice speaking to him from above the mercy seat that was on the ark of the testimony, from between the two cherubim; and it spoke to him.
-
       </p></td>
       <td><p>
 He was a high priest  
