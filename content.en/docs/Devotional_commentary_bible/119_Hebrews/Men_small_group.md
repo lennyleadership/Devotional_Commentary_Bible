@@ -25,7 +25,7 @@ Participates: Jay O'Connor, Shawn Hewitt, and Lenny Lin. Andrew Plew attended oc
   <li><a href="#header_1">2023-05-18</a></li>
   <li><a href="#header_2">2023-05-26</a></li>
   <li><a href="#header_3">2023-06-01</a></li>
-  <li><a href="#header_4"></a></li>
+  <li><a href="#header_99">Misc.</a></li>
 </ul>
 </div>
 
@@ -49,7 +49,15 @@ Shawn and Lenny watched a couple of YouTube videos on Jehovah's Witnesses so tha
 
 
 <h1 id="header_3"><span class = "overline">2023-06-01</span></h1>
+We talked about the meeting with Jehovah's Witnesses
 
+I quoted Acts 17:10-11. Believers at Bera ...
+
+Jay recommended the Pilgrim's progress.
+
+Shawn and Jay prayed for me with their hands on shoulder.
+
+<h1 id="header_99"><span class = "overline">misc</span></h1>
 <h2>Discussion #1: What does "in Christ" mean?</h2>
 Analogy: the ark, the shelter, the chicken wings.
 

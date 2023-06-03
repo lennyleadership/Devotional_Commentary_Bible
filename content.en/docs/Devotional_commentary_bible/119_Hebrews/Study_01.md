@@ -54,10 +54,13 @@ Jesus, angles, and human being
 <h2 id = "header_1">Who is Moses from authors perspective?</h2>  
 
 <style>
+body{
+  width: 110%;
+}
 
 table {
   margin: 1em 0;
-  border-collapse: collapse;
+ /* border-collapse: collapse;*/
   width: 90%;
 }
 
@@ -1083,7 +1086,7 @@ Prophet
 Moses was a prophet.
 </p></td>
       <td><p>
-Jesus was a prophet.[Acts 3:22, Deuteronomy 18:15, Matthew 21:46]
+Jesus was a prophet.<br>[Acts 3:22, Deuteronomy 18:15, Matthew 21:46]
 </p></td>
     </tr>    
     <tr>
@@ -1091,7 +1094,7 @@ Jesus was a prophet.[Acts 3:22, Deuteronomy 18:15, Matthew 21:46]
 Priest      
 </p></td>
       <td><p>
-Moses was a priest
+Moses was a high priest
 </p></td>
       <td><p>
 Jesus was a High Priest.
@@ -1145,18 +1148,32 @@ Matthew 11:29 Jesus was meek and lowly in heart.
     </tr>
     <tr>
       <td><p>
+Take the form of a servant
       </p></td>
       <td><p>
+Hebrews 11:24-28 ESV By faith Moses, when he was grown up, refused to be called the son of Pharaoh's daughter,
+<br>[25] choosing rather to be mistreated with the people of God than to enjoy the fleeting pleasures of sin.
+<br>[26] He considered the reproach of Christ greater wealth than the treasures of Egypt, for he was looking to the reward.
+<br>[27] By faith he left Egypt, not being afraid of the anger of the king, for he endured as seeing him who is invisible.
+<br>[28] By faith he kept the Passover and sprinkled the blood, so that the Destroyer of the firstborn might not touch them.      
       </p></td>
       <td><p>
+Philippians 2:7 ESV
+but emptied himself, by <b>taking the form of a servant</b>, being born in the likeness of men.
       </p></td>
     </tr>
     <tr>
       <td><p>
+Lean on God
       </p></td>
       <td><p>
-      </p></td>
+Moses was talent in speech and ... before  
+<br><br>Exodus 4:20 ESV 
+So Moses took his wife and his sons and had them ride on a donkey, and went back to the land of Egypt. And Moses <a class ="red">took the staff of God</a> in his hand. 
+</p></td>
       <td><p>
+John 5:30 ESV
+"I [Jesus] can do nothing on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of him who sent me.
       </p></td>
     </tr>    
     <tr>
