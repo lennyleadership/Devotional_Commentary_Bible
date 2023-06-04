@@ -3,7 +3,7 @@ weight: 2
 title: 1 Corinthians 2
 authors: Lenny
 categories: null
-tags: [My Utmost, holy Spirit]
+tags: [My Utmost, holy Spirit, God's mystery, God's secret]
 date: "2022-04-19"
 description: 
 draft: false
@@ -32,7 +32,7 @@ toc: true
 2:5 That your faith should not stand in the wisdom of men, but in the power of God.  
 
 2:6 Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:  
-2:7 But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:  
+2:7 But we speak the wisdom of God in <a class = "red">a mystery</a>, even the hidden wisdom, which God ordained before the world unto our glory:  
 2:8 Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory.  
 2:9 But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.  
 2:10 But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.  
@@ -57,12 +57,12 @@ toc: true
 2:6 然而在完全的人中、我们也讲智慧。  但不是这世上的智慧、也不是这世上有权有位将要败亡之人的智慧。  
 2:7 我们讲的、乃是从前所隐藏、　神奥秘的智慧、就是　神在万世以前、预定使我们得荣耀的。  
 2:8 这智慧世上有权有位的人没有一个知道的。  他们若知道、就不把荣耀的主钉在十字架上了。  
-2:9 如经上所记、『　神为爱他的人所预备的、是眼睛未曾看见、耳朵未曾听见、人心也未曾想到的。』
+2:9 如经上所记、『　神为爱他的人所预备的、是眼睛未曾看见、耳朵未曾听见、人心也未曾想到的。』  
 2:10 只有　神借着圣灵向我们显明了。  因为圣灵参透万事、就是　神深奥的事也参透了。  
 
 2:11 除了在人里头的灵、谁知道人的事。  像这样、除了　神的灵、也没有人知道　神的事。  
 2:12 我们所领受的、并不是世上的灵、乃是从　神来的灵、叫我们能知道　神开恩赐给我们的事。  
-2:13 并且我们讲说这些事、不是用人智慧所指教的言语、乃是用圣灵所指教的言语、将属灵的话、解释属灵的事。  〔或作将属灵的事讲与属灵的人〕
+2:13 并且我们讲说这些事、不是用人智慧所指教的言语、乃是用圣灵所指教的言语、将属灵的话、解释属灵的事。〔或作将属灵的事讲与属灵的人〕  
 2:14 然而属血气的人不领会　神圣灵的事、反倒以为愚拙。  并且不能知道、因为这些事惟有属灵的人才能看透。  
 2:15 属灵的人能看透万事、却没有一人能看透了他。  
 

@@ -79,65 +79,67 @@ toc: true
 
 <div id="verse1" class="tabcontent">
 
+A hymn was written from verse 14.  
+
 1 When I survey the wondrous cross
-on which the Prince of glory died,
-my <u class = "red">richest</u> gain I count but loss,
-and pour contempt on all my <u class = "red">pride</u>. <a class = "marginnote">contempt: The state or act of contemning; the feeling or attitude of regarding someone or something as inferior, base, or worthless; scorn, disdain.</a>
+<br>on which the Prince of glory died,
+<br>my <u class = "red">richest</u> gain I count but loss,
+<br>and pour contempt on all my <u class = "red">pride</u>. <a class = "marginnote">contempt: The state or act of contemning; the feeling or <br>attitude of regarding someone or something as inferior, base, or worthless; scorn, disdain.</a>
 
 2 Forbid it, Lord, that I should boast
-save in the death of Christ, my God!
-All the vain things that charm me most,
-I <u class = "red">sacrifice them</u> through his blood.
+<br>save in the death of Christ, my God!
+<br>All the vain things that charm me most,
+<br>I <u class = "red">sacrifice them</u> through his blood.
 
 3 See, from his head, his hands, his feet,
-sorrow and <u class = "red">love</u> flow mingled down.
-Did e'er such love and sorrow meet,
-or thorns compose so rich a crown?
+<br>sorrow and <u class = "red">love</u> flow mingled down.
+<br>Did e'er such love and sorrow meet,
+<br>or thorns compose so rich a crown?
 
 4 Were the whole realm of nature mine,
-that were a present far too small.
-<u class = "red">Love</u> so amazing, so divine,
-demands my soul, my life, my all.
+<br>that were a present far too small.
+<br><u class = "red">Love</u> so amazing, so divine,
+<br>demands my soul, my life, my all.
 
-當我思量奇妙十架
-榮耀之主在上懸掛，
-從前名利今當糞土，
-昔日所誇今覺鄙下。
+當我思量奇妙十架  
+榮耀之主在上懸掛，  
+從前名利今當糞土，  
+昔日所誇今覺鄙下。  
 
-求主禁我別有所誇，
-但誇救主釘死十架！
-前所愛慕虛幻榮華，
+求主禁我別有所誇，  
+但誇救主釘死十架！  
+前所愛慕虛幻榮華，  
 為主寶血我今撇下。
 
-試看其頭、其足、其手，
-慈愛憂愁和血並流！
-如此愛、憂自古焉有？
+試看其頭、其足、其手，  
+慈愛憂愁和血並流！  
+如此愛、憂自古焉有？  
 荊棘反成榮耀冕旒。
 
-若得萬物獻主為報，
-難償深恩仍嫌微少；
-主愛如此神聖奇妙，
-願獻我魂、我命、我的全部！
+若得萬物獻主為報，  
+難償深恩仍嫌微少；  
+主愛如此神聖奇妙，  
+願獻我魂、我命、我的全部！  
 阿門！
 
----
+--
 
-每逢思念奇妙十架，
-荣耀救主在上悬挂，
-从前名利，富足，矜夸，
+每逢思念奇妙十架，  
+荣耀救主在上悬挂，  
+从前名利，富足，矜夸，  
 我看如土，完全撇下。
 
-求主禁我别有所夸，
-只夸救主舍身十架，
-基督为我献身流血，
+求主禁我别有所夸，  
+只夸救主舍身十架，  
+基督为我献身流血，  
 我愿舍尽虚空荣华。
 
-试看祂头，祂足，祂手，
-慈爱忧伤和血并流，
-从前可曾爱忧交织？
+试看祂头，祂足，祂手，  
+慈爱忧伤和血并流，  
+从前可曾爱忧交织？  
 荆棘可曾化作冕旒？
 
-宇宙万物若归我有，
-尽献所有何足报恩，
-神圣大爱奇妙难测，
+宇宙万物若归我有，  
+尽献所有何足报恩，  
+神圣大爱奇妙难测，  
 愿献我命，我心，我身。

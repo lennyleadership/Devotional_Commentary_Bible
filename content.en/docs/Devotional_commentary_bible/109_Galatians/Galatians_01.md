@@ -1,13 +1,13 @@
 ---
-weight: 
-title: 
+weight: 1
+title: Galatians
 authors: Lenny
 categories: null
 tags: 
 description: 
 draft: false
-date: "2022-08-16"
-lastmod: "2022-08-16"
+date: "2023-06-04"
+lastmod: "2023-06-04"
 series:
 toc: true
 ---

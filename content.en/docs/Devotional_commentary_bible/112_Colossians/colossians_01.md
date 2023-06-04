@@ -3,7 +3,7 @@ weight: 1
 title: Colossians 1
 authors: Lenny
 categories: null
-tags: [Be submissive to Authority]
+tags: [Be submissive to Authority, God's mystery, God's secret]
 description: 
 draft: false
 date: "2023-03-25"
@@ -41,7 +41,7 @@ toc: true
 1:13 Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:  
 1:14 In whom we have redemption through his blood, even the forgiveness of sins:  
 1:15 Who is the image of the invisible God, the firstborn of every creature:  
-1:16 For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: <a class = "marginnote">Be submissive to authority because they were created by Jesus and for Jesus</a>  
+1:16 For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: <a class = "marginnote">v16: Be submissive to authority because they were created by Jesus and for Jesus</a>  
 1:17 And he is before all things, and by him all things consist.  
 1:18 And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.  
 1:19 For it pleased the Father that in him should all fulness dwell;  
@@ -51,8 +51,8 @@ toc: true
 1:23 If ye continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;  
 1:24 Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the church:  
 1:25 Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;  
-1:26 Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:  
-1:27 To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:  
+1:26 Even <a class = "red">the mystery</a> which hath been hid from ages and from generations, but now is made manifest to his saints:  
+1:27 To whom God would make known what is the riches of the glory of <a class = "red">this mystery</a> among the Gentiles; which is Christ in you, the hope of glory:  
 1:28 Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:  
 1:29 Whereunto I also labour, striving according to his working, which worketh in me mightily.  
 </div>
