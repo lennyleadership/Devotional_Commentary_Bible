@@ -414,18 +414,7 @@ body[dir="rtl"] .book-menu {
     font-weight: bolder;
   }
 
-  a {
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
-    &:visited {
-      color: var(--color-visited-link);
-    }
-  }
-
-  img {
+img {
     max-width: 100%;
     height: auto;
   }
@@ -514,7 +503,7 @@ tr:nth-child(even) {
   /*background-color: #f2f2f2;*/
 }
 
-/* end *********************************************************************************************
+/* end */********************************************************************************************
 
 
 
@@ -564,7 +553,7 @@ ol {
     /*padding-inline-start: $padding-16 * 2;*/
   }
   
-/* end *********************************************************************************************
+/* end */********************************************************************************************
 
 
 
@@ -671,7 +660,7 @@ figcaption.bottom {
   caption-side: bottom;
 }
 
-/* end *********************************************************************************************
+/* end */*******************************************************************************************
 
 
 
@@ -744,28 +733,46 @@ ref {
 /* the end *****************************************************************************************
 
 
-/*color style of hyperlink*/////////////////////////////////////////////////////////////////////////
-a:link {
-  color: darkred;
-  background-color: transparent;
-  text-decoration: none;
+/*color style*/////////////////////////////////////////////////////////////////////////
+a {
+    text-decoration: none;
+
+  &:link {
+    color: darkred;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  &:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+    }
+    
+  &:visited {
+    color: var(--color-visited-link);
+    background-color: transparent;
+    text-decoration: none;
+    }
+    
+  &:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+    }
 }
-a:visited {
+
+/* the end*/*****************************************************************************************
+
+
+
+/* font color options *//////////////////////////////////////////////////////////////////////////////////
+.blue {
   color: blue;
-  background-color: transparent;
-  text-decoration: none;
 }
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
-/* the end******************************************************************************************
+/* end *********************************************************************************************
+
+
 
 
 /* quoting with background *////////////////////////////////////////////////////////////////////////
@@ -787,38 +794,40 @@ a:active {
   font-size: 1rem;
 }
 
-/* color options *//////////////////////////////////////////////////////////////////////////////////
-.black {
+/* background color options *//////////////////////////////////////////////////////////////////////////////////
+.bkblack {
   background-color: black;
   color: white;
 }
 
 
-.grey {
+.bkgrey {
   background-color: #dcdcdc;
 }
 
 
-.blue{
+.bkblue{
   background-color:#84b2ff;
   border-bottom:1px solid red;
 }
 
 
-.lemon {
+.bklemon {
   background-color: #fffacd;
 }
 
 
-.green{
+.bkgreen{
   background-color: #e2efd9;
 }
 
 
-.pink{
+.bkpink{
   background-color: #fbe4d5;
 }
 /* end *********************************************************************************************
+
+
 
 
 
@@ -836,8 +845,10 @@ a:active {
 .aligncenter {
   text-align: center;
 }
+/* end *********************************************************************************************
 
-/* underline *****/
+
+/* red underline *//////////////////////////////////////////////////////////////////////////////////////
 u.red{
   border-bottom:1px solid red;
 }
