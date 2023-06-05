@@ -3,7 +3,7 @@ weight: 3
 title: Colossians 3
 authors: Lenny
 categories: null
-tags: [3]
+tags: []
 description: 
 draft: false
 date: "2023-06-04"

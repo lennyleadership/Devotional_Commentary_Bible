@@ -26,7 +26,7 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-1:1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, <a id="1_ref" href = "#1" class ="index">[1]</a>   
+1:1 God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, <a id="1_ref" href = "#1" class ="index">[1]</a><a class = "marginnote"></a>  
 1:2 Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds; [Isaiah 41:4 ESV, Revelation 1:8 ESV] <a id="2_ref" href = "#2">[2]</a>  <a class = "marginnote">v2: I am the first and the last.<br>~~~~<br> Worlds is used in KJV and NKJV translations, world is used in other translations.</a>  
 1:3 Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;  
 1:4 Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they. <a id="3_ref" href = "#3">[3]</a>  
@@ -47,7 +47,9 @@ toc: true
 
 <p id="1"><ref>[1]</ref> verse 1 
 <br>Acts 7:37 “Moses himself told the people of Israel, ‘God will raise up for you a Prophet like me from among your own people.’ - which refers to Jesus.
-<br>Moses continued, “The Lord your God will raise up for you a prophet like me from among your fellow Israelites. You must listen to him. (Deuteronomy 18:15 ESV, Deuteronomy 18:15 NLT, Deuteronomy 18:15 KJV, Deuteronomy 18:15 hlybblsmpshndtn)<a href="#1_ref">&#8617;</a></p>
+<br>Moses continued, “The Lord your God will raise up for you a prophet like me from among your fellow Israelites. You must listen to him. (Deuteronomy 18:15 ESV, Deuteronomy 18:15 NLT, Deuteronomy 18:15 KJV, Deuteronomy 18:15 hlybblsmpshndtn)
+<br><br>God revealed the secret of Jesus, the secret of Church. <a href = "https://devotional-commentary-bible.netlify.app/posts/god_mystery/" target="_blank" rel="noopener noreferrer">God's mystery</a>
+<a href="#1_ref">&#8617;</a></p>
 
 <p id="2"><ref>[2]</ref> verse 2 <br><b>Who is Jesus?</b><br>1) God has appointed Jesus heir of all things. <br>2) God made the worlds through Jesus.
 <br><br><b>The work of holy Spirit</b>:
