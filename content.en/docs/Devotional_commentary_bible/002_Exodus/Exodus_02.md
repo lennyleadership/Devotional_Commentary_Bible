@@ -27,7 +27,7 @@ toc: true
 
 2:1 And there went a man of the house of Levi, and took to wife a daughter of Levi.  
 2:2 And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months.  
-2:3 And when she could not longer hide him, she took for him an <a class = "red">ark</a> of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river's brink. <a class = "marginnote">v3: it is ark in KJV translation, which is the same word for Noah's ark.</a>  
+2:3 And when she could not longer hide him, she took for him an <a class = "blue">ark</a> of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river's brink. <a class = "marginnote">v3: it is ark in KJV translation, which is the same word for Noah's ark.</a>  
 2:4 And his sister stood afar off, to wit what would be done to him.  
 2:5 And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river's side; and when she saw the ark among the flags, she sent her maid to fetch it.  
 

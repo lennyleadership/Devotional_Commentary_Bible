@@ -45,12 +45,12 @@ toc: true
 8:15 For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.  
 
 8:16 The Spirit itself beareth witness with our spirit, that we are the children of God:  
-8:17 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may <a class = "red">be also glorified</a> together.  
-8:18 For I reckon that the sufferings of this present time are not worthy to be compared with <a class = "red">the glory</a> which shall be revealed in us.  
+8:17 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may <a class = "blue">be also glorified</a> together.  
+8:18 For I reckon that the sufferings of this present time are not worthy to be compared with <a class = "blue">the glory</a> which shall be revealed in us.  
 8:19 For the earnest expectation of the creature waiteth for the manifestation of the sons of God.  
 8:20 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,  
 
-8:21 Because the creature itself also shall be delivered from the bondage of corruption into <a class = "red">the glorious liberty</a> of the children of God.  
+8:21 Because the creature itself also shall be delivered from the bondage of corruption into <a class = "blue">the glorious liberty</a> of the children of God.  
 8:22 For we know that the whole creation groaneth and travaileth in pain together until now.  
 8:23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.  
 8:24 For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?  
@@ -60,7 +60,7 @@ toc: true
 8:27 And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.  
 8:28 And we know that all things work together for good to them that love God, to them who are the called according to his purpose.  
 8:29 For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.  
-8:30 Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also <a class = "red">glorified</a>.  
+8:30 Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also <a class = "blue">glorified</a>.  
 
 8:31 What shall we then say to these things? If God be for us, who can be against us?  
 8:32 He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?  
@@ -79,17 +79,17 @@ toc: true
 
 8:1 如今那些在基督耶稣里的、就不定罪了。  
 8:2 因为赐生命圣灵的律、在基督耶稣里释放了我、使我脱离罪和死的律了。  
-8:3 律法既因肉体软弱、有所不能行的、　神就差遣<u class = "red"><a class = "red">自己的儿子</a></u>、成为罪身的形状、作了赎罪祭、在肉体中定了罪案。  
+8:3 律法既因肉体软弱、有所不能行的、　神就差遣<u class = "red"><a class = "blue">自己的儿子</a></u>、成为罪身的形状、作了赎罪祭、在肉体中定了罪案。  
 8:4 使律法的义、成就在我们这不随从肉体、只随从<u class = "red"><a class = "lemon">圣灵</a></u>的人身上。  
 8:5 因为随从肉体的人、体贴肉体的事。随从<u class = "red"><a class = "lemon">圣灵</a></u>的人、体贴<u class = "red"><a class = "lemon">圣灵</a></u>的事。  
 
 8:6 体贴肉体的就是死。体贴<u class = "red"><a class = "lemon">圣灵</a></u>的乃是生命平安。  
 8:7 原来体贴肉体的、就是与　神为仇。因为不服　神的律法、也是不能服。  
 8:8 而且属肉体的人、不能得　神的喜欢。  
-8:9 如果　<u class = "red"><a class = "lemon">神的灵</a></u><a class = "red">住在你们心里</a>、你们就不属肉体、乃属<u class = "red"><a class = "lemon">圣灵</a></u>了。人若没有<u class = "red"><a class = "lemon">基督的灵</a></u>、就不是属基督的。  
-8:10 <a class = "red">基督若在你们心里</a>、身体就因罪而死、心灵却因义而活。  
+8:9 如果　<u class = "red"><a class = "lemon">神的灵</a></u><a class = "blue">住在你们心里</a>、你们就不属肉体、乃属<u class = "red"><a class = "lemon">圣灵</a></u>了。人若没有<u class = "red"><a class = "lemon">基督的灵</a></u>、就不是属基督的。  
+8:10 <a class = "blue">基督若在你们心里</a>、身体就因罪而死、心灵却因义而活。  
 
-8:11 然而<u class = "red"><a class = "lemon">叫耶稣从死里复活者的灵</a></u>、若<a class = "red">住在你们心里</a>、那叫基督耶稣从死里复活的、也必借着<u class = "red"><a class = "lemon">住在你们心里的圣灵</a></u>、使你们必死的身体又活过来。  
+8:11 然而<u class = "red"><a class = "lemon">叫耶稣从死里复活者的灵</a></u>、若<a class = "blue">住在你们心里</a>、那叫基督耶稣从死里复活的、也必借着<u class = "red"><a class = "lemon">住在你们心里的圣灵</a></u>、使你们必死的身体又活过来。  
 8:12 弟兄们、这样看来、我们并不是欠肉体的债、去顺从肉体活着。  
 8:13 你们若顺从肉体活着必要死。若靠着<u class = "red"><a class = "lemon">圣灵</a></u>治死身体的恶行必要活着。  
 8:14 因为凡被　<u class = "red"><a class = "lemon">神的灵</a></u>引导的、都是　<u class = "red">神的儿子</u>。  

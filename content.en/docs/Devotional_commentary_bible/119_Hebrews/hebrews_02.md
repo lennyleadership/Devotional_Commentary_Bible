@@ -26,7 +26,7 @@ toc: true
 <div id="english" class="tabcontent" style="display:block">
 
 2:1 Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.  
-2:2 For if <a class = "red">the word spoken by angels</a> was stedfast, and every transgression and disobedience received a just recompence of reward; <a class ="marginnote">verse 2: stedfast is in KJV, steadfast is in other translations.<br> Angels are God's messengers who spoke[NASB, NKJV]/ delivered[NLT]/ declared[ESV]  God's words. <br>~<br></a>   
+2:2 For if <a class = "blue">the word spoken by angels</a> was stedfast, and every transgression and disobedience received a just recompence of reward; <a class ="marginnote">verse 2: stedfast is in KJV, steadfast is in other translations.<br> Angels are God's messengers who spoke[NASB, NKJV]/ delivered[NLT]/ declared[ESV]  God's words. <br>~<br></a>   
 2:3 How shall we escape, if we neglect so great <u class = "red">salvation</u>; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him; [Romans 1:20 ESV, Romans 1:20 NLT, Romans 1:20 KJV, Romans 1:20 hlybblsmpshndtn] <a class ="marginnote">verse 3: It echoes Hebrews 1:1. <br>God revealed himself and salvation to us. There is no excuse that human being can neglect the salvation. No one. It is hard to believe that God spoke the salvation to some, and did not speak to others. Therefore, it implies predestination is wrong. <br>~~~<br></a>   
 2:4 God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?  
 2:5 For unto the angels hath he not put in subjection the world to come, whereof we speak. <a class ="marginnote">verse 5: <b>in subjection to</b> means "under the power". ie. our subjection to the laws.</a>  
@@ -35,19 +35,19 @@ toc: true
 2:7 Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:  
 2:8 Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him. <a class ="marginnote">verse 8: <b>in subjection under</b></a>  
 2:9 But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man. <a class ="marginnote">verse 9: "for every man" implies no predestination.</a>  
-2:10 For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make <a class = "red">the captain of their salvation</a> <a class = "red">perfect</a> through sufferings.  
+2:10 For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make <a class = "blue">the captain of their salvation</a> <a class = "blue">perfect</a> through sufferings.  
 [Note: Hebrews 12:2 ESV, Hebrews 12:2 NKJV, Hebrews 12:2 NLT] <a class ="marginnote">verse 10:  
 <li>"The captain" and "the author" come from the same Greek word (the strong number G747). Joshua in Hebrew means savior.</li>
 <li><b>Perfect</b> in the sense that Jesus had to be a sacrifice for saving us.</li></a>  
 
 2:11 For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,  
 2:12 Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.  
-2:13 And again, I will put <a class = "red">my trust in him</a>. And again, Behold I and the children which God hath given me. <a class ="marginnote">verse 13: "in" is important. It implies "believe in".</a>  
+2:13 And again, I will put <a class = "blue">my trust in him</a>. And again, Behold I and the children which God hath given me. <a class ="marginnote">verse 13: "in" is important. It implies "believe in".</a>  
 2:14 Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil; <a class ="marginnote">verse 14: This verse can be referred in the communion service.<br>~~~~</a>  
 2:15 And deliver them who through fear of death were all their lifetime subject to bondage. <a class ="marginnote">verse 15: <b>subject to</b></a>  
 
 2:16 For verily he took not on him the nature of angels; but he took on him the seed of Abraham.  
-2:17 Wherefore in all things it behoved him to be made like unto his brethren, that he might be <a class = "red">a merciful and faithful high priest</a> in things pertaining to God, to make reconciliation for the sins of the people.   <a class ="marginnote">verse 17: <b>Perfect</b> in the sense that Jesus is <b>a high priest</b> and the sacrifice.</a>    
+2:17 Wherefore in all things it behoved him to be made like unto his brethren, that he might be <a class = "blue">a merciful and faithful high priest</a> in things pertaining to God, to make reconciliation for the sins of the people.   <a class ="marginnote">verse 17: <b>Perfect</b> in the sense that Jesus is <b>a high priest</b> and the sacrifice.</a>    
 [Note: Hebrews 2:17 ESV, Hebrews 2:17 NLT, Hebrews 2:17 hlybblsmpshndtn, <br>Hebrews 10:12 NLT, Hebrews 10:12 ESV, Hebrews 10:12 KJV, Hebrews 10:12 hlybblsmpshndtn.]   
 2:18 For in that he himself hath suffered being tempted, he is able to succour them that are tempted.  
 

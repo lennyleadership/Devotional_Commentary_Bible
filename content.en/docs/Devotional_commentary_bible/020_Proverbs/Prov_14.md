@@ -43,7 +43,7 @@ toc: true
 14:14 The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.  
 14:15 The simple believeth every word: but the prudent man looketh well to his going.  
 
-14:16 A wise man <u class = "red"><a class = "red">feareth</a></u>, and departeth from evil: but the fool rageth, and is confident.  
+14:16 A wise man <u class = "red"><a class = "blue">feareth</a></u>, and departeth from evil: but the fool rageth, and is confident.  
 14:17 He that is soon angry dealeth foolishly: and a man of wicked devices is hated.  
 14:18 The simple inherit folly: but the prudent are crowned with knowledge.  
 14:19 The evil bow before the good; and the wicked at the gates of the righteous.  
@@ -88,7 +88,7 @@ toc: true
 14:14 心中背道的、必满得自己的结果。善人必从自己的行为得以知足。  
 14:15 愚蒙人是话都信。通达人步步谨慎。  
 
-14:16 智慧人<u class = "red"><a class = "red">惧怕</a></u>、就远离恶事。愚妄人却狂傲自恃。  
+14:16 智慧人<u class = "red"><a class = "blue">惧怕</a></u>、就远离恶事。愚妄人却狂傲自恃。  
 14:17 轻易发怒的、行事愚妄。设立诡计的、被人恨恶。  
 14:18 愚蒙人得愚昧为产业。通达人得知识为冠冕。  
 14:19 坏人俯伏在善人面前。恶人俯伏在义人门口。  

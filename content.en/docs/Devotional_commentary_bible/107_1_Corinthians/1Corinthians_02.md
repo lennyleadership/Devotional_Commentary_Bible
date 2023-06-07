@@ -32,7 +32,7 @@ toc: true
 2:5 That your faith should not stand in the wisdom of men, but in the power of God.  
 
 2:6 Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:  
-2:7 But we speak the wisdom of God in <a class = "red">a mystery</a>, even the hidden wisdom, which God ordained before the world unto our glory:  
+2:7 But we speak the wisdom of God in <a class = "blue">a mystery</a>, even the hidden wisdom, which God ordained before the world unto our glory:  
 2:8 Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory.  
 2:9 But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.  
 2:10 But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.  

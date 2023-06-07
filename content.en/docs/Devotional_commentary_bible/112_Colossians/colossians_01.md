@@ -51,8 +51,8 @@ toc: true
 1:23 If ye continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;  
 1:24 Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the church:  
 1:25 Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;  
-1:26 Even <a class = "red">the mystery</a> which hath been hid from ages and from generations, but now is made manifest to his saints:  
-1:27 To whom God would make known what is the riches of the glory of <a class = "red">this mystery</a> among the Gentiles; which is Christ in you, the hope of glory:  
+1:26 Even <a class = "blue">the mystery</a> which hath been hid from ages and from generations, but now is made manifest to his saints:  
+1:27 To whom God would make known what is the riches of the glory of <a class = "blue">this mystery</a> among the Gentiles; which is Christ in you, the hope of glory:  
 1:28 Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:  
 1:29 Whereunto I also labour, striving according to his working, which worketh in me mightily.  
 </div>

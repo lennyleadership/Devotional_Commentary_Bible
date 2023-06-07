@@ -71,7 +71,7 @@ toc: true
 7:36 He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.  
 7:37 This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.  
 7:38 This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:  
-7:39 To whom our fathers would not obey, but thrust him from them, and <a class = "red">in their hearts turned back again into Egypt</a>,  
+7:39 To whom our fathers would not obey, but thrust him from them, and <a class = "blue">in their hearts turned back again into Egypt</a>,  
 7:40 Saying unto Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him.  
 
 7:41 And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands.  
