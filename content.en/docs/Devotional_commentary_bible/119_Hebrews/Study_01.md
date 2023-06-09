@@ -999,7 +999,7 @@ And he said, The Lord came from Sinai, and rose up from Seir unto them; he shine
 他们和保罗约定了日子，就有许多人到他的寓处来。保罗从早到晚，对他们讲论这事，证明神国的道，引摩西的律法和先知的书，以耶稣的事劝勉他们。
 
 罗马书 5:14
-然而从亚当到摩西，死就作了王，连那些不与亚当犯一样罪过的，也在他的权下。亚当乃是那以后要来之人的预像。
+然而从亚当到摩西，死就作了王，连那些不与亚当犯一样罪过的，也在他的权下。亚当乃是那以后要来之人的<a class ="red">预像</a>。
 
 罗马书 10:5
 摩西写着说：“人若行那出于律法的义，就必因此活着。”
@@ -1055,7 +1055,7 @@ performed miracles
 Moses was a prophet, priest
 
 <table>
-  <caption style="text-align:left", align = "top"><b>Bible verses on Moses</b></caption>
+  <caption style="text-align:left", align = "top"><b>Table 2: Bible verses on Moses</b></caption>
   <colgroup>
     <col style="width: 20%" /><col style="width: 40%" /><col style="width: 40%" />
   </colgroup>

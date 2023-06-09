@@ -25,6 +25,7 @@ Participates: Jay O'Connor, Shawn Hewitt, and Lenny Lin. Andrew Plew attended oc
   <li><a href="#header_1">2023-05-18</a></li>
   <li><a href="#header_2">2023-05-26</a></li>
   <li><a href="#header_3">2023-06-01</a></li>
+  <li><a href="#header_4">2023-06-08</a></li>
   <li><a href="#header_99">Misc.</a></li>
 </ul>
 </div>
@@ -56,6 +57,12 @@ I quoted Acts 17:10-11. Believers at Bera ...
 Jay recommended the Pilgrim's progress.
 
 Shawn and Jay prayed for me with their hands on shoulder.
+
+<h1 id="header_4"><span class = "overline">2023-06-08</span></h1>
+The secret of Jesus is not mystery, codes.
+
+Jesus was a prophet. [Acts 3:22, Deuteronomy 18:15, Matthew 21:46]
+
 
 <h1 id="header_99"><span class = "overline">misc</span></h1>
 <h2>Discussion #1: What does "in Christ" mean?</h2>
