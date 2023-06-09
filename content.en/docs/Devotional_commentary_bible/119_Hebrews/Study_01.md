@@ -178,7 +178,7 @@ tr.hidden {
 
 
 <table class="row">
-  <caption style="text-align:left", align = "top"><b>Bible verses on Moses</b></caption>
+  <caption style="text-align:left", align = "top"><b>Table 1: Bible verses on Moses</b></caption>
   <colgroup>
     <col style="width: 34%" /><col style="width: 33%" /><col style="width: 33%" />
   </colgroup>
@@ -969,7 +969,7 @@ And he said, The Lord came from Sinai, and rose up from Seir unto them; he shine
 </table>
 
 <div class="scroll-container">
-    <a href="#header_1" >To Table Header</a>
+    <a href="#header_1" >To Table 1</a>
 </div>
 
 <h2 id = "header_2">Moses did different things</h2>
