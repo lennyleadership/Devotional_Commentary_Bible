@@ -61,7 +61,25 @@ Shawn and Jay prayed for me with their hands on shoulder.
 <h1 id="header_4"><span class = "overline">2023-06-08</span></h1>
 The secret of Jesus is not mystery, codes.
 
+Point #1: Prophet
 Jesus was a prophet. [Acts 3:22, Deuteronomy 18:15, Matthew 21:46]
+
+Prophet: God sent messages through prophets to people some times.
+
+Point #2: separation from the world, baptism. 
+
+Acts 9:17-18 Paul was filled with the Holy Spirit first, then got baptized.
+
+fulfill the law. Circumcision Exodus 4:24-26 Moses almost forgot to comply with circumcision.  
+
+The meaning of Moses' name [Exodus 2:10]  
+
+Point #3: Plan ahead
+
+God's providence: He took actions before Israelite in Egypt complained.  God Moses, Aaron, Miriam [Micah 6:4]
+Shawn's business: trailer delay.
+
+
 
 
 <h1 id="header_99"><span class = "overline">misc</span></h1>
