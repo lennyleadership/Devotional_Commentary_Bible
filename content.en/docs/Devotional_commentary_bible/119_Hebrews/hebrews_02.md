@@ -37,7 +37,9 @@ toc: true
 2:9 But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man. <a class ="marginnote">verse 9: "for every man" implies no predestination.</a>  
 2:10 For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make <a class = "blue">the captain of their salvation</a> <a class = "blue">perfect</a> through sufferings.  
 [Note: Hebrews 12:2 ESV, Hebrews 12:2 NKJV, Hebrews 12:2 NLT] <a class ="marginnote">verse 10:  
-<li>"The captain" and "the author" come from the same Greek word (the strong number G747). Joshua in Hebrew means savior.</li>
+<li>"The captain" and "the author" come from the same Greek word (the strong number G747).</li>
+<li>中文翻为救恩的<b>元帅</b>，captain in KJV。</li>
+<li>Joshua in Hebrew means savior.</li>
 <li><b>Perfect</b> in the sense that Jesus had to be a sacrifice for saving us.</li></a>  
 
 2:11 For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,  
