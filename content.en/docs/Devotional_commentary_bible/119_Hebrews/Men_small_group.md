@@ -26,6 +26,8 @@ Participates: Jay O'Connor, Shawn Hewitt, and Lenny Lin. Andrew Plew attended oc
   <li><a href="#header_2">2023-05-26</a></li>
   <li><a href="#header_3">2023-06-01</a></li>
   <li><a href="#header_4">2023-06-08</a></li>
+  <li><a href="#header_5">2023-06-15</a></li>  
+  <li><a href="#header_6">2023-06-23</a></li>  
   <li><a href="#header_99">Misc.</a></li>
 </ul>
 </div>
@@ -80,6 +82,31 @@ God's providence: He took actions before Israelite in Egypt complained.  God Mos
 Shawn's business: trailer delay.
 
 
+<h1 id="header_5"><span class = "overline">2023-06-15</span></h1>
+Lenny took Daisy to house searching and convocation.  Jay took the new fire truck to Beausejour tomorrow for a safety.
+
+
+<h1 id="header_6"><span class = "overline">2023-06-23</span></h1>
+
+Topic: "Faithful" when rubber meets the road
+
+Point #1: Do you feel it is a calling to be a leader in church/ prophet? 
+
+verse 1:  
+
+ESV: share in a heavenly calling.  
+
+NASB/ KJV: partakers of a heavenly calling.
+
+case: deal with confrontation as a leader
+
+case: challenge from the crowd. Would you even question your capability?  
+
+Point #2: Were you transformed?
+
+Moses used to be eloquent (Acts 7:22), but abandoned them and took the rod of God in his hand (Exodus 4:20).  The rod represented the God's presence and God's power.  Who sent you to the Israelite? Moses will prove it with the rod.
+
+Jesus
 
 
 <h1 id="header_99"><span class = "overline">misc</span></h1>
