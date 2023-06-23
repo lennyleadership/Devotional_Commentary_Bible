@@ -90,7 +90,7 @@ Lenny took Daisy to house searching and convocation.  Jay took the new fire truc
 
 Topic: "Faithful" when rubber meets the road
 
-Point #1: Do you feel it is a calling to be a leader in church/ prophet? 
+<h2>Point #1: Do you feel it is a calling to be a leader in church/ prophet?</h2> 
 
 verse 1:  
 
@@ -102,11 +102,11 @@ case: deal with confrontation as a leader
 
 case: challenge from the crowd. Would you even question your capability?  
 
-Point #2: Were you transformed?
+<h2>Point #2: Were you transformed?</h2>
 
 Moses used to be eloquent (Acts 7:22), but abandoned them and took the rod of God in his hand (Exodus 4:20).  The rod represented the God's presence and God's power.  Who sent you to the Israelite? Moses will prove it with the rod.
 
-Jesus
+(John 5:19-30) Jesus can do nothing by himself.
 
 
 <h1 id="header_99"><span class = "overline">misc</span></h1>
