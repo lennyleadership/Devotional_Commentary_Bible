@@ -1,9 +1,9 @@
 ---
 weight: 018
-title: Psalm
+title: Psalm 18
 authors: Lenny
 categories: null
-tags: []
+tags: [Providence]
 description: 
 draft: false
 date: "2023-06-28"
@@ -26,7 +26,6 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-  <p>
 18:1 I will love thee, O LORD, my strength.  
 18:2 The LORD is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.  
 18:3 I will call upon the LORD, who is worthy to be praised: so shall I be saved from mine enemies.  
@@ -49,7 +48,7 @@ toc: true
 18:17 He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.  
 18:18 They prevented me in the day of my calamity: but the LORD was my stay.  
 18:19 He brought me forth also into a large place; he delivered me, because he delighted in me.  
-18:20 The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me.  
+18:20 The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me. <a class = "marginnote">v20: abundant providence. 上帝丰富的供应。(God has repaid (NASV) or rewarded (ESV) me according to the cleanness of my hands.</a>  
 
 18:21 For I have kept the ways of the LORD, and have not wickedly departed from my God.  
 18:22 For all his judgments were before me, and I did not put away his statutes from me.  
@@ -86,12 +85,11 @@ toc: true
 18:48 He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man.  
 18:49 Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name.  
 18:50 Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore.   
-  </p>
+
 </div>
 
 <div id="chinese" class="tabcontent">
 
-  <p>
 18:1 〔耶和华的仆人大卫的诗、交与伶长。当耶和华救他脱离一切仇敌和扫罗之手的日子、他向耶和华念这诗的话。说、〕耶和华我的力量阿、我爱你。  
 18:2 耶和华是我的岩石、我的山寨、我的救主、我的　神、我的磐石、我所投靠的。他是我的盾牌、是拯救我的角、是我的高台。  
 18:3 我要求告当赞美的耶和华。这样我必从仇敌手中被救出来。  
@@ -151,12 +149,8 @@ toc: true
 18:48 你救我脱离仇敌。又把我举起、高过那些起来攻击我的。你救我脱离强暴的人。  
 18:49 耶和华阿、因此我要在外邦中称谢你、歌颂你的名。  
 18:50 耶和华赐极大的救恩给他所立的王、施慈爱给他的受膏者、就是给大卫和他的后裔、直到永远。    
-  </p>
 </div>
 
 <div id="verse1" class="tabcontent">
 
-  <p>
-  
-  </p>
 </div>
