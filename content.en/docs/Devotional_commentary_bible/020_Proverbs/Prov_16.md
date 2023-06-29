@@ -62,7 +62,7 @@ toc: true
 16:30 He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass.  
 
 16:31 The hoary head is a crown of glory, if it be found in the way of righteousness.  
-16:32 He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city. <a class = "marginnote">v32: Believers are resisting the evil nature.</a> 
+16:32 He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city. <a class = "marginnote">v32: Believers are resisting the evil nature.</a>   
 16:33 The lot is cast into the lap; but the whole disposing thereof is of the LORD.  
 </div>
 
