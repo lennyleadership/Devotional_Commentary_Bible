@@ -121,7 +121,7 @@ The rod represented the God's presence and God's power.  Who sent you to the Isr
 
 <h1 id="header_7"><span class = "overline">2023-06-30</span></h1>
 
-Why Jesus is greater than Moses?  
+Point #1: Why Jesus is greater than Moses?  
 
 <ol>
 <li> The different position. 
@@ -131,15 +131,31 @@ Jesus was the son of God.
 Moses was a servant.</li>  
 
 <li> The different work.
+
 Moses gave the law.  
+
 Jesus gave the grace.  
+
 salvation is not earned by work.
 </li>
 
 </ol>
-point #1: Law
+
+Point #2: Law
 
 Galatians 3:24-25 ESV <b>The law was our guardian</b> until Christ came, in order that we might be justified by faith. But now that faith (refer to Jesus) has come, we are no longer under a guardian.
+
+
+Point #3: Why Jesus came down to earth 5000 years later?
+
+God's will/truth is like a tree.  The roots of the tree went deep.  The law is like roots, Jesus is like fruit.  Without roots, there will not be fruits.
+
+
+Point #3: the structure in chapter 3.
+
+
+
+
 
 
 <h1 id="header_99"><span class = "overline">misc</span></h1>
