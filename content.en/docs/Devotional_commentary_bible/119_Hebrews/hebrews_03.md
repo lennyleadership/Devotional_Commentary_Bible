@@ -4,7 +4,7 @@ title: Hebrews 03
 authors: Lenny
 categories: null
 series:
-tags: [literacy device, Parallelism structure]
+tags: [Literacy device, Parallelism structure]
 description: 
 draft: false
 date: "2023-03-12"
@@ -12,7 +12,7 @@ lastmod: "2023-03-12"
 toc: true
 ---
 
-## <!--more-->
+<!--more-->
 
 <!-- Tab links -->
 

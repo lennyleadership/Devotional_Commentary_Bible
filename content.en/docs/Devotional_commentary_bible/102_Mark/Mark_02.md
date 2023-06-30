@@ -4,7 +4,7 @@ title: Mark 2
 authors: Lenny
 categories: null
 series: 
-tags: [literary device, chiasm, chiasmus, Chiastic patterns, chiastic structure]
+tags: [Literary device, chiasm, chiasmus, Chiastic patterns, chiastic structure]
 description: 
 draft: false
 date: "2023-06-29"
