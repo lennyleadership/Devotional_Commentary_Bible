@@ -42,7 +42,7 @@ toc: true
 3:12 Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.  
 3:13 But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.  
 3:14 For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;  
-3:15 While it is said, To day if ye will hear his voice, <>harden not your hearts, as in the provocation</b>.  
+3:15 While it is said, To day if ye will hear his voice, <b>harden not your hearts, as in the provocation</b>.  
 
 3:16 For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.  
 3:17 But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?  
