@@ -34,7 +34,7 @@ toc: true
 
 3:6 But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.  
 3:7 Wherefore (as the Holy Ghost saith, To day if ye will hear his voice, <a id="1_ref" href = "#1">[1]</a>  
-3:8 Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:  
+3:8 <b>Harden not your hearts, as in the provocation</b>, in the day of temptation in the wilderness:  
 3:9 When your fathers tempted me, proved me, and saw my works forty years.  
 3:10 Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.  
 
@@ -42,7 +42,7 @@ toc: true
 3:12 Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.  
 3:13 But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.  
 3:14 For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;  
-3:15 While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.  
+3:15 While it is said, To day if ye will hear his voice, <>harden not your hearts, as in the provocation</b>.  
 
 3:16 For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.  
 3:17 But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?  
@@ -52,6 +52,33 @@ toc: true
 
 <p id="1">[1] 
 parallelism structure
+
+<table >
+<caption style="text-align:left", align = "top"><b></b></caption>
+<colgroup><col style="width: 40%" /><col style="width: 60%" />
+</colgroup>
+<thead>
+  <tr VALIGN=TOP style="text-align:left"  class="header">
+    <th><p>Title Left</p></th>
+    <th><p>Title Right</p></th>
+  </tr>
+</thead>
+<tbody VALIGN=TOP>
+  <tr>
+    <td><p>sentence left
+    </p></td>
+    <td><p>sentence right.
+    </p></td>
+  </tr>
+  <tr>
+    <td><p>sentence left
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
 <br> The first section 3:7 - 3:14
 <br> 1) 3:7-8
 <br> 2) 3:9-10
