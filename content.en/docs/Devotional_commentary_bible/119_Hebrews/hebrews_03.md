@@ -59,7 +59,7 @@ parallelism structure
 <thead>
   <tr VALIGN=TOP style="text-align:left"  class="header">
     <th><p>The first section 3:7 - 3:14</p></th>
-    <th><p>The second section 3:15 - 4:13</p></th>
+    <th><p>The second section 3:15 - 4:11</p></th>
   </tr>
 </thead>
 <tbody VALIGN=TOP>
@@ -90,7 +90,7 @@ parallelism structure
   <tr>
     <td><p>5) 3:13-14
     </p></td>
-    <td><p>5) 4:1-13
+    <td><p>5) 4:1-11
     </p></td>
   </tr>
 </tbody>
@@ -135,7 +135,7 @@ A. 不可硬着心、惹神发怒（三7-8）；
 <br>&nbsp;  B1. 以色列人在旷野惹神发怒四十年、被神厌烦（三16-17）；
 <br>&nbsp;&nbsp;    C1. 神在怒中起誓：不信者不可进入安息（三18）；
 <br>&nbsp;&nbsp;&nbsp;    　D1. 不信者不能进入安息（三19）；
-<br>&nbsp;&nbsp;&nbsp;&nbsp;    　　E1. 互相劝勉的内容（四1-13）。
+<br>&nbsp;&nbsp;&nbsp;&nbsp;    　　E1. 互相劝勉的内容（四1-11）。
 <a href="#1_ref">&#8617;</a></p>
 
 </div>
