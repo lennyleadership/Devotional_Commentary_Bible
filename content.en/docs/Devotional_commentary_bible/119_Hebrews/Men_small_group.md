@@ -151,7 +151,7 @@ Point #3: Why Jesus came down to earth 5000 years later?
 God's will/truth is like a tree.  The roots of the tree went deep.  The law is like roots, Jesus is like fruit.  Without roots, there will not be fruits.
 
 
-Point #3: the structure in chapter 3.
+Point #3: the parallelism structure in chapter 3.
 
 
 

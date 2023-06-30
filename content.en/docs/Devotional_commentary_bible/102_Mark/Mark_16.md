@@ -1,18 +1,43 @@
 ---
+wright: 16
+title: Mark 16
 authors: Lenny
 categories: null
-date: "2022-04-19"
-description: 
-draft: false
-lastmod: "2022-05-24"
 series:
 tags: 
-title: 16 可十六章
+description: 
+draft: false
+date: "2022-04-19"
+lastmod: "2022-05-24"
 toc: true
 enableComment: true 
 ---
-马可福音
+
 <!--more-->
+
+<!--more-->
+---
+
+<!-- Tab links -->
+
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'verse1')"></button>
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+
+</div>
+
+<div id="chinese" class="tabcontent">
+
+
+</div>
+
+<div id="verse1" class="tabcontent">
 
 16:1 过了安息日、抹大拉的马利亚、和雅各的母亲马利亚、并撒罗米、买了香膏、要去膏耶稣的身体。  
 16:2 七日的第一日清早、出太阳的时候、他们来到坟墓那里。  
@@ -27,18 +52,20 @@ enableComment: true
 16:10 他去告诉那向来跟随耶稣的人。那时他们正哀恸哭泣。  
 
 16:11 他们听见耶稣活了、被马利亚看见、却是不信。  
-16:12 这事以后、门徒中间有两个人、往乡下去。走路的时候、耶稣变了形像向他们显现、
+16:12 这事以后、门徒中间有两个人、往乡下去。走路的时候、耶稣变了形像向他们显现、  
 16:13 他们就去告诉其余的门徒。其余的门徒、也是不信。  
 16:14 后来十一个门徒坐席的时候、耶稣向他们显现、责备他们不信、心里刚硬。因为他们不信那些在他复活以后看见他的人。  
 16:15 他又对他们说、你们往普天下去、传福音给万民听。〔万民原文作凡受造的〕
 
 16:16 信而受洗的必然得救。不信的必被定罪。  
 16:17 信的人必有神迹随着他们。就是奉我的名赶鬼。说新方言。  
-16:18 手能拿蛇。若喝了甚么毒物、也必不受害。手按病人、病人就必好了。[^1]  
+16:18 手能拿蛇。若喝了甚么毒物、也必不受害。手按病人、病人就必好了。<a id="1_ref" href = "#1">[1]</a>  
 16:19 主耶稣和他们说完了话、后来被接到天上、坐在　神的右边。  
 16:20 门徒出去、到处宣传福音、主和他们同工、用神迹随着、证实所传的道。阿们。  
 
-[^1]: ‪Mark‬16:15-18 NKJV 
+
+<p id="1">[1] 
+‪Mark‬16:15-18 NKJV 
 15 And He said to them, “**Go** into all the world and preach the gospel to every creature.  
 16 He who believes and is baptized **will** be saved; but he who does not believe will be condemned.  
 17 And these signs **will** follow those who believe: In My name they **will** cast out demons; they **will** speak with new tongues;  
@@ -60,7 +87,13 @@ However, Martin Luther suggested that “the signs here spoken of are to be used
 弟兄L: 我是否可以说：神迹是神的恩典中的一种。虽然神迹是神通过信徒这个管道行出来的，但追求“行神迹的能力”是不可取的。
 弟兄D: 感谢主，这是属灵的看见。  
 不管是miracle还是sign，这是神的一个表号，为了要彰显他自己。满有恩慈是神的神性。圣灵凭己意行万事。  
+<a href="#1_ref">&#8617;</a></p>
+
 [^2]: ‪Hebrews‬2:2-4 NKJV
 2 For if the word spoken through angels proved steadfast, and every transgression and disobedience received a just reward,   
 3 how shall we escape if we neglect so great a salvation, which at the first began to be spoken by the Lord, and was confirmed to us by those who heard Him,  
 4 God also bearing witness both with signs and wonders, with various miracles, and gifts of the Holy Spirit, according to His own will?  
+
+</div>
+
+

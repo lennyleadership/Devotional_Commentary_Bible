@@ -1,18 +1,16 @@
 ---
-weight: 01
-title: Mark 01
+weight: 999
+title: Mark
 authors: Lenny
 categories: null
-tags: 
+series: 
+tags: []
 description: 
 draft: false
-date: "2022-04-19"
-lastmod: "2022-05-24"
-series: 
+date: "2023-06-29"
+lastmod: "2023-06-29"
 toc: true
 ---
-
-<!--more-->
 
 <!--more-->
 ---
