@@ -28,6 +28,7 @@ Participates: Jay O'Connor, Shawn Hewitt, and Lenny Lin. Andrew Plew attended oc
   <li><a href="#header_4">2023-06-08</a></li>
   <li><a href="#header_5">2023-06-15</a></li>  
   <li><a href="#header_6">2023-06-23</a></li>  
+  <li><a href="#header_7">2023-06-30</a></li>
   <li><a href="#header_99">Misc.</a></li>
 </ul>
 </div>
@@ -82,8 +83,10 @@ God's providence: He took actions before Israelite in Egypt complained.  God Mos
 Shawn's business: trailer delay.
 
 
+
 <h1 id="header_5"><span class = "overline">2023-06-15</span></h1>
 Lenny took Daisy to house searching and convocation.  Jay took the new fire truck to Beausejour tomorrow for a safety.
+
 
 
 <h1 id="header_6"><span class = "overline">2023-06-23</span></h1>
@@ -113,6 +116,28 @@ Question: They do not believe in me (Exodus 4:20).
 The rod represented the God's presence and God's power.  Who sent you to the Israelite? Moses will prove it with the rod.
 
 (John 5:19-30) Jesus can do nothing by himself.
+
+
+
+<h1 id="header_7"><span class = "overline">2023-06-30</span></h1>
+
+Why Jesus is greater than Moses?  
+
+<ol>
+<li> The different position. 
+
+Jesus was the son of God.   
+
+Moses was a servant.</li>  
+
+<li> The different work.
+
+</li>
+
+</ol>
+point #1: Law
+
+Galatians 3:24-25 ESV <b>The law was our guardian</b> until Christ came, in order that we might be justified by faith. But now that faith (refer to Jesus) has come, we are no longer under a guardian.
 
 
 <h1 id="header_99"><span class = "overline">misc</span></h1>
