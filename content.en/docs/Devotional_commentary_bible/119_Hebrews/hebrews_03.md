@@ -54,43 +54,47 @@ toc: true
 parallelism structure
 
 <table >
-<caption style="text-align:left", align = "top"><b></b></caption>
-<colgroup><col style="width: 40%" /><col style="width: 60%" />
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
 <thead>
   <tr VALIGN=TOP style="text-align:left"  class="header">
-    <th><p>Title Left</p></th>
-    <th><p>Title Right</p></th>
+    <th><p>The first section 3:7 - 3:14</p></th>
+    <th><p>The second section 3:15 - 4:13</p></th>
   </tr>
 </thead>
 <tbody VALIGN=TOP>
   <tr>
-    <td><p>sentence left
+    <td><p>1) 3:7-8
     </p></td>
-    <td><p>sentence right.
+    <td><p>1) 3:15
     </p></td>
   </tr>
   <tr>
-    <td><p>sentence left
+    <td><p>2) 3:9-10
     </p></td>
-    <td><p> sentence right.
+    <td><p>2) 3:16-17
+    </p></td>
+  </tr>
+  <tr>
+    <td><p>3) 3:11
+    </p></td>
+    <td><p>3) 3:18
+    </p></td>
+  </tr>
+  <tr>
+    <td><p>4) 3:12
+    </p></td>
+    <td><p>4) 3:19
+    </p></td>
+  </tr>
+  <tr>
+    <td><p>5) 3:13-14
+    </p></td>
+    <td><p>5) 4:1-13
     </p></td>
   </tr>
 </tbody>
 </table>
-
-<br> The first section 3:7 - 3:14
-<br> 1) 3:7-8
-<br> 2) 3:9-10
-<br> 3) 3:11
-<br> 4) 3:12
-<br> 5) 3:13-14
-<br> The second section 3:15 - 4:13
-<br> 1) 3:15
-<br> 2) 3:16-17
-<br> 3) 3:18
-<br> 4) 3:19
-<br> 5) 4:1-13
 <a href="#1_ref">&#8617;</a></p>
 </div>
 
