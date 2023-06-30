@@ -131,7 +131,9 @@ Jesus was the son of God.
 Moses was a servant.</li>  
 
 <li> The different work.
-
+Moses gave the law.  
+Jesus gave the grace.  
+salvation is not earned by work.
 </li>
 
 </ol>
