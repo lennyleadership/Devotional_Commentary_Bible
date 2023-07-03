@@ -48,12 +48,12 @@ toc: true
 18:17 He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.  
 18:18 They prevented me in the day of my calamity: but the LORD was my stay.  
 18:19 He brought me forth also into a large place; he delivered me, because he delighted in me.  
-18:20 The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me. <a class = "marginnote">v20: abundant providence. 上帝丰富的供应。(God has repaid (NASV) or rewarded (ESV) me according to the cleanness of my hands.</a>  
+<b>18:20 The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me</b>. <a class = "marginnote">v20: abundant providence. 上帝丰富的供应。(God has repaid (NASV) or rewarded (ESV) me according to the cleanness of my hands.</a>    
 
 18:21 For I have kept the ways of the LORD, and have not wickedly departed from my God.  
 18:22 For all his judgments were before me, and I did not put away his statutes from me.  
 18:23 I was also upright before him, and I kept myself from mine iniquity.  
-18:24 Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight.  
+<b>18:24 Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight</b>. <a class = "marginnote">v20 and v24 is parallel</a>  
 18:25 With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright;  
 
 18:26 With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward.  
