@@ -121,7 +121,7 @@ toc: true
 18:25 慈爱的人、你以慈爱待他。完全的人、你以完全待他。  
 
 18:26 清洁的人、你以清洁待他。乖僻的人、你以弯曲待他。  
-18:27 困苦的百姓、你必拯救。高傲的眼目、你必使他降卑。  
+18:27 困苦的百姓、你必拯救。高傲的眼目、你必使他降卑。<a class = "marginnote">v27 ESV translated to "a humble people". NASB translated to "an afflicted people" which aligns with Chinese translation here "困苦的百姓".</a>     
 18:28 你必点着我的灯。耶和华我的　神必照明我的黑暗。  
 18:29 我借着你冲入敌军、借着我的　神跳过墙垣。  
 18:30 至于　神、他的道是完全的。耶和华的话是炼净的。凡投靠他的、他便作他们的盾牌。  
