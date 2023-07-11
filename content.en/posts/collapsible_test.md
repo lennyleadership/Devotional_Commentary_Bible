@@ -824,9 +824,11 @@ summary::-webkit-details-marker {
   }
   .collapsible > .toggler::after {
     content: "\25bc";
+    color: black;
   }
   .collapsible.open > .toggler::after {
     content: "\25b2";
+    color: black;
   }
 
 </style>
