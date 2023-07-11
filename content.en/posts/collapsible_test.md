@@ -793,7 +793,9 @@ summary::-webkit-details-marker {
 
 <h1><span class = "overline">Option #8</span></h1>
 
-<h1>Table with Expando Rows</h1>
+
+
+<h1><span class = "overline">Table with Expando Rows</span></h1>
 
 <p>
   For a detailed explanation of what is going on here, read my post <a href="http://adrianroselli.com/2019/09/table-with-expando-rows.html"><cite>Table with Expando Rows</cite></a>.
