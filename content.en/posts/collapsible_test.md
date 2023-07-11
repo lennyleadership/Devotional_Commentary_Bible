@@ -800,6 +800,8 @@ summary::-webkit-details-marker {
   <p>Again, the only gotcha is that the first child of the container must be a P.</p>
 </div>
 
+Reference: <a href = "https://www.the-art-of-web.com/javascript/truncate-expand-text/" target="_blank" rel="noopener noreferrer">The art of web | HTML content that expands on click</a>
+
 <style>
   .collapsible {
     position: relative;
