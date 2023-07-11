@@ -793,6 +793,59 @@ summary::-webkit-details-marker {
 
 <h1><span class = "overline">Option #8</span></h1>
 
+<div class="collapsible">
+  <p>This is the first paragraph of text that will always be visible. A clickable element will be appended to the bottom of the container to show/hide more content. Alternatively, you could make the entire container clickable, but for now we're gone with the toggler.</p>
+  <p>The second and subsequent paragraphs (or lists or other elements) will remain in the HTML, but hidden until requested.</p>
+  <p>When the toggler is clicked, JavaScript toggles an open class on the parent container, which in turn shows and hides the additional content.</p>
+  <p>Again, the only gotcha is that the first child of the container must be a P.</p>
+</div>
+
+<style>
+  .collapsible {
+    position: relative;
+    padding-bottom: 0.5em;
+  }
+  .collapsible:not(.open) > * {
+    display: none;
+  }
+  .collapsible:not(.open) > p:first-child {
+    display: block;
+  }
+
+  .collapsible > .toggler {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    background: #fff;
+    text-align: center;
+    cursor: pointer;
+  }
+  .collapsible > .toggler::after {
+    content: "\25bc";
+  }
+  .collapsible.open > .toggler::after {
+    content: "\25b2";
+  }
+
+</style>
+
+<script>
+  document.querySelectorAll(".collapsible").forEach(function(current) {
+
+    let toggler = document.createElement("div");
+    toggler.className = "toggler";
+    current.appendChild(toggler);
+
+    toggler.addEventListener("click", function(e) {
+      current.classList.toggle("open");
+    }, false);
+
+  });
+</script>
+
+
 
 
 <h1><span class = "overline">Table with Expando Rows</span></h1>
