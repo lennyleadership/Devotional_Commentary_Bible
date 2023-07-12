@@ -3,7 +3,7 @@ weight: 018
 title: Psalm 18
 authors: Lenny
 categories: null
-tags: [Providence]
+tags: [Providence, Who God is]
 description: 
 draft: false
 date: "2023-06-28"
@@ -63,7 +63,7 @@ toc: true
 18:30 As for God, his way is perfect: the word of the LORD is tried: he is a buckler to all those that trust in him.  
 
 18:31 For who is God save the LORD? or who is a rock save our God?  
-18:32 It is God that girdeth me with strength, and maketh my way perfect.  
+18:32 It is God that girdeth me with strength, and maketh my way perfect.<a class = "marginnote">v32 - subject: Who God is? Whoever does not equip me with strength, and does not make my way blameless is not God.  This is the criteria to separate the LORD God from other gods.</a>  
 18:33 He maketh my feet like hinds' feet, and setteth me upon my high places.  
 18:34 He teacheth my hands to war, so that a bow of steel is broken by mine arms.  
 18:35 Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great.  
