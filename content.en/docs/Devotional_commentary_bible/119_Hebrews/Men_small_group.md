@@ -174,7 +174,9 @@ train<b>s</b> my hands for war (V34)
 
 ma<b>d</b>e our way blameless (V32)
 
-point #2: 1 Peter 5:1-5
+point #2: 1 Peter 5
+
+the mystery in Ephesians 5:32, concerning Christ and the church.
 
 
 
