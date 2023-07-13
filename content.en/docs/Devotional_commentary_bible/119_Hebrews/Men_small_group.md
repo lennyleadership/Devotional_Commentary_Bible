@@ -29,6 +29,8 @@ Participates: Jay O'Connor, Shawn Hewitt, and Lenny Lin. Andrew Plew attended oc
   <li><a href="#header_5">2023-06-15</a></li>  
   <li><a href="#header_6">2023-06-23</a></li>  
   <li><a href="#header_7">2023-06-30</a></li>
+  <li><a href="#header_7">2023-07-07</a></li>
+  <li><a href="#header_7">2023-07-14</a></li>  
   <li><a href="#header_99">Misc.</a></li>
 </ul>
 </div>
@@ -155,6 +157,22 @@ Point #3: the parallelism structure in chapter 3.
 
 
 
+<h1 id="header_7"><span class = "overline">2023-07-07</span></h1>
+
+verse 12 and discussion
+
+
+-<h1 id="header_7"><span class = "overline">2023-07-14</span></h1>
+point: Who is our God?
+
+Psalm 18, 
+equip<b>ped</b> us with his strength (V32)  
+
+made my feet like the feet of a deer (V33)
+
+train<b>s</b> my hands for war (V34)
+
+ma<b>d</b>e our way blameless (V32)
 
 
 
