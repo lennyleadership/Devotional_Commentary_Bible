@@ -163,16 +163,18 @@ verse 12 and discussion
 
 
 -<h1 id="header_7"><span class = "overline">2023-07-14</span></h1>
-point: Who is our God?
+point #1: Who is our God?
 
 Psalm 18, 
 equip<b>ped</b> us with his strength (V32)  
 
-made my feet like the feet of a deer (V33)
+ma<b>d</b>e my feet like the feet of a deer (V33)
 
 train<b>s</b> my hands for war (V34)
 
 ma<b>d</b>e our way blameless (V32)
+
+point #2: 1 Peter 5:1-5
 
 
 
