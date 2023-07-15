@@ -80,7 +80,7 @@ toc: true
       <i></i>
       <h2>Mike Badwell | Hebrews 4:9-11 ... Rrest for Christian: Past, Present, and future</h2>
       <p>
-      <br><br><iframe width="1035" height="582" src="https://www.youtube.com/embed/GjIGlZixLYY" title="HEBREWS 4:9-11 ... REST FOR THE CHRISTIAN; PAST AND FUTURE FOR SURE, BUT IT&#39;S EVEN AVAILABLE TODAY!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br><br><iframe width="100%" src="https://www.youtube.com/embed/GjIGlZixLYY" title="HEBREWS 4:9-11 ... REST FOR THE CHRISTIAN; PAST AND FUTURE FOR SURE, BUT IT&#39;S EVEN AVAILABLE TODAY!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </p>
     </li>
     
