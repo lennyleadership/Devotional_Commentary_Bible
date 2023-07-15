@@ -133,7 +133,7 @@ section.study {
   line-height: 1.45;
   position: relative;
   overflow: hidden;
-  max-height: 500px; /*the image size is determined by this setting*/
+  max-height: auto; /*500px the size of expanded text is determined by this setting*/
   will-change: max-height;
   contain: layout;
   display: inline-block;
