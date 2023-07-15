@@ -20,7 +20,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  
+  <button class="tablinks" onclick="tablabel(event, 'study1')">Rest</button>
 </div>
 
 <!-- Tab content -->
@@ -69,4 +69,191 @@ toc: true
 4:15 因我们的大祭司、并非不能体恤我们的软弱。他也曾凡事受过试探、与我们一样。只是他没有犯罪。  
  
 4:16 所以我们只管坦然无惧的、来到施恩的宝座前、为要得怜恤、蒙恩惠作随时的帮助。  
+</div>
+
+<div id="study1" class="tabcontent">
+
+<div id="study">
+  <ul>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2>Mike Badwell | Hebrews 4:9-11 ... Rrest for Christian: Past, Present, and future</h2>
+      <p>
+      <br><br><iframe width="1035" height="582" src="https://www.youtube.com/embed/GjIGlZixLYY" title="HEBREWS 4:9-11 ... REST FOR THE CHRISTIAN; PAST AND FUTURE FOR SURE, BUT IT&#39;S EVEN AVAILABLE TODAY!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </p>
+    </li>
+    
+<style>
+
+#study {
+  max-width: auto; /*700px*/
+  margin: auto;
+  padding: 0 15px;
+  text-align: center;
+}
+
+section.study {
+  padding-top: 2em;
+  padding-bottom: 3em;/*3*/
+}
+
+#study ul {
+  text-align: left;
+}
+
+.transition, p, ul li i:before, ul li i:after {
+  transition: all 0.3s;
+}
+
+#study .no-select, #study h2 {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  user-select: none;
+}
+
+#study h2 {
+  color: #cc071e;
+  font-size: 17px; /*20*/
+  line-height: 20px;/*34 it determines the height of h2*/
+  text-align: left;
+  padding: 15px 15px 0; /*15px 15px 0*/
+  text-transform: none;
+  font-weight: 300;
+  display: block;
+  margin: 0;
+  cursor: pointer;
+  transition: .2s;
+}
+
+#study p {
+  color: #333;
+  text-align: left;
+  font-size: 14px;
+  line-height: 1.45;
+  position: relative;
+  overflow: hidden;
+  max-height: 500px; /*the image size is determined by this setting*/
+  will-change: max-height;
+  contain: layout;
+  display: inline-block;
+  opacity: 1;
+  transform: translate(0, 0);
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding: 0 50px 0 15px;
+  transition: .3s opacity, .6s max-height;
+  hyphens: auto;
+  z-index: 2;
+}
+
+#study ul {
+  list-style: none;
+  perspective: 900;
+  padding: 0;
+  margin: 0;
+}
+#study ul li {
+  position: relative;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  /*padding-bottom: 4px;*/
+  /*padding-top: 18px;*/
+  background: #fff;
+  box-shadow: 0 3px 10px -2px rgba(0,0,0,0.1);
+  -webkit-tap-highlight-color: transparent;
+}
+#study ul li + li {
+  margin-top: 15px;/*gap between two h2*/
+}
+#study ul li:last-of-type {
+  padding-bottom: 0;
+}
+#study ul li i {
+  position: absolute;
+  transform: translate(-6px, 0);
+  margin-top: 28px; /*28 location of the arrow*/
+  right: 15px;
+}
+#study ul li i:before, ul li i:after {
+  content: "";
+  position: absolute;
+  background-color: #cc071e;
+  width: 3px;
+  height: 9px;
+}
+#study ul li i:before {
+  transform: translate(-2px, 0) rotate(45deg);
+}
+#study ul li i:after {
+  transform: translate(2px, 0) rotate(-45deg);
+}
+#study ul li input[type=checkbox] {
+  position: absolute;
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0;
+  touch-action: manipulation;
+}
+#study ul li input[type=checkbox]:checked ~ h2 {
+  color: #000;
+}
+#study ul li input[type=checkbox]:checked ~ p {
+  /*margin-top: 0;*/
+  max-height: 0;
+  transition: .3s;
+  opacity: 0;
+  /*transform: translate(0, 50%);*/
+}
+#study ul li input[type=checkbox]:checked ~ i:before {
+  transform: translate(2px, 0) rotate(45deg);
+}
+#study ul li input[type=checkbox]:checked ~ i:after {
+  transform: translate(-2px, 0) rotate(-45deg);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  /*height: 100%;*/
+}
+
+a,
+a:visited,
+a:focus,
+a:active,
+a:link {
+  text-decoration: none;
+  outline: 0;
+}
+
+a {
+  color: currentColor;
+  transition: .2s ease-in-out;
+}
+
+h1, h2, h3, h4 {
+  margin: .3em 0;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+img {
+  vertical-align: middle;
+  height: auto;
+  width: 100%;
+}
+
+
+</style>
 </div>
