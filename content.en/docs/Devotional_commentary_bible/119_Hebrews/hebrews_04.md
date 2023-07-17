@@ -93,7 +93,21 @@ toc: true
       <br><br><iframe width="540" height="270" src="https://www.youtube.com/embed/GjIGlZixLYY" title="HEBREWS 4:9-11 ... REST FOR THE CHRISTIAN; PAST AND FUTURE FOR SURE, BUT IT&#39;S EVEN AVAILABLE TODAY!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </p>
     </li>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2>Jesus Calling | June 10 REST</h2>
+      <p>Below is from a very different perspective.  We donot need to work out but pray only.  I think it could be problematic.
+      <br><br><img width = "540" src = "/docs/images/jesus_calling_june_10_rest_in_me.jpg"/>
+      </p>
+    </li>
     
+    
+    
+    
+    
+  </ul>
+  
 <style>
 
 #study {
@@ -264,6 +278,6 @@ img {
   width: 100%;
 }
 
-
 </style>
+
 </div>
