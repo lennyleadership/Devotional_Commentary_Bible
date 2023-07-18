@@ -295,7 +295,7 @@ toc: true
       <input type="checkbox" checked>
       <i></i>
       <h2>HEBREWS 5:6-11, "IN THE DAYS OF HIS FLESH!" (A GLIMPSE AT GETHSEMANE)</h2>
-      <p></p>
+      <p>Let's open our Bibles to the book of Hebrews, chapter four. And in this class verses nine and ten and eleven, they are summary verses to a topic we have been discussing now for several classes, God's idea of rest. R-E-S-T rest. I need to read to you Hebrews nine and ten, and eleven. There remaineth, therefore a rest for the people of God. That's verse nine, verse ten. For he that is entered into his rest, he hath ceased from his own works as God ceased from his. Referring to the time that God created the world in six days. We saw it last night. And then God rested. Let me read verse ten again. For he that is entered into his rest. I have. If you're saved, you have. For he that is entered into his rest, he hath ceased from his own works as God did from his. And now let me read verse eleven. Let us labor, therefore, to enter into that rest, lest any man should fall, lest any man should slip, lest any man should fail. After an example of unbelief, an Old Testament example, I'll explain it of unbelief. The Jews in the wilderness who grumbled and griped and complained and fell short, did not get to enter the Land of Canaan. It almost looks at a point or two in Hebrews four, nine through eleven that there are some contradictions, but there aren't. I'll make a confession. When I first began to read Hebrews 4, 9, 10, and 11, it was hard for me to grasp. I had to find myself begging and asking the Lord to give me insight, illumination. Psalm 119 taught me to do that. Lord, would you open my eyes that I may behold wondrous things out of Thy law, out of Thy word. And honestly the Spirit of God, I believe, has given me some clarity on verses nine and ten and eleven. </p>
     </li>
     <li>
       <input type="checkbox" checked>
@@ -307,43 +307,6 @@ toc: true
   
 <style>
 
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
 
-html, body {
-  /*height: 100%;*/
-}
-
-a,
-a:visited,
-a:focus,
-a:active,
-a:link {
-  text-decoration: none;
-  outline: 0;
-}
-
-a {
-  color: currentColor;
-  transition: .2s ease-in-out;
-}
-
-h1, h2, h3, h4 {
-  margin: .3em 0;
-}
-
-ul {
-  padding: 0;
-  list-style: none;
-}
-
-img {
-  vertical-align: middle;
-  height: auto;
-  width: 100%;
-}
 </style>
 </div>
