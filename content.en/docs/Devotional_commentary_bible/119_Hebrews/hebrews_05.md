@@ -75,12 +75,11 @@ toc: true
       <i></i>
       <h2>Hebrews 5:1-5 ... Aaron and Jesus, both High Priests ... but Jesus is far superior!</h2>
       <p>
-
 00:01 Ah. Join me for class today. Our text is found in Hebrews, chapter five. Hebrews, chapter five, in fact. And I debated on how many verses to try to cover but prayerfully. I've decided we're going to cover the first five verses of Hebrews five. 
-00:29 Hebrews five. Chapter five begins an expanse of 567896 chapters, chapters five through chapter number ten, giving some detail about the high priestly ministry of our Lord Jesus Christ. I think this may be the reason what we're about to begin studying, why the book of Hebrews is often neglected. 
-01:06 All that Old Testament history, all that about the great high priesthood, I don't understand it. Paul even accuses these Hebrews of not having matured enough to be able to comprehend our Lord's present day ministry on our bay. 
+00:29 Hebrews five. Chapter five begins an expanse of 5, 6, 7, 8, 9 six chapters, chapters five through chapter number ten, <b>giving some detail about the high priestly ministry of our Lord Jesus Christ</b>. I think this may be the reason what we're about to begin studying, why the book of Hebrews is often neglected. 
+01:06 All that Old Testament history, all that about the great high priesthood, I don't understand it. Paul even accuses these Hebrews of not having matured enough to be able to comprehend our Lord's present day ministry on our bay(?). 
 01:30 Told them they were dull of hearing. Let me read our text. And granted, it does get complex, does get involved. For every high priest taken among men now, these are human beings. Every high priest taken from among men is ordained for men. 
-02:00 In the things pertaining to God that he may what's the job of the high priest? Jewish. He's not talking about gentile priest of any kind. Jewish high priest. That he may offer that he may offer both gifts and sacrifices for sin. 
+02:00 In the things pertaining to God that he may what's the job of the high priest? Jewish. He's not talking about gentile priest of any kind. <b>Jewish high priest</b>. That he may offer that <b>he may offer both gifts and sacrifices for sin</b>. 
 02:25 S the altar is his major place of business, his major center of activity. The altar that he may offer both gifts and sacrifices for sins. Verse two. Who can have compassion on the ignorant? Aaron, his son Eliezer, all the high priests of Israel, they could have compassion on the ignorant and on them that are out of the way. 
 03:06 I'll explain that or try to. For that he himself, the earthly high priest, he himself also is compassed with infirmity verse three and by reason hereof he ought as for the people, so also for himself to offer for sins. 
 03:34 That verse just said aaron had to offer sacrifices for his own sins before he could offer sacrifices for the sins of Israel, of the nation. Verse four. Now no man aaron didn't no man taketh this honor unto himself. 
