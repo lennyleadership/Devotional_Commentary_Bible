@@ -74,8 +74,7 @@ toc: true
       <input type="checkbox" checked>
       <i></i>
       <h2>HEBREWS 5:1-5 ... Aaron and Jesus, both High Priests ... but Jesus is far superior!</h2>
-      <p>
-00:01 Ah. Join me for class today. Our text is found in Hebrews, chapter five. Hebrews, chapter five, in fact. And I debated on how many verses to try to cover but prayerfully. I've decided we're going to cover the first five verses of Hebrews five. 
+      <p>00:01 Ah. Join me for class today. Our text is found in Hebrews, chapter five. Hebrews, chapter five, in fact. And I debated on how many verses to try to cover but prayerfully. I've decided we're going to cover the first five verses of Hebrews five. 
 
 00:29 Hebrews five. Chapter five begins an expanse of 567896 chapters, chapters five through chapter number ten, giving some detail about the high priestly ministry of our Lord Jesus Christ. I think this may be the reason what we're about to begin studying, why the book of Hebrews is often neglected. 
 
@@ -285,7 +284,7 @@ toc: true
 
 38:50 Here's my point today, and I'm fixing to pray. As Jesus was being baptized as a big step, big move, suffered to fulfill all righteousness, he was praying as well. Here's my point. Praying while you're doing all other things. 
 
-39:08 Praying while you're doing other things. Heavenly Father, teach me to pray. Teach me to multitask. Teach me to pray as I'm driving my car, not with my eyes closed, but teach me to pray. As I'm driving my car teach me to pray as I'm straightening out the books on the shelf teach me to pray without ceasing jesus did. 
+39:08 Praying while you're doing other things. Heavenly Father, teach me to pray. Teach me to multitask. Teach me to pray as I'm driving my car, not with my eyes closed, but teach me to pray. As I'm driving my car teach me to pray as I'm straightening out the books on the shelf teach me to pray without ceasing Jesus did. 
 
 39:34 Even while he's being baptized, he prayed. Granted. Lord, give us that. Pray without ceasing. Paul encouraged us. Help us to learn to pray consistently. We know you hear an answer. In Jesus name amen. 
 
