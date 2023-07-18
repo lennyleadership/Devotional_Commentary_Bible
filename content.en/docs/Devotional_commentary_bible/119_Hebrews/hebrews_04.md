@@ -3,7 +3,7 @@ weight: 4
 title: Hebrews 04
 authors: Lenny
 categories: null
-tags: 
+tags: [Collapsible text demo]
 description: 
 draft: false
 date: "2023-03-12"
