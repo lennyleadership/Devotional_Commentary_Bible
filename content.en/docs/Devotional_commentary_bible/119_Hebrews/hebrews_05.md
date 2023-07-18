@@ -307,10 +307,18 @@ toc: true
   </ul>
   
 <style>
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+a,
+a:visited,
+a:focus,
+a:active,
+a:link {
+  text-decoration: none;
+  outline: 0;
+}
+
+a {
+  color: currentColor;
+  transition: .2s ease-in-out;
 }
 </style>
 </div>
