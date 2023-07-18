@@ -281,7 +281,7 @@ toc: true
 
 38:06 Thou art my son. Today I have begotten thee I feel him praying for me right now, y'all. Excuse me. Boom just comes in and helps me and strengthens me. I praise him for his current high priestly ministry. 
 
-38:26 I got a prayer verse I'd like to use today. Luke 321. Now, when people were being baptized, when all the people were baptized, it came to pass jesus also being baptized and praying. The heaven was opened. 
+38:26 I got a prayer verse I'd like to use today. Luke 321. Now, when people were being baptized, when all the people were baptized, it came to pass Jesus also being baptized and praying. The heaven was opened. 
 
 38:50 Here's my point today, and I'm fixing to pray. As Jesus was being baptized as a big step, big move, suffered to fulfill all righteousness, he was praying as well. Here's my point. Praying while you're doing all other things. 
 
