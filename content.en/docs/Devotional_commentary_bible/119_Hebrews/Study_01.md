@@ -1266,7 +1266,7 @@ Date: 2023-03-17
 <div id="study1" class="tabcontent">
 
 <figure>
-  <img width = "540" src = "/docs/images/meaning_of_hebrews.gif"/>
+  <img width = "720" src = "/docs/images/meaning_of_hebrews.gif"/>
   <figcaption class = "bottom">亚伯兰的故事</figcaption>
 </figure>
 
