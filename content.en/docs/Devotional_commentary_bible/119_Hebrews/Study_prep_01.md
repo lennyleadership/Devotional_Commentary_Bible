@@ -1,6 +1,6 @@
 ---
 weight: 14
-title: Bible Study
+title: Bible Study Preparation
 authors: Lenny
 categories: null
 tags: [Demo Accordion Table]
