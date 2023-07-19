@@ -34,23 +34,11 @@ Jesus is my perfection in the book of Hebrews.
 <div id="english" class="tabcontent" style="display:block">
 
 
-After further study, I learned that the word Hebrew was first used in Genesis 14:13, at the time when Abraham was about to fight for the rescue of his nephew Lot. Genesis 14:13 says, “And there came one that had escaped, and told Abram the Hebrew.” Abraham was a Hebrew. As a result of considerable study, we discovered that the root of the word Hebrew means “to pass ” It especially means to pass over a river from one region to another and from one side to another. Therefore, the word Hebrew means a crosser, a river crosser, one who crosses a river. Abraham was a river crosser. He crossed that great flood (Josh. 24:2-3). Abraham crossed the Euphrates. The Euphrates is the modern name of that great river which in Hebrew is called Perath. That great river separated the old region out of which Abraham was called from the new land into which he entered. 
 
-Abraham was born in Chaldea, the site of ancient Babylon, Babel. Between Chaldea and the good land of Canaan was a great river flowing from north to south. This is very meaningful. All things, including the land, were created by God to fulfill His purpose. The land of Chaldea became satanic, devilish, and demonic. It was a land filled with idols, a land totally usurped by God’s enemy and possessed by the evil one. So God intervened to call Abraham out of that idolatrous land, out of that land which had been usurped, possessed, poisoned, corrupted, and ruined by Satan.
-
-<a href = "https://www.ministrybooks.org/display/index.php?ent=TSB&id=659" target="_blank" rel="noopener noreferrer">Witness Lee | Life-Study of Hebrews, Message One</a>
 
 ---
 
-Genesis 11:27-28 Terah was the father of Abram, .... They lived in Ur of the Chaldeans.  
 
-Genesis 11:31 Terah took Abram and moved away from Ur of the Chaldeans, headed for the land of Canaan.  Terah did not arrive at Canaan.  
-
-Genesis 14:13 And there came one that had escaped, and told Abram the Hebrew.  
-
-Genesis 15:18 So the Lord made a covenant with Abram that day and said, “I have given this land to your descendants, all the way from the border of Egypt to the great Euphrates River, ...." 
-
-Joshua 24
 
 
 <iframe width="320" height ="270"  src="https://www.youtube.com/embed/L8fyCD0yZaA" title="Euphrates 2015" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
