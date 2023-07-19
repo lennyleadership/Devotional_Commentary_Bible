@@ -159,13 +159,20 @@ Point #3: the parallelism structure in chapter 3.
 
 <h1 id="header_7"><span class = "overline">2023-07-07</span></h1>
 
-verse 12 and discussion
+My question is, I don't know the connection between 4:12 and 4:11. 
+
+The power of God's words  
+
+4:12 and discussion on cutting between soul and spirit.  
 
 
--<h1 id="header_7"><span class = "overline">2023-07-14</span></h1>
-point #1: Who is our God?
 
-Psalm 18, 
+
+<h1 id="header_7"><span class = "overline">2023-07-14</span></h1>
+Point #1: Who is our God?
+
+refer to Psalm 18   
+
 equip<b>ped</b> us with his strength (V32)  
 
 ma<b>d</b>e my feet like the feet of a deer (V33)
@@ -174,9 +181,7 @@ train<b>s</b> my hands for war (V34)
 
 ma<b>d</b>e our way blameless (V32)
 
-point #2: 1 Peter 5
 
-the mystery in Ephesians 5:32, concerning Christ and the church.
 
 
 

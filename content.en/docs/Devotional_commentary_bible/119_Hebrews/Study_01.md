@@ -65,7 +65,7 @@ Isaac gave birth to Esau and Jacob.  Jacob was renamed to Israel (Genesis 32:28)
 
 <figure>
   <iframe width="320" height ="270"  src="https://www.youtube.com/embed/L8fyCD0yZaA" title="Euphrates 2015" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <figcaption class = "bottom"><a href = "https://sci-hub.se/10.2307/1775471" target="_blank" rel="noopener noreferrer">Through the Great Cañon of the Euphrates River</a></figcaption>
+  <figcaption class = "bottom"><a href = "https://sci-hub.se/10.2307/1775471" target="_blank" rel="noopener noreferrer">Further reading | Through the Great Cañon of the Euphrates River</a></figcaption>
 </figure>
 
 
