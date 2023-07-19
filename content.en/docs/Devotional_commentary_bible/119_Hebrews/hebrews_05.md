@@ -525,7 +525,223 @@ toc: true
       <input type="checkbox" checked>
       <i></i>
       <h2>Hebrews 5:11-14, "Seeing ye are dull of hearing" A stern warning! (A Pauline interruption!)</h2>
-      <p></p>
+      <p>
+00:00 Hebrews, chapter five in the word of God. And in this class session we finish that chapter, we will look at the last four verses, God willing. Hebrews 511 through 14. Something unusual happens here, Paul, all no sooner get started good on the high priesthood of Jesus. 
+<br>
+00:33 How does he reason it through? Jesus is man. He's God, but he's man. Jesus is the sinless son of man. Jesus is the one who suffered. Suffered not only in his everyday life all the way up through and especially including Gethsemane, he suffered, he fought, he desired to die on the old rugged cross for you and me. 
+<br>
+01:07 And because he died right, god raised him from the dead. God raised him from the dead. Let me read you a verse that is just in my estimation. It is absolutely precious. You ever think about the resurrection being the A plus God put on Jesus report card because he died so powerfully, so properly? 
+<br>
+01:40 It's Romans one four. He's been talking about God's son, Jesus Christ our Lord, who was made the seat of David according to the flesh. Now listen to this. And declared. To be the Son of God with power by the resurrection from the dead. 
+<br>
+02:07 God. Jesus lived right. Jesus died right. God stepped out from the battlements of heaven and said, arise, my love, oh, son, come up out of the grave. He was declared to be the Son of God with power through the Holy Ghost, working too, by the resurrection from the dead. 
+<br>
+02:29 But it is not just the resurrection from the dead that shows God's approval on Jesus dying right, his coming and his determination to die vicariously for you and me. 40 days later, God took him to heaven. 
+<br>
+02:47 God miraculously ascended his body all the way, all the way to glory. Jesus is our man in glory. A man, a God. Not a god. You can't say a God. The God, the God man at the Father's right hand right now. 
+<br>
+03:12 A man who knows how I feel, who knows the battles I fight. And he there is ministering on my behalf and on your behalf. Paul is just beginning to get into that discussion, into that granted technical involved aspect of the ministry of Jesus. 
+<br>
+03:41 I'm going to make a statement. I'm basing it on Romans, chapter five, verse number ten. We got saved by what Jesus did in the past, shed his blood on Calvary. We are given victory. We are given day by day, Holy Ghost, victory by what Jesus is doing for us right now. 
+<br>
+04:09 At the right hand of God the Father. I sense a skeptic saying, I don't know about that, Brother Bagel. God it. When we were enemies of God, sinners on our way to hell, we were reconciled to God, made right with God by the death of his son. 
+<br>
+04:35 And then Paul says, Much more, much more. Romans 510 king James Version much more being reconciled. We shall be saved by his life. We shall be delivered by Jesus'life. He's living that life right now will forevermore. 
+<br>
+04:58 At the Father's right hand, much more. We shall be saved by his life. Thank God for Jesus, my great hyper Paul, no sinner gets to developing those ideas and those thoughts, and I've only given you the rudiments of those thoughts so far. 
+<br>
+05:20 And he pauses and says something like this I'm country, so you'll have to word it however you choose. He says something like this Y'all aren't getting it. You all aren't comprehending what I'm teaching then is going over your heads. 
+<br>
+05:41 And thereby and immediately Paul stops talking about the high priesthood of Jesus. He will come back to it in chapter seven, eight, nine, and ten. But he gives a warning. He gives a warning. Our four verse stretch of text tonight is a warning Paul is giving to the Hebrew Christians. 
+<br>
+06:08 Listen, I'll read it to you. I guess I shouldn't have taken that long reviewing. What Paul wanted to teach reminds me of Jude. Jude says, I wanted to write unto you of the Common South. I wanted to write an epistle on what we're enjoying because we're saved. 
+<br>
+06:26 I wish Jude could have written that epistle. I'd love to preach it, but he said instead, I've got to urge you to earnestly contend for the faith. They're false prophets who've crept in unawares, and they're doing damage. 
+<br>
+06:41 I've got to change from what I wanted to say. And I've got to warn you earnestly contend for the faith. Paul wanted to talk about Jesus, a high priest. They couldn't understand it. They couldn't handle it. 
+<br>
+06:55 Frankly, they were a little bit spiritually lazy. And he's going to give a warning. Now. Let me try to read it again. Of whom? That's Jesus. Of whom? That's Jesus. A priest. After the order of Melchizedek, we have many, many things to say. 
+<br>
+07:20 He said, I've got a lot to tell you about the ministry our Lord is pursuing right now in heaven. And he said they're hard to be uttered, especially seeing you are dull of hearing. That's a rebuke. That's a rebuke for when the time right. 
+<br>
+07:43 Now ye ought to be teachers. You ought to be telling me these things. Ye have need. That one teach you again. Somebody's going to have to teach you again, not about the high priesthood of Jesus, the first principles of the oracles of God. 
+<br>
+08:04 You have digressed, you have slipped backward in your Christian experience. You have become such as have need of milk and not strong meat. Everybody that uses milk is unskillful in the word of righteousness. 
+<br>
+08:26 He's a baby, a babe. But strong meat, that's what Paul wanted to feed them. Strong meat belongs to them that are of a full age. They're mature. Those who, by reason of use, exercise, have their senses discerned to tell both good and evil. 
+<br>
+08:49 Pretty strong. Pretty strong. Warning there. The apostle is giving them. We're going to look at the vocabulary of whom I have many things to say and hard to be uttered. Hard to be uttered that blends two Greek words, one of which, dus D-U-S means difficult. 
+<br>
+09:18 And then a portion of the little Greek word Hermes. And Hermes is the god of interpretation, the god of explanation, the god of exposition. Paul said, these things have become hard to explain to you. 
+<br>
+09:35 I got a lot of things to say, hard to be explained. It'll take my best, it'll take the work of the Holy Ghost to convey it to you. And class, honestly, it is meat. Of the word of God. And he said especially it's going to be hard to explain, hard to interpret seeing you are dull of hearing. 
+<br>
+10:02 Saying you are dull of hearing. Listen to that word. Nothros N-O-T-H-R-O-S not Ross. Preacher. What does it mean? Lazy. Lazy. In the next chapter of Hebrews, it is translated by our King James translators Hebrews 612 slothful, you're lazy of hearing. 
+<br>
+10:29 Lazy of hearing. You have almost this strong. You have illegitimate ears. You have not given your ears to the hearing of the word of God like you should have. Wow. And then verse twelve he follows up immediately for when the time ye ought to have been teachers, ye ought to have been teachers. 
+<br>
+11:01 O fellow. O fellow. You were obligated to have been teachers. You owed it to younger Christians to be teaching that you ought to have been teachers. You had need that one teach you again. You had need that one teach you again. 
+<br>
+11:22 Palin. P-A-L-I-N. Is that Adverb again? And it's a wrestling term, palo. It means to vibrate. Go back and forth them. You need somebody to tell you again you didn't get it. I'll tell you again you didn't get it. 
+<br>
+11:38 I'll tell you again to vibrate Paulo back and forth. You're not getting it. You're not understanding it. You're not even trying. You're not yielding your hearts to the Holy Ghost direction. You have become slow. 
+<br>
+11:56 You are sluggish in comprehending the word of God. You are not praying. Psalm one nine. Open my eyes, Lord, that I can behold wondrous things. It's a pretty strong insinuation. Said you need to be taught the first principles of the oracles of God. 
+<br>
+12:14 Somebody's going to have to go back and start over with you right there. He said the first principles literally, the word means the ABCs. We're going to have to go back to square one with y'all. I guess I'm going to have to go back and show you how Jesus fulfilled the Old Testament Law, how he's the Messiah. 
+<br>
+12:38 I guess I'll have to go back and tell you about the virgin birth one more time. You've had it, you've learned it, but you let these things slip. I guess I must go back and establish the sinlessness of his life, that he might be the great high priest. 
+<br>
+12:55 I'm not to go back to the first principles of the oracles of the words of an almighty God. Ye are become. Some ye are become. Those that have need of milk are become. Ye are become. They weren't always milk drinkers. 
+<br>
+13:15 They have at times been ready to sit down at a plate full of spiritual meat. But ye have become such as need milk. Perfect active verb. What happened? You digressed? Retrogression is set in in your Christian life. 
+<br>
+13:33 You've backslidden, you've grown cold, you've grown indifferent. You're not interested in going on and learning the deeper things about the Lord Jesus Christ. I'm going to say it. I have a quote to that effect, but I'm just going to go ahead and say it. 
+<br>
+13:55 What Jesus did on Earth, what he did in Matthew and Mark and Luke and John precious, what would we do without them? But it's categorized here with Paul, the milk of the Word, what he has accomplished that'll get us to heaven, got our sins washed away the moment we trusted Him, the moment the moment he made us a born again child of God. 
+<br>
+14:24 But in Paul's analogy here, the things Jesus is doing now, the items of business he is conducting on my behalf right now, that's the meat of the Word, what he's done in the past. I guess I'll have to go back and teach you all again. 
+<br>
+14:43 Life of Christ 101. Gather around. But it's a shame. You knew them, but you let them slip. Why don't you get into the meat of the Word? What he's doing right now on our behalf? You have need of milk. 
+<br>
+15:00 G-A-L-A in Greek. Gala milk. If memory serves, it only comes up five times in the New Testament. Milk gala preacher. What's its origin, what's its etymology? And we really are not positive about that. 
+<br>
+15:20 Some words we do not know their background, their history. You just have to put a question mark gala is one of them. But here's the way we could remember it in English, if you want to add it as one of your Greek vocabulary words. 
+<br>
+15:35 We live in the Milky Way. We humans, planet Earth, our solar system. We live in the Milky Way galaxy. G-A-L-A. That's a Greek word for milk. The Milky Way galaxy. Magala the word for milk. My galaxy, my home, pretty big home is in the Milky Way. 
+<br>
+16:02 You look out at night on a clear night and you can see that milky tent to the far away atmosphere you ought to be. You are milk drinkers instead of meat eaters. Nothing wrong when you're first born as newborn babes, peter Rope desired the sincere milk of the word. 
+<br>
+16:25 But when you've got eight teeth, ten or twelve teeth, and you're several years old in the Lord, it's time to quit being a milk drinker and become a meat eater. Every one of you that uses milk and then verse 13 is unskillful in the word of righteousness. 
+<br>
+16:48 I want you to notice what he called our Bible. What do you call that book right there? The word of righteousness. Isn't that lovely? The word of righteousness. A lot of books are written now that are filthy. 
+<br>
+17:02 Lot of books are written now that are rebellious. Lot of books are written now that frankly are not worth the paper on which they're printed. And yet they're selling by the droves the word of righteousness. 
+<br>
+17:15 The Holy Bible. God's inspired word without error. Divinely. Divinely. Written from above. You have become unskillful. That's the sword of the Spirit. I want to be skillful in how to wield it, how to lunge at the devil, how to overcome the enemy. 
+<br>
+17:39 But you have become unskillful in the word of righteousness. Listen to ah. And then the word for testing. The word for testing. We've had it before to go from one end to the other. Technically, I'm probably taking this too far. 
+<br>
+17:59 Technically, but it's our class. Technically, it means you have not gone from one end of the word to the other. You have not gone from the first of it to the last. You are unskillful in the use of the word preachers, sunday school teachers, we handle the Psalms differently than we do the chapters in the Gospels, and we handle the parables differently, yet we handle Bible prophecy in a slightly different manner than we handle Bible history. 
+<br>
+18:36 How in the world do you know all that? We get skillful. We get trained, we get experienced in the word of righteousness as we exercise ourselves in using it. One skillful. You haven't even been all the way through the Bible. 
+<br>
+18:57 You have not studied diligently day by day. They searched the Scriptures daily at Berea and daily at Berea, and they were more noble than those at thessalon study. To show yourself approved it. You're not doing that. 
+<br>
+19:10 You're unskillful in the word of righteousness. And on top of that, you're a baby. You're a baby. It's in the epistle of first John. John categorized all Christians john categorized all question Christians in one of three categories. 
+<br>
+19:31 Fathers, which would include mothers, also the older, mature saints, young men. And I'm going to include young women. There robust, ready to fight the devil. Having trained well in order knowing how to use skillfully, the sword of the Spirit, which is where? 
+<br>
+19:54 And then little children, little children, where are you on that? Where are you in that chart? Are you one of the little children? Milk, milk, milk, milk, milk. Are you the young man, the young lady honed to do battle for the Lord Jesus as Christ home to pray and the lost discipline to get into the word and learn and apply it in your life? 
+<br>
+20:19 Are you one of the seasoned older men, older ladies about ready for the Lord to come, ready for him to call you to the other side, having tested the truths of the faith, knowing he's a faithful Heavenly Father? 
+<br>
+20:33 Not this crowd. They're babies. They're babies. And then Paul closes. Verse 14. Strong meat, strong meat. Oh, boy. How am I going? Strong meat? Meat is the word for nourishment, it means meat, but it means meat. 
+<br>
+20:57 That is, in fact, the root of the word trophy. The root of the word means to fatten up, to fatten up. Get your teeth into the meat of the word. Strong meat. The word strong, it is our word. Stereo or stereos. 
+<br>
+21:16 Strong as a wall, strong as a solid rock foundation. Strong in it will not budge. You know in whom you have believed. Strong meat, strong meat belongeth unto them that are of full age. Belongeth unto them that are it's the ime verb that are. 
+<br>
+21:46 Living a life of full age that's Tellios Tellios they have come from babyhood. Nothing wrong with being on milk and babyhood. Get all the milk you can, but then pick up some bread, then pick up some meat and get into the honey. 
+<br>
+22:05 You know the word of God's. Sweeter than honey and the honeycomb. And as you do so, see my finger March line you'll. Maturity. That's the beginning point, babes in Christ. Don't stay there. And then you grow through the Word. 
+<br>
+22:18 And you grow and grow TeLEOS. You're mature. You've arrived at the place. You're no longer a little child. You're no longer just a young man in the faith. You're a senior statesman. You're a father of the faith. 
+<br>
+22:31 Strong meat belongs to them that are of full age. You know what Paul's saying to this crowd? Grow up. Grow up. Quit playing around in the shallows of this thing and let's go out into the deep. Let's get ankle deep. 
+<br>
+22:48 Let's get knee deep. Let's get waist deep. Let's enjoy the truths of the depths of the word of God. How do you do that? Who by reason of use. Who by reason of use. What a word. Hexis. Hexis. It is literally the word habit power acquired by custom. 
+<br>
+23:14 Who by reason of habit have their senses exercised to know good and evil. By reason of habit. You know what? Our Bible study class has been going on now since March. I had no idea. I never dreamed this would be the case. 
+<br>
+23:41 I wouldn't be still doing it. It is certainly extra labor. I got to add the word, though joyful. Extra labor. But you've been so eager. You've wanted to learn more and more and more. And since March that would be April and May and June and July and August and September it has become a habit. 
+<br>
+24:09 It has become a habit. I say some of your names every class. And then when you do not report in, which is perfectly all right I want you to feel liberty and freedom in our class. Our Bible study class. 
+<br>
+24:23 Some of you will check in every month or two and say, hadn't missed a one been with you since the start it's become a habit that's our word right here. How do you grow? How do you get from babyhood to absolute spiritual maturity? 
+<br>
+24:40 Who. By reason of habit, by reason of use. It's the verb echo. Oh, my. You made your mind. You was going to grab that word of God and hold on to that word of God and not let it go. This may be the height of the lesson. 
+<br>
+24:55 Give me the Bible, give me the book, give me the meditations. Not the meditation. Give me my commentary. Let me get back reading through my Bible. Let me get in there and hear my preacher preach this message of anxiety. 
+<br>
+25:10 Hang on, hold on, hold on regularly hold on consistently make it a habit who by reason of use have their senses exercised? That word exercise literally means to go to the gymnasium having their senses I didn't understand that verse. 
+<br>
+25:29 Let me go over it again they go over it again you've exercised your spiritual senses o taste and see the Lord is good that's a spiritual sense open our eyes that we may behold. That's a spiritual sense. 
+<br>
+25:44 God, touch my ear that I might hear that's a spiritual sense. Oh, my who by reason of habit have their senses exercised I didn't get that verse. Let me go over it again. Exercise. I still didn't get it like I want it. 
+<br>
+26:02 Let me go over it again, that's exercise. Give me seven push ups. Do do jumping jacks for about a half hour. It'll be it'll get your blood for another minute. Exercise. Over and over and over. And it's discipline and it's hard and it can be a weariness to the flesh and the devil won't like it. 
+<br>
+26:20 But all the spiritual sustenance you'll get off the milk and on the meat. They have their senses exercised to discern. It's just the word to judge diocrisis, to judge good and evil, what's good and what's evil. 
+<br>
+26:43 We're going to have to learn more than ever in these last days to discern between what's good and what's evil. Because we're living in the days, Isaiah prophesied where good is now called evil and evil is now called good. 
+<br>
+27:01 We're living in the day of Isaiah 59. Truth has been murdered. Truth has fallen in the streets of America. Oh, God, give us your word. Help us to go to the spiritual gymnasium and exercise that we may be able to judge through that book to sense good. 
+<br>
+27:22 And and the word there for good is coloss K-A-L-O-S kalos. And it means intrinsic good. It means good in this sense, the beautiful things. It means good in this sense, the most excellent. We got to get over the day. 
+<br>
+27:44 Is this right or wrong? Can I get by with that? We got to get beyond that and start judging good in the sense of which is better, which is best, which is the most excellent thing for me to do. And then the word there, the word that is used there for evil, it's cockas. 
+<br>
+28:06 You would think good would be agathos and evil would be poneros. Those are the no no. It's not where the Holy Ghost went. Colossus and caucas. Things that are most excellent, things that you best need to put into your life, and then the things you want to stay away from. 
+<br>
+28:27 The things that are not the worst, not the malignantly active word for evil, but the things that are essentially good for nothing. Good for nothing. Useless, not beneficial, not edifying. Go for the things that are most excellent, that'd probably be studying Hebrews. 
+<br>
+28:51 Stay away from the things that are good for nothing, things that are less than upbuilding in your Christian life. What a warning. What a warning Paul is given to his beloved congregation. I came across one Bible teacher who labeled this text verses eleven through 14. 
+<br>
+29:15 Marks of spiritual immaturity. Write that down. Marks of spirit immaturity. This is the third warning Paul has stopped right in the middle of his writing, in the middle of his preaching and teaching to give to the Hebrews. 
+<br>
+29:38 Warning one do not drift. Don't let these things slip by. Warning two don't doubt. If God gave you a promise, don't doubt that promise. Enter, rest, trust, believe, and enter into the Holy Land. Enter into the land of K. 
+<br>
+29:55 Enter into victorious Christian. Don't doubt. Don't drift, don't doubt and now don't be dull don't be dull of hearing don't get lazy you it's too hard to understand don't get dull of hearing the word of God one preacher said this let me share it with you. 
+<br>
+30:17 He said, here is a sure sign you're drifting. Here is a sure sign. Some folks don't enjoy this word, but I don't know a better some folks. Here's a sure sign you're backsliding, you lose your keen love for the word of God. 
+<br>
+30:36 You lose your keen love for the word of God. I like what somebody else said. I'm just giving you some thoughts I typed down to help me prepare. We begin the Christian life on the basis of Jesus finished work here on earth. 
+<br>
+30:59 Death, burial and resurrection. We begin our Christian life on the basis of his finished work here on earth. We continue our Christian life we grow in the Christian life on the basis of what he's doing in heaven for us right now. 
+<br>
+31:18 Wow. I don't think I'll get that. Gymnasium and exercise. Learning the word of God. impersonalizing. Putting the word of God in your heart. Paul, put it this way. In one timothy four seven. Exercise thyself rather to Godliness. 
+<br>
+31:43 Exercise thyself to Godliness. Exercising. Exercising. So you can tell right from wrong, good from evil. Somebody said this. It is impossible to stand still in the Christian life. You're either getting closer to Him day by day, or you are slipping away from Him. 
+<br>
+32:09 You are not standing still. You either go forward and claim his blessings or you go backward and wander around aimlessly. I heard a preacher say this. He said I had a preacher friend who said that most professing Christians are betweeners. 
+<br>
+32:31 I'm not familiar with the betweeners. What do you mean? He said they're between Egypt and Canaan, wandering around in the wilderness. Thank God we left Egypt. We got under the blood. Let's go on into the land of Canaan and conquer the giants through the power of the Holy Ghost. 
+<br>
+32:52 Don't wander around in the wilderness, scared of the giants, afraid to claim the promises of Almighty God. What Jesus is doing for us right now, that's what God has started. Well, preacher, I don't understand all he's doing for us. 
+<br>
+33:11 That's why we're going to look at Hebrews, these remaining chapters up through chapter ten. Jesus, our great high priest. I know he's praying for me. I got that in Hebrews seven. He ever liveth to pray for me, to encourage me, to strengthen me. 
+<br>
+33:33 He's praying that my faith will not fail. He's praying that I'll stay strong. He's praying that I'll be separate from evil again. It's John 17. I think he is praying that the world will not taint me, that I'll overcome the world. 
+<br>
+33:50 He's praying that I will see his glory and enjoy his presence in all for all of eternity. And the prayer will be answered. And then I thought, today I learned last late last night. I'll tell you something else he's doing before the Father. 
+<br>
+34:08 I got it out of Psalm 22. When Jesus died and paid our sin debt, he said, father, I'm going to declare your name unto my brethren in the midst of the church, in the midst of the congregation, I will praise thee. 
+<br>
+34:24 This is something Jesus is saying to the Father right now. Behold I and the children which God hath given me today. Jesus has confessed my name before the Father. Hebrews two. We've already studied eleven through 13. 
+<br>
+34:42 Behold I, father, here I am sitting at your right hand. Look at me, Father. Behold I and the children. I'm not ashamed to call them brethren. There's mike Bagel teaching. There's so and so. I'm talking to you all, every member of the class. 
+<br>
+34:59 And they're listening. They're taking down the children God hath given me that encourages me. He's named me before the Father. He's not ashamed of me. I think Jesus said, I'll confess you before my father. 
+<br>
+35:13 Don't be ashamed of me down here. I'll confess you before he's doing that. He's waiting for me. And everything he's doing for me in heaven is based on the fact that he shed his blood on the old rugged cross of Calvary. 
+<br>
+35:28 I think that blood is right there. Near Jesus in heaven right now. Sprinkled on the most holy place. Sprinkle on the holy of holies. Jesus is interceding for us, representing us. He is our advocate. First John Two says he is up. 
+<br>
+35:45 We have a comforter on earth. Paraclete. That's the Holy Ghost. We have an advocate in heaven that's paraclete same word that's the Lord Jesus Christ interceding on my behalf. I got into that deep stuff again. 
+<br>
+36:03 There we are. And somebody's going to say that's over my head. I don't get grow up. Ask God to give it to you. Get a little further and get all the way through the word of God on this major issue. Father, thank you for your word, Lord. 
+<br>
+36:19 All I know to do is pray the text. Don't let me get lazy of learning the word of God, Lord. Don't let me be merely a milk drinker. Help me to be a meat eater, Lord. Don't let me be unskillful, unpracticed in handling the word of righteousness God. 
+<br>
+36:42 Let me get accustomed to. Let me learn to love and enjoy strong meat. Help me to grow up mature, Christian, and that only happens through strong meat in the word of God. And Lord, help me to go to the gym. 
+<br>
+36:59 Not a local gym, not a literal the Holy Ghost gymnasium. The gymnasium of the word of God. Help me to go to the gym and exercise and by means of habit learn to discern the best things I need and the good for nothing I need to leave out of my life. 
+<br>
+37:22 In Jesus name I pray. Amen. This may prove to be one of the most important classes yet. Continue to pray for Debbie and I. We're fighting. Virus. Thought I was going to be able to stand up and preach, and I had a weak spell as I was setting up the camera, and I ended up having to sit down. 
+<br>
+37:45 But God willing, another class tomorrow when we will begin Hebrews chapter six. Let me know if you learned. Word of encouragement is always helpful. Bye.
+      </p>
     </li>
   </ul>
   
