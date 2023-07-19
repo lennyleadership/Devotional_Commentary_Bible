@@ -1287,6 +1287,6 @@ Date: 2023-03-17
 <li>创 50 章 雅各遗体运回希伯仑。</li>
 </ol>
 
-Reference: <a href = "http://www.jonahome.net/files03/shengjing1/zonglun/ditu.htm" target="_blank" rel="noopener noreferrer">族长时代的迁徙</a>
+Reference: <a href = "http://www.jonahome.net/files03/shengjing1/zonglun/ditu.htm" target="_blank" rel="noopener noreferrer">约拿之家 | 族长时代的迁徙地图</a>
 
 </div>
