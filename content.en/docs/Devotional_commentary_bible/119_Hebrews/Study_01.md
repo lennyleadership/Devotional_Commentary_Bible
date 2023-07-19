@@ -1217,6 +1217,8 @@ John 5:30 ESV
 
 <h1><span class = "overline">"希伯来"的来龙去脉</span></h1>
 
+Date: 2023-07-19
+
 <figure>
   <img width = "720" src = "/docs/images/meaning_of_hebrews.gif"/>
   <figcaption class = "bottom">亚伯兰的故事</figcaption>
