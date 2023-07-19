@@ -190,7 +190,7 @@ toc: true
       <i></i>
       <h2>Hebrews 5:6-11, "In the days of his flesh!" (A glimpse at Gethsemane)</h2>
       <p>
-00:01 It. Let's take our Bibles and go to Hebrews chapter number five. And we will begin at verse number six. Our text tonight will cover verses six through ten. The Lord willing. Hebrews five, six through ten. 
+<br>00:01 It. Let's take our Bibles and go to Hebrews chapter number five. And we will begin at verse number six. Our text tonight will cover verses six through ten. The Lord willing. Hebrews five, six through ten. 
 <br>
 <br>00:25 You I want to thank you for the overwhelming response. I was not able to teach a class yesterday. Weak, sick, fevered. We have learned. Our test results are back. Debbie and I have COVID, and we're battling the virus right now. 
 <br>
