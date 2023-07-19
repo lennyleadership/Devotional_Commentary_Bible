@@ -16,7 +16,6 @@ bookCollapseSection: true
 
 <!--more-->
 
----
 
 # Introduction
 Jesus is my perfection in the book of Hebrews.
@@ -53,16 +52,15 @@ Genesis 15:18 So the Lord made a covenant with Abram that day and said, “I hav
 
 Joshua 24
 
----
+
 <iframe width="320" height ="270"  src="https://www.youtube.com/embed/L8fyCD0yZaA" title="Euphrates 2015" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
----
 
 <a href = "https://sci-hub.se/10.2307/1775471" target="_blank" rel="noopener noreferrer">Through the Great Cañon of the Euphrates River</a>
 
 
----
+
 
 Abraham  
 
@@ -84,22 +82,6 @@ Isaac gave birth to Esau and Jacob.  Jacob was renamed to Israel (Genesis 32:28)
 </div>
 
 <div id="chinese" class="tabcontent">
-
-
-亚伯拉罕被称为”希伯来人（עברי，ivri）亚伯兰”(Abram the Hebrew, 《创世记》14:13) 可能是因为他是从哈兰”过境”到迦南地的人。  
-
-‪约书亚记‬24:2-3 和合本  
-2 约书亚对众民说：“耶和华以色列的　神如此说：‘古时你们的列祖，就是亚伯拉罕和拿鹤的父亲他拉，住在大河那边侍奉别神，   
-3 我将你们的祖宗亚伯拉罕从大河那边带来，领他走遍迦南全地，又使他的子孙众多，把以撒赐给他；
-
-
-‪约书亚记‬24:2,14-15 和合本
-2 约书亚对众民说：“耶和华以色列的　神如此说：‘古时你们的列祖，就是亚伯拉罕和拿鹤的父亲他拉，住在大河那边侍奉别神，    
-……  
-14 “现在你们要敬畏耶和华，诚心实意地侍奉他，将你们列祖在大河那边和在埃及所侍奉的神除掉，去侍奉耶和华。   
-15 若是你们以侍奉耶和华为不好，今日就可以选择所要侍奉的：是你们列祖在大河那边所侍奉的神呢？是你们所住这地的亚摩利人的神呢？至于我和我家，我们必定侍奉耶和华。”
-
----
 
 每一位新约的读者都值得付出努力去读懂这卷书，因为本书回答了人类亘古永存的重要问题——人怎样才能亲近神、胜过逆境呢？  
 
