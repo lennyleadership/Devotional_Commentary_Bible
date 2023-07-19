@@ -127,18 +127,14 @@ Point #1: Why Jesus is greater than Moses?
 
 <ol>
 <li> The different position. 
-
-Jesus was the son of God.   
-
-Moses was a servant.</li>  
+<br>Jesus was the son of God.   
+<br>Moses was a servant.
+</li>  
 
 <li> The different work.
-
-Moses gave the law.  
-
-Jesus gave the grace.  
-
-salvation is not earned by work.
+<br>Moses gave the law.  
+<br>Jesus gave the grace.  
+<br>salvation is not earned by work.
 </li>
 
 </ol>
@@ -153,23 +149,22 @@ Point #3: Why Jesus came down to earth 5000 years later?
 God's will/truth is like a tree.  The roots of the tree went deep.  The law is like roots, Jesus is like fruit.  Without roots, there will not be fruits.
 
 
-Point #3: the parallelism structure in chapter 3.
+Point #4: the parallelism structure in chapter 3.
 
 
 
 <h1 id="header_7"><span class = "overline">2023-07-07</span></h1>
 
-My question is, I don't know the connection between 4:12 and 4:11. 
+My question is, I don't know the connection between 4:12 and 4:11. verse 1-11 talk about entering the rest. verse 12 seems to change the topic talking about the power of God's word.
 
-The power of God's words  
 
-4:12 and discussion on cutting between soul and spirit.  
+
 
 
 
 
 <h1 id="header_7"><span class = "overline">2023-07-14</span></h1>
-Point #1: Who is our God?
+Point #1: Who is our God?  The God we believe
 
 refer to Psalm 18   
 
@@ -181,7 +176,11 @@ train<b>s</b> my hands for war (V34)
 
 ma<b>d</b>e our way blameless (V32)
 
+Point #2: High priest
 
+Jesus went to the highest place firstly, then took us into it.
+
+Point #3: "boldly" (KJV, NLT), "with confidence"(NASV, ESV) in verse 16.
 
 
 

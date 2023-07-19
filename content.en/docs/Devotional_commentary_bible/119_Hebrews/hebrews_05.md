@@ -14,13 +14,13 @@ toc: true
 
 
 <!--more-->
----
+
 
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  <button class="tablinks" onclick="tablabel(event, 'study1')">Mike Bagwell</button>  
+  <button class="tablinks" onclick="tablabel(event, 'study1')">Mike Bagwell's Class</button>  
 </div>
 
 <!-- Tab content -->
@@ -80,7 +80,7 @@ toc: true
 01:06 All that Old Testament history, all that about the great high priesthood, I don't understand it. Paul even accuses these Hebrews of not having matured enough to be able to comprehend our Lord's present day ministry on our bay(?). 
 01:30 Told them they were dull of hearing. Let me read our text. And granted, it does get complex, does get involved. For every high priest taken among men now, these are human beings. Every high priest taken from among men is ordained for men. 
 02:00 In the things pertaining to God that he may what's the job of the high priest? Jewish. He's not talking about gentile priest of any kind. <b>Jewish high priest</b>. That he may offer that <b>he may offer both gifts and sacrifices for sin</b>. 
-02:25 S the altar is his major place of business, his major center of activity. The altar that he may offer both gifts and sacrifices for sins. Verse two. Who can have compassion on the ignorant? Aaron, his son Eliezer, all the high priests of Israel, they could have compassion on the ignorant and on them that are out of the way. 
+02:25 The altar is his major place of business, his major center of activity. The altar that he may offer both gifts and sacrifices for sins. Verse two. Who can have compassion on the ignorant? Aaron, his son Eliezer, all the high priests of Israel, they could have compassion on the ignorant and on them that are out of the way. 
 03:06 I'll explain that or try to. For that he himself, the earthly high priest, he himself also is compassed with infirmity verse three and by reason hereof he ought as for the people, so also for himself to offer for sins. 
 03:34 That verse just said aaron had to offer sacrifices for his own sins before he could offer sacrifices for the sins of Israel, of the nation. Verse four. Now no man aaron didn't no man taketh this honor unto himself. 
 03:58 You do not volunteer. For the high priesthood. But he that is called of God, as was Aaron. We have four verses on the it's an adjective. Let's get used to it. Aaronic priesthood. The priesthood first filled the high priesthood first filled by Aaron. 
