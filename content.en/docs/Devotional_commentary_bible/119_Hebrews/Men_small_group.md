@@ -164,7 +164,16 @@ My question is, I don't know the connection between 4:12 and 4:11. verse 1-11 ta
 
 
 <h1 id="header_7"><span class = "overline">2023-07-14</span></h1>
-Point #1: Who is our God?  The God we believe
+Point #1: "I am that I am" can also interpret as "I will be that I will be"
+It is referred to 7 feasts of the Lord by Gideon Levytam.
+
+Point #2: "boldly" (KJV, NLT), "with confidence"(NASV, ESV) in verse 16.
+
+Point #3: High priest
+
+Jesus went to the highest place firstly, then took us into it.
+
+Point #4: Who is our God?  The God we believe
 
 refer to Psalm 18   
 
@@ -176,11 +185,12 @@ train<b>s</b> my hands for war (V34)
 
 ma<b>d</b>e our way blameless (V32)
 
-Point #2: High priest
+Encouragement to Shawn for his start-up business. God gives him skills, and will provide him ...
 
-Jesus went to the highest place firstly, then took us into it.
+Is a throne a platform or a chair?
 
-Point #3: "boldly" (KJV, NLT), "with confidence"(NASV, ESV) in verse 16.
+
+
 
 
 
