@@ -294,27 +294,27 @@ toc: true
       <i></i>
       <h2>Hebrews 5:6-11, "In the days of his flesh!" (A glimpse at Gethsemane)</h2>
       <p>
-<br>00:01 It. Let's take our Bibles and go to Hebrews chapter number five. And we will begin at verse number six. Our text tonight will cover verses six through ten. The Lord willing. Hebrews five, six through ten. 
+<br>00:01 Let's take our Bibles and go to Hebrews chapter number five. And we will begin at verse number six. Our text tonight will cover verses six through ten. The Lord willing. Hebrews five, six through ten. 
 <br>
-00:25 You I want to thank you for the overwhelming response. I was not able to teach a class yesterday. Weak, sick, fevered. We have learned. Our test results are back. Debbie and I have COVID, and we're battling the virus right now. 
+00:25 I want to thank you for the overwhelming response. I was not able to teach a class yesterday. Weak, sick, fevered. We have learned. Our test results are back. Debbie and I have COVID, and we're battling the virus right now. 
 <br>
 00:48 We're quarantined, of course, here at home. I am still weak today. But these verses have been so on my heart, and I want to share them with you. They so beautifully exalt. Our Savior, I'd like to ask you to pray for my wife, Debbie's. 
 <br>
-01:10 Not I don't think Debbie's feeling as well today as even yesterday. Your prayers will be deeply appreciated. Our text employs a little literary technique called inclusio. And all that means we studied it before. 
+01:10 Not I don't think Debbie's feeling as well today as even yesterday. Your prayers will be deeply appreciated. Our text employs a little literary technique called <u class = "red">inclusio</u>. And all that means we studied it before. 
 <br>
-01:33 A passage begins and ends with the same thought. It's as though this thought bracket it's. The passage. It is a parentheses around the passage. And that would be verse six. God saying to Jesus, thou art a priest forever. 
+01:33 <b>A passage begins and ends with the same thought</b>. It's as though this thought bracket the passage. It is a parentheses around the passage. And that would be verse six. God saying to Jesus, thou art a priest forever. 
 <br>
-02:00 After the Order of Melchizedek. And then verse ten son, you're called of God a high priest after the order of Melchizedek. This passage concerns the priesthood of Jesus, the high priesthood of Jesus. 
+02:00 After the Order of Melchizedek. And then verse ten, son, you're called of God a high priest after the order of Melchizedek. This passage concerns the priesthood of Jesus, the high priesthood of Jesus. 
 <br>
-02:26 Not for some reason, after the similitude of Aaron, after the likeness the likeness of a man who met Abraham. Genesis 14. We're going to study it in some detail eventually. And his name is Melchizedek. 
+02:26 Not for some reason, after the similitude of Aaron, after the likeness, the likeness of a man who met Abraham. Genesis 14. We're going to study it in some detail eventually. And his name is Melchizedek. 
 <br>
-02:48 Jesus high Priestess is patterned after Melchizedek rather than Aaron. This thing begins jesus, our high priest, like Melchizedek. It ends. Jesus, our high priest, like Melchizedek. So now I'm interested. 
+02:48 Jesus high Priestess is patterned after Melchizedek rather than Aaron. This thing begins Jesus, our high priest, like Melchizedek. It ends Jesus, our high priest, like Melchizedek. So now I'm interested. 
 <br>
 03:09 What's in the middle? What is the meat between this Melchizedek? Slice of bread here and slice of bread? It's the melchizedek sandwich, but Melchizedek is wrapping around what slice of meat? God the Father to God the son. 
 <br>
 03:34 You're the priest. You're the high priest. You're the great high priest after the order of Melchizedek. We're not going to spend this lesson on Melchizedek. He comes up again and again and again. In these next few paragraphs of Hebrews, we're going to cover him as the Holy Ghost gives us enlightenment, as Paul writes it down. 
 <br>
-04:02 Keep in mind, though, Jesus is that kind of a high priest. Well, then why these Middle verses, verse seven. Who in the days of his face I think we're being told before we can learn about Jesus high priesthood, what he is doing for us in heaven right now, we're going to have to learn how he became our high priest, how he I'm going to use this word how he earned the position of our great high priest. 
+04:02 Keep in mind, though, Jesus is that kind of a high priest. Well, then why these middle verses, verse seven. Who in the days of his flesh I think we're being told before we can learn about Jesus high priesthood, what he is doing for us in heaven right now, we're going to have to learn how he became our high priest, how he I'm going to use this word <b>how he <a class = "bklemon">earned</a> the position of our great high priest</b>. 
 <br>
 04:47 And that's the meat of our passage. Who in the days of his flesh that little phrase right there, the days of his flesh, I believe it encompasses from the time Jesus was born until the time he ascended and went back to the Father, the days of his flesh. 
 <br>
