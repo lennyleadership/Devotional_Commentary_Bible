@@ -21,7 +21,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">中文</button>
-  <button class="tablinks" onclick="tablabel(event, 'study1')">"希伯来"的来龙去脉</button>
+  
 </div>
 
 <!-- Tab content -->
@@ -1206,7 +1206,43 @@ John 5:30 ESV
 </table>
 </div>
 
+
+
+
+
+
+
+
 <div id="chinese" class="tabcontent">
+
+<h1><span class = "overline">"希伯来"的来龙去脉</span></h1>
+
+<figure>
+  <img width = "720" src = "/docs/images/meaning_of_hebrews.gif"/>
+  <figcaption class = "bottom">亚伯兰的故事</figcaption>
+</figure>
+
+
+<ol>
+<li>创 11:27~12:9 亚伯兰离开吾珥去哈兰，再去迦南。</li>
+<li>创 12:10~13:3 亚伯拉罕去埃及再回迦南。</li>
+<li>创 14:1~5 北方四王攻打南方五王。</li>
+<li>创 24 章 亚伯拉罕差人到米所波大米为以撒娶妻。</li>
+<li>创 25:6 亚伯拉罕打发他的六个庶子往东方去居住。</li>
+<li>创 25:17~18 以实玛利后裔的往处。</li>
+<li>创 27:43~31:21 雅各去哈兰后携眷返。</li>
+<li>创 37:12~28 约瑟被卖至埃及。
+  <br>创 39 章至 41 章 约瑟在埃及，受到法老王的重用。
+  <br>创 42:1~45:15 迦南地因饥荒，雅各令儿子们去埃及籴粮，在埃及与约瑟重逢。</li>
+<li>创 46:1~47:12 雅各全家到埃及，受法老的厚待。
+  <br>创 47:27 以色列人住在埃及的歌珊地，他们在那里置了产业，并且生养众多。</li>
+<li>创 50 章 雅各遗体运回希伯仑。</li>
+</ol>
+
+
+
+Reference: <a href = "http://www.jonahome.net/files03/shengjing1/zonglun/ditu.htm" target="_blank" rel="noopener noreferrer">约拿之家 | 族长时代的迁徙地图</a>
+
 
 <h1><span class = "overline">第一章</span></h1>
 
@@ -1263,32 +1299,3 @@ Date: 2023-03-17
 
 </div>
 
-<div id="study1" class="tabcontent">
-
-<figure>
-  <img width = "720" src = "/docs/images/meaning_of_hebrews.gif"/>
-  <figcaption class = "bottom">亚伯兰的故事</figcaption>
-</figure>
-
-
-<ol>
-<li>创 11:27~12:9 亚伯兰离开吾珥去哈兰，再去迦南。</li>
-<li>创 12:10~13:3 亚伯拉罕去埃及再回迦南。</li>
-<li>创 14:1~5 北方四王攻打南方五王。</li>
-<li>创 24 章 亚伯拉罕差人到米所波大米为以撒娶妻。</li>
-<li>创 25:6 亚伯拉罕打发他的六个庶子往东方去居住。</li>
-<li>创 25:17~18 以实玛利后裔的往处。</li>
-<li>创 27:43~31:21 雅各去哈兰后携眷返。</li>
-<li>创 37:12~28 约瑟被卖至埃及。
-  <br>创 39 章至 41 章 约瑟在埃及，受到法老王的重用。
-  <br>创 42:1~45:15 迦南地因饥荒，雅各令儿子们去埃及籴粮，在埃及与约瑟重逢。</li>
-<li>创 46:1~47:12 雅各全家到埃及，受法老的厚待。
-  <br>创 47:27 以色列人住在埃及的歌珊地，他们在那里置了产业，并且生养众多。</li>
-<li>创 50 章 雅各遗体运回希伯仑。</li>
-</ol>
-
-
-
-Reference: <a href = "http://www.jonahome.net/files03/shengjing1/zonglun/ditu.htm" target="_blank" rel="noopener noreferrer">约拿之家 | 族长时代的迁徙地图</a>
-
-</div>
