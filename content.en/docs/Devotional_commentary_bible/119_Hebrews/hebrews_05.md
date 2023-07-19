@@ -318,23 +318,23 @@ toc: true
 <br>
 04:47 And that's the meat of our passage. Who in the days of his flesh that little phrase right there, the days of his flesh, I believe it encompasses from the time Jesus was born until the time he ascended and went back to the Father, the days of his flesh. 
 <br>
-05:14 We're about to study a beautiful Holy Ghost written summary of Jesus'life on Earth. I'm not saying it's going to cover every no, no. You can't do that in three no, but it's going to cover the salient points, the major points. 
+05:14 We're about to study a beautiful Holy Ghost written summary of Jesus' life on Earth. I'm not saying it's going to cover every point, no, no. You can't do that in three verses. no, but it's going to cover the salient points, the major points. 
 <br>
-05:38 Let me give you an example of that done elsewhere. Here is a one verse summary of Jesus life. One Timothy 316. Bogged down talking about the verse a one verse summary of Jesus'life Holy Ghost. Does it occasionally without controversy. 
+05:38 Let me give you an example of that done elsewhere. Here is a one verse summary of Jesus life. First Timothy 3:16. Bogged down talking about the verse a one verse summary of Jesus' life Holy Ghost. Does it occasionally without controversy. 
 <br>
-06:00 Great is the mystery of Godliness. Here it comes. Here's Jesus God was manifest in the flesh, justified in the Spirit, seen of angels, preached under the Gentiles, believed on in the world, and Evie ascension up to glory. 
+06:00 Great is the mystery of Godliness. Here it comes. Here's Jesus. God was manifest in the flesh, justified in the Spirit, seen of angels, preached under the Gentiles, believed on in the world, and recieve ascension up to glory. 
 <br>
-06:18 That's one. Timothy, chapter three, verse 16. A one verse summary of Jesus life. We're fixing to get a three verse summary of Jesus life in the days of his flesh. Now, let's look. When he had offered up prayers and supplications with strong crying and tears. 
+06:18 That's first Timothy, chapter three, verse 16. A one verse summary of Jesus life. We're fixing to get a three verse summary of Jesus life in the days of his flesh. Now, let's look. When he had offered up prayers and supplications with strong crying and tears. 
 <br>
-06:49 I realize and I believe that Jesus, God's darling son, was a man of sorrows, acquainted with grief. That is a summary of his entire he was hated and he was despised. I understand that, and I agree. Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears. 
+06:49 I realize and I believe that Jesus, God's darling son, was a man of sorrows, acquainted with grief. That is a summary of his entire <b>he was hated</b> and <b>he was despised</b>. I understand that, and I agree. Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears. 
 <br>
-07:24 But I think this is not just teaching us that Jesus often prayed. He did habitually. Mark 135. Write it down and read it. It'll illustrate my point. And not only that. Jesus only prayed at times with prayers and supplication. 
+07:24 But I think this is not just teaching us that Jesus often prayed. He did habitually. Mark 1:35. Write it down and read it. It'll illustrate my point. And not only that Jesus only prayed at times with prayers and supplication. 
 <br>
-07:44 Let me give you the vocabulary there with prayers. And supplication Diasis, asking specific things of God the Father. Supplications this one. It is an unusual word there. Supplications. I do not remember it being used anywhere else in the New Testament. 
+07:44 Let me give you the vocabulary there with prayers, and supplication <u class = "red">Diasis</u>, asking specific things of God the Father. Supplications this one. It is an unusual word there. Supplications. I do not remember it being used anywhere else in the New Testament. 
 <br>
 08:10 It literally means an olive branch. Putting out an olive branch. It literally means to the point begging. There's something Jesus wanted, Samad, that he is begging. He is begging something from his Heavenly Father. 
 <br>
-08:28 I believe with all my heart. This is describing the event in the life of Jesus at Gethsemane. At Gethsemane. Let me read it again, see if you could agree. Who in the days of his flesh. It's going to be a summary, but we're focusing on Gethsemane, in fact, that summarizes his life from virgin birth to ascension in the days of his flesh. 
+08:28 I believe with all my heart. This is describing the event in the life of Jesus at Gethsemane. At Gethsemane. Let me read it again, see if you could agree. Who in the days of his flesh. It's going to be a summary, but we're focusing on Gethsemane. In fact, that summarizes his life from virgin birth to ascension in the days of his flesh. 
 <br>
 08:53 But now, particularly when he offered up prayers and supplications with strong crying and tears unto him that was able to save him from death. Unto him that was able to save him from death. Yes, that's gethsemane. 
 <br>
@@ -342,35 +342,35 @@ toc: true
 <br>
 09:43 There is something about Gethsemane that ties into the high priesthood. Of our savior. He's priest after the order of Melchizedek. He's priest after the order of Melchizedek. But in the days of his flesh in the garden of Gethsemane, he cried out. 
 <br>
-10:01 He cried out with crying in tears to his father, and his father heard him, and his father saved him from death. Now, Brother Bagel, that really doesn't make sense. Okay, I'm going to give you what 50% of the commentators say about Gethsemane. 
+10:01 He cried out with crying in tears to his father, and his father heard him, and his father saved him from death. Now, Brother Bagwell, that really doesn't make sense. Okay, I'm going to give you what 50% of the commentators say about Gethsemane. 
 <br>
 10:25 I do not agree with them. They say that when Gethsemane came, when Jesus got that near the cross, that Jesus got cold feet, that Jesus began to fear that Jesus turned turned they won't use this word, but it's exactly what they mean. 
 <br>
-10:46 That Jesus turned chicken and he was begging God that he wouldn't have to die, that he was trying to wiggle out somehow of his obligation, of his commitment. I don't know. He had an obligation of his commitment to go to Calvary. 
+10:46 That <u class = "red">Jesus turned chicken</u> and he was begging God that he wouldn't have to die, that he was trying to wiggle out somehow of his obligation, of his commitment. I don't know. He had an obligation of his commitment to go to Calvary. 
 <br>
-11:06 Well, he did have an obligation. He said to Nicodemus, the Son of man must is obligated to be lifted up on that cross. You will never convince this Bible teacher. You will never convince this preacher jesus got chicken on the eve of Calvary. 
+11:06 Well, he did have an obligation. He said to Nicodemus, the Son of man must is obligated to be lifted up on that cross. You will never convince this Bible teacher. You will never convince this preacher Jesus <u class = "red">got chicken</u> on the eve of Calvary. 
 <br>
 11:25 No, I will never, never believe it. Not when there are verses in John that says, and Jesus, not that he did not have apprehension, my soul is troubled, but for this cause came I. He came to die on Calvary. 
 <br>
-11:44 He's determined. To die on Calvary. I do not believe Gethsemane is his trying to escape death. Half the Bible commentators say that's exactly what he's trying to do wrong. I told you something the other day. 
+11:44 He's determined to die on Calvary. I do not believe Gethsemane is his trying to escape death. Half the Bible commentators say that's exactly what he's trying to do. wrong. I told you something the other day. 
 <br>
-12:03 I told you, Brother Bagel, when presented with a choice, will always take the choice that makes Jesus look best. That most exalts says, you're never going to get me to sign on the dotted line. That Jesus was trying to escape Calvary, that he got scared, that he became fearful. 
+12:03 I told you, Brother Bagwell, when presented with a choice, will always take the choice that makes Jesus look best. That most exalts says, you're never going to get me to sign on the dotted line. That Jesus was trying to escape Calvary, that he got scared, that he became fearful. 
 <br>
-12:21 No. The rest of the commentators, I'd say 40% the better commentators, in my opinion, say, no. Jesus didn't get cold feet in the sense that he was trying to get out of it, but he was asking God to save him from death. 
+12:21 No. The rest of the commentators, I'd say 40%, the better commentators, in my opinion, say, no. Jesus didn't get cold feet in the sense that he was trying to get out of it, but he was asking God to save him from death. 
 <br>
 12:41 Lord, I know I'm going to die on the cross. I understand that. But, Lord, then get me out of the ground. Raise me from the dead. Make the resurrection real. They say that's what he was praying for. And so it says he was heard. 
 <br>
-12:53 He was heard. God delivered him from death. I like that view better, but I still don't think that's what was going on. I still don't think that's what was going on, Brother Bagel. What do you think was going on? 
+12:53 He was heard. God delivered him from death. I like that view better, but I still don't think that's what was going on. I still don't think that's what was going on, Brother Bagwell. What do you think was going on? 
 <br>
-13:09 By the way, Jesus already had the promise that he would be raised from the dead. Jesus did not pray that God would raise him from the dead. Jesus has known. For thou wilt I'm reading Psalm 16. This is Jesus talking to his father. 
+13:09 By the way, Jesus already had the promise that he would be raised from the dead. Jesus did not pray that God would raise him from the dead. Jesus has known for thou wilt I'm reading Psalm 16. This is Jesus talking to his father. 
 <br>
 13:34 Thou wilt not leave my soul in the grave. Thou wilt not suffer thy Holy One to see corruption. I won't rot. You. Thou wilt show me the path of life. You'll come get me in the grave and show me the path of life. 
 <br>
 13:49 You will raise me from the dead, and I'll come see you in thy presence. It's fullness of joy. I don't believe that he was begging God to raise him from the dead. He always already had the peace and the God given assurance he would be raised from the dead. 
 <br>
-14:08 Brother Bagwell, you have wrecked all of the theologians. You have wrecked all the professors. What in the world do you think is going on? If you don't think he got chicken cold feet trying to get out of the cross and you don't think he's praying, god, I know I'm going to die. 
+14:08 Brother Bagwell, you have wrecked all of the theologians. You have wrecked all the professors. What in the world do you think is going on? If you don't think he got chicken cold feet trying to get out of the cross and you don't think he's praying, God, I know I'm going to die. 
 <br>
-14:22 I'm willing to die. But, oh, Father, if you would raise me from the dead, deliver me ultimately from what do you think is going on? Exactly what this verse says. Watch in the days of his flesh when he had offered up prayers and supplications he is praying. 
+14:22 I'm willing to die. But, oh, Father, if you would raise me from the dead, deliver me ultimately from what do you think is going on? Exactly what this verse says. Watch, in the days of his flesh when he had offered up prayers and supplications he is praying. 
 <br>
 14:47 Luke said his prayers. Luke said as he prayed he prayed so earnestly his sweat became as drops of blood. And that word supper he's begging. He's begging something from his Father. And it plainly says and the Father heard him, granted him his request strong crying and tears under the hymn that was able to save him from death. 
 <br>
@@ -382,47 +382,47 @@ toc: true
 <br>
 16:32 He is close to dropping dead. Here's what I believe is going on. I believe in the Garden of Gethsemane, the Devil showed up one more time in the life of Jesus and tried to kill him. Tried to kill him then and there. 
 <br>
-16:55 I have no doubt. I can show you place after place in Jesus'life where the Devil tried to extinguish Jesus as a human being, as the God man tried to kill him. Prior to Calvary, the Devil would have stopped Jesus from going to the cross any way he could have, because the Devil knows the cross is his defeat. 
+16:55 I have no doubt. I can show you place after place in Jesus' life where the Devil tried to extinguish Jesus as a human being, as the God man tried to kill him. Prior to Calvary, <b>the Devil would have stopped Jesus from going to the cross any way he could have</b>, because <b>the Devil knows the cross is his defeat</b>. 
 <br>
 17:21 Blood of Jesus being shed is the downfall of Satan and all sin and all wickedness. Hey, I got to show you something. If I'm anywhere near right that's two times the Devil brought an onslaught against Jesus face. 
 <br>
 17:42 To face once was the 40 days in the wilderness. Three times turn the stones into bread. I'm not going to review them all. You know the three prongs of the temptation. Jump on the temple, bow down and worship me three times. 
 <br>
-17:56 And Jesus defeated him there three times. With the word of God. It is written. It is written, it is written. And now the devil is on slaughtering Jesus, fighting Jesus again, coming against Jesus. With all the power of darkness. 
+17:56 And Jesus defeated him there three times with the word of God. It is written. It is written, it is written. And now the devil is on slaughtering Jesus, fighting Jesus again, coming against Jesus. With all the power of darkness. 
 <br>
 18:20 And Jesus knew it. He said, the prince of this world comes against me. And this time Jesus defeats the devil with prayer, prayer, prayer. Three times he prayed using the same words we're told three times. 
 <br>
 18:38 First time the devil tried to defeat the Lord Jesus Christ. It is written in the word of God. Last time, hearing guests and tried to kill him. Prayer, prayer, prayer. Those are two tools for overcoming the temptation of the devil. 
 <br>
-18:54 That old book, the Word of God. And prayer, prayer, prayer. Pleading the blood of the Lord Jesus. And they overcame the antichrist Revelation Twelve by the blood of the Lamb and. The word of their testimony. 
+18:54 That old book, the Word of God. And prayer, prayer, prayer. Pleading the blood of the Lord Jesus. And they overcame the antichrist Revelation Twelve by the blood of the Lamb and the word of their testimony. 
 <br>
-19:12 Preacher I'll think about it. Never heard anything like that in all my life before. This is not a private interpretation. I've not come up with this on my own. I've heard men of God preach it. I've thought it through very few, but. 
+19:12 Preacher I'll think about it. Never heard anything like that in all my life before. This is not a private interpretation. I've not come up with this on my own. I've heard men of God preach it. I've thought it through very few, but 
 <br>
 19:29 In my heart that's what's going on. Oh Father, would you save me from death? Would you agree with this? I think the devil tried to kill Jesus before he was born. A young virgin girl riding a donkey from her hometown all the way to Bethlehem. 
 <br>
-19:52 That little body shaking as that little animal. No doubt Joseph led him. If the devil could, he would have brought a miscarriage in Jesus. God's son would have never come. And then they got into Bethlehem and there's no place for them to stay. 
+19:52 That little body shaking as that little animal. No doubt Joseph led him. If the devil could, <b>he would have brought a miscarriage in Jesus</b>. God's son would have never come. And then they got into Bethlehem and there's no place for them to stay. 
 <br>
-20:11 None of Joseph's relatives would give them access. And the baby is born in a stable, in a cave. The baby is born and laid in a cow trough. A manger. You ever heard of infection? You ever heard of it? 
+20:11 None of Joseph's relatives would give them access. And the baby is born in a stable, in a cave. The baby is born and laid in a cow trough, a manger. You ever heard of infection? You ever heard of it? 
 <br>
-20:25 Devil would love to kill him in infancy. And then have you heard of Herod's henchmen? Herod's assassins killing all the little baby boys he was after Jesus. The devil's trying to kill the Lord Jesus Christ. 
+20:25 Devil would love to kill him in infancy. And then have you heard of Herod's henchmen? Herod's assassins, killing all the little baby boys he was after Jesus. The devil's trying to kill the Lord Jesus Christ. 
 <br>
-20:40 God had Joseph take him to Egypt until that Herod was dead. First sermon Jesus ever preached, he preached from Isaiah 61. They got so mad at him, they took him outside his hometown, Nazareth. Tried to push him over a cliff. 
+20:40 God had Joseph taken him to Egypt until that Herod was dead. First sermon Jesus ever preached, he preached from Isaiah 61. They got so mad at him, they took him outside his hometown, Nazareth. Tried to push him over a cliff. 
 <br>
 20:56 That's in Luke Four tried to kill him. The Devil tried to kill him before he ever got to the Old Rugged Cross. How many times? I know of two. They picked up stones to stone him, the Pharisees, and he passed through the midst. 
 <br>
 21:08 The Devil wanted Jesus stoned to death before he got to Calvary. The flogging. The scourging. Many a man never survived live discouraging. There are records in Roman history. The Cat of Nine tails ripped intestines open, bowels spilled out on the ground and men convulsed to death. 
 <br>
-21:29 Devil's trying to kill him at the whipping post. And now one last lunge at gethsemane I'll kill. Okay. And Jesus didn't want to die that short of his goal. Hallelujah. He didn't want to die that short of calvary. 
+21:29 Devil's trying to kill him at the whipping post. And now one last lunge at Gethsemane I'll kill you. I'll kill you. And Jesus didn't want to die that short of his goal. Hallelujah. He didn't want to die that short of calvary. 
 <br>
 21:48 And I thank Jesus with strong crying in tears, offering an olive branch to the Father. I beg you, Father, don't let me die here. Spare my life. Let me live. Don't let me die here and now. Let me go to that cross. 
 <br>
 22:02 Let them nail me to the let me shed my blood so sinners can be saved by the grace of God. Strong crying in tears saved me from death. And he was heard. He was heard in that he feared. Almighty God said, Son, you have learned obedience. 
 <br>
-22:24 You have learned that obedience is not just something passive. Mary the Virgin, be it unto me according to Thy word. That's obedience, that's beautiful obedience, but that's passive obedience. Be it unto me according to Thy word. 
+22:24 You have learned that obedience is not just something passive. Mary the Virgin, be it unto me according to Thy word. That's obedience, that's beautiful obedience, but that's <b>passive obedience</b>. Be it unto me according to Thy word. 
 <br>
-22:38 Jesus goes so much far beyond that. Jesus says, Father, not just be it unto me according to Thy word. This is not some milk toast, lord, I'll die for you. You asked me to, and I'm going to do. He said, Father, I'll fight for it. 
+22:38 Jesus goes so much far beyond that. Jesus says, Father, not just be it unto me according to Thy word. This is not some milk toast, Lord, I'll die for you. You asked me to, and I'm going to do. He said, Father, I'll fight for it. 
 <br>
-22:55 Don't let me die here. Get the devil out of here. Defeat the devil. Oh, I plead your power and your strength and let me go to the cross I'm actively pursuing. Let me die there. Let me do it the right way. 
+22:55 Don't let me die here. Get the devil out of here. Defeat the devil. Oh, I plead your power and your strength and <b>let me go to the cross I'm actively pursuing</b>. Let me die there. Let me do it the right way. 
 <br>
 23:07 Let me become the redeemer for lost mankind. And he was heard and that he feared. Verse eight. Though he were a son, though he and that's a capital S though he's the darling Son of God, he learned obedience. 
 <br>
@@ -430,7 +430,7 @@ toc: true
 <br>
 23:41 I ask you to remove the devil and give me and let me go and down that cross so souls can be saved. The highest view of Jesus I could ever imagine. Verse nine and being made perfect. And being made perfect. 
 <br>
-24:04 I want to go back to my vocabulary, if I can. And being made perfect. It's teleo. It is the word that means having come to the place of total obedience and being made perfect. Here's one level of obedience yell God, I'll do it. 
+24:04 I want to go back to my vocabulary, if I can. And being made perfect. It's <u class = "red">teleo</u>. It is the word that means having come to the place of total obedience and being made perfect. Here's one level of obedience yell God, I'll do it. 
 <br>
 24:29 You told me to. I really have no choice. Here's another level of obedience. Here am I. Send me. I'm joyfully willing, Lord. Here's another level of obedience. I'll fight for it. There's something trying to keep me from obeying get thee hint Satan. 
 <br>
@@ -438,45 +438,45 @@ toc: true
 <br>
 25:03 To pour out to joyously give my blood so that the world can be saved, can be born again by the grace of God. Being made perfect, he became the author of eternal salvation to all those to all those. Get that word? 
 <br>
-25:27 Author. He became the author. The author. Oh, my. There's a word I'm looking for a noun. I would expect it's not here. Being made the author. Atios. Atios. It's a Hopox. It comes from the verb means it's only used once. 
+25:27 Author. He became the author. The author. Oh, my. There's a word I'm looking for a noun. I would expect it's not here. Being made the author. <u class = "red">Atios</u>. Atios. It's a <u class = "red">Hapax</u>. It comes from the verb means it's only used once. 
 <br>
-25:45 In this sense, it comes from ateo, and it means to ask to begging, to crave. Do you know why? He's the author of our salvation? He begged for it. He craved it. He asked it. It's not just a matter god told Jesus to die on the cross. 
+25:45 In this sense, it comes from <u class = "red">ateo</u>, and it means to ask to begging, to crave. Do you know why? He's the author of our salvation? He begged for it. He craved it. He asked it. It's not just a matter God told Jesus to die on the cross. 
 <br>
 26:03 He would have. I've come to do thy will. Oh, God. This is a matter of Jesus fighting for it. Let me do it. Don't let the devil kill me here. Oh, God, I'm going to persevere. I'm going to die on the cross. 
 <br>
-26:16 If you'll spare my life, I'll become the author. A big, big beg let me do it. Of eternal salvation to those who believe the Lord Jesus Christ as their Savior. Oh, my. I admire him and I love him. If I'm anywhere near right, I've got peace in my heart about jesus fought to be my savior. 
+26:16 If you'll spare my life, I'll become the author. A big, big beg let me do it. Of eternal salvation to those who believe the Lord Jesus Christ as their Savior. Oh, my. I admire him and I love him. If I'm anywhere near right, I've got peace in my heart about Jesus fought to be my savior. 
 <br>
 26:38 He fought not to die. And he begged, oh, God, you're able to deliver me from death. And God heard him. God heard him. Look at it. God heard him in verse seven. God heard him because Jesus was reverent. 
 <br>
-26:49 Jesus was respectful. Jesus was holy. And though he's a son, he learned. He became a disciple of obedience. Active obedience. I'll go to the cross. He fought for it. He begged for it. And hallelujah. 
+26:49 Jesus was respectful. Jesus was holy. And though he's a son, he learned. He became a disciple of obedience. <b>Active obedience</b>. I'll go to the cross. He fought for it. He begged for it. And hallelujah. 
 <br>
-27:05 He craved it. And he achieved it. Our Savior. Our Savior. And that's why the text is wrapped. He's our high priest. Do you know why he's our High Priest now? Because he lived right. In the days of his flesh. 
+27:05 He craved it. And he achieved it. Our Savior. Our Savior. And that's why the text is wrapped. He's our high priest. <b>Do you know why he's our High Priest now? Because he lived right in the days of his flesh</b>. 
 <br>
-27:26 Do you know why he's our High Priest now? Because he died right on the old. Rugged cross and do you know why. He'S our High Priest right now? Because he fought to die right for you and me. Because he struggled to get through gethsemane. 
+27:26 Do you know why he's our High Priest now? Because he died right on the old rugged cross and do you know why he's our High Priest right now? Because he fought to die right for you and me. Because he struggled to get through Gethsemane. 
 <br>
-27:40 To get to the Old Rugged Cross. To pour out his life blood that. We hallelujah might be saved. I want to read just a line from Isaiah chapter number 53. Isaiah, chapter 53. It's in verse ten. Jesus on the cross. 
+27:40 To get to the Old Rugged Cross. To pour out his life blood that we hallelujah might be saved. I want to read just a line from Isaiah chapter number 53. Isaiah, chapter 53. It's in verse ten. Jesus on the cross. 
 <br>
 28:05 It pleased God to bruise him. Jesus begged to get to go to that cross and suffer for our sins. It pleased God to it. And you'll make his soul an offering for sin. Jesus became our sin. And then Jesus will see his seed on Calvary. 
 <br>
 28:22 He will see the church. He will see future believers. He will see the Redeemed throne. He will see his seed. He will see his seed. And the pleasure of the Lord will prosper in his hand. I dropped a little note that I had thought about sharing with you. 
 <br>
-28:48 Let me be sure that you may. Want to write this down. I thought it worthy of notation. There is a wisdom that can only be gained through the crucible of suffering. And there is a wisdom that can only be gained in the crucible, the refining pot of suffering. 
+28:48 Let me be sure that you may want to write this down. I thought it worthy of notation. There is a wisdom that can only be gained through the crucible of suffering. And there is a wisdom that can only be gained in the crucible, the refining pot of suffering. 
 <br>
-29:12 Jesus had to learn not only was going to die on Calvary, not only is he going to give his blood. To forgive us of our sin, he fought for it. He begged for it. Oh, God. Oh, God. Devil tried to overthrow if Jesus had sinned in the wilderness temptation, there would have been no need for calvary. 
+29:12 Jesus had to learn not only was going to die on Calvary, not only is he going to give his blood to forgive us of our sin, he fought for it. He begged for it. Oh, God. Oh, God. Devil tried to overthrow if Jesus had sinned in the wilderness temptation, there would have been no need for Calvary. 
 <br>
-29:34 If Jesus had been killed if Jesus had been killed in Gethsemane, there would have been no calvary. Jesus overcame the Devil with the word of God in the first temptation, and he overcame it with prayer, their prayer. 
+29:34 If Jesus had been killed if Jesus had been killed in Gethsemane, there would have been no Calvary. Jesus overcame the Devil with the word of God in the first temptation, and he overcame it with prayer, prayer, prayer. 
 <br>
 29:48 And the second. Hallelujah. Hallelujah. And you know what's going on in the lives of these Hebrew Christians, the very ones Paul's writing right now? They're suffering. Some of them are suffering, and they're wanting to quit. 
 <br>
 30:02 Some of them are suffering, and they're wanting to let things slip. They're wanting to backslide. They're wanting to give up. He just said, Jesus suffered. Oh, you better love him. He fought. He fought, he prayed. 
 <br>
-30:15 He begged to Get, to Go, to Calvary, to die for you and me. And that's why somebody would have said a newscaster of the past. And that's the rest of the story. That's the rest of the story. Why he became why he is our great high priest after the order of Melchizedek. 
+30:15 He begged to get to go to Calvary, to die for you and me. And that's why somebody would have said a newscaster of the past. And that's the rest of the story. That's the rest of the story. Why he became, why he is our great high priest after the order of Melchizedek. 
 <br>
 30:39 I want to stand up and salute Him. I want to bow down before Him, love and adore Him. What a savior. What a savior. We have no idea. All he endured to get to the cross, and he wanted to. He desired to I'm going to have to look at my time. 
 <br>
-31:02 I think I'm going to do it. I'm going to do it. I hope I'm trying to teach you today. I hope I'm not just ministering to myself. I am worshipping my Savior in reality. Isaiah 50. Isaiah 50. Jesus getting cold feet. 
+31:02 I think I'm going to do it. I'm going to do it. I hope I'm trying to teach you today. I hope I'm not just ministering to myself. I am worshipping my Savior in reality. Isaiah 50. Isaiah 50. Jesus won't get cold feet. 
 <br>
-31:24 Jesus wanting to quit the foot of Calvary. No way. No way. I give my back to the smiters. Isaiah 50 is written about 700 years before our Lord is born, and yet he's already saying, I give my back to the smiters. 
+31:24 Jesus would not to quit the foot of Calvary. No way. No way. I give my back to the smiters. Isaiah 50 is written about 700 years before our Lord is born, and yet he's already saying, I give my back to the smiters. 
 <br>
 31:45 The whipping at the Roman scourging, post my cheeks to them that plucked off my hair, hid not my face from their shame and their spitting. They stripped him naked. The Lord God will help me. Does that sound like somebody that's running from the cross? 
 <br>
@@ -484,13 +484,13 @@ toc: true
 <br>
 32:26 God will help me. God will. I'll cry out with strong tears and I set my face like a flint. I am determined. I am resigned. I set my face like a flint. Isaiah 50, verse seven. I know I'll not be confused. 
 <br>
-32:42 I know I'll not be ashamed. Now listen to this. Verse eight. Who will contend with me? Who's fighting, trying to keep me from Calvary? Who will contend with me? Let us stand again. That's Jesus talking to the devil. 
+32:42 I know I'll not be ashamed. Now listen to this. verse eight. Who will contend with me? Who's fighting, trying to keep me from Calvary? Who will contend with me? Let us stand again. That's Jesus talking to the devil. 
 <br>
 32:58 Who's contending with me? Who's trying to kill me in Gethsemane? Who tried to kill me as a laugh? Who's contending, trying to kill? Let us stand together. Bring it on, buddy. Come here. Let us stand together. 
 <br>
 33:10 Who is my adversary? Satan. Let him come near to me. Bring it on. Let him come near to me. The Lord God will help me. Who'll condemn me. I'll take him and fold him up as an old garment. I'll fold him up as a moth eaten piece of cloth and toss him aside. 
 <br>
-33:35 The devil lost at gethsemane. Jesus prevailed active obedience and he died on Calvary. For you and me I got to read you one more verse. I've got to quit, but I got to read you one more verse. Luke. Luke, chapter twelve. 
+33:35 The devil lost at Gethsemane. Jesus prevailed active obedience and he died on Calvary. For you and me. I got to read you one more verse. I've got to quit(?), but I got to read you one more verse. Luke. Luke, chapter twelve. 
 <br>
 33:57 It's verse 50. Jesus is on his way to the cross. I mean, he is on his way to Jerusalem to die and he knows it. See if it sounds like he's scared. See if you think he got cold feet. I have a baptism to be baptized with. 
 <br>
@@ -498,13 +498,13 @@ toc: true
 <br>
 34:29 I want to die. I want to do the Father's will. It's a necessity that I die. If I don't die, Mike Bagel will go to hell and every member of this class will go to hell. I have a baptism to be baptized and I can't wait till it's accomplished. 
 <br>
-34:45 I'm straightened till I get it done. Till I get it done. Can. I close saying hallelujah. He got it done. He got it done. My, what a savior. It's prayer time. It's prayer time. I've decided to pray. Psalm 119, verse 18. 
+34:45 I'm straightened till I get it done. Till I get it done. Can I close saying hallelujah. He got it done. He got it done. My, what a savior. It's prayer time. It's prayer time. I've decided to pray Psalm 119, verse 18. 
 <br>
-35:12 Listen to it. Open thou mine eyes, Lord. It's a prayer. Open thou my knives. It. That I may behold wondrous things out of thy word. Lord, would you open my eyes that I may behold wondrous things out of our I don't want to take the common stock interpretation on any passage of Scripture. 
+35:12 Listen to it. Open thou my eyes, Lord. It's a prayer. Open thou my eyes that I may behold wondrous things out of thy word. Lord, would you open my eyes that I may behold wondrous things out of our I don't want to take the common stock interpretation on any passage of Scripture. 
 <br>
-35:40 It could be wrong. But I'm glad I got a God in heaven. I know him. He wrote it. He's the author and he's the interpreter of His Word. Lord, would you open our I mean, take the scales off. It's the word for to denude. 
+35:40 It could be wrong. But I'm glad I got a God in heaven. I know him. He wrote it. He's the author and he's the interpreter of His Word. Lord, would you open our I mean, take the scales off. It's the word for "todenude". 
 <br>
-35:58 Lord, remove any film. Help me to see 20 to open my eyes that I can gaze upon and ponder wondrous things. Wondrous things. The word there wondrous things. It's PA l a pala and it means marvelous things. 
+35:58 Lord, remove any film. Help me to see 20 to open my eyes that I can gaze upon and ponder wondrous things. Wondrous things. The word there wondrous things. It's Pala a pala and it means marvelous things. 
 <br>
 36:22 What I've shared with you about the garden of Gethsemane today the very means that our Lord used to get to Calvary to then become our great Melchizedek High Priest. That very thing. It's wondrous. It's marvelous. 
 <br>
@@ -516,7 +516,7 @@ toc: true
 <br>
 37:45 Both are good. Both our dilemma that we may behold wondrous things out of your book, your word, your law, including Hebrews. Jesus name, I pray. Amen. I got a little physically tired teaching, but God sure did help me through it. 
 <br>
-38:07 And I'll tell you this. I know. Brother Bagwell's heart. I sure, have tried to exalt our Savior. He's our great high priest after the order of Melchizedek. Because he lived right and because he made it through Gethsemane. 
+38:07 And I'll tell you this. I know. Brother Bagwell's heart. I sure, have tried to exalt our Savior. He's our great high priest after the order of Melchizedek. <b>Because he lived right and because he made it through Gethsemane</b>. 
 <br>
 38:26 God spared him from death in Gethsemane and he went to Calvary and he shed his blood that us old sinners might be saved. 
       </p>

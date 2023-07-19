@@ -187,7 +187,8 @@ ma<b>d</b>e our way blameless (V32)
 
 Encouragement to Shawn for his start-up business. God gives him skills, and will provide him ...
 
-Is a throne a platform or a chair?
+<li>Is a throne a platform or a chair?</li>
+<li>Jesus is the passover lamb.  The lamb was observed for 14 days, as the same token, Jesus proved himself blameless for 33 years.</li>
 
 
 
