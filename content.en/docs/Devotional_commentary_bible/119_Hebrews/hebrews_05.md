@@ -20,7 +20,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  <button class="tablinks" onclick="tablabel(event, 'study1')">Mike Bagwell's Class</button>  
+  <button class="tablinks" onclick="tablabel(event, 'study1')">Bible Study on Chapter 5</button>  
 </div>
 
 <!-- Tab content -->
@@ -73,7 +73,7 @@ toc: true
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Hebrews 5:1-5 ... Aaron and Jesus, both High Priests ... but Jesus is far superior!</h2>
+      <h2>Mike Bagwell's Class <br>Hebrews 5:1-5 ... Aaron and Jesus, both High Priests ... but Jesus is far superior!</h2>
       <p>
 00:01 Ah. Join me for class today. Our text is found in Hebrews, chapter five. Hebrews, chapter five, in fact. And I debated on how many verses to try to cover but prayerfully. I've decided we're going to cover the first five verses of Hebrews five. 
 <br>
@@ -292,7 +292,7 @@ toc: true
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Hebrews 5:6-11, "In the days of his flesh!" (A glimpse at Gethsemane)</h2>
+      <h2>Mike Bagwell's Class <br>Hebrews 5:6-11, "In the days of his flesh!" (A glimpse at Gethsemane)</h2>
       <p>
 <br>00:01 Let's take our Bibles and go to Hebrews chapter number five. And we will begin at verse number six. Our text tonight will cover verses six through ten. The Lord willing. Hebrews five, six through ten. 
 <br>
@@ -524,7 +524,7 @@ toc: true
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Hebrews 5:11-14, "Seeing ye are dull of hearing" A stern warning! (A Pauline interruption!)</h2>
+      <h2>Mike Bagwell's Class <br>Hebrews 5:11-14, "Seeing ye are dull of hearing" A stern warning! (A Pauline interruption!)</h2>
       <p>
 00:00 Hebrews, chapter five in the word of God. And in this class session we finish that chapter, we will look at the last four verses, God willing. Hebrews 5:11 through 14. Something unusual happens here, Paul, no sooner get started good on the high priesthood of Jesus. 
 <br>
