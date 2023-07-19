@@ -75,6 +75,8 @@ toc: true
       <i></i>
       <h2>Mike Bagwell's Class <br>Hebrews 5:1-5 ... Aaron and Jesus, both High Priests ... but Jesus is far superior!</h2>
       <p>
+<iframe width="1180" height="664" src="https://www.youtube.com/embed/11urR0qbF1w" title="HEBREWS 5:1-5 ... Aaron and Jesus, both High Priests ... but Jesus is far superior!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
 00:01 Ah. Join me for class today. Our text is found in Hebrews, chapter five. Hebrews, chapter five, in fact. And I debated on how many verses to try to cover but prayerfully. I've decided we're going to cover the first five verses of Hebrews five. 
 <br>
 00:29 Hebrews five. Chapter five begins an expanse of 5, 6, 7, 8, 9 six chapters, chapters five through chapter number ten, <b>giving some detail about the high priestly ministry of our Lord Jesus Christ</b>. I think this may be the reason what we're about to begin studying, why the book of Hebrews is often neglected. 
