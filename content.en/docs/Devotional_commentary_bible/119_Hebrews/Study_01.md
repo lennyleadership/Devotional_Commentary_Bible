@@ -47,6 +47,27 @@ Genesis 15:18 So the Lord made a covenant with Abram that day and said, “I hav
 
 Joshua 24:2-3, 14-14
 
+Abraham  
+
+Abraham was the firstborn son of Terah.  
+
+Abraham crossed the Euphrates river.  
+
+Abraham had Lot (a nephew) select land first.  
+
+Abraham gave birth to Isaac.  Isaac was the firstborn son of Abraham.  
+
+Abraham had Isaac marry with Rebecca (Genesis 23).  
+
+Abraham's faith: sacrificed Isaac.  
+
+Isaac gave birth to Esau and Jacob.  Jacob was renamed to Israel (Genesis 32:28).
+
+<figure>
+  <iframe width="320" height ="270"  src="https://www.youtube.com/embed/L8fyCD0yZaA" title="Euphrates 2015" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <figcaption class = "bottom"><a href = "https://sci-hub.se/10.2307/1775471" target="_blank" rel="noopener noreferrer">Through the Great Cañon of the Euphrates River</a></figcaption>
+</figure>
+
 
 <h1><span class = "overline">Chapter 1</span></h1>
 The way to start this book is different from modern business writing, with which the author usually put the statement first, then develop the body with providing three evidences.  
