@@ -75,7 +75,7 @@ toc: true
       <i></i>
       <h2>Mike Bagwell's Class <br>Hebrews 5:1-5 ... Aaron and Jesus, both High Priests ... but Jesus is far superior!</h2>
       <p>
-<iframe width="100%" src="https://www.youtube.com/embed/11urR0qbF1w" title="HEBREWS 5:1-5 ... Aaron and Jesus, both High Priests ... but Jesus is far superior!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height = "360" src="https://www.youtube.com/embed/11urR0qbF1w" title="HEBREWS 5:1-5 ... Aaron and Jesus, both High Priests ... but Jesus is far superior!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 00:01 Ah. Join me for class today. Our text is found in Hebrews, chapter five. Hebrews, chapter five, in fact. And I debated on how many verses to try to cover but prayerfully. I've decided we're going to cover the first five verses of Hebrews five. 
 <br>
