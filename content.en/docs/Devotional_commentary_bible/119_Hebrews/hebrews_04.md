@@ -132,33 +132,33 @@ toc: true
 <br>
 09:04 So here it is, you big picture people who get lost when I talk about four and because, and therefore and how it all hangs together. Here's the big picture. <b>Stage one</b>. The aim of life in this chapter is to enter the rest of God. 
 <br>
-09:20 That is, heaven, forgiveness, acceptance, love, joy with him forever. That's stage one. Stage two is the indispensable means of entering, namely, faith, believing, trusting, being satisfied with all that God is for you in Jesus. 
+09:20 That is, heaven, forgiveness, acceptance, love, joy with him forever. That's stage one. <b>Stage two</b> is the indispensable means of entering, namely, faith, believing, trusting, being satisfied with all that God is for you in Jesus. 
 <br>
-09:46 Stage three is the indispensable means of believing, namely the word of God. We've got to have promises. We've got to have God speaking to us about what he intends to do for us in order to trust Him so that we enter his rest. 
+09:46 <b>Stage three</b> is the indispensable means of believing, namely the word of God. We've got to have promises. We've got to have God speaking to us about what he intends to do for us in order to trust Him so that we enter his rest. 
 <br>
-10:03 Chapter three, verse 19 says they entered because of belief or they didn't enter because of unbelief. And chapter I forget what chapter it is says we entered through faith. What verse now? Level four, or stage four, you got heaven or rest. 
+10:03 Chapter three, verse 19 says they entered because of belief or they didn't enter because of unbelief. And chapter I forget what chapter it is says we entered through faith. What verse now? Level four, or <b>stage four</b>, you got heaven or rest. 
 <br>
 10:21 You've got faith, trust, belief. And then you've got the word of God. And now the last bottom stage here is in verse eleven of chapter four. Diligence in the use of the means of the Word of God so that you don't fail to appropriate the Word and have the faith and enter the rest. 
 <br>
 10:47 The Christian life is a life of vigilant use of the Bible to stay believing in the promises of God. And that's what's on the front burner of this book. We'll see it again and again. Chapter two, chapter three, chapter four. 
 <br>
-11:05 Be diligent, take heed, listen, exhort one another and so on. Now we come here to verse eleven and that's the level that we're at. We're at the level four of Diligent use of the Word of God so that we don't make shipwreck and fail to enter the rest that he holds out. 
+11:05 Be diligent, take heed, listen, exhort one another and so on. Now we come here to verse eleven and that's the level that we're at. We're at the level four of diligent use of the Word of God so that we don't make shipwreck and fail to enter the rest that he holds out. 
 <br>
 11:29 And verse twelve is given as a reason back to the analytical level. A reason, an argument, a ground. Let me just a lot of college students in this room here. Now, the college students have their class in the first hour. 
 <br>
-11:48 If you're a college student here and you didn't go to that class called Toshavim Philemon, Stand Up philemon is the leader of that class. Thank you. Now you can sit down. You all know Philammon here. 
+11:48 If you're a college student here and you didn't go to that class called Toshavim Philemon, Stand Up Philemon is the leader of that class. Thank you. Now you can sit down. You all know Philemon here. 
 <br>
 11:58 Philammon is the leader of Toshavim group and if you didn't come to the first hour, you're all welcome to come to the first hour. Now, the reason I draw attention to college students is because nobody told me at Wheaton College. 
 <br>
-12:09 And I didn't learn it until I went to seminary and had one teacher who's the only teacher who said it is obvious is that for some reason, for about 223 years of my life, I saw Bible statements as strings of pearls. 
+12:09 And I didn't learn it until I went to seminary and had one teacher who's the only teacher who said it is obvious is that for some reason, for about 23 years of my life, I saw Bible statements as strings of pearls. 
 <br>
 12:31 And you take a pearl and you admire it and you make use of it and put back take another pearl. And nobody until 1968, in the fall, in a Hermeneutics class with Dan Fuller, told me they're not strings of pearls, they're links in a chain. 
 <br>
 12:49 And they're connected by therefores becauses in order thats all those because apostles argue, they give extended lines of reasoning. And when I saw that, my whole world changed. Close parentheses. Verse twelve begins with because even though the NIV doesn't care about what I care about, it's there in the NASV, the RSV, the King James Version, and the Greek, which is what counts. 
 <br>
-13:32 And it's because now, this is important. It because verse eleven is the main. Point of this whole book. Be vigilant in living the Christian life lest you fall short of heaven. For here's your argument, here's your reason, here's your foundation, here's your ground, here's the way to get there. 
+13:32 And it's because now, this is important. It because verse eleven is the main point of this whole book. Be vigilant in living the Christian life lest you fall short of heaven. For, here's your argument, here's your reason, here's your foundation, here's your ground, here's the way to get there. 
 <br>
-13:51 Here's the means of fighting, here's the way to win for. The word of God is sharp. It's living, it's active. It pierces to the division of soul and spirit, both joints and marrow, able to judge the thoughts and intentions of the heart. 
+13:51 Here's the means of fighting, here's the way to win. For the word of God is sharp. It's living, it's active. It pierces to the division of soul and spirit, both joints and marrow, able to judge the thoughts and intentions of the heart. 
 <br>
 14:13 Now, this is a classic verse to frustrate a preacher because every word in it demands a sermon. I mean, aren't you sitting there right now wondering, soul and spirit, what's the difference between a soul and a spirit? 
 <br>
@@ -170,7 +170,7 @@ toc: true
 <br>
 15:30 And here's what I'm going to do with this verse. We've got a little forest here and a lot of trees, and I don't want to get lost among the trees and miss the glory of the forest. Let me try to state the beauty of the forest in one sentence. 
 <br>
-15:48 And here's the sentence. See if you would agree. The word of God. Penetrates very, very deep. That covers about six of those words, just very, very deep. Like a sword through tough, hard layers. I'll talk in a minute about what I think those layers might be it. 
+15:48 And here's the sentence. See if you would agree. The word of God penetrates very, very deep. That covers about six of those words, just very, very deep. Like a sword through tough, hard layers. I'll talk in a minute about what I think those layers might be it. 
 <br>
 16:20 And when it gets down there to wherever it's going at the bottom, it starts judging thoughts and intentions. That's my interpretation of verse twelve. But let me try to fill it out. Take the word judging. 
 <br>
@@ -180,45 +180,45 @@ toc: true
 <br>
 17:17 I read this verse as mainly threat, not encouragement. I'm going to try to redo that for myself this morning and maybe for you. Judging is a two pronged activity, right? What's your judgment of this car? 
 <br>
-17:32 And he says, well, good tires s, good brakes don't hear any clicks, transmission not so good. And his judgment proceeds on what's good and what's bad in the car. I believe the word of God. When it gets to the bottom of the layers. 
+17:32 And he says, well, good tires, good brakes don't hear any clicks, transmission not so good. And his judgment proceeds on what's good and what's bad in the car. I believe the word of God. When it gets to the bottom of the layers. 
 <br>
-17:52 Having penetrated through all the stuff that we try to hide with, it starts. Saying what's good and what's bad down there. But that's not quite right. It's not quite right because the issue. Isn'T just what's good and bad in me, the issue in this chapter is. 
+17:52 Having penetrated through all the stuff that we try to hide with, it starts. Saying what's good and what's bad down there. But that's not quite right. It's not quite right because the issue. Isn't just what's good and bad in me, the issue in this chapter is. 
 <br>
-18:15 What'S believing and unbelieving in me. What John Piper needs help with is more specific than Word of God. Show me my badness and my goodness. That's not the way. I don't think the Bible wants us to quite think like that. 
+18:15 What's believing and unbelieving in me. What John Piper needs help with is more specific than Word of God. Show me my badness and my goodness. That's not the way. I don't think the Bible wants us to quite think like that. 
 <br>
 18:32 It's enough badness to just make me feel awful. And there's not any goodness except what God puts there. So that's not quite the issue. The issue is when the Word gets to the bottom, does it find a believer? 
 <br>
-18:51 Does it find faith in the promises of God? Does it find a cleaving to mercy? Does it find somebody who's leaning hard on the promises to take care of me? Or does it find somebody who's beginning. To trust in compromise and expediency and the lies of sin? 
+18:51 Does it find faith in the promises of God? Does it find a cleaving to mercy? Does it find somebody who's leaning hard on the promises to take care of me? Or does it find somebody who's beginning to trust in compromise and expediency and the lies of sin? 
 <br>
-19:13 The issue at the bottom where the Word of God goes is faith. Does the word of God find faith? And the way it exposes whether there's faith there is with promises. That's why I spent five minutes at the beginning of this sermon linking this verse with verse two of chapter four. 
+19:13 <b>The issue at the bottom where the Word of God goes is faith</b>. Does the word of God find faith? And the way it exposes whether there's faith there is with promises. That's why I spent five minutes at the beginning of this sermon linking this verse with verse two of chapter four. 
 <br>
 19:32 Because in verse two of chapter four it says we have had the Gospel preached to us, the good news preached to us just as they did. But the Word did not profit them because it did not meet with faith. 
 <br>
 19:45 The Word is the same Word as in chapter twelve. And so the Word is good news, not condemning news, it's good news. So the gospel, good news, promises mercy, forgiveness, goes down there into the bottom of my heart and starts shining its bright light all over the place. 
 <br>
-20:01 And you know what's? Exposed, unbelief, when a beautiful, all satisfying promise of God stares me in the face at the bottom of my life and I am turned from it, loving and trusting something sinful. I am helped and delivered. 
+20:01 And you know what's exposed? unbelief, when a beautiful, all satisfying promise of God stares me in the face at the bottom of my life and I am turned from it, loving and trusting something sinful. I am helped and delivered. 
 <br>
-20:23 This is an encouraging delivering word. Let me give you an illustration from this week. This week I had to do one of those things that is not a favorite part of my ministry as a pastor. I had to make about three phone calls, all of which were very painful. 
+20:23 This is an encouraging, delivering word. Let me give you an illustration from this week. This week I had to do one of those things that is not a favorite part of my ministry as a pastor. I had to make about three phone calls, all of which were very painful. 
 <br>
 20:42 They were painful because they all involved disagreement and conflict. I don't like to make phone calls like that. It feels every time like it's a no win situation. I could either compromise a principle or a truth or a conviction that I and the staff have and trust that, or I could stand with the principle and the truth and the conviction and almost know for certain I'm going to be misunderstood and disapproved. 
 <br>
-21:22 And when you have to make phone calls like that, you just stare at the phone and ask for Jesus to come back. It now you know what the most important thing in that moment is? The most important thing at that moment is, do I trust God? 
+21:22 And when you have to make phone calls like that, you just stare at the phone and ask for Jesus to come back. Now you know what the most important thing in that moment is? The most important thing at that moment is, do I trust God? 
 <br>
-21:47 Do I trust the promises of God instead of. Trusting wording twists, or trusting timing, or trusting expedient compromise, or trusting a half truth and leaving out a little bit. Do I trust that. Or do I trust God and his promises? 
+21:47 <b>Do I trust the promises of God instead of trusting wording twists, or trusting timing, or trusting expedient compromise, or trusting a half truth and leaving out a little bit</b>. Do I trust that? Or do I trust God and his promises? 
 <br>
-22:09 I'll help you. I'll strengthen you. I'll hold you up. I'll work for you. I'll pursue you with goodness and mercy. It that's the issue. So if that's the issue, if faith is the issue, what do I do? There's a battle going on. 
+22:09 I'll help you. I'll strengthen you. I'll hold you up. I'll work for you. I'll pursue you with goodness and mercy. That's the issue. So if that's the issue, if faith is the issue, what do I do? There's a battle going on. 
 <br>
 22:26 There's a battle going on in you this week. You are all facing some stuff which you might trust promises of God about, or you might start trusting yourself or some compromising way about. What do you do? 
 <br>
-22:40 I'll tell you what I did. It's real simple, nothing new. Number one, you marinate your mind in the Bible so that it starts to smell like Bible. When you open your mouth and speak, it smells like, whoo that's Bible breath. 
+22:40 I'll tell you what I did. It's real simple, nothing new. <b>Number one</b>, you marinate your mind in the Bible so that it starts to smell like Bible. When you open your mouth and speak, it smells like, whoo that's Bible breath. 
 <br>
-23:01 That's good. That's number one. You soak in the Bible. Number two, you email all your small group members. Now, not every small group is wired up yet, but that's coming. Everybody be on email in the world soon. 
+23:01 That's good. That's number one. You soak in the Bible. <b>Number two</b>, you email all your small group members. Now, not every small group is wired up yet, but that's coming. Everybody be on email in the world soon. 
 <br>
-23:25 We're all on email. So I emailed Tom. Stellar. David, Michael and Sally. Brad Nelson, Chuck Morris. Tom Stellar. Let's say that five of them, I think. I emailed them all, and I told them my situation. 
+23:25 We're all on email. So I emailed Tom Stellar, David, Michael and Sally. Brad Nelson, Chuck Morris. Tom Stellar. Let's say that five of them, I think. I emailed them all, and I told them my situation. 
 <br>
-23:42 I told them the conflict, I told them my struggle, and I asked him for counsel, and I said I got to have it by Thursday. Morning. So there they were, four answers on Thursday morning, and I read them carefully. 
+23:42 I told them the conflict, I told them my struggle, and I asked Him for counsel, and I said I got to have it by Thursday Morning. So there they were, four answers on Thursday morning, and I read them carefully. 
 <br>
-24:02 Irv. He sent one, tom sent one, david Michael sent one. David living is out of town. There they were. I read them and I got help from these word rooted words of counsel. Talk to Noelle as we took our little walk down on what's the name of that island? 
+24:02 Irv, he sent one, Tom sent one, David Michael sent one. David living is out of town. There they were. I read them and I got help from these word rooted words of counsel. Talk to Noelle as we took our little walk down on what's the name of that island? 
 <br>
 24:20 Pikes island down at the Fort Snelling Preserve. That's where we took our day off walk this week. And we talked about this issue and we prayed. So I marinated my mind, I emailed my small group and I talked to my wife and then I got on the phone on Friday morning and made the call. 
 <br>
@@ -230,25 +230,25 @@ toc: true
 <br>
 25:33 That's why I emailed my brothers in my group. I need daily encouragement, guidance. So do you. That's why you need to be in a small group or have some kind of connectedness with people who care enough about you that they're in your face asking how you're doing with your work and whether you're. 
 <br>
-25:51 Trusting in sin or trusting in God. As long as it is called today. Lest there be in any of you. Lest any one of you be hardened. Now, here comes a very crucial phrase by the deceitfulness of sin. Mark that the deceitfulness of sin. 
+25:51 trusting in sin or trusting in God. As long as it is called today. Lest there be in any of you. Lest any one of you be hardened. Now, here comes a very crucial phrase by the deceitfulness of sin. Mark that the deceitfulness of sin. 
 <br>
-26:14 Would you agree that the only reason you sin is because you believe at that moment the lie of the sin, that things will go better this way? Or at least the charge of the moment will be worth the misery of the consequences? 
+26:14 Would you agree that <b>the only reason you sin is because you believe at that moment the lie of the sin</b>, that things will go better this way? Or at least the charge of the moment will be worth the misery of the consequences? 
 <br>
-26:40 That's the lie of Satan. Now, I said Satan and caught myself in the first hour and corrected it to sin. And a woman came up to me afterwards, she said, why'd you correct yourself? The reason I'm correcting myself now as well as then, when I said lie of no, no, not just get Satan. 
+26:40 That's the lie of Satan. Now, I said Satan and caught myself in the first hour and corrected it to sin. And a woman came up to me afterwards, she said, why'd you correct yourself? The reason I'm correcting myself now as well as then, when I said lie of Satan, no, no, not just get Satan. 
 <br>
-27:00 Out of this sermon. He's not in this sermon. Sin is in this sermon. The lie of sin. It says. Do you see the phrase the markets. Not my phrase, at the end of verse 13 in chapter three, the deceitfulness of sin. 
+27:00 Out of this sermon. He's not in this sermon. Sin is in this sermon. The lie of sin. It says. Do you see the phrase the markets. Not my phrase, at the end of verse 13 in chapter three, <b>the deceitfulness of sin</b>. 
 <br>
 27:14 Sin lies. Satan's a liar, sure, but we talk way too much about the lies of Satan. You got enough sin in you rooted deep in your own heart to keep you deceived the rest of your life. If Satan falls down dead. 
 <br>
-27:30 You satan's. Not the big problem in this world. I'm the big problem in this world. John Piper's Carnality is the big problem in my marriage and my parenting and my pastoring and my citizenship and everything else. 
+27:30 <b>Satan is not the big problem in this world. I'm the big problem in this world</b>. John Piper's carnality is the big problem in my marriage and my parenting and my pastoring and my citizenship and everything else. 
 <br>
-27:44 Where I cause trouble, I'm the problem. Satan doesn't get the credit for that. All he can do is come in. And give boosters to my sin. I get that from Ephesians two, two and three. Study that later. I'm the problem when I get deceived. 
+27:44 Where I cause trouble, I'm the problem. Satan doesn't get the credit for that. All he can do is come in and give boosters to my sin. I get that from Ephesians two, two and three. Study that later. I'm the problem when I get deceived. 
 <br>
-28:03 My sin is deceiving me. Sin is rooted in me according to. Chapter six and seven in Romans. It's like a power in me. And Paul cries out, oh, this sin rooted in me. Satan's not even mentioned in chapters Romans. 
+28:03 My sin is deceiving me. Sin is rooted in me according to Chapter six and seven in Romans. It's like a power in me. And Paul cries out, oh, this sin rooted in me. Satan's not even mentioned in chapters Romans. 
 <br>
-28:19 Six, seven and eight. So that's why I corrected myself and said the issue here when I got. On the telephone, or as I struggled. With the phone and as you're struggling today and this week with whether you're. 
+28:19 Six, seven and eight. So that's why I corrected myself and said the issue here when I got on the telephone, or as I struggled with the phone and as you're struggling today and this week with whether you're. 
 <br>
-28:32 Going to trust God's promises or trust. Expediency and sin, the issue there is. Do you get deceived by the lies of sin? Sin says to you, for example, the. Only way you'll have any future is if you get an abortion. 
+28:32 Going to trust God's promises or trust. Expediency and sin, the issue there is. Do you get deceived by the lies of sin? Sin says to you, for example, the only way you'll have any future is if you get an abortion. 
 <br>
 28:49 That's one of them. Or it says to you, the only way you're going to have any future is if you cheat on this test. You won't make it through school if you don't cheat. That's a promise. That's a promise. 
 <br>
@@ -256,27 +256,27 @@ toc: true
 <br>
 29:42 Or Satan. Sin says, you won't have any job security. If you speak out about the dishonest practices at your office or it says your only hope for future is to get out of this marriage relationship because it is one hell. 
 <br>
-30:09 Or it says if you go on looking weak like you do and getting stepped on and don't take some kind of revenge, your life is going to be miserable. The only reason any of you sins is because you believe those promises. 
+30:09 Or it says if you go on looking weak, like you do and getting stepped on and don't take some kind of revenge, your life is going to be miserable. The only reason any of you sins is because you believe those promises. 
 <br>
 30:27 It's the only reason I sin. In the moment when sin offers its little tricky half truth, you will be like God. You believe it. And in believing it, you stop believing in the promises of God. And that's what's at stake every day in the Christian life. 
 <br>
-30:46 And that's why this book of Hebrews was written, to make us vigilant over unbelief, so that we'll trust in the promises of God and not believe in what verse 13 of chapter three calls the deceitfulness of sin. 
+30:46 And that's why this book of Hebrews was written, to make us vigilant over unbelief, so that we'll trust in the promises of God and not believe in what verse 13 of chapter three calls <b>the deceitfulness of sin</b>. 
 <br>
 31:01 And here's the problem, one of the deep problems sometimes those lies got into you when you were small or a teenager or 20 years old or 40, and the deceptions of sin began to layer themselves over, creating a pocket of almost impenetrable conviction that this must be so. 
 <br>
-31:29 It I really can't be happy unless and let's sin fill in the blank. Let sin fill in the blank. And the layers are so thick that if somebody comes along and says, you know, that's wrong, that's harmful to you, it's. 
+31:29 I really can't be happy unless and let's sin fill in the blank. Let sin fill in the blank. And the layers are so thick that if somebody comes along and says, you know, that's wrong, that's harmful to you. 
 <br>
 31:49 What do you mean? It's my only hope of happiness. How could it be harmful to me? And there is no touching it. It is so deep and so powerfully rooted beneath all the layers of deception that sin has used. 
 <br>
-32:05 That's why verse twelve is in this book to give you an encouragement that as you struggle and are diligent with the deceit of the promises of sin, you will know that the promises of God are powerful. 
+32:05 That's why verse twelve is in this book to give you an encouragement that as you struggle and are diligent with the deceit of the promises of sin, you will know that <b>the promises of God</b> are powerful. 
 <br>
 32:24 The word of God is living and active, sharper than a two edged sword. It penetrates down to that division of soul and spirit and joints and marrow. And it gets beneath all those layers of deception. And when it gets there, it starts. 
 <br>
-32:47 Assessing with promises, superior promises. At the bottom of all the layers is not, you dirty, lousy, no good sinner. Which is, of course, true, but that doesn't rescue us. What rescues us is look. I am a god, merciful and gracious, slow to anger, abounding in steadfast love, keeping faith with thousands forgiving iniquity and transgression. 
+32:47 Assessing with promises, superior promises. At the bottom of all the layers is not, you dirty, lousy, no good sinner. Which is, of course, true, but that doesn't rescue us. What rescues us is look. I am a God, merciful and gracious, slow to anger, abounding in steadfast love, keeping faith with thousands forgiving iniquity and transgression. 
 <br>
 33:19 And sin, my son, has died for sinners. All sin can be removed. I hold out promises to pursue you with goodness and mercy all your days and bring you into a rest that will satisfy your heart forever and ever. 
 <br>
-33:33 That's what the word, the light of verse two of chapter four sheds down there. And what it does is suddenly it causes the half truths of sin to be exposed for the lies that they are. And it's freedom when the Word of God gets in there like that the picture I had in my mind and I totally blew it in the first hour because I don't know anything about rocks and wood, but I get it right this time. 
+33:33 That's what the word, the light of verse two of chapter four sheds down there. And what it does is suddenly it causes the half truths of sin to be exposed for the lies that they are. And it's <b>freedom</b> when the Word of God gets in there like that the picture I had in my mind and I totally blew it in the first hour because I don't know anything about rocks and wood, but I get it right this time. 
 <br>
 34:00 The picture I had in my mind yesterday, even though the terminology is wrong the reality of it's, okay, is that there's at the bottom of our lives tucked away for most of us, some darkness. And in the darkness, a little bit of a flicker. 
 <br>
@@ -288,19 +288,19 @@ toc: true
 <br>
 35:12 I said stone in the first hour, okay? Shiny, hard, piece of wood. Got it. But it's valuable. It's the kind of thing you put on a neck and it shows its shiny side to you. Sin, pick me up. Feel me. I feel good. 
 <br>
-35:29 That's why sin talks. Steal, lie, adultery. Lust, pride, half truths. Pick me up. I'm good. I'm valuable. Life becomes better when you do it like this. Pizza Hut yesterday watching my 20 minutes of TV a week. 
+35:29 That's what sin talks. Steal, lie, adultery, lust, pride, half truths, pick me up. I'm good. I'm valuable. <b>Life becomes better</b> when you do it like this. Pizza Hut yesterday watching my 20 minutes of TV a week. 
 <br>
 35:57 And Vince Lombardi is on there walking into the sunset with his football and saying there's more to life than football, but not much. I said to Barnabas, that's a lie. It's another lie. Football is a little teeny weeny weeny part of life, not almost the whole thing or you're sick. 
 <br>
 36:28 The TV is filled with half truths putting the shiny side of the roach to you so that in the darkness of deception it'll feel like a piece of ebony and you'll pick it up and you'll build your life on it. 
 <br>
-36:39 And the only hope for us is verse twelve of chapter four, right through. And there it is opening up. The light is shining. This is not condemnation. This is gospel shining on those roaches. I mean, would you not if your house were dark and you were going around picking up little roaches and put them in your pocket because you thought they were valuable piece of ebony, would you not want somebody to open the window? 
+36:39 And the only hope for us is verse twelve of chapter four, right through. And there it is opening up. The light is shining. <b>This is not condemnation</b>. This is gospel shining on those roaches. I mean, would you not if your house were dark and you were going around picking up little roaches and put them in your pocket because you thought they were valuable piece of ebony, would you not want somebody to open the window? 
 <br>
 37:04 I think you would. And then you would do what's called? Anybody know the religious word for this? What's the religious word for that? Guess. It's repentance. Repentance. So now I'm done. This is the end of the sermon and we're at a crisis point. 
 <br>
 37:26 Now, I haven't said a word about verse 13, chapter four, verse 13. Just no time. But here's the point of verse 13. The point of verse 13 is to say, folks, there's a crisis right now. In the next two minutes as we close, there's a crisis. 
 <br>
-37:44 And the crisis is this. The word of God as imperfectly as I have done. It has been preached this morning. It has penetrated for some of you to a new level. And some stuff has been laid open that's coming this week or came last week. 
+37:44 And the crisis is this. The word of God as imperfectly as I have done. It has been preached this morning. <b>It has penetrated for some of you to a new level. And some stuff has been laid open</b> that's coming this week or came last week. 
 <br>
 38:07 Something now looks like a roach more than it did when you walked in to this room. And verse 13 says, you are right now naked before God. You are open and laid bare. He knows exactly what your conscience is telling you right now about what's been happening. 
 <br>
@@ -308,17 +308,17 @@ toc: true
 <br>
 38:47 I have penetrated through John Piper's exposition of my word a little deeper and I've shown you some things. What are you going to do? I'm watching and I see everything. And I want you to do two things. 
 <br>
-39:04 Very simple. One, turn away from the lies and the promises of sin. Recognize them for the roaches that they are and turn toward the promises of God. We got religious lingo for this, but I don't I don't want it to be worn out in your ears. 
+39:04 Very simple. <b>One</b>, turn away from the lies and the promises of sin. Recognize them for the roaches that they are and turn toward the promises of God. We got religious lingo for this, but I don't I don't want it to be worn out in your ears. 
 <br>
 39:31 This is called repentance. Get out of my life, you roaches. I'm sick of it. Get out of my life. I hate you. You renounce sin. You become an enemy of sin. You declare war on sin, and then you turn to this light streaming through the window which says, oh, it's so much better. 
 <br>
-39:56 Blessed are the pure in heart. They're going to see God. And you embrace the promise and you feed on it. And that's faith. Let's pray. Father, I pray that you give repentance and that you'd give faith by the power of your revealing word of promise. 
+39:56 Blessed are the pure in heart. They're going to see God. And you embrace the promise and you feed on it. And that's faith. Let's pray. Father, I pray that <b>you give repentance</b> and that <b>you'd give faith</b> by the power of your revealing word of promise. 
 <br>
 40:21 I thank you for the gospel that there's forgiveness for roach loving. I thank you for the promise that there's cleansing from all the leavings that these roaches have messed us up with. And I thank you that there's a future with you both in this life and in the life to come that is whole. 
 <br>
 40:47 It will always be a battle. That's what this whole book of Hebrews is about a battle to keep on believing, trusting. So would you draw people out of trusting promises of sin and into trusting promises of God. 
 <br>
-41:10 Now unto Him who is able to keep you from falling and to present you before the throne of his glory with rejoicing and without any blemish at all through Jesus Christ our Lord. To Him be glory before all time, now and forever and ever. 
+41:10 Now unto Him who is able to keep you from falling and to present you before the throne of his glory with rejoicing and without any blemish at all. Through Jesus Christ our Lord. To Him be glory before all time, now and forever and ever. 
 <br>
 41:33 And all the people said, Amen. You're dismissed. Thank you for listening to this message by John Piper, pastor for preaching at Bethlehem Baptist Church in. In Minneapolis, Minnesota. Feel free to make copies of this message to give to others, but please do not charge for those copies or alter the content in any way without permission. 
 <br>
