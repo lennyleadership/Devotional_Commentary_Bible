@@ -112,7 +112,7 @@ toc: true
 <br>
 05:50 Now the link with verse twelve. We've got the word before us from verse two. It was that that they disbelieved it's that that constitutes the disobedience of verse eleven. <b>Now here's the connection. Be diligent with that word so that you don't fail to enter the rest</b>. 
 <br>
-06:14 For the Word of God is living and active. Now just stop there. I know if you have an NIV, the word 'for' is dropped for some inexplicable reason. That's an absolutely crucial connecting word. Here the connection is verse eleven be diligent with the Word to know it, love it, believe it, trust it, <b>rest in it</b>, be satisfied by it lest you become an unbeliever. <a class = "marginnote">There is 'for' in NIV.</a> 
+06:14 For the Word of God is living and active. Now just stop there. I know if you have an NIV, the word 'for' is dropped for some inexplicable reason<a id="1_ref" href = "#1">[1]</a>. That's an absolutely crucial connecting word. Here the connection is verse eleven be diligent with the Word to know it, love it, believe it, trust it, <b>rest in it</b>, be satisfied by it lest you become an unbeliever.  
 <br>
 06:45 And don't enter the rest of God. For the word of God is living and active and sharp and penetrates to the bottom of your life and reveals what's worth trusting and not trusting. Some of you are big picture people and some are little picture people. 
 <br>
@@ -130,7 +130,7 @@ toc: true
 <br>
 08:50 Now I want to say something to the big picture people just so you don't get lost. I want to say the big picture in Ephesian. What book are we on? Hebrews four. The big picture in Hebrews four has four stages. 
 <br>
-09:04 So here it is, you big picture people who get lost when I talk about four and because, and therefore and how it all hangs together. Here's the big picture. Stage one. The aim of life in this chapter is to enter the rest of God. 
+09:04 So here it is, you big picture people who get lost when I talk about four and because, and therefore and how it all hangs together. Here's the big picture. <b>Stage one</b>. The aim of life in this chapter is to enter the rest of God. 
 <br>
 09:20 That is, heaven, forgiveness, acceptance, love, joy with him forever. That's stage one. Stage two is the indispensable means of entering, namely, faith, believing, trusting, being satisfied with all that God is for you in Jesus. 
 <br>
@@ -327,6 +327,8 @@ toc: true
 42:17 You can also stay up to date on what's new at Desiring God. Again, our website is www.desiringgod.org or call us toll free at 1888-3464 700. Our mailing address is Desiring God, 26 One East Franklin Avenue, Minneapolis, Minnesota 55406. 
 <br>
 42:45 Desiring God exists to help you make God your treasure, because God is most glorified in us when we are most satisfied in him.
+<p id="1">[1] There is 'for' in NIV.
+<a href="#1_ref">&#8617;</a></p>
       </p>
     </li>
     <li>
