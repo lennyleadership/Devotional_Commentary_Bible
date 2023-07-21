@@ -73,7 +73,7 @@ toc: true
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Mike Bagwell's Class <br>Hebrews 5:1-5 ... Aaron and Jesus, both High Priests ... but Jesus is far superior!</h2>
+      <h2><b>Mike Badwell</b> | Hebrews 5:1-5 ... Aaron and Jesus, both High Priests ... but Jesus is far superior!</h2>
       <p>
 <iframe width="100%" height = "360" src="https://www.youtube.com/embed/11urR0qbF1w" title="HEBREWS 5:1-5 ... Aaron and Jesus, both High Priests ... but Jesus is far superior!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
@@ -294,7 +294,7 @@ toc: true
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Mike Bagwell's Class <br>Hebrews 5:6-11, "In the days of his flesh!" (A glimpse at Gethsemane)</h2>
+      <h2><b>Mike Badwell</b> | Hebrews 5:6-11, "In the days of his flesh!" (A glimpse at Gethsemane)</h2>
       <p>
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/XOgf_btWgSI" title="HEBREWS 5:6-11, &quot;IN THE DAYS OF HIS FLESH!&quot; (A GLIMPSE AT GETHSEMANE)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>00:01 Let's take our Bibles and go to Hebrews chapter number five. And we will begin at verse number six. Our text tonight will cover verses six through ten. The Lord willing. Hebrews five, six through ten. 
@@ -527,7 +527,7 @@ toc: true
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Mike Bagwell's Class <br>Hebrews 5:11-14, "Seeing ye are dull of hearing" A stern warning! (A Pauline interruption!)</h2>
+      <h2><b>Mike Badwell</b> <| Hebrews 5:11-14, "Seeing ye are dull of hearing" A stern warning! (A Pauline interruption!)</h2>
       <p>
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/exrc0nDzXlM" title="HEBREWS 5:11-14, &quot;SEEING YE ARE DULL OF HEARING,&quot; A STERN WARNING! (A PAULINE INTERRUPTION!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>00:00 Hebrews, chapter five in the word of God. And in this class session we finish that chapter, we will look at the last four verses, God willing. Hebrews 5:11 through 14. Something unusual happens here, Paul, no sooner get started good on the high priesthood of Jesus. 
