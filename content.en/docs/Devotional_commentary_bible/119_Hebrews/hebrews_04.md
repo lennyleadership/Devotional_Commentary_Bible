@@ -78,7 +78,7 @@ toc: true
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2><b>John Piper</b> | Hebrews 4:12-13 | The reason why you sin</h2>
+      <h2><span><b>John Piper</b></span> | Hebrews 4:12-13 | The reason why you sin</h2>
       <p>
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/00iOsHFCrYI" title="Hebrews 4:12-13 | The reason why you sin - John Piper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
