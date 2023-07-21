@@ -86,19 +86,19 @@ toc: true
 <br>
 00:36 It's on page 1423 in the pew Bible. If you're not familiar with where Hebrews is, 1423 hebrews, chapter four, verse twelve. Let's pray and ask God to make his light shine with life changing intensity. 
 <br>
-00:55 Into us as we begin. O Father in heaven, I ask that. Your Word would now come with power. It is living, it is active, it is sharper than a two edged sword. It penetrates and pierces to soul, spirit, joints, marrow, judging the thoughts and attitudes of the heart, would you cause it to have a life changing effect in every heart? 
+00:55 Into us as we begin. O Father in heaven, I ask that your Word would now come with power. It is living, it is active, it is sharper than a two edged sword. It penetrates and pierces to soul, spirit, joints, marrow, judging the thoughts and attitudes of the heart, would you cause it to have a life changing effect in every heart? 
 <br>
-01:38 Let none of us plead with you. Let none of us leave unbelieving. Make us by the power of Your Word. Believers, faith comes by hearing and hearing by the word of God. We want to believe. Father, help our unbelief. 
+01:38 Let none of us, I plead with you, Let none of us leave unbelieving. Make us by the power of Your Word. Believers, faith comes by hearing and hearing by the word of God. We want to believe. Father, help our unbelief. 
 <br>
-02:03 Beget strong faith in your promises among Your people. Banish belief in the lies of sin and cause us to cherish the promises of God. In his name we pray our Lord Jesus Amen. Now, before I read these two verses, I want to read verse eleven and make sure that we understand the connection between verses eleven, which we ended on last week. 
+02:03 Beget strong faith in your promises among Your people. Banish belief in the lies of sin and cause us to cherish the promises of God. In his name we pray our Lord Jesus Amen. Now, before I read these two verses, I want to read verse eleven and make sure that <b>we understand the connection between verses eleven, which we ended on last week. 
 <br>
-02:39 And verse twelve. Verse eleven says, let us therefore be diligent to enter that rest. Now, the rest he's talking about, if you weren't here last week, is the restful salvation of God being forgiven, being welcomed into God's fellowship, and ultimately into heaven when we die. 
+02:39 And verse twelve</b>. Verse eleven says, let us therefore be diligent to enter that rest. Now, <b>the rest</b> he's talking about, if you weren't here last week, is <b>the restful salvation</b> of God being forgiven, being welcomed into <b>God's fellowship, and ultimately into heaven</b> when we die. 
 <br>
-03:03 So be diligent to enter that rest, lest anyone fall through. Following the same example of disobedience. Now, whose example is it talking about? Who's he talking about? Remember, he's talking about the example of the Israelites in the wilderness who didn't enter the rest of God. 
+03:03 So be diligent to enter that rest, lest anyone fall through, following the same example of disobedience. Now, whose example is it talking about? Who's he talking about? Remember, he's talking about the example of the Israelites in the wilderness who didn't enter the rest of God. 
 <br>
-03:29 They fell in the wilderness instead of entering the Promised Land, which was symbolic of the ultimate rest and would have been a wonderful temporal rest. But they didn't enter because of disobedience. 
+03:29 They fell in the wilderness instead of entering the Promised Land, which was <b>symbolic of the ultimate rest</b> and would have been a wonderful temporal rest. But they didn't enter because of disobedience. 
 <br>
-03:41 But what was the essence of the disobedience? Chapter three, verse 19. So we see that they were not able to enter because of unbelief. Unbelief is what kept them out of the rest. Unbelief is the essence of the disobedience. 
+03:41 But what was the essence of the disobedience? Chapter three, verse 19. So we see that they were not able to enter because of unbelief. Unbelief is what kept them out of the rest. <b>Unbelief is the essence of the disobedience</b>. 
 <br>
 04:06 In verse eleven, unbelief in what the answer is given in verse two of chapter four. This is all review from last week. Last Sunday, chapter four. I mean, chapter four, verse two we have had good news preached to us just as they also namely the Israelites had good news preached to them, just as they also but the word they heard, that's what they didn't believe the word. 
 <br>
