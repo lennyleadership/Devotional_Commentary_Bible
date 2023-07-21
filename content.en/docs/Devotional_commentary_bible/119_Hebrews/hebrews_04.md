@@ -112,7 +112,7 @@ toc: true
 <br>
 05:50 Now the link with verse twelve. We've got the word before us from verse two. It was that that they disbelieved it's that that constitutes the disobedience of verse eleven. <b>Now here's the connection. Be diligent with that word so that you don't fail to enter the rest</b>. 
 <br>
-06:14 For the Word of God is living and active. Now just stop there. I know if you have an NIV, the word 'for' is dropped for some inexplicable reason. That's an absolutely crucial connecting word. Here the connection is verse eleven be diligent with the Word to know it, love it, believe it, trust it, rest in it, be satisfied by it lest you become an unbeliever. <a class = "marginnote">There is 'for' in NIV.</a> 
+06:14 For the Word of God is living and active. Now just stop there. I know if you have an NIV, the word 'for' is dropped for some inexplicable reason. That's an absolutely crucial connecting word. Here the connection is verse eleven be diligent with the Word to know it, love it, believe it, trust it, <b>rest in it</b>, be satisfied by it lest you become an unbeliever. <a class = "marginnote">There is 'for' in NIV.</a> 
 <br>
 06:45 And don't enter the rest of God. For the word of God is living and active and sharp and penetrates to the bottom of your life and reveals what's worth trusting and not trusting. Some of you are big picture people and some are little picture people. 
 <br>
@@ -124,7 +124,7 @@ toc: true
 <br>
 07:53 There's a little teeny weeny chip. Missing from the paint on the right hand bar. And she looked at it like this and just spends two minutes just going like this. I said, Grab a lever, do something with it, get the big picture. 
 <br>
-08:14 I'm going to be interesting to watch now, if that just holds true right on through her life. But I'm preaching to people who are somewhere on that continuum between the big picture people and the little picture people, the analytic people and the synthetic people. 
+08:14 I'm going to be interesting to watch now, if that just holds true right on through her life. But I'm preaching to people who are somewhere on that continuum between the big picture people and the little picture people, <b>the analytic people</b> and <b>the synthetic people</b>. 
 <br>
 08:28 And you read the Bible very differently. That's why my preaching does not appeal to everybody, because I tend to be picky. I pick words out and I pull verses apart and I say this word and this word and they fit like this. 
 <br>
