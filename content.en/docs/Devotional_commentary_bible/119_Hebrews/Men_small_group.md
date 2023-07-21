@@ -221,7 +221,6 @@ We got caught by the distraction, it would be easy to become fearful of all the 
 
 
 
-
 <h1 id="header_99"><span class = "overline">misc</span></h1>
 <h2>Discussion #1: What does "in Christ" mean?</h2>
 Analogy: the ark, the shelter, the chicken wings.
