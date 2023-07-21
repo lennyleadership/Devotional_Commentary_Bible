@@ -527,7 +527,7 @@ toc: true
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2><span style="font-weight: bold">Mike Badwell</span> <| Hebrews 5:11-14, "Seeing ye are dull of hearing" A stern warning! (A Pauline interruption!)</h2>
+      <h2><span style="font-weight: bold">Mike Badwell</span> | Hebrews 5:11-14, "Seeing ye are dull of hearing" A stern warning! (A Pauline interruption!)</h2>
       <p>
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/exrc0nDzXlM" title="HEBREWS 5:11-14, &quot;SEEING YE ARE DULL OF HEARING,&quot; A STERN WARNING! (A PAULINE INTERRUPTION!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>00:00 Hebrews, chapter five in the word of God. And in this class session we finish that chapter, we will look at the last four verses, God willing. Hebrews 5:11 through 14. Something unusual happens here, Paul, no sooner get started good on the high priesthood of Jesus. 
