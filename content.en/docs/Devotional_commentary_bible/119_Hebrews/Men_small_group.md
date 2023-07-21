@@ -22,20 +22,21 @@ Participates: Jay O'Connor, Shawn Hewitt, and Lenny Lin. Andrew Plew attended oc
 <div id="toc_container">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
-  <li><a href="#header_1">2023-05-18</a></li>
-  <li><a href="#header_2">2023-05-26</a></li>
-  <li><a href="#header_3">2023-06-01</a></li>
-  <li><a href="#header_4">2023-06-08</a></li>
-  <li><a href="#header_5">2023-06-15</a></li>  
-  <li><a href="#header_6">2023-06-23</a></li>  
-  <li><a href="#header_7">2023-06-30</a></li>
-  <li><a href="#header_7">2023-07-07</a></li>
-  <li><a href="#header_7">2023-07-14</a></li>  
+  <li><a href="#header_01">2023-05-18</a></li>
+  <li><a href="#header_02">2023-05-26</a></li>
+  <li><a href="#header_03">2023-06-01</a></li>
+  <li><a href="#header_04">2023-06-08</a></li>
+  <li><a href="#header_05">2023-06-15</a></li>  
+  <li><a href="#header_06">2023-06-23</a></li>  
+  <li><a href="#header_07">2023-06-30</a></li>
+  <li><a href="#header_08">2023-07-07</a></li>
+  <li><a href="#header_09">2023-07-14</a></li>  
+  <li><a href="#header_10">2023-07-21</a></li>
   <li><a href="#header_99">Misc.</a></li>
 </ul>
 </div>
 
-<h1 id="header_1"><span class = "overline">2023-05-18</span></h1>
+<h1 id="header_01"><span class = "overline">2023-05-18</span></h1>
 Here is the summary.  
 
 God revealed his salvation plan in the OT time.  
@@ -48,13 +49,18 @@ Moses can't be the sacrifice to the Israelite.
 
 Two books: The book of life and the lamb's book of life
 
-<h1 id="header_2"><span class = "overline">2023-05-26</span></h1>
+
+
+
+<h1 id="header_02"><span class = "overline">2023-05-26</span></h1>
 Jay was absent.
 
 Shawn and Lenny watched a couple of YouTube videos on Jehovah's Witnesses so that I can show them something I know about them and care for them.  
 
 
-<h1 id="header_3"><span class = "overline">2023-06-01</span></h1>
+
+
+<h1 id="header_03"><span class = "overline">2023-06-01</span></h1>
 We talked about the meeting with Jehovah's Witnesses
 
 I quoted Acts 17:10-11. Believers at Bera ...
@@ -63,7 +69,10 @@ Jay recommended the Pilgrim's progress.
 
 Shawn and Jay prayed for me with their hands on shoulder.
 
-<h1 id="header_4"><span class = "overline">2023-06-08</span></h1>
+
+
+
+<h1 id="header_04"><span class = "overline">2023-06-08</span></h1>
 The secret of Jesus is not mystery, codes.
 
 Point #1: Prophet
@@ -86,12 +95,14 @@ Shawn's business: trailer delay.
 
 
 
-<h1 id="header_5"><span class = "overline">2023-06-15</span></h1>
+
+<h1 id="header_05"><span class = "overline">2023-06-15</span></h1>
 Lenny took Daisy to house searching and convocation.  Jay took the new fire truck to Beausejour tomorrow for a safety.
 
 
 
-<h1 id="header_6"><span class = "overline">2023-06-23</span></h1>
+
+<h1 id="header_06"><span class = "overline">2023-06-23</span></h1>
 
 Topic: "Faithful" when rubber meets the road
 
@@ -121,7 +132,8 @@ The rod represented the God's presence and God's power.  Who sent you to the Isr
 
 
 
-<h1 id="header_7"><span class = "overline">2023-06-30</span></h1>
+
+<h1 id="header_07"><span class = "overline">2023-06-30</span></h1>
 
 Point #1: Why Jesus is greater than Moses?  
 
@@ -153,17 +165,15 @@ Point #4: the parallelism structure in chapter 3.
 
 
 
-<h1 id="header_7"><span class = "overline">2023-07-07</span></h1>
+
+<h1 id="header_08"><span class = "overline">2023-07-07</span></h1>
 
 My question is, I don't know the connection between 4:12 and 4:11. verse 1-11 talk about entering the rest. verse 12 seems to change the topic talking about the power of God's word.
 
 
 
 
-
-
-
-<h1 id="header_7"><span class = "overline">2023-07-14</span></h1>
+<h1 id="header_09"><span class = "overline">2023-07-14</span></h1>
 Point #1: "I am that I am" can also interpret as "I will be that I will be"
 It is referred to 7 feasts of the Lord by Gideon Levytam.
 
@@ -190,6 +200,23 @@ Encouragement to Shawn for his start-up business. God gives him skills, and will
 <li>Is a throne a platform or a chair?</li>
 <li>Jesus is the passover lamb.  The lamb was observed for 14 days, as the same token, Jesus proved himself blameless for 33 years.</li>
 
+
+
+
+<h1 id="header_10"><span class = "overline">2023-07-21</span></h1>
+Jay went to Alberta with Alex for helping his sister's family moving.  There are Shawn and Lenny.
+
+talk about the word of God (logos and roma).
+
+Listen in God's voice [do you listen Daisy's voice? not vocal voice, but you would image Daisy is speaking to you, you know what she would say to you.  ]
+
+obey the word of God will bring blessing. [Jewish people followed Proverbs 17:17 in Egypt, and population was multiplied.  Jewish were jealous in Egypt and in German in the WWII, all because they follow God's word, and they got blessings]
+
+In launching Shawn's startup pizza business, Shawn experienced support of Ron.  Ron told them that they still can get GST back even they have not launch the business yet.  It is a relief.
+
+Shawn would get mad at the trailer supplier due to their delay.  They ruined his business schedule, and made him miss the golden time.
+
+We got caught by the distraction, it would be easy to become fearful of all the insanity.  No rest.
 
 
 
