@@ -108,11 +108,11 @@ toc: true
 <br>
 05:09 And when they heard it, they said we'd rather go back to Egypt. Thank you. We don't trust you to provide water, to provide food to beat these tall people in the promised land. We just don't believe it. 
 <br>
-05:23 And they fell and they did not enter the promised land. And verse eleven says to us be diligent so that that does not happen to you. Strive to enter God's heavenly rest it by being vigilant not to be unbelievers like they were, not to disbelieve the word or the promises of God. 
+05:23 And they fell and they did not enter the promised land. And verse eleven says to us be diligent so that that does not happen to you. Strive to enter God's heavenly rest by being vigilant not to be unbelievers like they were, not to disbelieve the word or the promises of God. 
 <br>
-05:50 Now the link with verse twelve. We've got the word before us from verse two. It was that that they disbelieved it's that that constitutes the disobedience of verse eleven. Now here's the connection. Be diligent with that word so that you don't fail to enter the rest. 
+05:50 Now the link with verse twelve. We've got the word before us from verse two. It was that that they disbelieved it's that that constitutes the disobedience of verse eleven. <b>Now here's the connection. Be diligent with that word so that you don't fail to enter the rest</b>. 
 <br>
-06:14 For the Word of God is living and active. Now just stop there. I know if you have an NIV the word four is dropped for some inexplicable reason. That's an absolutely crucial connecting word. Here the connection is verse eleven be diligent with the Word to know it, love it, believe it, trust it, rest in it, be satisfied by it lest you become an unbeliever. 
+06:14 For the Word of God is living and active. Now just stop there. I know if you have an NIV, the word 'for' is dropped for some inexplicable reason. That's an absolutely crucial connecting word. Here the connection is verse eleven be diligent with the Word to know it, love it, believe it, trust it, rest in it, be satisfied by it lest you become an unbeliever. <a class = "marginnote">There is 'for' in NIV.</a> 
 <br>
 06:45 And don't enter the rest of God. For the word of God is living and active and sharp and penetrates to the bottom of your life and reveals what's worth trusting and not trusting. Some of you are big picture people and some are little picture people. 
 <br>
