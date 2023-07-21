@@ -78,7 +78,7 @@ toc: true
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2><span><b>John Piper</b></span> | Hebrews 4:12-13 | The reason why you sin</h2>
+      <h2><span style="color:blue; font-weight: bold">John Piper</span> | Hebrews 4:12-13 | The reason why you sin</h2>
       <p>
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/00iOsHFCrYI" title="Hebrews 4:12-13 | The reason why you sin - John Piper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
@@ -100,7 +100,7 @@ toc: true
 <br>
 03:41 But what was the essence of the disobedience? Chapter three, verse 19. So we see that they were not able to enter because of unbelief. Unbelief is what kept them out of the rest. <b>Unbelief is the essence of the disobedience</b>. 
 <br>
-04:06 In verse eleven, unbelief in what the answer is given in verse two of chapter four. This is all review from last week. Last Sunday, chapter four. I mean, chapter four, verse two we have had good news preached to us just as they also namely the Israelites had good news preached to them, just as they also but the word they heard, that's what they didn't believe the word. 
+04:06 In verse eleven, unbelief in what? The answer is given in verse two of chapter four. This is all review from last week. Last Sunday, chapter four. I mean, chapter four, verse two we have had good news preached to us just as they also namely the Israelites had good news preached to them, just as they also but the word they heard, that's what they didn't believe the word. 
 <br>
 04:39 Keep that in your mind, that phrase, the word. Because that's what's coming out in verse twelve in a minute. The word they heard did not profit them because it was not united by faith in those who heard. 
 <br>
