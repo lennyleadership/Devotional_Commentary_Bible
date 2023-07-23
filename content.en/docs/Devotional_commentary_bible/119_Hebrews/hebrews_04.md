@@ -352,7 +352,338 @@ toc: true
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Jesus Calling | June 10 REST</h2>
+      <h2><span style="font-weight: bold">Gary Hamrick</span> | Hebrews 4:1-13</h2>
+      <p>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/cEnlohXIVGo" title="Verse by Verse Bible Study  |  Hebrews 4:1-13  |  Gary Hamrick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+00:10 All right. Hebrews, chapter four is where we are. And if you have been with us for very long, you could probably recite my opening comments. But again, so that we frame the book of Hebrews correctly, there are keywords to understanding this book, and those keywords are better, superior and greater. 
+<br>
+00:27 Better appears eleven times superior, four times greater, seven times. The writer of Hebrews is making the argument throughout the whole letter that Jesus is better, superior and greater than different things or different people because he's writing primarily to Hebrew Christians, so Jewish believers that they would not fall into legalism or laziness and deny the truth of who Jesus is. 
+<br>
+00:52 So he's encouraging know, look, stay true to the faith, don't fall back into legalism, don't get lazy in your faith. So this is an encouraging book really for all of us, because there's a tendency with any of us, we can fall into legalism or laziness and we can lose sight of the race and lose sight of Jesus, who is better, superior, greater than anything and anyone. 
+<br>
+01:19 And this is what the writer of Hebrews is establishing here. And so far we've talked about how he's greater than the prophets. In chapter one, verse one, he begins his letter by saying, in the past, God spoke to our forefathers through the prophets at many times and in various ways. 
+<br>
+01:34 But in these last days, he has spoken to us through His Son, whom he appointed to be heir of all things and through whom he made the universe. And then he adds, just for clarification, so everybody understands, the sun S-O-N is the radiance of God's glory and the exact representation of his being. 
+<br>
+01:52 That is a just, clear and distinct way of saying that Jesus is God. And so that's why he's better than the prophets, because the prophets would communicate the word of God on behalf of God. Jesus is the word of God. 
+<br>
+02:07 He's God in flesh. So that's how he's better than the prophets. We also talked about from chapters one and two, how he's better than the angels. In chapter 114, the writer says, are not all angels ministering spirits sent to serve those who will inherit salvation? 
+<br>
+02:22 Well, okay, that's wonderful. Angels are great. We should never worship them, but they have a specific role. They're ministering spirits to help serve us who will in merit salvation. But Jesus is more than a ministering spirit. 
+<br>
+02:36 He is salvation. And so he's better than angels. Also last week we looked into chapter three, and Jesus is better than the prophet Moses, as good as the prophet Moses was. And this isn't to be disparaging towards him or the angels or the prophets, but Jesus is better than Moses. 
+<br>
+02:53 And in chapter three, verses five and six, we read that Moses was faithful as a servant in all of God's house. But then in verse six, the writer says, but Christ is faithful as a son over God's house. 
+<br>
+03:07 So when you think in terms of family versus a servant in the house, does the son have greater status or the servant? Well, of course the Son does. And so Jesus is greater than Moses, who was a faithful servant, but nevertheless not the same as being the Son. 
+<br>
+03:26 And then we get here into chapter four, and the writer is going to talk about how he's greater than Joshua. Now, he's following a theme here because he's going from Moses to Joshua. Joshua was the successor to Moses. 
+<br>
+03:39 Moses was kind of the mentor for Joshua, and yet Moses finished his term as the leader for Israel. And God then took the rod of Moses and said, it's now to be Joshua's that he would actually take the people into the promised land. 
+<br>
+04:00 And we're going to talk about that because the writer of Hebrews is going to make that historical comparison. This theme between chapter three and chapter four, and I mentioned to you last week, is the theme Rest. 
+<br>
+04:12 You're going to see here in chapter four, as we begin to read this, that the word rest appears eleven times in chapter four. Twice in chapter three. Sorry. Yes. Twice in chapter 311 times in chapter four. 
+<br>
+04:26 A total of 13 times. I had to check my math. Eleven plus two. Yeah, 13. All right. So 13 times between chapters three and four, he's going to use this word rest. He's going to talk about the importance of rest. 
+<br>
+04:39 And so as we get into chapter four here, you'll notice a number of times, and I would encourage you, even if you have a pen or pencil handy or on your electronic device, you can highlight it. Just notice the number of times. 
+<br>
+04:52 Just circle or underline every time the word rest is used. And so here we go. In chapter four. I'll start here in verse one, where he writes this. Therefore, he's building on chapter three, this whole concept of rest. 
+<br>
+05:06 He says, Therefore, since the promise of entering his rest still stands, let us be careful that none of you be found to have fallen short of it. For we also have had the Gospel preached to us just as they did. 
+<br>
+05:21 But the message they heard was of no value to them, because those who heard did not combine it with faith. Now, I'm just going to read down to verse eleven. We'll come back and unpack all this. So, verse three. 
+<br>
+05:34 Now, we who have believed enter that rest. Just as God has said. So I declared on oath in my anger, they shall never enter my rest. And yet his work has been finished since the creation of the world. 
+<br>
+05:49 For somewhere he has spoken about the 7th day in these words. And on the 7th day, God rested from all his work. And again, in the passage above, he says, they shall never enter my rest. It still remains that some will enter that rest and those. 
+<br>
+06:05 Who formerly had the Gospel preached to them did not go in because of their disobedience. Therefore, God again set a certain day calling it today, when a long time later, he spoke through David. As was said before today, if you hear his voice, do not harden your hearts. 
+<br>
+06:23 For if Joshua had given them rest, god would not have spoken later about another day. It. And there remains then a Sabbath rest for the people of God. For anyone who enters god's rest also rests from his own work, just as God did from his. 
+<br>
+06:42 Let us therefore make every effort to enter that rest so that no one will fall by following their example of disobedience. Okay, so there's a lot in here we need to clarify. Talking about their disobedience, who's the there he's referring to? 
+<br>
+06:59 He speaks in the beginning of the chapter of Unbelief, and then all through this chapter, he talks about the word rest. Now, not a trick question, but what is when you survey all of chapter four here, what is the ultimate rest that the writer of Hebrews is speaking of? 
+<br>
+07:18 He's speaking of the ultimate rest that is found in a personal relationship with Jesus that's ultimately where he's going with all of this. He's going to talk here about this ultimate rest that we find in a relationship with Jesus Christ. 
+<br>
+07:35 Now, you'd expect me to say something like I'm about to say as a pastor and even more importantly, as a Christian, but the reality is and there would be people who are non Christians that would just totally disagree with what I'm about to say because they may not be aware of it. 
+<br>
+07:52 But the reality is that without a personal relationship with Jesus, people are restless in this world. They don't have the kind of measured peace and rest. That we have who know Christ, they think they do and they might find their, quote, rest in certain things, but ultimately that rest is fleeting, it is unfulfilling, it is not really satisfying. 
+<br>
+08:19 People in our culture and in our world today have a lack of rest where there is a lack of a relationship with Jesus and therefore they have a lot of anxiety about a lot of things. It we have more people on medication than ever, we have more alcoholics than ever trying to medicate or remedy their worry, their fears, their anxieties and some of it can obviously be legitimate and need treatment. 
+<br>
+08:45 I'm not saying that everybody with anxiety is just messed up, there can be people with legitimate anxieties and fears. But I'm telling you, we bring all of this, all of our messed up, anxious, fearful, broken lives to Jesus and he does a wonderful miraculous thing of mending our hearts and bringing us to a place of rest like nothing and no one else can offer. 
+<br>
+09:10 And people in this world without him don't know what they're missing because the rest that they think that they have is no rest at all. They're worried, they're fearful, they're unsure of the future. 
+<br>
+09:27 And often people are afraid of dying too, because they don't know the Lord. And so therefore they don't have the rest that accompanies the Lord. The last number one song that the Beatles had in the United States was in 1970s and it was The Long and Winding Road. 
+<br>
+09:48 And a lot of people think when they hear that song that it's about unrequited love. That's a love song about some girl who didn't respond in the same loving way that the guys singing the song and. And and but Paul McCartney actually set the record straight as to the meaning behind the song. 
+<br>
+10:07 In a 1994 interview. He discussed its meaning in an interview and he said this quote he says, it's rather a sad song. I won't try to do the British thing. He says, by the way, people have told me I can't tell you how many. 
+<br>
+10:25 I got stopped at a restaurant once and asked if I was related to Paul McCartney. Do I look like Paul McCartney? I don't know. Anyway, now it's for you to go Google, but anyhow, perhaps a younger version of Paul. 
+<br>
+10:40 He's like 70. Like, what are people saying to me? Anyway? He says about The Long and Winding Road quote, it's rather a sad song. He says, I like writing sad songs because you can actually acknowledge some deeper feelings of your own and put them in it. 
+<br>
+10:55 It's a good vehicle. It saves having to go to a psychiatrist. It's a sad song. Listen to what he says, because it's all about the unattainable, the door you never quite reach. This is the road that you never get to the end of, end quote. 
+<br>
+11:09 So he's basically saying here that the song is about a long and winding road in the sense that it's a bleak outlook on life with a lot of twists and turns that end up going nowhere in the middle of the song. 
+<br>
+11:23 The lyrics go like this many times I've been alone and many times I've cried. Listen, this is the song of a lot of people, I'm telling you. Many times I've been alone, many times I've cried. He said the song says anyway you'll never know the many ways I've tried and still they lead me back to the long and Winding Road. 
+<br>
+11:42 It it reflects that road that a lot of people are on. Perhaps some of you find yourselves on that road. Even tonight, you feel like your life is a bunch of twists and turns. You're restless. It's a long road going nowhere fast in 1976. 
+<br>
+12:01 Elvis Presley's last appearance at the Las Vegas Hilton. He went back to his room that night after his performance, and he took a little pad of paper from the hotel that they have there in the hotel rooms at the Las Vegas Hilton, and he scribbled a little prayer to God. 
+<br>
+12:19 And it was later discovered, after he left the room, he had crumpled up the note, threw it in the trash can. It was later discovered and kept by one of his handlers. And then at sotheby's it was sold to Wayne Newton and he bought it. 
+<br>
+12:35 He bought the note and Wayne Newton then wrote a song in 1992 called The Letter. And I'm not going to read the song, but I'm going to read what the note was. This is what Elvis Presley scribbled after his last performance before he died. 
+<br>
+12:50 Quote I feel so alone sometimes the night is quiet for me. I'd love to be able to sleep. I am glad that everyone is gone now. I'll probably not rest. I have no need for all of this. Help me Lord. End quote. 
+<br>
+13:13 And right there in the middle of that note, he says, I'll probably not rest. Now, perhaps he meant physical sleep, like he can't fall asleep. But I think that it describes some other emotional things that he was dealing with and perhaps spiritual things that are pretty similar to what a lot of people deal with. 
+<br>
+13:32 This sense of restlessness, this sense of not really having a peace and a contentment, because without the Lord, we don't have that. So the writer of Hebrews here is communicating to us that this kind of rest comes through this ultimate relationship with Christ, which is really what Jesus talked about in Matthew, chapter eleven. 
+<br>
+13:58 You don't need to turn. Very familiar passage. Matthew 1128 to 30. Jesus said, come to me, all you who are weary. This is his plea to the restless. Come to me, all you who are weary and heavy, burdened people with weighed down by the cares of this life and anxieties and troubles and worries. 
+<br>
+14:17 Come to me, all you who are weary and burdened, and I will give you what rest. And then he says, Take my yoke upon you and learn from me, for gentle and humble in heart and you will find rest for your souls. 
+<br>
+14:30 For my yoke is easy and my burden is light. And again, I mentioned this a couple of Sundays ago when we were in Jeremiah, that it's this agrarian language of being yoked like oxen together. That when we're harnessed with Jesus, that when we're linked with Him, the road is so much better in the journey of life because he takes for us the burdens and he carries for us the cares and the worries and the anxieties of life that make life much more easier to live when we are harnessed to Jesus. 
+<br>
+15:02 And so he's using that language and he says, listen, if you'll just connect your life to mine, you will have a measure of rest like nothing else can provide for you. And so this is what the writer of Hebrews is talking about. 
+<br>
+15:17 Now, the writer of Hebrews is going to use some of their own Jewish history to illustrate the need for a greater rest. And he's going to refer here to lesser rests that people using his own Jewish history did not enter into because of two words he's going to use in chapter three and chapter four, unbelief and disobedience. 
+<br>
+15:44 So he's going to talk about some lesser rest and he's going to compare it to the greater rest of Christ. But his point is you better learn from our own history because. There were some lesser kinds of rests that people could have enjoyed, but they didn't because of their disbelief, their unbelief and their disobedience. 
+<br>
+16:03 And likewise, because of potential unbelief and disobedience, you might miss the greater rest that comes in knowing Christ. So back up here now to the beginning of chapter four and notice with me the first thing he talks about here is this history lesson about the wilderness wanderings. 
+<br>
+16:20 And he's going to refer to the fact that they meaning their forefathers, their ancestors. And this is a carryover from chapter three. In fact, if you just glance back to chapter three for just a minute, go back to chapter three and look at verse verse eight. 
+<br>
+16:41 In chapter three. Verse eight, he says, do not harden your hearts as you did in the rebellion during the time of testing in the desert where your fathers tested and tried me for 40 years and for 40 years saw what I did. 
+<br>
+16:55 Okay, so he's carrying over that theme into chapter four. You can go back to chapter four now when he talks about how in verse two, he says, for we also have had the Gospel preached to us just as they did, but the message they heard was of no value to them because those who heard did not combine it with faith. 
+<br>
+17:19 So here's what he's saying. And it's a little tricky because it says, wait a minute, we had the Gospel preached to us. They had the Gospel preached to them. Well, in the sense that Gospel means good news. 
+<br>
+17:28 Here's what God's good news was for the Hebrew people back in the days of Moses, 1450 BC, when the Hebrew slaves were set free by the providential hand of God, after 400 years of slavery in Egypt, and they were offered by God to go into the Promised Land, they rejected the good news because of their unbelief, because of their disobedience. 
+<br>
+17:54 So God wants to take them out of slavery to the promised land. We're talking about Israel. He wants to take them back to the homeland that he had given to them on oath to their forefathers. But along the way, they just began to complain against God, grumble against God. 
+<br>
+18:08 They were angry with God. They were upset with Moses. They didn't like their conditions. They didn't like the food. They didn't like the whole choice of the water. All we have is water. Can't we have other choices besides water and manna and quail? 
+<br>
+18:23 So they're griping, they're complaining and they're criticizing and they're murmuring, and God's like, I'm done with you. I'm done with you. And you could read the whole account in Numbers, chapter 14, we don't have time to go through the whole thing. 
+<br>
+18:35 But in Numbers, chapter 14, moses intervenes on behalf of the people because they're making God angry because of their ingratitude. And they're murmuring and they're complaining, and Moses intervenes, and he says, God, please don't kill him. 
+<br>
+18:50 Please don't kill him. This is going to make for a bad name among the nations when everybody finds out you just killed the people. And so God basically I'm paraphrasing god basically says, okay, I'll forgive them. 
+<br>
+19:03 I'll forgive them. However, and this is important for us to understand, god still forgives, but we may still have to suffer consequences for our sinful choices. Some people don't like to acknowledge that other side of the coin. 
+<br>
+19:19 They're like, I thought I was forgiven. I thought everything that I did because of my sin should be erased. When God erases my sins, well, the reality is we reap what we sow. And when you sow to the wind, you reap the whirlwind. 
+<br>
+19:32 And so God and God cleanses. And as far as God is concerned, he no longer holds those sins against us and he forgives us as far as the east is from the west. But we may have to deal with some of the fallout because of our sinful choices. 
+<br>
+19:48 And that's no reflection on the lack of God's grace. That's just the reality. We sometimes reap what we sow now, not always. Sometimes God is so gracious that the consequences aren't felt either. But the reality is that sometimes that accompanies our sinful choices. 
+<br>
+20:05 So God says to Moses, I'll forgive the people, but they're not going into the Promised Land. I'll reserve that for their children and for Joshua and Caleb, the only two from that generation who believed God for his promises. 
+<br>
+20:19 So the writer of Hebrews is going to use this as the first example here in chapter four. And he says, don't miss out on Jesus because of unbelief or disobedience. Like the Hebrew people missed out on the Promised Land because of unbelief and disobedience. 
+<br>
+20:36 It was a lesser rest that God promised them. You'll have rest in the promised land It was a lesser rest because when they got there, they still had enemies to fight and giants in the land. They still had some issues. 
+<br>
+20:48 It's an earthly rest, but at least it's better than slavery. It's a lesser rest than Christ, however. And so again, in this greater than superior then comparison through the book of Hebrews, the writer here is saying the Jewish people missed out on a lesser rest. 
+<br>
+21:07 They didn't enter the promised land. They all died in the wilderness. Their bodies were scattered in the desert. Their children went into the Promised Land, but they missed out because of unbelief and disobedience. 
+<br>
+21:17 Don't miss out on the greater rest of Christ and having a relationship with Him because of unbelief or disobedience. So that's the first thing that he talks about here. Then he mixes within this chapter. 
+<br>
+21:29 He's going to go back and forth. He's going to talk about their history of disobedience in the wilderness and then he's going to talk about the Sabbath rest and he's going to come back and talk about the history with Joshua. 
+<br>
+21:40 Okay? But in the middle of this chapter he talks about a rest in verse three. Now, we who have believed. Believed in Jesus entered that rest, the greater rest, just as God has said, so I declared on oath in my anger, they shall never enter my rest. 
+<br>
+21:59 Talking about the Hebrew slaves who were set free because they didn't believe, they didn't enter his rest. Now, I love the next sentence here. Look at the rest of verse three. And yet his work has been finished since the creation of the world. 
+<br>
+22:12 Verse four. For somewhere he has spoken about the 7th day in these words. Now, I have that verse four underlined, and here's why. Because the writer of Hebrew have you ever done this? When you're, like, thinking to yourself, there's a verse somewhere in the Bible. 
+<br>
+22:25 It's somewhere in the Bible. I know it's in there. And it basically says this. That's what the writer of Hebrews is doing here in chapter four. Verse four, he's like, somewhere in the Scriptures, he's spoken about the 7th day in these words. 
+<br>
+22:40 And on the 7th day, God rested from all his work. And he quotes Old Testament Scripture. Your footnotes probably give it to you. It's Genesis two two where God created for six days. This is the Genesis account. 
+<br>
+22:52 7th day, he rested, okay? It's the Sabbath rest. So now he's giving a second example. He's like you remember the promised land? Our forefathers could have entered a rest in the Promised Land, unbelief disobedience. 
+<br>
+23:07 They didn't enter the rest. Now he uses another example. He says, remember when God created the heavens and the earth and animal kingdom and plant kingdom and mankind in six days, all of that creation. 
+<br>
+23:19 On the 7th day, he rested. He rested. Now he's going to make the case that here's another important rest for us, the Sabbath rest. He mentions Sabbath rest by name. Further down in verse nine, there remains then a Sabbath rest for the people of God. 
+<br>
+23:36 And the Sabbath rest was commandment number four. By the way, out of the Ten Commandments. Commandment number four was about honoring the Sabbath day, keeping it holy, because the Sabbath day was intended for us as a day of. 
+<br>
+23:49 Rest. In fact, Jesus said in Mark Two, verse 27, the Sabbath was made for man, not man for the Sabbath. In Mark 227, sabbath was made for the man for man. God actually put within his system of what is most beneficial for us, a Sabbath day of rest. 
+<br>
+24:08 One out of seven. Now, it's not a day in particular. I know some the strict 7th day and his friends, okay, they're going to be know we're sticking with Saturday. The Sabbath is still Saturday, but the Sabbath rest is one out of seven. 
+<br>
+24:24 It's not a particular day. Ever since the early church celebrated the resurrection of Christ on the first day of the week, which is Sunday. It's not Monday, by the way. That's our first day of the work week. 
+<br>
+24:33 The first day of the week is Sunday. Ever since the early church celebrated the resurrection of Christ on Sunday, traditionally then, throughout the book of acts and continuing in church history, the church has gathered on Sunday to celebrate the day of the resurrection of Christ. 
+<br>
+24:48 But technically, Saturday is still the Sabbath. Sundown Friday to sundown Saturday. It's not about a day. The main thing is that God wants us to work within our schedule one out of seven when we're off because we need it. 
+<br>
+25:03 Americans are the most overworked and yet under vacationed people in the modern industrialized world. Statistics bear this out. I have a few for you. We work more hours, but we take less vacation time than any other industrialized nation. 
+<br>
+25:22 And despite all this extra work we're doing, we have lower middle class incomes we did 40 years ago. When adjusted for inflation, americans are working approximately eleven more hours per week now than they did in the 1970s. 
+<br>
+25:38 Yet the average income for middle income families has declined by 13% when adjusted for inflation since the 1970s. On April 6, 1933, the United States Senate passed overwhelmingly a bill that would have made the standard work week. 
+<br>
+25:52 Are you ready for this? In 1933, the Senate got together when they actually agreed about something and said, you know what we should do? We should make the work week 30 hours a week. Wouldn't that be wonderful? 
+<br>
+26:05 30 hours a week. The House of Representatives said, no, we don't like that. There's been gridlock ever since. Friends, politics. You know, Polly from the Greek word people and ticks from the word bloodsuckers. 
+<br>
+26:26 Anyway, it was supposed to be a 30 hours work week, but the bill failed. And five years later, in 1938, the Fair Labor Standards Act passed, giving Americans a statutory 40 hours work week. And yet in the US today check this out 85.8% of men and 66.5% of women work more than 40 hours per week. 
+<br>
+26:55 And we still can't manage to get it all done. As Americans, we pride ourselves on productivity, but at what cost? The US. Centers for Disease Control and Prevention reported that 30% of Americans, or 40.6 million American adults adults are sleep deprived. 
+<br>
+27:15 40.6 million Americans are sleep deprived getting six or less hours of sleep a night compared to the recommended seven to 9 hours per night. It results in on the job accidents, auto accidents, weakened immune system, obesity, other physiological and psychological problems. 
+<br>
+27:31 The point is that God says, I want you to take one out of seven off. I want you to enter a physical rest. And I've said this before. In making this comparison, isn't it something how there are certain mechanisms within appliances that make sure they turn off when they're overheated. 
+<br>
+27:45 But people can't. If you ever got your hairdryer going 90 miles an hour, it eventually be like too hot and shut off if you tip over a space heater. Now, they have that built in that way that it turns off so that when it gets overheated, it won't catch your house on fire. 
+<br>
+28:03 But Americans in Western culture, we don't know how to turn off. We don't know how to enter a Sabbath rest until you have a heart attack and then you're permanently turned off and then hopefully, you know, to Jesus and go to heaven. 
+<br>
+28:15 But anyway, the point is this. He talks here about how God created and then he rested. And then he adds there in verse nine, we need to enter a Sabbath rest. But again, this is all pointing to a greater rest. 
+<br>
+28:31 He says, you remember how in our own history, god promised the Promised Land a lesser rest than the greater rest of knowing Jesus, and still the people disobeyed and through their unbelief, they didn't enter the rest. 
+<br>
+28:47 He says, Remember how God created the heavens and the earth within six days, on the 7th day, he rested. He set an example for us that we should rest. Not that God was tired. He just set an example for us that we should work that into our weekly system to be off. 
+<br>
+29:02 But he says, but listen, the reason that you don't do that is because of disobedience. It's the same factor. And yet his point is even that's a lesser rest. Yes, we need a Sabbath rest because physically and mentally, we need to recharge our batteries. 
+<br>
+29:18 But it's a lesser rest than the ultimate and greater rest, which is Jesus. Then he gets back here to verse eight about Joshua, and he's going to again, move back to this story of Joshua. Now, again, Joshua is the protege of Moses, so he's going to take the lead. 
+<br>
+29:41 God is assigning. The lead to Joshua, and he takes it away from Moses and says, joshua, now you're going to enter the people. Into the Promised you're going to lead them into the promised land. They're going to enter their rest. 
+<br>
+29:53 Now, I want to point this out. Because this is important and this is good to understand in relation to just Old Testament history in general, because if you've ever felt sorry for Moses, and. And I have when you look at. 
+<br>
+30:09 The whole story of Moses and what he had to put up with and just can you imagine? I mean, 40 years of, like, 3 million people complaining and whining, constant, constantly. You think your teenagers are bad. 
+<br>
+30:22 Think 3 million of them for 40 years, constantly just whining about this, whining about that. Why do we have this? Why don't we have that? We go to the pantry. There's nothing in the pantry. There's nothing in the refrigerator. 
+<br>
+30:35 There's nothing in there. And just constantly saying that. I'm sure that doesn't ever happen at your home. But I remember when our kids were growing up, they're like, they're looking at the pantry full of food, like, there's nothing in here to eat. 
+<br>
+30:46 I did it, too. I can remember looking in my refrigerator as a kid growing up like, mom, there's nothing in here. And then what does every mom do? Like, well, they're carrots. Yeah, that's my point. There's nothing to eat. 
+<br>
+30:58 So they're whining and they're complaining. And then in Numbers, chapter 20, there's this moment where God says to Moses, I want you to speak to the rock, and I'm going to gush forth water to supply water for the people. 
+<br>
+31:12 But Moses, in his anger after dealing with them for, like, 40 years, and in his frustration, he's like and so he takes his rod, the staff that he had, and he beating the rock. I mean, he just starts hitting it like, you guys want rocks? 
+<br>
+31:26 I mean, water. Yeah, that's what he wants to give him. You guys want water? All right, I'll give you water. You rebels. And he starts taking his staff. He's just, like, beating the rock, beating the rock. 
+<br>
+31:36 And then water gushes forth. And God says to Moses. Because you have not properly represented me to the people, you will not take them into the Promised Land. His anger got the best of him. He didn't speak to the rock so that God's glory could be demonstrated. 
+<br>
+31:55 He beat the rock. In effect, the visuals of it was almost like he was cracking the rock himself with his staff, and that's why water gushed forth. So he deprived God of his glory in the moment. And God says, Moses, sorry, you're not going to take the people in the Promised Land. 
+<br>
+32:11 And you can read that story. It's in numbers. Chapter 20. You can read that later and you can think to yourself, it's a little harsh, but who am I to judge God by telling him that he's a little harsh? 
+<br>
+32:21 Here's the reality. Moses couldn't take the people in because Moses represents the law. Moses represents the law. He was inspired by God to write the first five books of our Bible genesis, Exodus, Leviticus, Numbers, Deuteronomy, written by inspiration of the Holy Spirit through the pen of Moses, he represents the Law. 
+<br>
+32:47 Joshua would take the people into the Promised Land. Joshua's name in Hebrew is Yahshua, often abbreviated. You know how we call, like, a guy's named Joshua? A lot of times we'll call him Josh. So Yehoshua in Hebrew is often abbreviated yeshua, who also was named yeshua, jesus. 
+<br>
+33:11 Jesus is an Anglicized version of the Hebrew name. His name is given Hebrew name. Jesus'given Hebrew name was Yahshua or yeshua. Joshua, you see, in the Old Testament is a picture of Christ. He's a foreshadowing type of Christ. 
+<br>
+33:35 The reason why Moses couldn't take the people in. Was not just because he was disobedient, he was. But there's a greater picture to the story. God is communicating to all of us that the law will never take you into the rest. 
+<br>
+33:51 We can never work our way to salvation, we can never work our way into the good graces of God, because it's not about works, it's about grace. It's the exercise of our faith because of God's grace towards us. 
+<br>
+34:05 So Joshua is the picture of Christ. He takes the people into the Promised Land, where they will ultimately experience their rest. Because it's grace that leads the way, not the law. So the next time you feel sorry for Moses, just realize the big picture. 
+<br>
+34:21 Because God took care of Moses. God buried Moses and God took him to heaven. And Moses reappears on the mount of transfiguration. So Moses is good to go and for all eternity, he's with the Lord. And we who know Christ shall see Moses one day along with all the other prophets, and it'll be a glorious time. 
+<br>
+34:38 But don't feel sorry for Moses, because the ultimate picture is it's never the Law that takes you in, it's only the grace. It's Yahshua, it's ultimately Jesus who brings us into the greater rest. So the writer of Hebrews is using all this history to paint that whole picture. 
+<br>
+34:57 There are different kinds of rests. Eleven times he uses that word here in chapter three. The rest of the Promised Land, it's a lesser rest. The rest of the Sabbath, it's a lesser rest. The greater rest is that we enter into that relationship with Christ, knowing Him as our Savior. 
+<br>
+35:15 And he adds, there verse eleven again. I'll just read verse eleven again. US, therefore make every effort, every effort to enter that rest, talking about the ultimate rest, so that no one will fall by following their example. 
+<br>
+35:32 Talking about the Jewish people, their forefathers, who didn't set a good example of disobedience. Let me read verses twelve and 13. I'm going to save. Well, next week is our Thanksgiving Eve service. 
+<br>
+35:48 Don't miss that. By the way, we've got some great people lined up for some great stories. But two weeks from tonight I'm going to actually start at verse 14 because it really goes better with chapter five. 
+<br>
+35:58 But let me, for the sake of the remaining time we have, just talk about verses twelve and 13. If you'll notice there in your Bibles verse twelve. For the word of God is living and active, sharper than any double edged sword. 
+<br>
+36:12 It penetrates even to dividing soul and spirit, joints and marrow. It judges the thoughts and attitudes of the heart. Nothing in all creation is hidden from God's sight. Everything is uncovered and laid bare before the eyes of Him to whom we must give an account. 
+<br>
+36:34 I want to focus just a little bit in the five minutes we have left on verse twelve, verse 13. By the way, let me just mention in passing verse 13 can be a little scary, can it? Nothing in all creation is hidden from God's sight. 
+<br>
+36:45 Everything is uncovered and laid bare. Did you ever you know, those of you who grew up in the church, I've asked this question before, but I remember learning. I don't know if it was just my own. I don't know where I picked it up. 
+<br>
+36:54 But I know a lot of other people that have thought this, that on the Day of Judgment everything is laid bare before the eyes of him. And that you're standing with like however many people, thousands, I don't know, hundreds of thousands. 
+<br>
+37:07 Whoever knows who is going to be? And then there's this big jumbatron and they replay your messed up life with all your sins so that everybody can just see everything you've done. And then you go praise God, you're forgiven. 
+<br>
+37:20 And I know lot of people how many of you thought like you're going to get the jumbatron judgment? Let me just see. Yeah, see, I know there's a lot of people forget it. Forget it. Everything is laid bare before the eyes of Him to whom we must give an account because this is what that verse means. 
+<br>
+37:35 Nothing is secret to God. He sees everything. He knows everything. We don't get by with anything because God sees it all and knows it all. So for that reason alone, we should walk circumspectly before God, humbly, contrite, and always quick to ask for forgiveness when we've sinned against Him. 
+<br>
+37:55 But he's not going to replay all that. And the reason he's not going to replay all that is because he forgives our sins as far as the east is from the west, and he remembers our sins no more. Meaning it's not that he's forgetful, but he no longer holds our sins against us. 
+<br>
+38:09 One Peter four, verse eight says that love covers over a multitude of sins. Do you know there's a difference between covering up your sin and covering over your sin? When we cover up our sin, God cannot cover over our sin. 
+<br>
+38:26 You read Psalm 32. I encourage you to go home later. Read Psalm 32. It's one of the penitent psalms of David, and it might have been one that he wrote after he was caught related to his adultery with Bathsheba. 
+<br>
+38:37 But Psalm 32 is a very contrite psalm that David writes and he talks about how he does not cover up his sin and he confessed it before God and then God forgave him of his iniquity, forgave him of his sin. 
+<br>
+38:50 You see, when we don't cover up, god covers over by his blood and forgives our sins. But verse twelve, we'll close on this. I just want to bullet point a couple of things that are important about the Bible. 
+<br>
+39:06 And I leave you with this because there are five different ways that the Bible is compared to different things that are beneficial to our lives. The first one is found right here in Hebrews 412. The Bible is compared to a double edged sword. 
+<br>
+39:23 And he talks about how this double edged sword penetrates dividing soul and spirit, joints and marrow, judging thoughts and attitudes of the heart. And one of the benefits of the Bible is that it serves to be like a double edged sword that cuts me open and convicts me. 
+<br>
+39:41 When you read your Bibles, allow it to speak to your heart and sometimes it'll be very encouraging and other times it'll be very convicting. Don't just read it for the encouragement. Also read it for the times that God will speak to you about the things that he wants to cut out of our hearts and of our lives because he will use the Bible to convict us and surgically like a two edged sword, cutting us open, convicting us and dealing with the sins of our lives. 
+<br>
+40:11 Even the attitudes he says there, it's not just what we do, it's sometimes even just the attitudes of our heart, just bad attitudes, things that we think and the way that we have these wrong attitudes toward Him and towards others. 
+<br>
+40:24 And so the Bible is good in that regard and so he compares it to a double edged sword. But I want to give you four other quick references to other things the Bible is compared to in Psalm 119. Bible is compared to a lamp unto my feet and a light into my path that guides me. 
+<br>
+40:41 That verse says, Your Word is a lamp to my feet and a light for my path. You can get guidance from God through the pages of His Word. Let it speak to you. Let it help to give you guidance and wisdom. 
+<br>
+40:57 In Jeremiah 23 29, the Bible is compared to fire that refines me and a hammer that breaks up the hard places of my heart. That verse says, this is not my Word. Like fire, declares the Lord, and like a hammer that breaks a rock in pieces. 
+<br>
+41:17 You know, when fire is used to purify precious metal, the intensity of the heat causes the dross, the impurities to float to the surface that it might be skimmed off. And there's this. Fire effect of God's Word when we read our Bibles, it kind of like brings the junk of our lives to the top so that God can deal with those things. 
+<br>
+41:42 And there are other times where the Bible is like a hammer because we can get hard hearts about stuff, but when we read the Bible, it tenderizes us. And like a hammer, it breaks up the hard places of our heart. 
+<br>
+41:53 Two more things real quickly. It's also compared to water in Ephesians 526 that washes away the impurities of my heart. Paul wrote this in Ephesians 525 husbands, love your wives, just as Christ loved the church and gave himself up for her. 
+<br>
+42:09 Verse 26 to make her holy, cleansing her by the washing with water through the Word. And so there's this cleansing effect, this purifying thing, it just washes over us. Many of you, I know you understand what I'm talking about. 
+<br>
+42:26 You can read your Bibles and it just has this cleansing effect, like, oh, thank you Lord, for your grace and your forgiveness, and how when I read your Word, it just washes over the impurities of my mind and my heart and my life. 
+<br>
+42:39 And then finally, last one, the Bible is compared to pure spiritual milk that nourishes me and helps me to grow in one. Peter two two. It says, like newborn babies crave pure spiritual milk so that by it you may grow up in your salvation. 
+<br>
+42:57 And so it helps to mature us. We read our Bibles, we grow in our faith, in the grace and knowledge of Jesus Christ, and it helps to nourish us and to mature us in our lives. We'll pick it up there in two weeks. 
+<br>
+43:11 Again, like I said, next week is going to be a great night together, celebrating with thanksgiving what the Lord has done in the lives of many people. And so we're going to give testimony next week and just have a time of worship and thanksgiving. 
+<br>
+43:23 Don't miss it. Bring your family and friends if they're here in the area, for maybe they're visiting. For Thanksgiving. It'll be a special time. Always an encouraging time and a special little treat. 
+<br>
+43:34 I don't want to be too much of a spoiler, but I sat down with some children and we talked about Thanksgiving. We're going to show you that video too. So it'll be a special time. Let's pray together. Lord, thank you for Your word, how it penetrates like a two edged sword, divide soul from spirit, joints and marrow, even dealing with the attitudes of our hearts. 
+<br>
+44:00 Thank You, Lord, for the greater rest that we have in knowing Christ, a rest and a peace and a comfort that we can't find in this world that comes through you. Lord, thank you for Your peace that passes all understanding to guard our hearts and our minds in Christ Jesus. 
+<br>
+44:22 Thank you that when we are harnessed to you, when we are yoked to you, that we can find rest for our souls. Your burden is easy and light. And we thank You, Lord, for Your wonderful care and Your comfort and Your encouragement in our lives. 
+<br>
+44:46 And we give you praise and glory and honor and thanks in Jesus name. And everybody said Amen.
+      </p>
+    </li>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2><span style="font-weight: bold">Jesus Calling</span> | June 10 REST</h2>
       <p>Below is from a very different perspective.  We donot need to work out but pray only.  I think it could be problematic.
       <br><br><img width = "540" src = "/docs/images/jesus_calling_june_10_rest_in_me.jpg"/>
       </p>
