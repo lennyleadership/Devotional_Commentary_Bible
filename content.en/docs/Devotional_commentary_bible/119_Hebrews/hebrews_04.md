@@ -632,7 +632,7 @@ toc: true
 <br>
 37:55 But he's not going to replay all that. And the reason he's not going to replay all that is because he forgives our sins as far as the east is from the west, and he remembers our sins no more. Meaning it's not that he's forgetful, but he no longer holds our sins against us. 
 <br>
-38:09 One Peter four, verse eight says that love covers over a multitude of sins. Do you know there's a difference between covering up your sin and covering over your sin? When we cover up our sin, God cannot cover over our sin. 
+38:09 One Peter four, verse eight says that love covers over a multitude of sins. <b>Do you know there's a difference between covering up your sin and covering over your sin?</b> When we cover up our sin, God cannot cover over our sin. 
 <br>
 38:26 You read Psalm 32. I encourage you to go home later. Read Psalm 32. It's one of the penitent psalms of David, and it might have been one that he wrote after he was caught related to his adultery with Bathsheba. 
 <br>
