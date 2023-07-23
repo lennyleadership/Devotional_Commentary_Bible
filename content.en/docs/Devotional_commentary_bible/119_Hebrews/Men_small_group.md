@@ -200,7 +200,7 @@ Encouragement to Shawn for his start-up business. God gives him skills, and will
 <li>Is a throne a platform or a chair?</li>
 <li>Jesus is the passover lamb.  The lamb was observed for 14 days, as the same token, Jesus proved himself blameless for 33 years.</li>
 
-
+Jesus is invaluable, worthy of all the world.  (poor Isaeriltes families shared one lamb.)
 
 
 <h1 id="header_10"><span class = "overline">2023-07-21</span></h1>
@@ -217,6 +217,8 @@ In launching Shawn's startup pizza business, Shawn experienced support of Ron.  
 Shawn would get mad at the trailer supplier due to their delay.  They ruined his business schedule, and made him miss the golden time.
 
 We got caught by the distraction, it would be easy to become fearful of all the insanity.  No rest.
+
+Shawn: the church supposes to be like that, brothers are born for adversity.  However, believers stab others, ... many sins.
 
 
 
