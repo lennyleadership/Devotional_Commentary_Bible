@@ -41,7 +41,7 @@ toc: true
 4:11 Let us labour therefore to <b>enter into that rest</b>, lest any man fall after the same example of unbelief.  
 4:12 For <b>the word of God</b> is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart. <a class ="marginnote">v12: Hebrews 2:1 give the more earnest heed to the things which we have heard</a>  
 4:13 Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.  
-4:14 Seeing then that we have <b>a great high priest</b>, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession. <a class ="marginnote">v14: 1Pt 5:4 the chief Shepherd / <b>C</b>hief Shepherd (NASV 2000)</a>  
+4:14 Seeing then that we have <b>a great high priest</b>, that is passed into the heavens, Jesus the Son of God, let us <b>hold fast our profession</b>. <a class ="marginnote">v14: 1Pt 5:4 the chief Shepherd / <b>C</b>hief Shepherd (NASV 2000)</a>  
 4:15 For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.  
 
 4:16 Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.  
@@ -65,7 +65,7 @@ toc: true
 4:11 所以我们务必竭力进入那安息、免得有人学那不信从的样子跌倒了。  
 4:12 　神的道是活泼的、是有功效的、比一切两刃的剑更快、甚至魂与灵、骨节与骨髓、都能刺入剖开、连心中的思念和主意、都能辨明。  
 4:13 并且被造的、没有一样在他面前不显然的。原来万物、在那与我们有关系的主眼前、都是赤露敞开的。  
-4:14 我们既然有一位已经升入高天尊荣的大祭司、就是　神的儿子耶稣、便当持定所承认的道。  
+4:14 我们既然有一位已经升入高天尊荣的大祭司、就是　神的儿子耶稣、便当<b>持定所承认的道</b>。<a class = "marginnote">Hebrews 2:1 郑重所听的道</a>  
 4:15 因我们的大祭司、并非不能体恤我们的软弱。他也曾凡事受过试探、与我们一样。只是他没有犯罪。  
  
 4:16 所以我们只管坦然无惧的、来到施恩的宝座前、为要得怜恤、蒙恩惠作随时的帮助。  
