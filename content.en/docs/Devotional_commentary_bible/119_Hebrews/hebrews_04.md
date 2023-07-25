@@ -39,7 +39,7 @@ toc: true
 4:10 For he that is <b>entered into his rest</b>, he also hath ceased from his own works, as God did from his.  
 
 4:11 Let us labour therefore to <b>enter into that rest</b>, lest any man fall after the same example of unbelief.  
-4:12 For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.  
+4:12 For <b>the word of God</b> is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart. <a class ="marginnote">v12: Hebrews 2:1 give the more earnest heed to the things which we have heard</a>  
 4:13 Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.  
 4:14 Seeing then that we have <b>a great high priest</b>, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession. <a class ="marginnote">v14: 1Pt 5:4 the chief Shepherd / <b>C</b>hief Shepherd (NASV 2000)</a>  
 4:15 For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.  
@@ -358,7 +358,7 @@ toc: true
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/cEnlohXIVGo" title="Verse by Verse Bible Study  |  Hebrews 4:1-13  |  Gary Hamrick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 00:10 All right. Hebrews, chapter four is where we are. And if you have been with us for very long, you could probably recite my opening comments. But again, so that we frame the book of Hebrews correctly, there are keywords to understanding this book, and those keywords are better, superior and greater. 
 <br>
-00:27 Better appears eleven times superior, four times greater, seven times. The writer of Hebrews is making the argument throughout the whole letter that Jesus is better, superior and greater than different things or different people because he's writing primarily to Hebrew Christians, so Jewish believers that they would not fall into legalism or laziness and deny the truth of who Jesus is. 
+00:27 Better appears eleven times, superior four times, greater seven times. The writer of Hebrews is making the argument throughout the whole letter that Jesus is better, superior and greater than different things or different people because he's writing primarily to Hebrew Christians, so Jewish believers that <b>they would not fall into legalism or laziness and deny the truth of who Jesus is</b>. 
 <br>
 00:52 So he's encouraging know, look, stay true to the faith, don't fall back into legalism, don't get lazy in your faith. So this is an encouraging book really for all of us, because there's a tendency with any of us, we can fall into legalism or laziness and we can lose sight of the race and lose sight of Jesus, who is better, superior, greater than anything and anyone. 
 <br>
@@ -689,11 +689,7 @@ toc: true
       <br><br><img width = "540" src = "/docs/images/jesus_calling_june_10_rest_in_me.jpg"/>
       </p>
     </li>
-    
-    
-    
-    
-    
+
   </ul>
   
 <style>

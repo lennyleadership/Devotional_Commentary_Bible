@@ -25,7 +25,7 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-2:1 Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.  
+2:1 Therefore we ought to <b>give the more earnest heed to the things which we have heard</b>, lest at any time we should let them slip.  
 2:2 For if <a class = "blue">the word spoken by angels</a> was stedfast, and every transgression and disobedience received a just recompence of reward; <a class ="marginnote">verse 2: stedfast is in KJV, steadfast is in other translations.<br> Angels are God's messengers who spoke[NASB, NKJV]/ delivered[NLT]/ declared[ESV]  God's words. <br>~<br></a>   
 2:3 How shall we escape, if we neglect so great <u class = "red">salvation</u>; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him; [Romans 1:20 ESV, Romans 1:20 NLT, Romans 1:20 KJV, Romans 1:20 hlybblsmpshndtn] <a class ="marginnote">verse 3: It echoes Hebrews 1:1. <br>God revealed himself and salvation to us. There is no excuse that human being can neglect the salvation. No one. It is hard to believe that God spoke the salvation to some, and did not speak to others. Therefore, it implies predestination is wrong. <br>~~~<br></a>   
 2:4 God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?  
@@ -57,7 +57,7 @@ toc: true
 
 <div id="chinese" class="tabcontent">
 
-2:1 所以我们当越发郑重所听见的道理、恐怕我们随流失去。  
+2:1 所以我们当<b>越发郑重所听见的道理</b>、恐怕我们随流失去。  
 2:2 那借着天使所传的话、既是确定的、凡干犯悖逆的、都受了该受的报应。  
 2:3 我们若忽略这么大的救恩、怎能逃罪呢。这救恩起先是主亲自讲的、后来是听见的人给我们证实了。  
 2:4 　神又按自己的旨意、用神迹奇事、和百般的异能、并圣灵的恩赐、同他们作见证。  
