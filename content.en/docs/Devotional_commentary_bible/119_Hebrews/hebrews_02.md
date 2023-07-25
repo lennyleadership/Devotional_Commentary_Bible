@@ -3,7 +3,7 @@ weight: 2
 title: Hebrews 02
 authors: Lenny
 categories: null
-tags: [Angels-messengers, Jesus titles, Predestination, Jesus is the High Priest and the Sacrifice, Perfect]
+tags: [Angels-messengers, Jesus titles, Predestination, Jesus is the High Priest and the Sacrifice, Perfect, Word]
 description: 
 draft: false
 date: "2023-03-12"

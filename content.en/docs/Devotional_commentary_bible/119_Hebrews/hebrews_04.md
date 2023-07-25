@@ -3,7 +3,7 @@ weight: 4
 title: Hebrews 04
 authors: Lenny
 categories: null
-tags: [Collapsible text demo]
+tags: [Collapsible text demo, Word]
 description: 
 draft: false
 date: "2023-03-12"
@@ -27,7 +27,7 @@ toc: true
 <div id="english" class="tabcontent" style="display:block">
 
 4:1 Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.  
-4:2 For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.  
+4:2 For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it. <a class = "marginnote">v2: it seems to me there is a theme, <b>the word of God</b>, running through the first four chapters.</a>  
 4:3 For we which have believed do <b>enter into rest</b>, as he said, As I have sworn in my wrath, if they shall <b>enter into my rest</b>: although the works were finished from the foundation of the world.  
 4:4 For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.  
 4:5 And in this place again, If they shall <b>enter into my rest</b>.  

@@ -4,7 +4,7 @@ title: Hebrews 03
 authors: Lenny
 categories: null
 series:
-tags: [Literacy device, Parallelism structure]
+tags: [Literacy device, Parallelism structure, Word]
 description: 
 draft: false
 date: "2023-03-12"
@@ -33,7 +33,7 @@ toc: true
 3:5 And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;  
 
 3:6 But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.  
-3:7 Wherefore (as the Holy Ghost saith, To day if ye will hear his voice, <a id="1_ref" href = "#1">[1]</a>  
+3:7 Wherefore (as the Holy Ghost saith, To day if ye will hear his voice, <a id="1_ref" href = "#1">[1]</a> <a class ="marginnote">v7: the theme "Word".</a>  
 3:8 <b>Harden not your hearts, as in the provocation</b>, in the day of temptation in the wilderness:  
 3:9 When your fathers tempted me, proved me, and saw my works forty years.  
 3:10 Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.  
