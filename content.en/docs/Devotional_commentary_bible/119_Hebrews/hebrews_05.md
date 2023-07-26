@@ -34,7 +34,7 @@ toc: true
 
 5:6 As he saith also in another place, Thou art a priest for ever after the order of Melchisedec.  
 5:7 Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;  
-5:8 Though he were a Son, yet learned he obedience by the things which he suffered;  
+5:8 Though he were a Son, yet <b>learned</b> he obedience by the things which he suffered; <a class = "marginnote">v8: why did Jesus need to learn?</a>  
 5:9 And being made perfect, he became the author of eternal salvation unto all them that obey him;  
 5:10 Called of God an high priest after the order of Melchisedec.  
 
@@ -47,7 +47,7 @@ toc: true
 
 <div id="chinese" class="tabcontent">
 
-5:1 凡从人间挑选的大祭司、是奉派替人办理属　神的事、为要献上礼物、和赎罪祭。〔或作要为罪献上礼物和祭物〕
+5:1 凡从人间挑选的大祭司、是奉派替人办理属　神的事、为要献上礼物、和赎罪祭。〔或作要为罪献上礼物和祭物〕  
 5:2 他能体谅那愚蒙的、和失迷的人、因为他自己也是被软弱所困。  
 5:3 故此他理当为百姓和自己献祭赎罪。  
 5:4 这大祭司的尊荣、没有人自取、惟要蒙　神所召、像亚伦一样。  
@@ -55,7 +55,7 @@ toc: true
  
 5:6 就如经上又有一处说、『你是照着麦基洗德的等次永远为祭司。』  
 5:7 基督在肉体的时候、既大声哀哭、流泪祷告恳求那能救他免死的主、就因他的虔诚、蒙了应允。  
-5:8 他虽然为儿子、还是因所受的苦难学了顺从。  
+5:8 他虽然为儿子、还是因所受的苦难<b>学</b>了顺从。<a class = "marginnote">v8: 耶稣需要学吗？</a>  
 5:9 他既得以完全、就为凡顺从他的人、成了永远得救的根源。  
 5:10 并蒙　神照着麦基洗德的等次称他为大祭司。  
  
