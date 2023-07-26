@@ -1272,15 +1272,7 @@ Date: 2023-07-19
 
 <figure>
   <img width = "720" src = "/docs/images/meaning_of_hebrews.gif"/>
-  <figcaption class = "bottom">亚伯兰的故事</figcaption>
-</figure>
-
-
-<figure>
-  <img width = "720" src = "/docs/images/two_river_culture.jpg"/>
-  <figcaption class = "bottom"><a href = "https://www.sohu.com/a/151213522_714433" target="_blank" rel="noopener noreferrer">参考 | 两河文明在今日世界的坐标</a></figcaption>
-</figure>
-
+  <figcaption class = "bottom"><a href = "http://www.jonahome.net/files03/shengjing1/zonglun/ditu.htm" target="_blank" rel="noopener noreferrer">约拿之家 | 族长时代的迁徙地图</a>
 <ol>
 <li>创 11:27~12:9 亚伯兰离开吾珥去哈兰，再去迦南。</li>
 <li>创 12:10~13:3 亚伯拉罕去埃及再回迦南。</li>
@@ -1295,11 +1287,18 @@ Date: 2023-07-19
 <li>创 46:1~47:12 雅各全家到埃及，受法老的厚待。
   <br>创 47:27 以色列人住在埃及的歌珊地，他们在那里置了产业，并且生养众多。</li>
 <li>创 50 章 雅各遗体运回希伯仑。</li>
-</ol>
+</ol></figcaption>
+</figure>
+
+
+<figure>
+  <img width = "720" src = "/docs/images/two_river_culture.jpg"/>
+  <figcaption class = "bottom"><a href = "https://www.sohu.com/a/151213522_714433" target="_blank" rel="noopener noreferrer">参考 | 两河文明在今日世界的坐标</a></figcaption>
+</figure>
 
 
 
-Reference: <a href = "http://www.jonahome.net/files03/shengjing1/zonglun/ditu.htm" target="_blank" rel="noopener noreferrer">约拿之家 | 族长时代的迁徙地图</a>
+
 
 
 <h1><span class = "overline">第一章</span></h1>
