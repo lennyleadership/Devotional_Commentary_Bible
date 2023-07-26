@@ -1116,4 +1116,238 @@ And he said, The Lord came from Sinai, and rose up from Seir unto them; he shine
 </table>
 
 
+<div class="scroll-container">
+    <a href="#header_1" >To Table 1</a>
+</div>
+
+<h2 id = "header_2">Moses did different things</h2>
+
+约翰福音 1:17
+律法本是藉着摩西传的；恩典和真理都是由耶稣基督来的。
+
+使徒行传 7:37
+那曾对以色列人说‘神要从你们弟兄中间给你们兴起一位先知像我’的，就是这[*摩西]位摩西。
+
+‪使徒行传‬13:16-43
+<br>‪23 从这人的后裔中，　神已经照着所应许的，为以色列人<b>立了一位救主</b>，就是耶稣。……
+<br>26 “弟兄们，亚伯拉罕的子孙和你们中间敬畏　神的人哪，这<b>救世的道</b>是传给我们的。
+<br>27 耶路撒冷居住的人和他们的官长，因为不认识基督，也不明白每安息日所读<b>众先知的书</b>，就把基督定了死罪，正应了先知的预言；
+‪38 所以，弟兄们，你们当晓得：赦罪的道是由这人传给你们的。
+‪39 你们靠摩西的律法，在一切不得称义的事上信靠这人，就都得称义了。
+<br>注：旧约书卷里早已提到耶稣
+
+使徒行传 21:21
+他们听见人说，你教训一切在外邦的犹太人离弃摩西，对他们说，不要给孩子行割礼，也不要遵行条规。
+<br>注：这是保罗对割礼、条规的态度。NLT的译本却说要守摩西的律法。
+
+使徒行传 26:22
+然而我蒙神的帮助，直到今日还站得住，对着尊贵、卑贱、老幼作见证；所讲的并不外乎众先知和摩西所说将来必成的事，
+
+使徒行传 28:23
+他们和保罗约定了日子，就有许多人到他的寓处来。保罗从早到晚，对他们讲论这事，证明神国的道，引摩西的律法和先知的书，以耶稣的事劝勉他们。
+
+罗马书 5:14
+然而从亚当到摩西，死就作了王，连那些不与亚当犯一样罪过的，也在他的权下。亚当乃是那以后要来之人的<a class ="red">预像</a>。
+
+罗马书 10:5
+摩西写着说：“人若行那出于律法的义，就必因此活着。”
+
+哥林多前书 10:2
+都在云里、海里受洗归了摩西；
+
+哥林多后书 3:15
+然而直到今日，每逢诵读摩西书的时候，帕子还在他们心上。
+
+希伯来书 9:19-21
+<br>因为摩西当日照着律法将各样诫命传给众百姓，就拿朱红色绒和牛膝草，把牛犊山羊的血和水洒在书上，又洒在众百姓身上，说：
+<br>“这血就是神与你们立约的凭据。”
+<br>他又照样把血洒在帐幕和各样器皿上。
+
+启示录 15:3
+唱神仆人摩西的歌和羔羊的歌，说：“主神，全能者啊，你的作为大哉！奇哉！万世之王啊，你的道途义哉！诚哉！[*摩西的歌和羔羊的歌]
+
+God used Moses to reveal His will in future
+
+
+
+
+
+<h2 id = "header_3">In what ways was Moses like Jesus?</h2>
+In one of Moses’ final speeches, he gave this messianic prophecy: “The Lord your God will raise up for you a prophet like me from among you, from your fellow Israelites. You must listen to him” (Deuteronomy 18:15). The prophet whom Moses foretells bears these qualities: He will be raised up by God, He will come from among the Israelites, He will be like Moses, and He will be worthy of being heard and obeyed. The prophet who fulfills these words is Jesus Christ, the prophet like Moses.
+
+On the banks of the Jordan River, the Jews questioned John the Baptist about who he was and why he was baptizing. Their question “Are you the Prophet?” (John 1:21) shows that they were looking for the fulfillment of Moses’ prophecy. John plainly informed them that he was not the Prophet but pointed them to the One who was: “Among you stands one you do not know. He is the one who comes after me, the straps of whose sandals I am not worthy to untie” (verses 26–27). John’s description of the Messiah as one “among you” recalls Moses’ prediction that God would raise up the Prophet “from among you” in Deuteronomy 18:15. The very next day, John specifically identifies Jesus as the One they were waiting for (John 1:29–31).
+
+In his sermon at the temple, Peter affirms that Jesus is the prophet like Moses (Acts 3:22, quoting Deuteronomy 18:15). Stephen, addressing the Sanhedrin in Acts 7:37, also quotes Moses and applies the prophecy to Jesus Christ.
+
+Jesus is like Moses in several ways. Moses was both a prophet and a lawgiver, and Jesus is, too. Jesus was widely recognized as a prophet who spoke the Word of God (Matthew 21:46), and He gave commandments for His followers to obey (John 13:34; 15:12, 17; Galatians 6:2). Both Moses and Jesus mediated a covenant between God and men—Moses the Old Covenant (Exodus 34:27; Acts 7:44), and Jesus the New (Luke 22:20; Hebrews 9:15). Both Moses and Jesus were born during perilous times, and both narrowly escaped a king bent on murdering babies (Exodus 1:22 and Matthew 2:16–18). Both Moses and Jesus had a connection to Egypt (Exodus 2:1–4 and Matthew 2:13–14). Moses was the (adopted) son of a king (Exodus 2:10), and Jesus is the Son of the Most High (Luke 1:32). Moses spent forty years as a shepherd (Exodus 3:1), and Jesus is the Good Shepherd (John 10:11, 14). Both Moses and Jesus were known for their meekness (Numbers 12:3 and Matthew 11:29).
+
+Moses and Jesus were alike in that they both led God’s people out of captivity. With great power, Moses led the Israelites out of physical bondage and slavery in Egypt, and Jesus, with even greater power, led God’s elect out of spiritual bondage and slavery to sin. Moses stood before Pharaoh and said, “'Let my people go” (Exodus 5:1). Jesus came “to proclaim freedom for the prisoners and . . . to set the oppressed free” (Luke 4:18). “In Christ Jesus the law of the Spirit of life has set you free from the law of sin and death” (Romans 8:2).
+
+Moses was also like Jesus in that he performed miracles—not all prophets did. Several of the miracles of Moses bear a resemblance to Jesus’ miracles, most notably the provision of bread in the wilderness (Exodus 16:35), which is comparable to Jesus’ feeding of the 5,000 (John 6:1–13). In fact, after Jesus multiplied the loaves and fishes, the people’s thoughts ran immediately to Moses’ prophecy: “After the people saw the sign Jesus performed, they began to say, ‘Surely this is the Prophet who is to come into the world’” (John 6:14).
+
+Another way that Moses was like Jesus is that <b>he held intimate conversations with God</b>: “The LORD would speak to Moses face to face, as one speaks to a friend” (Exodus 33:11). Jesus also had a special relationship to God: “No one knows the Son except the Father, and no one knows the Father except the Son” (Matthew 11:27); “The Father knows me and I know the Father” (John 10:15). When Moses stood in God’s presence, his face shone with a heavenly glory and had to be covered with a veil (Exodus 34:29–35), and this reminds us of Jesus’ transfiguration, when “His face shone like the sun” (Matthew 17:2).
+
+Another important way that Moses was like Jesus is that <b>he constantly interceded for his people</b>. When the Israelites sinned, Moses was always standing by, ready to petition God on their behalf and plead for their forgiveness. After the blatant idolatry at the foot of Mt. Sinai involving the golden calf, Moses interceded twice for the people (Exodus 32:11–13, 30–32), and his intercession was needed at other times, too (e.g., Numbers 11:2; 12:13; 21:7). Moses’ intercession was temporary, but our Lord’s is everlasting. “If anybody does sin, we have an advocate with the Father—Jesus Christ, the Righteous One” (1 John 2:1). Jesus is right now “at the right hand of God and is also interceding for us” (Romans 8:34). Jesus “always lives to intercede” for us (Hebrews 7:25).
+
+Not only was Moses an intercessor for God’s people but, like Jesus, <b>he was willing to die for them</b>. In Exodus 32:32, Moses offers his life in exchange for sinners. “Greater love has no one than this: to lay down one’s life for one’s friends,” Jesus said (John 15:13), and Jesus proved His love when He “laid down his life for us” (1 John 3:16; cf. John 10:15).
+
+<b>Reference</b>: <a href = "https://www.gotquestions.org/Moses-and-Jesus.html" target="_blank" rel="noopener noreferrer">Got Questions | In what ways was Moses like Jesus?</a>
+
+
+
+
+<h2 id = "header_4">Comparison</h2>
+Could we see Jesus in Moses?
+
+performed miracles
+Moses was a prophet, priest
+
+<table>
+  <caption style="text-align:left", align = "top"><b>Table 2: Bible verses on Moses</b></caption>
+  <colgroup>
+    <col style="width: 20%" /><col style="width: 40%" /><col style="width: 40%" />
+  </colgroup>
+  <thead style="text-align:left">
+    <tr>
+      <th><p>Comparison</p></th>
+      <th><p>Moses</p></th>
+      <th><p>Jesus</p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p>
+God's plan
+</p></td>
+      <td><p>
+yes, Moses was the role in God's plan. <br> God heard Israelites' complains on hard-working, and answered their prayers by preparing Moses.  God did not take a proactive action.
+</p></td>
+      <td><p>
+yes, Jesus was the role in God's plan. <br> Human being do not complain about sin. God voluntarily prepared Jesus.
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+Prophet
+</p></td>
+      <td><p>
+Moses was a prophet.
+</p></td>
+      <td><p>
+Jesus was a prophet.<br>[Acts 3:22, Deuteronomy 18:15, Matthew 21:46]
+</p></td>
+    </tr>    
+    <tr>
+      <td><p>
+Priest      
+</p></td>
+      <td><p>
+Moses was a high priest
+</p></td>
+      <td><p>
+Jesus was a High Priest.
+</p></td>
+    </tr> 
+    <tr>
+      <td><p>
+Savior
+</p></td>
+      <td><p>
+Moses took the Israelites out of Egypt from slavery
+</p></td>
+      <td><p>
+Jesus saved human beings out of sin.
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+Sinful Nature
+</p></td>
+      <td><p>
+Moses struck the rock at the desert Zin.  
+<br>Moses was a sinner. He can't be the sacrifice.
+<br>Reference: Moses offered himself a sacrifice, but he was not qualified. [Exodus 32:31-32]
+</p></td>
+      <td><p>
+Jesus was not a sinner.
+He can be the perfect sacrifice.</p></td>
+    </tr>
+    <tr>
+      <td><p>
+Messages
+</p></td>
+      <td><p>
+Moses delivered Law.
+</p></td>
+      <td><p>
+Jesus delivered grace and love.
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+Meekness
+</p></td>
+      <td><p>
+Numbers 12:3 Moses was very meek, above all the men.
+</p></td>
+      <td><p>
+Matthew 11:29 Jesus was meek and lowly in heart.
+</p></td>
+    </tr>
+    <tr>
+      <td><p>
+Take the form of a servant
+      </p></td>
+      <td><p>
+Hebrews 11:24-28 ESV By faith Moses, when he was grown up, refused to be called the son of Pharaoh's daughter,
+<br>[25] choosing rather to be mistreated with the people of God than to enjoy the fleeting pleasures of sin.
+<br>[26] He considered the reproach of Christ greater wealth than the treasures of Egypt, for he was looking to the reward.
+<br>[27] By faith he left Egypt, not being afraid of the anger of the king, for he endured as seeing him who is invisible.
+<br>[28] By faith he kept the Passover and sprinkled the blood, so that the Destroyer of the firstborn might not touch them.      
+      </p></td>
+      <td><p>
+Philippians 2:7 ESV
+but emptied himself, by <b>taking the form of a servant</b>, being born in the likeness of men.
+      </p></td>
+    </tr>
+    <tr>
+      <td><p>
+Lean on God
+      </p></td>
+      <td><p>
+Moses was talent in speech and ... before  
+<br><br>Exodus 4:20 ESV 
+So Moses took his wife and his sons and had them ride on a donkey, and went back to the land of Egypt. And Moses <a class ="red">took the staff of God</a> in his hand. 
+</p></td>
+      <td><p>
+John 5:30 ESV
+"I [Jesus] can do nothing on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of him who sent me.
+      </p></td>
+    </tr>    
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>    
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>    
+    <tr>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+      <td><p>
+      </p></td>
+    </tr>    
+  </tbody>
+</table>
 </div>
