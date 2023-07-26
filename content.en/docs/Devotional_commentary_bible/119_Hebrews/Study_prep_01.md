@@ -1276,6 +1276,11 @@ Date: 2023-07-19
 </figure>
 
 
+<figure>
+  <img width = "720" src = "/docs/images/two_river_culture.jpg"/>
+  <figcaption class = "bottom"><a href = "https://www.sohu.com/a/151213522_714433" target="_blank" rel="noopener noreferrer">参考 | 两河文明在今日世界的坐标</a></figcaption>
+</figure>
+
 <ol>
 <li>创 11:27~12:9 亚伯兰离开吾珥去哈兰，再去迦南。</li>
 <li>创 12:10~13:3 亚伯拉罕去埃及再回迦南。</li>
