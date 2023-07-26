@@ -19,7 +19,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  <button class="tablinks" onclick="tablabel(event, 'note1')">Shadowing of Jesus</button>
+  <button class="tablinks" onclick="tablabel(event, 'note1')">Bible Study on Chapter 3</button>
 </div>
 
 <!-- Tab content -->
@@ -145,6 +145,13 @@ A. 不可硬着心、惹神发怒（三7-8）；
 
 <div id="note1" class="tabcontent">
 
+<div id="study">
+  <ul>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2>Shadowing of Jesus</h2>
+      <p>
 <h1><span class ="overline">首先的亚当 和 末后的亚当</span></h1>
 
 林前15:45-49
@@ -169,6 +176,15 @@ A. 不可硬着心、惹神发怒（三7-8）；
 <br>2 都在云里、海里受洗归了摩西； 
 <br>3 并且都吃了一样的灵食， 
 <br>4 也都喝了一样的灵水。所喝的，是出于随着他们的灵磐石；那磐石就是基督。
-
+      </p>
+    </li>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2><span style="font-weight: bold">person</span> | topic</h2>
+      <p>
+      </p>
+    </li>
+ </ul>
 
 </div>
