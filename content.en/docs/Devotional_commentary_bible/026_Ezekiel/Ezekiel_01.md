@@ -66,5 +66,5 @@ Background
 
 　　新约的《启示录》与《以西结书》有许多明显相似的异象，这个事实表明，本书所启示的复兴，最终将在《启示录》所启示的末世成就。因此，当我们研读《以西结书》的时候，并不是在旁观别人的历史，而是在展望自己的未来。
 　　
-　　参考：<a href = "https://cmcbiblereading.com/2016/08/09/%e4%bb%a5%e8%a5%bf%e7%bb%93%e4%b9%a6%e7%ac%ac1%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/" target="_blank" rel="noopener noreferrer">圣经综合解读 | 以西结书第1章逐节注解、祷读</a>
+　　<br><br>参考：<a href = "https://cmcbiblereading.com/2016/08/09/%e4%bb%a5%e8%a5%bf%e7%bb%93%e4%b9%a6%e7%ac%ac1%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/" target="_blank" rel="noopener noreferrer">圣经综合解读 | 以西结书第1章逐节注解、祷读</a>
 </div>
