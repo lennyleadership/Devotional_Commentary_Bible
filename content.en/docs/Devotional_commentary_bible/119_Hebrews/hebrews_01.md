@@ -3,7 +3,7 @@ weight: 1
 title: Hebrews 01
 authors: Lenny
 categories: null
-tags: [holy Spirit]
+tags: [holy Spirit, "Jesus in the OT"]
 description: 
 draft: false
 date: "2023-03-12"
@@ -20,7 +20,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  <button class="tablinks" onclick="tablabel(event, 'verse1')">Jesus</button>
+  <button class="tablinks" onclick="tablabel(event, 'study1')">Jesus in the OT</button>
 </div>
 
 <!-- Tab content -->
@@ -157,52 +157,61 @@ toc: true
 
 </div>
 
-<div id = "verse1" class = "tabcontent">
-<h1>Jesus in the Old Testment</h1>  
+<div id = "study1" class = "tabcontent">
 
-Psa 2:7-8 ESV    
-7 I will tell of the decree: The LORD said to me, “You are my Son; today I have begotten you.  
-8 Ask of me, and I will make the nations your heritage, and the ends of the earth your possession.
+<div id="study">
+  <ul>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2><span style="font-weight: bold">English</span> | Is Jesus in the Old Testament?</h2>
+      <p>
+Jesus shows up often in the Old Testament—not by that name, and not in the same form as we see Him in the New Testament, but He is there nonetheless. The theme of the entire Bible is Christ.
 
-Proverbs 8 ESV  
+Jesus Himself confirmed the fact that He is in the Old Testament. In John 5:46 He explained to some religious leaders who had challenged Him that the Old Testament was talking about Him: “If you believed Moses, you would believe me, for he wrote about me.” According to Jesus, God’s work with man since time began all pointed to Him. Another time when Jesus showed that He is in the Old Testament was on the day of His resurrection. Jesus was walking with two of His disciples, and “beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself” (Luke 24:27). Earlier, before His crucifixion, Jesus had pointed to Isaiah 53:12 and said, “It is written: ‘And he was numbered with the transgressors’ and I tell you that this must be fulfilled in me. Yes, what is written about me is reaching its fulfillment” (Luke 22:37).
 
-<h1>What God Said</h1>  
+By some counts, more than 300 Old Testament prophecies point to Jesus Christ and were fulfilled by Him in His life on earth. These include prophecies about His unique birth (Isaiah 7:14), His earthly ministry (Isaiah 61:1), and even the way He would die (Psalm 22). Jesus shocked the religious establishment when He stood up in the synagogue of Nazareth and read from Isaiah 61, concluding with this commentary: “This scripture has been fulfilled in your hearing today” (Luke 4:18–21).
 
-Hebrews 1:5-12 NLT  
-5 For God never said to any angel what he said to Jesus:  
-“You are my Son.Today I have become your Father.” God also said, “I will be his Father, and he will be my Son.”  
-6 And when he brought his supreme Son into the world, God said,  
-“Let all of God’s angels worship him.”  
-7 Regarding the angels, he says,  
-“He sends his angels like the winds, his servants like flames of fire.”   
-8 But to the Son he says,  
-“Your throne, O God, endures forever and ever. You rule with a scepter of justice.  
-9 You love justice and hate evil.  
-Therefore, O God, your God has anointed you, pouring out the oil of joy on you more than on anyone else.”  
-10 He also says to the Son,  
-“In the beginning, Lord, you laid the foundation of the earth and made the heavens with your hands.  
-11 They will perish, but you remain forever.  
-They will wear out like old clothing.  
-12 You will fold them up like a cloak  
-and discard them like old clothing. But you are always the same; you will live forever.”  
+Another way that Jesus is in the Old Testament is in the form of Christophanies—pre-incarnate appearances of the Son of God. The Old Testament uses the term angel of the Lord interchangeably with the Lord in reference to these visitations. One Christophany is found in Genesis 18:1–33 when the Lord appeared to Abram in human form. Such tangible encounters with deity are scattered throughout the Old Testament (Genesis 16:7–14; 22:11–18; Judges 5:23; 2 Kings 19:35; Daniel 3:25).
 
+But there are even deeper ways that Jesus is found in the Old Testament. These are seen in what we call “types.” A type is a person or thing in the Old Testament that foreshadows a person or thing in the New. For example, the tabernacle, the sacrificial system, and the Passover are all types of Christ’s redemption. In addition, some of the lives of Old Testament characters reflect elements of the life of Christ. Moses, like Jesus, spoke for God, confronted the evil powers of the day, and led his people to freedom through a miraculous deliverance. The life of Joseph is another that seems to model the life of Christ.
 
-----
+Many Old Testament historical events double as symbols of what God would do in the future, through Christ. For example, God called Abraham to offer his son Isaac as a sacrifice. Abraham uttered these prophetic words in response to Isaac’s question about a lamb: “God himself will provide the lamb for the burnt offering, my son” (Genesis 22:8). God did provide a ram in Isaac’s place, symbolizing what He would do thousands of years later on that very mountain when His own Son was offered as a sacrifice in our place (Matthew 27:33). Events surrounding the sacrifice of Isaac thus serve as a type of the sacrifice of Christ.
 
-Hebrews 1:5-12 NASB95  
-5 For to which of the angels did He ever say,  
-“You are My Son, Today I have fathered You”? And again, “I will be a Father to Him And He will be a Son to Me”?  
-6 And when He again brings the firstborn into the world, He says,  
-“And let all the angels of God worship Him.”  
-7 And regarding the angels He says,  
-“He makes His angels winds, And His ministers a flame of fire.”  
-8 But regarding the Son He says,  
-“Your throne, God, is forever and ever, And the scepter of righteousness is the scepter of His kingdom.  
-9 You have loved righteousness and hated lawlessness;  
-Therefore God, Your God, has anointed You With the oil of joy above Your companions.”  
-10 And, “You, Lord, in the beginning laid the foundation of the earth, And the heavens are the works of Your hands;  
-11 They will perish, but You remain;  
-And they all will wear out like a garment,  
-12 And like a robe You will roll them up;  
-Like a garment they will also be changed.But You are the same, And Your years will not come to an end.”  
+Jesus referred to another event in Israel’s history as a foreshadowing of His crucifixion. In the wilderness, the people following Moses had sinned, and God sent serpents among them to bite them. The people were dying, and they appealed to Moses for help. God told Moses to make a bronze serpent and place it on a pole. All those who looked to it would be healed (Numbers 21:4–19). Jesus alluded to this incident in John 3:14–15: “Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, that everyone who believes in Him may have eternal life in him.”
+
+God’s design for the tabernacle is another way that Jesus is in the Old Testament. The altar in the courtyard symbolizes the need for Jesus’ sacrifice to atone for our sin. The laver shows Jesus as providing the water of life (John 4:14). Inside the Holy Place, the lampstand is suggestive of Jesus as the light of the world (John 9:5). The table of showbread is Jesus as the bread of life (John 6:35). In the altar of incense is seen Jesus as our heavenly intercessor, continually offering prayers for us (Romans 8:34; Hebrews 7:25). According to Hebrews 10:20, the veil before the ark of the covenant is a picture of Jesus’ human flesh.
+
+The Son of God is not just in the New Testament; Jesus is in the Old Testament, too. Jesus is God’s promised Messiah. From the virgin birth in Bethlehem (Isaiah 7:14; Luke 1:35; Micah 5:2), through the sojourn to Egypt (Hosea 11:1; Matthew 2:14–15), to His ministry of healing and hope (Genesis 3:15; 1 John 3:8), all the way through His resurrection (Psalm 16:9–11; Acts 2:31), Jesus Christ is the theme of both Old and New Testaments. It could be said that Jesus is the reason for the Bible. He is the Living Word. The entire Bible is a beacon that points us to God’s offer of reconciliation, the hope of forgiveness and eternal life through Jesus Christ our Lord.
+
+Reference: <a href = "https://www.gotquestions.org/Jesus-in-the-Old-Testament.html" target="_blank" rel="noopener noreferrer">Got Questions | Is Jesus in the Old Testament?</a>
+      </p>
+    </li>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2><span style="font-weight: bold">Chinese</span> | 旧约中有耶稣吗？</h2>
+      <p>
+耶稣经常出现在旧约中——不是以耶稣的名字，也不是以我们在新约中看到的耶稣的形式，但他仍然在那里。整本圣经的主题是基督。
+
+耶稣自己证实了他在旧约中的事实。在约翰福音5:46，他对一些试探他的宗教领袖解释说，旧约是在谈论他："你们如果信摩西，也必信我，因为他书上有指着我写的话。"根据耶稣的说法，自古以来与人有关的神的工作都指向他。另一次耶稣表明他在旧约中是在他复活的那天。耶稣和他的两个门徒同行，"于是从摩西和众先知起，凡经上所指着自己的话，都给他们讲解明白了"(路加福音24:27)。更早的时候，在他被钉十字架之前，耶稣曾指着以赛亚书53:12说："我告诉你们，经上写着说：'他被列在罪犯之中。'这话必应验在我身上，因为那关系我的事，必然成就"(路加福音22:37)。
+
+据统计，超过300个旧约预言指向耶稣基督，并由他在地上的生活中应验。这些预言包括他独特的出生(以赛亚书7:14)，他在地上的事工(以赛亚书61:1)，甚至他的死亡方式(诗篇22)。耶稣站在拿撒勒的会堂里，宣读了以赛亚书61，以这样的评注结束："今天这经应验在你们耳中了"(路加福音4:18-21)，他震惊了整个教会。
+
+耶稣在旧约中的另一种表现形式是基督显现——神之子道成肉身之前的样子。在旧约中，"主的使者"一词与"主"互换使用指代来访者。在创世记18:1- 33中有一次基督显现，那时耶和华以人的形像向亚伯兰显现。这种与神的有形接触在旧约中随处可见(创世记16:7-14;22:11-18;士师记5:23;列王纪下19:35;但以理书3:25)。
+
+但在旧约中，耶稣还有更深层次的含义。这就是我们所说的"影儿"。"影儿是旧约中的一个人或一件事，预示着新约中的一个人或一件事。"例如，摩西可以被视为基督的一个影儿。和耶稣一样，摩西的出生意义重大，他直面当时邪恶的力量，通过奇迹般的拯救带领他的子民获得了自由。约瑟的生活是另一个可以被视为基督生活的影儿。
+
+许多旧约的历史事件都是神在未来通过基督所要做的事的象征。例如，神呼召亚伯拉罕把他的儿子以撒作为祭物。亚伯拉罕在回答以撒关于羊羔的问题时说了这样预言的话："神必自己预备作燔祭的羊羔"(创世记22:8)。神确实在献以撒的地方预备了一只公羊，这象征着几千年后，当神把他的儿子作为祭物献给我们时，他会在那座山上所做的事(马太福音27:33)。因此，围绕献以撒的事件就成为了献基督的一个影儿。
+
+耶稣提到了以色列历史上的另一个事件，作为他被钉死在十字架上的预兆。在旷野，跟随摩西的人犯了罪，神让蛇进入他们中间咬他们。百姓死了，就向摩西哀求。神吩咐摩西做了一条铜蛇，把它放在杆子上。凡仰望它的，都必得医治(民数记21:4-19)。耶稣在约翰福音3:14-15中提到这事："摩西在旷野怎样举蛇，人子也必照样被举起来，叫一切信他的都得永生。"
+
+神对帐幕的设计是耶稣在旧约中出现的另一种方式。院子里的祭坛象征着耶稣需要为我们的罪献祭来赎罪。洗濯盆表明耶稣提供生命之水(约翰福音4:14)。在神圣的地方，金灯台暗示耶稣是世界之光(约翰福音9:5)。陈设饼桌表明耶稣就是生命的粮(约翰福音6:35)。香坛表明耶稣被看作是我们天上的代祷者，不断地为我们祷告(罗马书8:34;希伯来书7:25)。根据希伯来书10:20，约柜前的幔子是耶稣肉身的写照。
+
+神的儿子不仅在新约中；耶稣也在旧约中。耶稣是神所应许的弥赛亚。从在伯利恒由童女所生(以赛亚书7:14;路加福音1:35,弥迦书5:2)，经过埃及寄居(何西阿书11:1;马太福音2:14-15)，到他医治的事工和盼望(创世记3:15;约翰一书3:8)，直到他复活(诗篇16:9-11;使徒行传2:31)，耶稣基督是旧约和新约的主题。可以说，耶稣是圣经存在的理由。他是活着的道。整本圣经是一座灯塔，指引我们走向神给我们的和解，饶恕的希望，以及通过我们的主耶稣基督获得永生。
+
+参考: <a href = "https://www.gotquestions.org/Chinese/Chinese-Jesus-in-old-testament.html" target="_blank" rel="noopener noreferrer">问题 | 旧约中有耶稣吗？</a>
+      </p>
+    </li>
+ </ul>
 </div>
