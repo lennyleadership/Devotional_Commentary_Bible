@@ -156,10 +156,16 @@ toc: true
 </div>
 
 <div id = "study1" class = "tabcontent">
+
+<h1><span class = "overline">What did prophets do?</span></h1>
+
 verse 1: The prophets spoke about Jesus in the Old Testaments. The <b>prophecies</b> were all about Jesus.
 
 Acts 7:37 “Moses himself told the people of Israel, ‘God will raise up for you a Prophet like me from among your own people.’ - which refers to Jesus.
 <br>Moses continued, “The Lord your God will raise up for you a prophet like me from among your fellow Israelites. You must listen to him. (Deuteronomy 18:15 ESV, Deuteronomy 18:15 NLT, Deuteronomy 18:15 KJV, Deuteronomy 18:15 hlybblsmpshndtn)
+
+
+<h1><span class = "overline">Jesus in the OT</span></h1>
 
 
 <div id="study">
