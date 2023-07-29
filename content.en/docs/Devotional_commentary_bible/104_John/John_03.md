@@ -169,7 +169,7 @@ Today is the beginning of Holy Week — a time when we mark the most sacred week
 <br><br>
 In keeping with what’s coming this week — especially Maundy Thursday — I am picking up where we left off in the Gospel of John in chapter three. Only I am jumping forward to verses 14–15 because of how suitable they are. We will go back and deal later with what we are passing over. What we are going to see is one of the most shocking and wonderful pictures that Jesus ever painted of his own death.
 <br><br>
-<h2>Nicodemus Comes to Jesus</h2>
+<span><h2>Nicodemus Comes to Jesus</h2></span>
 <br><br>
 Let’s get the flow of thought in our minds. Nicodemus a leader of the Jews comes to Jesus under the cover of night. He says in verse 2 that Jesus is a teacher come from God. Jesus bluntly responds in verse 3 that “Unless one is born again he cannot see the kingdom of God.” Nicodemus wonders whether a man can enter into his mother’s womb again and be born.
 <br><br>
