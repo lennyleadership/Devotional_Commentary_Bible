@@ -158,7 +158,13 @@ Brother J: The  depth of our belief in him (and faith) is demonstrated by how we
 
 <div id="sermon01" class="tabcontent"> 
 
-
+<div id="study">
+  <ul>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2><span style="font-weight: bold">John Piper</span> | The Son of Man Must Be Lifted Up — Like the Serpent</h2>
+      <p>
 Today is the beginning of Holy Week — a time when we mark the most sacred week in human history — which includes Jesus’s final meal with his apostles when he instituted the Lord’s Supper, his agony in the Garden of Gethsemane, the trial before Annas and Caiaphas and Pilate, the crucifixion and death of the Son of God, and the resurrection.
 
 In keeping with what’s coming this week — especially Maundy Thursday — I am picking up where we left off in the Gospel of John in chapter three. Only I am jumping forward to verses 14–15 because of how suitable they are. We will go back and deal later with what we are passing over. What we are going to see is one of the most shocking and wonderful pictures that Jesus ever painted of his own death.
@@ -174,7 +180,7 @@ Jesus answers in verses 5–8 that he is talking about a spiritual birth and tha
 Jesus marvels in verse 10 that a teacher in Israel doesn’t understand this. Then he says in verse 11 that the problem Nicodemus has is that, even though he is hearing reliable testimony from Jesus and others, he doesn’t “receive” the testimony. He is not among the number described in John 1:12: “But to all who did receive him, who believed in his name, he gave the right to become children of God.”
 
 > “Unless one is born again he cannot see the kingdom of God.”
-> 
+
 
 Then in verse 12, Jesus says, I have taken you as far as I can, by way of explanation. You can’t go any higher. “If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things?” In effect, he is saying, “You keep pressing me for deeper and higher explanations of the new birth. But a heart of unbelief, an unregenerate heart, can’t ascend to the kinds of truth that I have to give you about the new birth.”
 
@@ -196,26 +202,20 @@ There are more obstacles to your entering the kingdom than merely your need to b
 
 Now Jesus picks an analogy to explain what he came to do that Nicodemus would be familiar with, but it is shocking that he would pick it to describe his own work. Let’s read verses 14–15:
 
-> 
-> 
-> 
-> And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.
-> 
+And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.
+ 
 
 ## Like a Snake?
 
 Comparing himself with a snake is shocking. Let’s go back and read the story that Jesus is referring to (Numbers 21:4–9):
 
-> 
-> 
-> 
 > From Mount Hor they set out by the way to the Red Sea, to go around the land of Edom. And the people became impatient on the way. And the people spoke against God and against Moses, “Why have you brought us up out of Egypt to die in the wilderness? For there is no food and no water, and we loathe this worthless food.” Then the Lord sent fiery serpents among the people, and they bit the people, so that many people of Israel died. And the people came to Moses and said, “We have sinned, for we have spoken against the Lord and against you. Pray to the Lord, that he take away the serpents from us.” So Moses prayed for the people. And the Lord said to Moses, “Make a fiery serpent and set it on a pole, and everyone who is bitten, when he sees it, shall live.” So Moses made a bronze serpent and set it on a pole. And if a serpent bit anyone, he would look at the bronze serpent and live.
 > 
 
-> “The means God chooses to rescue the people from his own curse is a picture of the curse itself.”
-> 
-
 Notice a few things: (1) The serpent on the pole is not preventative. It is for bitten people (verse 8). The poison is in them, and without divine intervention they will die. (2) The snakes in the camp are from the Lord. He sent them (verse 6). The wrath of God is on this people for their sin of ingratitude and murmuring and rebellion. (3) The means God chooses to rescue the people from his own curse is a picture of the curse itself. (4) All they have to do in order to be saved from God’s wrath is look at his provision hanging on a pole.
+
+> “The means God chooses to rescue the people from his own curse is a picture of the curse itself.”
+>
 
 We know that Jesus read the Old Testament believing that it was all pointing to him. There were pointers and types and foreshadowings everywhere. But we might expect him to skip this one. It is shocking to compare the Son of Man to a snake. But Jesus doesn’t skip this one. He goes out of his way to choose it to help Nicodemus. So he says (verses 14–15),
 
@@ -253,9 +253,6 @@ Do you recall that I have said that John 1:14–16 are functioning like a compas
 
 I don’t know of any better way to make plain the importance of this or the meaning of it than to tell you the story of Charles Spurgeon’s conversion. Here it is in his own words. The day was January 6, 1850. Spurgeon was not quite sixteen years old:
 
-> 
-> 
-> 
 > I sometimes think I might have been in darkness and despair until now had it not been for the goodness of God in sending a snowstorm, one Sunday morning, while I was going to a certain place of worship. When I could go no further, I turned down a side street, and came to a little Primitive Methodist chapel. In that chapel there may have been a dozen or fifteen people. . . . The minister did not come that morning; he was snowed up, I suppose. At last, a very thin-looking man, a shoemaker, or tailor, or something of that sort, went up into the pulpit to preach. . . . He was obliged to stick to his text, for the simple reason that he had little else to say. The text was “Look unto me, and be ye saved, all the ends of the earth [Isaiah 45:22].”
 > 
 > He did not even pronounce the words rightly, but that did not matter. There was, I thought, a glimpse of hope for me in that text. The preacher began thus: “My dear friends, this is a very simple text indeed. It says, ‘Look.’ Now lookin’ don’t take a deal of pain. It ain’t liftin’ your foot or your finger; it is just, ‘Look.’ Well, a man needn’t go to college to learn to look. You may be the biggest fool, and yet you can look. A man needn’t be worth a thousand a year to be able to look. Anyone can look; even a child can look.
@@ -278,6 +275,20 @@ I don’t know of any better way to make plain the importance of this or the mea
 > There and then the cloud was gone, the darkness had rolled away, and that moment I saw the sun; and I could have risen that instant, and sung with the most enthusiastic of them, of the precious blood of Christ, and the simple faith which looks alone to him. . . . And now I can say —
 > 
 > *E’er since by faith I saw the stream Thy flowing wounds supply, Redeeming love has been my theme, And Shall be till I die.* ([C. H. Spurgeon Autobiography: The Early Years](https://www.amazon.com/dp/0851510760)1, 87–88)
->
+
+
 Reference: <a href = "https://www.desiringgod.org/messages/the-son-of-man-must-be-lifted-up-like-the-serpent#full-video" target="_blank" rel="noopener noreferrer">Desiring God | The Son of Man Must Be Lifted Up — Like the Serpent by John Piper</a>
+      </p>
+    </li>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2><span style="font-weight: bold">person</span> | topic</h2>
+      <p>
+      </p>
+    </li>
+ </ul>
+</div>
+
+
 </div>
