@@ -183,7 +183,7 @@ Jesus marvels in verse 10 that a teacher in Israel doesn’t understand this. Th
 <br><br>
 Then in verse 12, Jesus says, I have taken you as far as I can, by way of explanation. You can’t go any higher. “If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things?” In effect, he is saying, “You keep pressing me for deeper and higher explanations of the new birth. But a heart of unbelief, an unregenerate heart, can’t ascend to the kinds of truth that I have to give you about the new birth.”
 <br><br>
-<b>Jesus Shifts<b>
+<b>Jesus Shifts</b>
 <br><br>
 Now verse 13 is pivotal. What is Jesus going to do with Nicodemus? What would you do? Is he going to say, “Well, since you don’t get it, Nicodemus, I don’t have any more to say to you”? Come back after you have been born again, and I will give you the explanations you want.
 <br><br>
