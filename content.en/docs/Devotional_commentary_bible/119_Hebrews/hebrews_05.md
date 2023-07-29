@@ -118,7 +118,7 @@ toc: true
 <br>
 09:33 And then when I bring the blood and the blood is shed and I say, apply that blood to my life, Lord, I lay my hand on the head of that innocent lamb identifying that's me getting to go to I get ushered into God's presence, work at the altar. 
 <br>
-09:51 Major job of the high priest. And Jesus'greatest job. Jesus'greatest job, as our great high priest occurred at the altar. Not the altar in the Jewish temple. They hated him there. <b>The altar called the Old Rugged Cross of Calvary</b>, where Jesus not only offered himself as our great high priest, but he died himself. 
+09:51 Major job of the high priest. And Jesus' greatest job. Jesus' greatest job, as our great high priest occurred at the altar. Not the altar in the Jewish temple. They hated him there. <b>The altar called the Old Rugged Cross of Calvary</b>, where Jesus not only offered himself as our great high priest, but he died himself. 
 <br>
 10:19 He is is both the offerer the high priest and the sacrifice, the Lamb of God. Hallelujah. What a savior he's ordained of God, set apart of God that he may offer gifts and sacrifices for sin. That's two different words. 
 <br>

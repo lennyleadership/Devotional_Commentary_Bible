@@ -1,6 +1,6 @@
 ---
 Weight: 104
-title: Book of John
+title: John
 authors: Lenny Lin
 categories: null
 tags: 
