@@ -158,6 +158,8 @@ Brother J: The  depth of our belief in him (and faith) is demonstrated by how we
 
 <div id="sermon01" class="tabcontent"> 
 
+<h1><span class = "overline">Scripture: John 3:1–15</span></h1>   
+
 <div id="study">
   <ul>
     <li>
