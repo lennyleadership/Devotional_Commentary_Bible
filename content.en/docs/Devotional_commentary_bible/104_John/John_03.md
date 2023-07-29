@@ -166,117 +166,109 @@ Brother J: The  depth of our belief in him (and faith) is demonstrated by how we
       <h2><span style="font-weight: bold">John Piper</span> | The Son of Man Must Be Lifted Up — Like the Serpent</h2>
       <p>
 Today is the beginning of Holy Week — a time when we mark the most sacred week in human history — which includes Jesus’s final meal with his apostles when he instituted the Lord’s Supper, his agony in the Garden of Gethsemane, the trial before Annas and Caiaphas and Pilate, the crucifixion and death of the Son of God, and the resurrection.
-
+<br><br>
 In keeping with what’s coming this week — especially Maundy Thursday — I am picking up where we left off in the Gospel of John in chapter three. Only I am jumping forward to verses 14–15 because of how suitable they are. We will go back and deal later with what we are passing over. What we are going to see is one of the most shocking and wonderful pictures that Jesus ever painted of his own death.
-
-## Nicodemus Comes to Jesus
-
+<br><br>
+<h2>Nicodemus Comes to Jesus</h2>
+<br><br>
 Let’s get the flow of thought in our minds. Nicodemus a leader of the Jews comes to Jesus under the cover of night. He says in verse 2 that Jesus is a teacher come from God. Jesus bluntly responds in verse 3 that “Unless one is born again he cannot see the kingdom of God.” Nicodemus wonders whether a man can enter into his mother’s womb again and be born.
-
+<br><br>
 Jesus answers in verses 5–8 that he is talking about a spiritual birth and that unless you experience it, you will never enter the kingdom of God — you will never be reconciled to God and forgiven and on your way to heaven. Then he adds that the Spirit of God is the one that causes the new birth, not man. And the Spirit is as free as the wind in the way he does it. In verse 9, Nicodemus is still at a loss, and asks, “How can these things be?”
-
-## Jesus Marvels
-
+<br><br>
+<h2>Jesus Marvels</h2>
+<br><br>
 Jesus marvels in verse 10 that a teacher in Israel doesn’t understand this. Then he says in verse 11 that the problem Nicodemus has is that, even though he is hearing reliable testimony from Jesus and others, he doesn’t “receive” the testimony. He is not among the number described in John 1:12: “But to all who did receive him, who believed in his name, he gave the right to become children of God.”
-
+<br><br>
 > “Unless one is born again he cannot see the kingdom of God.”
-
-
+<br><br>
 Then in verse 12, Jesus says, I have taken you as far as I can, by way of explanation. You can’t go any higher. “If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things?” In effect, he is saying, “You keep pressing me for deeper and higher explanations of the new birth. But a heart of unbelief, an unregenerate heart, can’t ascend to the kinds of truth that I have to give you about the new birth.”
-
+<br><br>
 ## Jesus Shifts
-
+<br><br>
 Now verse 13 is pivotal. What is Jesus going to do with Nicodemus? What would you do? Is he going to say, “Well, since you don’t get it, Nicodemus, I don’t have any more to say to you”? Come back after you have been born again, and I will give you the explanations you want.
-
+<br><br>
 That’s not what Jesus says or does. What he does is hugely important for us to see — important for our *own* faith and for those we desperately want to see born again. Verse 13 is a shift. Jesus shifts. Before verse 13 he is talking like a witness, a teacher — talking about the new birth like any born-again person might do. And with verse 13, he starts talking about himself not a witness or a teacher who tells people to be born again, but as the Son of Man from heaven who came to do something that makes the new birth possible.
-
+<br><br>
 ## The Basis of the New Birth
-
+<br><br>
 Or another way to say it would be that before verse 13 Jesus is talking about the *process* of the new birth — it’s spiritual, it happens by the work of the Spirit, it comes like the wind, and you can’t explain it. And after verse 13, he is talking about the basis of the new birth in what the Son of Man has come to do. And what is so incredibly helpful is that in this he also tells Nicodemus how to receive the Spirit’s work of the new birth.
-
+<br><br>
 Let’s read verse 13. Remember, Jesus has just said in verse 12, “I could give you heavenly explanations, but you can’t receive them.” Then he says, “No one has ascended into heaven except he who descended from heaven, the Son of Man.” In other words, the reason I could give you heavenly explanations is that I have come down from heaven. No man has gone into heaven so that he can do what I do. I was in heaven with the Father, and I have come down. And now I am going tell you what I came to do. And this is the key to answer your question how you can be born again. I will tell you how you can enter the kingdom of heaven (verse 5).
-
+<br><br>
 ## What the Son of Man Came to Do
-
+<br><br>
 There are more obstacles to your entering the kingdom than merely your need to be born again, Nicodemus. Something has to happen to remove the wrath of God so that he will release the power of the Spirit to cause you to be born again (see John 3:36). That’s what the Son of Man came to do.
-
+<br><br>
 Now Jesus picks an analogy to explain what he came to do that Nicodemus would be familiar with, but it is shocking that he would pick it to describe his own work. Let’s read verses 14–15:
-
+<br><br>
 And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.
- 
-
+<br><br>
 ## Like a Snake?
-
+<br><br>
 Comparing himself with a snake is shocking. Let’s go back and read the story that Jesus is referring to (Numbers 21:4–9):
-
+<br><br>
 > From Mount Hor they set out by the way to the Red Sea, to go around the land of Edom. And the people became impatient on the way. And the people spoke against God and against Moses, “Why have you brought us up out of Egypt to die in the wilderness? For there is no food and no water, and we loathe this worthless food.” Then the Lord sent fiery serpents among the people, and they bit the people, so that many people of Israel died. And the people came to Moses and said, “We have sinned, for we have spoken against the Lord and against you. Pray to the Lord, that he take away the serpents from us.” So Moses prayed for the people. And the Lord said to Moses, “Make a fiery serpent and set it on a pole, and everyone who is bitten, when he sees it, shall live.” So Moses made a bronze serpent and set it on a pole. And if a serpent bit anyone, he would look at the bronze serpent and live.
 > 
-
+<br><br>
 Notice a few things: (1) The serpent on the pole is not preventative. It is for bitten people (verse 8). The poison is in them, and without divine intervention they will die. (2) The snakes in the camp are from the Lord. He sent them (verse 6). The wrath of God is on this people for their sin of ingratitude and murmuring and rebellion. (3) The means God chooses to rescue the people from his own curse is a picture of the curse itself. (4) All they have to do in order to be saved from God’s wrath is look at his provision hanging on a pole.
-
+<br><br>
 > “The means God chooses to rescue the people from his own curse is a picture of the curse itself.”
->
-
+<br><br>
 We know that Jesus read the Old Testament believing that it was all pointing to him. There were pointers and types and foreshadowings everywhere. But we might expect him to skip this one. It is shocking to compare the Son of Man to a snake. But Jesus doesn’t skip this one. He goes out of his way to choose it to help Nicodemus. So he says (verses 14–15),
-
+<br><br>
 And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.
-
+<br><br>
 ## Five Observations
-
+<br><br>
 ### 1. Jesus Is the Son of Man
-
+<br><br>
 Jesus is the Son of Man who is lifted up on the cross the way the snake was lifted up. He identifies himself as the Son of Man in John 9:35–37: “‘Do you believe in the Son of Man?’ [he asks the man he had healed.] He answered, ‘And who is he, sir, that I may believe in him?’ Jesus said to him, ‘You have seen him, and it is he who is speaking to you.’” So when Jesus speaks of the Son of Man being lifted up, he is talking about himself, and his own crucifixion.
-
+<br><br>
 ### 2. Jesus Is the Source of Rescue
-
+<br><br>
 Jesus, in the place of the snake, is the source of healing, the source of rescue from the poison of sin, and the wrath of God. Jesus is the source of eternal life. Moses lifted up the snake, but Moses is not the rescuer in the way Jesus sets up the comparison. Who lifts up the Son of Man on the cross? “The Son of Man must be lifted up” — by whom?
-
+<br><br>
 There is only one place where the lifters are identified in John’s Gospel. They are the Pharisees. John 8:28 says, “Jesus said to them, ‘When you have lifted up the Son of Man, then you will know that I am he.’” Who is you? According to John 8:13, it’s the Pharisees. The Pharisees stand in the place of Moses. So Moses is not being treated as a rescuer, a savior. In Numbers, the one who saves is God by means of the snake. And in John, the one who saves is God by means of Jesus.
-
+<br><br>
 ### 3. Jesus Is Portrayed as a Curse
-
+<br><br>
 Jesus in the place of the snake is portrayed as evil and a curse. This is what is so shocking. The snake is evil. The snakes were killing people. The snake on the pole is a picture of God’s curse on the people. So it was with Jesus. Paul said in 2 Corinthians 5:2, “For our sake [God] made him to be sin who knew no sin, so that in him we might become the righteousness of God.” And in Galatians 3:13, he said, “Christ redeemed us from the curse of the law by becoming a curse for us.” In becoming like the snake, he was the embodiment of our sin, and the embodiment of our curse. And in becoming sin and curse for us, he took ours away.
-
+<br><br>
 ### 4. Jesus Gives Eternal Life
-
+<br><br>
 What he gives us from the cross is eternal life. Verse 14–15: “The Son of Man must be lifted up, that whoever believes in him may have eternal life.” When our sin and God’s wrath are taken away, God is for us totally. And if God is for us, we will never die, but live forever with him in joy.
-
+<br><br>
 ### 5. Jesus Crucified Is the One We See
-
+<br><br>
 All of this he is saying to Nicodemus, who was very confused about the new birth and how it happens. This is what you say to a person who is not born again. Why? They are dead and blind. Because God ordains to open the eyes of the blind when they have something to see — namely a compelling picture of Jesus crucified for sinners. And what should you do, Nicodemus? What should you do today?
-
+<br><br>
 Believe in him. Verse 15: “That whoever believes in him may have eternal life.” What does that mean? What does it involve? What, in this comparison with the snake on a pole, does believe in him mean? It means look to him. The grace of the new birth is our seeing Christ lifted up.
-
+<br><br>
 ## Look and Live
-
+<br><br>
 Do you recall that I have said that John 1:14–16 are functioning like a compass as we trek through this Gospel. Notice how it relates to this story. “The word became flesh and dwelt among us and we have seen his glory, glory as of the only Son from the Father, full of grace and truth . . . and from his fullness we have all received grace upon grace.” We behold his glory as he is lifted up on the cross, and in that look, we receive grace. Nicodemus, do you want the grace of the new birth? Look!
-
+<br><br>
 I don’t know of any better way to make plain the importance of this or the meaning of it than to tell you the story of Charles Spurgeon’s conversion. Here it is in his own words. The day was January 6, 1850. Spurgeon was not quite sixteen years old:
-
+<br><br>
 > I sometimes think I might have been in darkness and despair until now had it not been for the goodness of God in sending a snowstorm, one Sunday morning, while I was going to a certain place of worship. When I could go no further, I turned down a side street, and came to a little Primitive Methodist chapel. In that chapel there may have been a dozen or fifteen people. . . . The minister did not come that morning; he was snowed up, I suppose. At last, a very thin-looking man, a shoemaker, or tailor, or something of that sort, went up into the pulpit to preach. . . . He was obliged to stick to his text, for the simple reason that he had little else to say. The text was “Look unto me, and be ye saved, all the ends of the earth [Isaiah 45:22].”
-> 
+><br><br>
 > He did not even pronounce the words rightly, but that did not matter. There was, I thought, a glimpse of hope for me in that text. The preacher began thus: “My dear friends, this is a very simple text indeed. It says, ‘Look.’ Now lookin’ don’t take a deal of pain. It ain’t liftin’ your foot or your finger; it is just, ‘Look.’ Well, a man needn’t go to college to learn to look. You may be the biggest fool, and yet you can look. A man needn’t be worth a thousand a year to be able to look. Anyone can look; even a child can look.
-> 
+><br><br> 
 > “But then the text says, ‘Look unto Me’. . . . Many of ye are lookin’ to yourselves, but it’s no use lookin’ there. Ye will never find any comfort in yourselves. Some look to God the Father. No, look to him by-and-by. Jesus Christ says, ‘Look unto Me.’ Some of ye say, ‘We must wait for the Spirit’s workin’.’ You have no business with that just now. Look to Christ. The text says, ‘Look unto Me.’”
-> 
-
+><br><br> 
+<br><br>
 > “The grace of the new birth is our seeing Christ lifted up.”
-> 
-
-> 
-> 
-> 
+><br><br> 
 > Then the good man followed up his text in this way: “Look unto Me; I am sweatin’ and great drops of blood. Look unto Me; I am hangin’ on the cross. Look unto Me; I am dead and buried. Look unto Me; I rise again. Look unto Me; I ascend to heaven. Look unto Me; I am sittin’ at the Father’s right hand. O poor sinner, look unto Me! Look unto Me!”
-> 
+><br><br> 
 > When he had gone to about that length, and managed to spin out ten minutes or so he was at the end of his tether. Then he looked at me under the gallery, and I dare say, with so few present he knew me to be a stranger. Just fixing his eyes on me, as if he knew all my heart he said, “Young man, you look very miserable.” Well, I did, but I had not been accustomed to have remarks made from the pulpit on my personal appearance before. However, it was a good blow, struck right home. He continued, “and you always will be miserable — miserable in life, and miserable in death — if you don’t obey my text; but if you obey now, this moment, you will be saved.”
-> 
+><br><br> 
 > Then lifting up his hands, he shouted, as only a primitive Methodists could do, “Young man, look to Jesus Christ. Look! Look! Look! You have nothing to do but to look and live.” I saw at once the way of salvation. I know not what else he said — I did not take much notice of it — I was so possessed with that one thought. *Like as when the brazen serpent was lifted up, the people only looked and were healed*, so it was with me. I had been waiting to do fifty things, but when I heard that word, “Look!” What a charming word it seemed to me! Oh! I looked until I could have almost looked my eyes away.
-> 
+><br><br> 
 > There and then the cloud was gone, the darkness had rolled away, and that moment I saw the sun; and I could have risen that instant, and sung with the most enthusiastic of them, of the precious blood of Christ, and the simple faith which looks alone to him. . . . And now I can say —
-> 
+><br><br> 
 > *E’er since by faith I saw the stream Thy flowing wounds supply, Redeeming love has been my theme, And Shall be till I die.* ([C. H. Spurgeon Autobiography: The Early Years](https://www.amazon.com/dp/0851510760)1, 87–88)
-
-
+<br><br>
 Reference: <a href = "https://www.desiringgod.org/messages/the-son-of-man-must-be-lifted-up-like-the-serpent#full-video" target="_blank" rel="noopener noreferrer">Desiring God | The Son of Man Must Be Lifted Up — Like the Serpent by John Piper</a>
       </p>
     </li>
