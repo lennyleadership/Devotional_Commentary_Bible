@@ -164,6 +164,7 @@ Brother J: The  depth of our belief in him (and faith) is demonstrated by how we
       <input type="checkbox" checked>
       <i></i>
       <h2><span style="font-weight: bold">John Piper</span> | The Son of Man Must Be Lifted Up — Like the Serpent</h2>
+      <p>
 Today is the beginning of Holy Week — a time when we mark the most sacred week in human history — which includes Jesus’s final meal with his apostles when he instituted the Lord’s Supper, his agony in the Garden of Gethsemane, the trial before Annas and Caiaphas and Pilate, the crucifixion and death of the Son of God, and the resurrection.
 <br><br>
 In keeping with what’s coming this week — especially Maundy Thursday — I am picking up where we left off in the Gospel of John in chapter three. Only I am jumping forward to verses 14–15 because of how suitable they are. We will go back and deal later with what we are passing over. What we are going to see is one of the most shocking and wonderful pictures that Jesus ever painted of his own death.
@@ -182,19 +183,19 @@ Jesus marvels in verse 10 that a teacher in Israel doesn’t understand this. Th
 <br><br>
 Then in verse 12, Jesus says, I have taken you as far as I can, by way of explanation. You can’t go any higher. “If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things?” In effect, he is saying, “You keep pressing me for deeper and higher explanations of the new birth. But a heart of unbelief, an unregenerate heart, can’t ascend to the kinds of truth that I have to give you about the new birth.”
 <br><br>
-## Jesus Shifts
+<b>Jesus Shifts<b>
 <br><br>
 Now verse 13 is pivotal. What is Jesus going to do with Nicodemus? What would you do? Is he going to say, “Well, since you don’t get it, Nicodemus, I don’t have any more to say to you”? Come back after you have been born again, and I will give you the explanations you want.
 <br><br>
 That’s not what Jesus says or does. What he does is hugely important for us to see — important for our *own* faith and for those we desperately want to see born again. Verse 13 is a shift. Jesus shifts. Before verse 13 he is talking like a witness, a teacher — talking about the new birth like any born-again person might do. And with verse 13, he starts talking about himself not a witness or a teacher who tells people to be born again, but as the Son of Man from heaven who came to do something that makes the new birth possible.
 <br><br>
-## The Basis of the New Birth
+<b>The Basis of the New Birth</b>
 <br><br>
 Or another way to say it would be that before verse 13 Jesus is talking about the *process* of the new birth — it’s spiritual, it happens by the work of the Spirit, it comes like the wind, and you can’t explain it. And after verse 13, he is talking about the basis of the new birth in what the Son of Man has come to do. And what is so incredibly helpful is that in this he also tells Nicodemus how to receive the Spirit’s work of the new birth.
 <br><br>
 Let’s read verse 13. Remember, Jesus has just said in verse 12, “I could give you heavenly explanations, but you can’t receive them.” Then he says, “No one has ascended into heaven except he who descended from heaven, the Son of Man.” In other words, the reason I could give you heavenly explanations is that I have come down from heaven. No man has gone into heaven so that he can do what I do. I was in heaven with the Father, and I have come down. And now I am going tell you what I came to do. And this is the key to answer your question how you can be born again. I will tell you how you can enter the kingdom of heaven (verse 5).
 <br><br>
-## What the Son of Man Came to Do
+<b>What the Son of Man Came to Do</b>
 <br><br>
 There are more obstacles to your entering the kingdom than merely your need to be born again, Nicodemus. Something has to happen to remove the wrath of God so that he will release the power of the Spirit to cause you to be born again (see John 3:36). That’s what the Son of Man came to do.
 <br><br>
@@ -202,7 +203,7 @@ Now Jesus picks an analogy to explain what he came to do that Nicodemus would be
 <br><br>
 And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.
 <br><br>
-## Like a Snake?
+<b>Like a Snake?</b>
 <br><br>
 Comparing himself with a snake is shocking. Let’s go back and read the story that Jesus is referring to (Numbers 21:4–9):
 <br><br>
@@ -217,7 +218,7 @@ We know that Jesus read the Old Testament believing that it was all pointing to 
 <br><br>
 And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life.
 <br><br>
-## Five Observations
+<b>Five Observations</b>
 <br><br>
 ### 1. Jesus Is the Son of Man
 <br><br>
@@ -243,7 +244,7 @@ All of this he is saying to Nicodemus, who was very confused about the new birth
 <br><br>
 Believe in him. Verse 15: “That whoever believes in him may have eternal life.” What does that mean? What does it involve? What, in this comparison with the snake on a pole, does believe in him mean? It means look to him. The grace of the new birth is our seeing Christ lifted up.
 <br><br>
-## Look and Live
+<b>Look and Live</b>
 <br><br>
 Do you recall that I have said that John 1:14–16 are functioning like a compass as we trek through this Gospel. Notice how it relates to this story. “The word became flesh and dwelt among us and we have seen his glory, glory as of the only Son from the Father, full of grace and truth . . . and from his fullness we have all received grace upon grace.” We behold his glory as he is lifted up on the cross, and in that look, we receive grace. Nicodemus, do you want the grace of the new birth? Look!
 <br><br>
@@ -269,6 +270,7 @@ I don’t know of any better way to make plain the importance of this or the mea
 > *E’er since by faith I saw the stream Thy flowing wounds supply, Redeeming love has been my theme, And Shall be till I die.* ([C. H. Spurgeon Autobiography: The Early Years](https://www.amazon.com/dp/0851510760)1, 87–88)
 <br><br>
 Reference: <a href = "https://www.desiringgod.org/messages/the-son-of-man-must-be-lifted-up-like-the-serpent#full-video" target="_blank" rel="noopener noreferrer">Desiring God | The Son of Man Must Be Lifted Up — Like the Serpent by John Piper</a>
+      </p>
     </li>
     <li>
       <input type="checkbox" checked>
