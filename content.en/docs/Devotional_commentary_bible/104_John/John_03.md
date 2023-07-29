@@ -164,7 +164,6 @@ Brother J: The  depth of our belief in him (and faith) is demonstrated by how we
       <input type="checkbox" checked>
       <i></i>
       <h2><span style="font-weight: bold">John Piper</span> | The Son of Man Must Be Lifted Up — Like the Serpent</h2>
-      <p>
 Today is the beginning of Holy Week — a time when we mark the most sacred week in human history — which includes Jesus’s final meal with his apostles when he instituted the Lord’s Supper, his agony in the Garden of Gethsemane, the trial before Annas and Caiaphas and Pilate, the crucifixion and death of the Son of God, and the resurrection.
 <br><br>
 In keeping with what’s coming this week — especially Maundy Thursday — I am picking up where we left off in the Gospel of John in chapter three. Only I am jumping forward to verses 14–15 because of how suitable they are. We will go back and deal later with what we are passing over. What we are going to see is one of the most shocking and wonderful pictures that Jesus ever painted of his own death.
@@ -175,7 +174,7 @@ Let’s get the flow of thought in our minds. Nicodemus a leader of the Jews com
 <br><br>
 Jesus answers in verses 5–8 that he is talking about a spiritual birth and that unless you experience it, you will never enter the kingdom of God — you will never be reconciled to God and forgiven and on your way to heaven. Then he adds that the Spirit of God is the one that causes the new birth, not man. And the Spirit is as free as the wind in the way he does it. In verse 9, Nicodemus is still at a loss, and asks, “How can these things be?”
 <br><br>
-<h2>Jesus Marvels</h2>
+<b>Jesus Marvels</b>
 <br><br>
 Jesus marvels in verse 10 that a teacher in Israel doesn’t understand this. Then he says in verse 11 that the problem Nicodemus has is that, even though he is hearing reliable testimony from Jesus and others, he doesn’t “receive” the testimony. He is not among the number described in John 1:12: “But to all who did receive him, who believed in his name, he gave the right to become children of God.”
 <br><br>
@@ -270,7 +269,6 @@ I don’t know of any better way to make plain the importance of this or the mea
 > *E’er since by faith I saw the stream Thy flowing wounds supply, Redeeming love has been my theme, And Shall be till I die.* ([C. H. Spurgeon Autobiography: The Early Years](https://www.amazon.com/dp/0851510760)1, 87–88)
 <br><br>
 Reference: <a href = "https://www.desiringgod.org/messages/the-son-of-man-must-be-lifted-up-like-the-serpent#full-video" target="_blank" rel="noopener noreferrer">Desiring God | The Son of Man Must Be Lifted Up — Like the Serpent by John Piper</a>
-      </p>
     </li>
     <li>
       <input type="checkbox" checked>
