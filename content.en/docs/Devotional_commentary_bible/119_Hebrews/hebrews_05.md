@@ -3,7 +3,7 @@ weight: 5
 title: Hebrews 05
 authors: Lenny
 categories: null
-tags: 
+tags: [Gethsemane]
 description: 
 draft: false
 date: "2023-03-12"
@@ -343,7 +343,7 @@ toc: true
 <br>
 09:17 Jesus, with strong crying and tears and in agony, was praying to his Father. He was praying to the one who could save him from death. And he was heard. God heard him in that he feared. We got to talk about Gethsemane. 
 <br>
-09:43 There is something about Gethsemane that ties into the high priesthood. Of our savior. He's priest after the order of Melchizedek. He's priest after the order of Melchizedek. But in the days of his flesh in the garden of Gethsemane, he cried out. 
+09:43 There is something about Gethsemane that ties into the high priesthood of our savior. He is priest after the order of Melchizedek. He is priest after the order of Melchizedek. But in the days of his flesh in the garden of Gethsemane, he cried out. 
 <br>
 10:01 He cried out with crying in tears to his father, and his father heard him, and his father saved him from death. Now, Brother Bagwell, that really doesn't make sense. Okay, I'm going to give you what 50% of the commentators say about Gethsemane. 
 <br>
@@ -359,9 +359,9 @@ toc: true
 <br>
 12:03 I told you, Brother Bagwell, when presented with a choice, will always take the choice that makes Jesus look best. That most exalts says, you're never going to get me to sign on the dotted line. That Jesus was trying to escape Calvary, that he got scared, that he became fearful. 
 <br>
-12:21 No. The rest of the commentators, I'd say 40%, the better commentators, in my opinion, say, no. Jesus didn't get cold feet in the sense that he was trying to get out of it, but he was asking God to save him from death. 
+12:21 No. The rest of the commentators, I'd say 40%, the better commentators, in my opinion, say, no. Jesus didn't get cold feet in the sense that he was trying to get out of it, but <b>he was asking God to save him from death. 
 <br>
-12:41 Lord, I know I'm going to die on the cross. I understand that. But, Lord, then get me out of the ground. Raise me from the dead. Make the resurrection real. They say that's what he was praying for. And so it says he was heard. 
+12:41 Lord, I know I'm going to die on the cross. I understand that. But, Lord, then get me out of the ground. Raise me from the dead</b>. Make the resurrection real. They say that's what he was praying for. And so it says he was heard. 
 <br>
 12:53 He was heard. God delivered him from death. I like that view better, but I still don't think that's what was going on. I still don't think that's what was going on, Brother Bagwell. What do you think was going on? 
 <br>
@@ -381,9 +381,9 @@ toc: true
 <br>
 15:33 Some of you are going to disagree. I'm going to love you anyway. But it's the highest view of Jesus possible, I believe. I believe in the Garden of Gethsemane, he was facing imminent death right then and right there. 
 <br>
-15:52 Let me read it with strong crying and tears to the one that was able to save him from death. Not death a day later, not death hours later on the cross from death right then. I have read some medical reports to this effect that when a man is under such intense pressure, such intense turmoil, such intense conflict, if he ever begins to sweat blood, he is close to a mortal stroke. 
+15:52 Let me read it with strong crying and tears to the one that was able to save him from death. Not death a day later, not death hours later on the cross from death right then. <b>I have read some medical reports to this effect that when a man is under such intense pressure, such intense turmoil, such intense conflict, if he ever begins to sweat blood, he is close to a mortal stroke. 
 <br>
-16:32 He is close to dropping dead. Here's what I believe is going on. I believe in the Garden of Gethsemane, the Devil showed up one more time in the life of Jesus and tried to kill him. Tried to kill him then and there. 
+16:32 He is close to dropping dead</b>. Here's what I believe is going on. I believe in the Garden of Gethsemane, the Devil showed up one more time in the life of Jesus and tried to kill him. Tried to kill him then and there. 
 <br>
 16:55 I have no doubt. I can show you place after place in Jesus' life where the Devil tried to extinguish Jesus as a human being, as the God man tried to kill him. Prior to Calvary, <b>the Devil would have stopped Jesus from going to the cross any way he could have</b>, because <b>the Devil knows the cross is his defeat</b>. 
 <br>
@@ -401,13 +401,13 @@ toc: true
 <br>
 19:12 Preacher I'll think about it. Never heard anything like that in all my life before. This is not a private interpretation. I've not come up with this on my own. I've heard men of God preach it. I've thought it through very few, but 
 <br>
-19:29 In my heart that's what's going on. Oh Father, would you save me from death? Would you agree with this? I think the devil tried to kill Jesus before he was born. A young virgin girl riding a donkey from her hometown all the way to Bethlehem. 
+19:29 In my heart that's what's going on. Oh Father, would you save me from death? Would you agree with this? I think <b>the devil tried to kill Jesus before he was born</b>. A young virgin girl riding a donkey from her hometown all the way to Bethlehem. 
 <br>
-19:52 That little body shaking as that little animal. No doubt Joseph led him. If the devil could, <b>he would have brought a miscarriage in Jesus</b>. God's son would have never come. And then they got into Bethlehem and there's no place for them to stay. 
+19:52 That little body shaking as that little animal. No doubt Joseph led him. <b>If the devil could, he would have brought a miscarriage in Jesus. God's son would have never come</b>. And then they got into Bethlehem and there's no place for them to stay. 
 <br>
-20:11 None of Joseph's relatives would give them access. And the baby is born in a stable, in a cave. The baby is born and laid in a cow trough, a manger. You ever heard of infection? You ever heard of it? 
+20:11 None of Joseph's relatives would give them access. And the baby is born in a stable, in a cave. The baby is born and laid in a cow trough, a manger. <b>You ever heard of infection? You ever heard of it? 
 <br>
-20:25 Devil would love to kill him in infancy. And then have you heard of Herod's henchmen? Herod's assassins, killing all the little baby boys he was after Jesus. The devil's trying to kill the Lord Jesus Christ. 
+20:25 Devil would love to kill him in infancy</b>. And then <b>have you heard of Herod's henchmen? Herod's assassins, killing all the little baby boys he was after Jesus. The devil's trying to kill the Lord Jesus Christ</b>. 
 <br>
 20:40 God had Joseph taken him to Egypt until that Herod was dead. First sermon Jesus ever preached, he preached from Isaiah 61. They got so mad at him, they took him outside his hometown, Nazareth. Tried to push him over a cliff. 
 <br>
@@ -417,7 +417,7 @@ toc: true
 <br>
 21:29 Devil's trying to kill him at the whipping post. And now one last lunge at Gethsemane I'll kill you. I'll kill you. And Jesus didn't want to die that short of his goal. Hallelujah. He didn't want to die that short of calvary. 
 <br>
-21:48 And I thank Jesus with strong crying in tears, offering an olive branch to the Father. I beg you, Father, don't let me die here. Spare my life. Let me live. Don't let me die here and now. Let me go to that cross. 
+21:48 And I thank Jesus with strong crying in tears, offering an olive branch to the Father. <b>I beg you, Father, don't let me die here. Spare my life. Let me live. Don't let me die here and now. Let me go to that cross</b>. 
 <br>
 22:02 Let them nail me to the let me shed my blood so sinners can be saved by the grace of God. Strong crying in tears saved me from death. And he was heard. He was heard in that he feared. Almighty God said, Son, you have learned obedience. 
 <br>
