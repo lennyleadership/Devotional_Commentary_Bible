@@ -415,7 +415,7 @@ toc: true
 <br>
 21:08 The Devil wanted Jesus stoned to death before he got to Calvary. The flogging. The scourging. Many a man never survived live discouraging. There are records in Roman history. The Cat of Nine tails ripped intestines open, bowels spilled out on the ground and men convulsed to death. 
 <br>
-21:29 Devil's trying to kill him at the whipping post. And now one last lunge at Gethsemane I'll kill you. I'll kill you. And Jesus didn't want to die that short of his goal. Hallelujah. He didn't want to die that short of calvary. 
+21:29 Devil's trying to kill him at the whipping post. And now one last lunge at Gethsemane I'll kill you. I'll kill you. And Jesus didn't want to die that short of his goal. Hallelujah. He didn't want to die that short of Calvary. 
 <br>
 21:48 And I thank Jesus with strong crying in tears, offering an olive branch to the Father. <b>I beg you, Father, don't let me die here. Spare my life. Let me live. Don't let me die here and now. Let me go to that cross</b>. 
 <br>
