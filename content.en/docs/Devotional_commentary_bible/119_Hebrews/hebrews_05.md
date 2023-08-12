@@ -421,6 +421,8 @@ toc: true
 <br>
 22:02 Let them nail me to the let me shed my blood so sinners can be saved by the grace of God. Strong crying in tears saved me from death. And he was heard. He was heard in that he feared. Almighty God said, Son, you have learned obedience. 
 <br>
+<br>second point
+<br>
 22:24 You have learned that obedience is not just something passive. Mary the Virgin, be it unto me according to Thy word. That's obedience, that's beautiful obedience, but that's <b>passive obedience</b>. Be it unto me according to Thy word. 
 <br>
 22:38 Jesus goes so much far beyond that. Jesus says, Father, not just be it unto me according to Thy word. This is not some milk toast, Lord, I'll die for you. You asked me to, and I'm going to do. He said, Father, I'll fight for it. 
