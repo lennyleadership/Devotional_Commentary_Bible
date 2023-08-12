@@ -387,7 +387,7 @@ toc: true
 <br>
 16:55 I have no doubt. I can show you place after place in Jesus' life where the Devil tried to extinguish Jesus as a human being, as the God man tried to kill him. Prior to Calvary, <b>the Devil would have stopped Jesus from going to the cross any way he could have</b>, because <b>the Devil knows the cross is his defeat</b>. 
 <br>
-17:21 Blood of Jesus being shed is the downfall of Satan and all sin and all wickedness. Hey, I got to show you something. If I'm anywhere near right that's two times the Devil brought an onslaught against Jesus face. 
+17:21 <b>Blood of Jesus being shed is the downfall of Satan and all sin and all wickedness</b>. Hey, I got to show you something. If I'm anywhere near right that's two times the Devil brought an onslaught against Jesus face. 
 <br>
 17:42 To face once was the 40 days in the wilderness. Three times turn the stones into bread. I'm not going to review them all. You know the three prongs of the temptation. Jump on the temple, bow down and worship me three times. 
 <br>
