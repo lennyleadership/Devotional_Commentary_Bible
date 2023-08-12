@@ -349,9 +349,9 @@ toc: true
 <br>
 10:25 I do not agree with them. They say that when Gethsemane came, when Jesus got that near the cross, that Jesus got cold feet, that Jesus began to fear that Jesus turned turned they won't use this word, but it's exactly what they mean. 
 <br>
-10:46 That <u class = "red">Jesus turned chicken</u> and he was begging God that he wouldn't have to die, that he was trying to wiggle out somehow of his obligation, of his commitment. I don't know. He had an obligation of his commitment to go to Calvary. 
+10:46 That <u class = "red">Jesus turned a chicken</u> and he was begging God that he wouldn't have to die, that he was trying to wiggle out somehow of his obligation, of his commitment. I don't know. He had an obligation of his commitment to go to Calvary. 
 <br>
-11:06 Well, he did have an obligation. He said to Nicodemus, the Son of man must is obligated to be lifted up on that cross. You will never convince this Bible teacher. You will never convince this preacher Jesus <u class = "red">got chicken</u> on the eve of Calvary. 
+11:06 Well, he did have an obligation. He said to Nicodemus, the Son of man must is obligated to be lifted up on that cross. You will never convince this Bible teacher. You will never convince this preacher Jesus <u class = "red">got a chicken</u> on the eve of Calvary. 
 <br>
 11:25 No, I will never, never believe it. Not when there are verses in John that says, and Jesus, not that he did not have apprehension, my soul is troubled, but for this cause came I. He came to die on Calvary. 
 <br>
@@ -375,11 +375,11 @@ toc: true
 <br>
 14:22 I'm willing to die. But, oh, Father, if you would raise me from the dead, deliver me ultimately from what do you think is going on? Exactly what this verse says. Watch, in the days of his flesh when he had offered up prayers and supplications he is praying. 
 <br>
-14:47 Luke said his prayers. Luke said as he prayed he prayed so earnestly his sweat became as drops of blood. And that word supper he's begging. He's begging something from his Father. And it plainly says and the Father heard him, granted him his request strong crying and tears under the hymn that was able to save him from death. 
+14:47 Luke said his prayers. Luke said as he prayed he prayed so earnestly his sweat became as drops of blood. And that word supper <b>he's begging</b>. He's begging something from his Father. And it plainly says and the Father heard him, granted him his request strong crying and tears under the hymn that was able to save him from death. 
 <br>
 15:18 Here's what I believe Hebrews is teaching and here's what I believe was going on in the life of our precious Savior. Would you allow me just to get a little swallow of water? I've been looking forward to sharing this with you. 
 <br>
-15:33 Some of you are going to disagree. I'm going to love you anyway. But it's the highest view of Jesus possible, I believe. I believe in the Garden of Gethsemane, he was facing imminent death right then and right there. 
+15:33 Some of you are going to disagree. I'm going to love you anyway. But it's the highest view of Jesus possible, I believe. I believe in the Garden of Gethsemane, <b>he was facing imminent death</b> right then and right there. 
 <br>
 15:52 Let me read it with strong crying and tears to the one that was able to save him from death. Not death a day later, not death hours later on the cross from death right then. <b>I have read some medical reports to this effect that when a man is under such intense pressure, such intense turmoil, such intense conflict, if he ever begins to sweat blood, he is close to a mortal stroke. 
 <br>
