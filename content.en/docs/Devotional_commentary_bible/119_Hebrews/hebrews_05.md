@@ -749,10 +749,31 @@ toc: true
 37:45 But God willing, another class tomorrow when we will begin Hebrews chapter six. Let me know if you learned. Word of encouragement is always helpful.
       </p>
     </li>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2><span style="font-weight: bold">GotQuestions</span> | What does it mean that Jesus learned obedience by the things He suffered (Hebrews 5:8)?</h2>
+      <p>
+Hebrews 5:8–10 says, “Son though he was, [Jesus] learned obedience from what he suffered and, once made perfect, he became the source of eternal salvation for all who obey him and was designated by God to be high priest in the order of Melchizedek.” As with any passage, context is essential for understanding these verses.
+
+The entire epistle explains to the Hebrews their own Scriptures. The writer takes them from what they knew—the Old Testament, especially the Law of Moses—to what they had not known until now, the revelation of how Jesus fulfilled the Old Testament and brought them into a New Covenant with God (Hebrews 8:1–13; 9:15). The context of chapters 4 through 10 explains how the Levitical priesthood and temple are no longer on earth but in heaven and how Jesus serves as our perfect, final, and eternal [high priest](https://www.gotquestions.org/Jesus-High-Priest.html).
+
+The immediate context runs from Hebrews 4:14 through 5:10 and deals with Jesus’ qualifications to serve as the one and only High Priest in heaven for all people, for all time. Here (and elsewhere in Hebrews) we learn that Jesus was fully divine yet fully human and that He was without sin yet experienced temptation and human weakness. Because of Jesus’ unique nature and experience, He can fully relate to our struggles as He performs the priestly duties required by the Law for the forgiveness of our sins.
+
+Focusing on Hebrews 5:8—an inseparable part of one sentence running for three verses—we have an extremely condensed version of Jesus’ life on earth. He was the infinite Son of God who nevertheless experienced the limits of space and time and life as we do. God could have created a fully grown adult body for Jesus as He did for Adam and rushed Him to the cross, but He didn’t. Instead, Jesus left heaven, entered time (Philippians 2:5–8), and experienced for Himself ordinary human life from birth to adulthood to death. Learning and suffering and death are part of the life experience for all people, and God ensured that His own Son would be no exception. As God, Jesus did not need to learn anything, especially obedience; yet, at His [incarnation](https://www.gotquestions.org/incarnation-of-Christ.html), Jesus limited Himself to the human experience. He chose the weak position of having to learn and grow (Luke 2:52).
+
+Jesus “learned obedience” not in the sense that He was prone to disobedience and had to bring rebelliousness under control, but in the sense that He fully entered the human experience. As a child, He obeyed His parents (Luke 2:51); as an adult, He obeyed the Law (Matthew 5:17) and fulfilled all righteousness (Matthew 3:15). All His life, Jesus completely fulfilled the Father’s will (John 8:29; 15:10; Hebrews 10:9). He knew what obedience was prior to His incarnation, of course, but He “learned” obedience on earth by experiencing it. In every situation, no matter how difficult, the Son was obedient to the Father: “The Sovereign Lord has opened my ears; I have not been rebellious, I have not turned away. I offered my back to those who beat me” (Isaiah 50:5–6).
+
+Jesus learned obedience “from what He suffered.” As the divine [Son of God](https://www.gotquestions.org/Jesus-Son-of-God.html), Jesus did not have to suffer, but as the [Son of Man](https://www.gotquestions.org/Jesus-Son-of-Man.html), suffering was required to learn obedience. The Greek word used in Hebrews 5:8 for “suffered” usually refers to enduring unpleasant experiences like disease (Mark 5:26) or persecution (Acts 8:1). But it often also implies enduring a challenging process that transforms the sufferer (Romans 5:3; 2 Corinthians 1:3–9). That is the sense in which the word is used in Hebrews 5:8 (see also Hebrews 2:10). Jesus chose to endure an unpleasant, challenging process because it was the will of His Father for His brief time on earth. After that process Jesus had been “made perfect.” It is crucial to note that *perfect* here means “complete,” as in finishing a full course of training or education—or, in Jesus’ case, He finished an altogether righteous human life and had a complete understanding of human frailty and suffering. It was Christ’s total human obedience, coming through extreme suffering, that qualifies Him to be our eternal High Priest, “now crowned with glory and honor because he suffered death” (Hebrews 2:9).
+
+Having been “perfected,” not morally but in relation to His ministry as our Savior, Jesus is qualified to be “the source [or author] of eternal salvation for all who obey him” (Hebrews 5:9). Jesus’ high priesthood is not a temporal Levitical priesthood but is everlasting, “in the order of [Melchizedek](https://www.gotquestions.org/Melchizedek-priesthood.html)” (verse 10).
+
+The astonishing eternal results of the process Jesus endured are expounded on throughout the Bible but beautifully wrapped up in this passage:
+
+“Now there have been many of those priests, since death prevented them from continuing in office; but because Jesus lives forever, he has a permanent priesthood. Therefore he is able to save completely those who come to God through him, because he always lives to intercede for them. Such a high priest truly meets our need—one who is holy, blameless, pure, set apart from sinners, exalted above the heavens. Unlike the other high priests, he does not need to offer sacrifices day after day, first for his own sins, and then for the sins of the people. He sacrificed for their sins once for all when he offered himself. For the law appoints as high priests men in all their weakness; but the oath, which came after the law, appointed the Son, who has been made perfect forever” (Hebrews 7:23–28).
+
+[Reference: <a href = "https://www.gotquestions.org/Jesus-learned-obedience.html" target="_blank" rel="noopener noreferrer">What does it mean that Jesus learned obedience by the things He suffered (Hebrews 5:8)?</a>]
+      </p>
+    </li>
   </ul>
-  
-<style>
-
-
-</style>
 </div>
