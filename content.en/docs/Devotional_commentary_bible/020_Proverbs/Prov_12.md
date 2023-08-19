@@ -3,7 +3,7 @@ weight: 12
 title: Proverbs 12
 authors: Lenny Lin
 categories: null
-tags: [The Righteous]
+tags: [The Righteous, Living wisdom, Horizontal relationship, Speech]
 description: 
 draft: false
 date: "2023-01-31"
@@ -47,7 +47,7 @@ toc: true
 
 12:16 A fool's wrath is presently known: but a prudent man covereth shame.  
 12:17 He that speaketh truth sheweth forth righteousness: but a false witness deceit.  
-12:18 There is that speaketh like the piercings of a sword: but the tongue of the wise is health.  
+12:18 There is that speaketh like the piercings of a sword: but the tongue of the wise is health.<a class = "marginnote">Living wisdom | horizontal relationship | speach</a>  
 12:19 The lip of truth shall be established for ever: but a lying tongue is but for a moment.  
 12:20 Deceit is in the heart of them that imagine evil: but to the counsellors of peace is joy.  
 

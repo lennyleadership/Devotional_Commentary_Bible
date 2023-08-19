@@ -4,11 +4,11 @@ title: Proverbs 18
 authors: Lenny Lin
 categories: null
 tags: []
+series:
 description: 
 draft: false
 date: "2023-06-29"
 lastmod: "2023-06-29"
-series:
 toc: true
 ---
 
