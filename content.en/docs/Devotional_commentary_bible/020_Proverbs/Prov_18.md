@@ -3,12 +3,12 @@ weight: 18
 title: Proverbs 18
 authors: Lenny Lin
 categories: null
-tags: []
+tags: [言语, Words]
 series:
 description: 
 draft: false
 date: "2023-06-29"
-lastmod: "2023-06-29"
+lastmod: "2023-08-24"
 toc: true
 ---
 
