@@ -46,8 +46,8 @@ toc: true
 18:16 A man's gift maketh room for him, and bringeth him before great men.  
 18:17 He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.  
 18:18 The lot causeth contentions to cease, and parteth between the mighty.  
-18:19 A brother offended is harder to be won than a strong city: and their contentions are like the bars of a castle.  
-18:20 A man's belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled.  
+18:19 <b>A brother offended is harder to be won</b> than a strong city: and their contentions are like the bars of a castle.  
+18:20 A man's belly shall be satisfied with <b>the fruit of his mouth</b>; and with the increase of his lips shall he be filled.  
 
 18:21 Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.  
 18:22 Whoso findeth a wife findeth a good thing, and obtaineth favour of the LORD.  
