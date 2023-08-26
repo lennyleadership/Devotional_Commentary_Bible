@@ -754,8 +754,10 @@ toc: true
       <i></i>
       <h2><span style="font-weight: bold">George H Guthrie</span> | Jesus "Learned Obedience" (Heb. 5:8)?</h2>
       <p>
-      The verb translated as “learn” (manthanō) could be used in a variety of ways in the ancient world. It often meant “to gain knowledge or a skill” through instruction (e.g. Rom. 16:17), but it also could carry the sense of "coming to know something firsthand through personal experience,” and I think that is what we are dealing with in Hebrews 5.
-      <br>Understandably, this verse can make us a bit uneasy if we hear it saying that Jesus was disobedient to the Father and then became obedient. 
+      The verb translated as “learn” (manthanō) could be used in a variety of ways in the ancient world. It often meant “to gain knowledge or a skill” through instruction (e.g. Rom. 16:17), but it also could carry the sense of "<b>coming to know something firsthand through personal experience</b>,” and I think that is what we are dealing with in Hebrews 5.
+      <br>Understandably, this verse can make us a bit uneasy if we hear it saying that Jesus was disobedient to the Father and then became obedient.
+      <br>when the author says Jesus “learned obedience” he specifically had in mind Jesus’ suffering to the point of death on the cross.
+      <br>when Hebrews says that Jesus "learned obedience," the author speaks of Jesus going through a new life experience, that of persevering in saying “yes” to the Father all the way to the point of death as our sacrifice for sin. 
       <br>Reference: <a href = "https://georgehguthrie.com/new-blog/jesuslearnedobedience" target="_blank" rel="noopener noreferrer">georgehguthrie.com | Jesus "Learned Obedience" (Heb. 5:8)?</a>
       </p>
     </li>
