@@ -752,6 +752,15 @@ toc: true
     <li>
       <input type="checkbox" checked>
       <i></i>
+      <h2><span style="font-weight: bold">George H Guthrie</span> | Jesus "Learned Obedience" (Heb. 5:8)?</h2>
+      <p>
+      The verb translated as “learn” (manthanō) could be used in a variety of ways in the ancient world. It often meant “to gain knowledge or a skill” through instruction (e.g. Rom. 16:17), but it also could carry the sense of "coming to know something firsthand through personal experience,” and I think that is what we are dealing with in Hebrews 5.
+      <br>Reference: <a href = "https://georgehguthrie.com/new-blog/jesuslearnedobedience" target="_blank" rel="noopener noreferrer">georgehguthrie.com | Jesus "Learned Obedience" (Heb. 5:8)?</a>
+      </p>
+    </li>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
       <h2><span style="font-weight: bold">GotQuestions</span> | What does it mean that Jesus learned obedience by the things He suffered (Hebrews 5:8)?</h2>
       <p>
 Hebrews 5:8–10 says, “Son though he was, [Jesus] learned obedience from what he suffered and, once made perfect, he became the source of eternal salvation for all who obey him and was designated by God to be high priest in the order of Melchizedek.” As with any passage, context is essential for understanding these verses.
@@ -775,6 +784,7 @@ The astonishing eternal results of the process Jesus endured are expounded on th
 [Reference: <a href = "https://www.gotquestions.org/Jesus-learned-obedience.html" target="_blank" rel="noopener noreferrer">What does it mean that Jesus learned obedience by the things He suffered (Hebrews 5:8)?</a>]
       </p>
     </li>
+
   </ul>
 </div>
 
