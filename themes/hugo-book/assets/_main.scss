@@ -20,7 +20,7 @@ body {
     box-sizing: inherit;
   }
   
-  counter-reset: counter(sidenote-counter); /*for tufte sidenote*/
+  /*counter-reset: counter(sidenote-counter)*/; /*for tufte sidenote*/
 }
 
 
@@ -1057,13 +1057,13 @@ section.study {
 }
 
 .sidenote-number {
-    counter-increment: counter(sidenote-counter);
+    /*counter-increment: counter(sidenote-counter);*/
 }
 
 
 .sidenote-number:after,
 .sidenote:before {
-    content: counter(sidenote-counter);
+    /*content: counter(sidenote-counter);*/
     font-family: et-book-roman-old-style;
     position: relative;
     vertical-align: baseline;
@@ -1071,7 +1071,7 @@ section.study {
 
 
 .sidenote-number:after {
-    content: counter(sidenote-counter);
+    /*content: counter(sidenote-counter);*/
     font-size: 1rem;
     top: -0.5rem;
     left: 0.1rem;
@@ -1079,7 +1079,7 @@ section.study {
 
 
 .sidenote:before {
-    content: counter(sidenote-counter);
+    /*content: counter(sidenote-counter);*/
     top: -0.5rem;
 }
 
