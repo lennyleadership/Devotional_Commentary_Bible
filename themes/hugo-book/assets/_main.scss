@@ -1057,7 +1057,7 @@ section.study {
 }
 
 .sidenote-number {
-    counter-increment: sidenote-counter;
+    counter-increment: counter(sidenote-counter);
 }
 
 
