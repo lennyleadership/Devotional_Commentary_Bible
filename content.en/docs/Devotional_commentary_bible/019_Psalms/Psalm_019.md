@@ -44,10 +44,10 @@ toc: true
 19:14 Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.  
 
 <p id="1">[1] a portion of a poem:  
-I have sinned times without number,  
-and been guilty of pride and unbelief,  
-of failure to find thy mind in thy Word,  
-of neglect to seek thee in my daily life.  
+<br>I have sinned times without number,  
+<br>and been guilty of pride and unbelief,  
+<br>of failure to find thy mind in thy Word,  
+<br>of neglect to seek thee in my daily life.  
 
 <i>Reference: <a href = "https://banneroftruth.org/us/devotional/confession-and-petition/" target="_blank" rel="noopener noreferrer">Banner of Truth | Confession and Petition</a></i>
 <a href="#1_ref">&#8617;</a></p>
