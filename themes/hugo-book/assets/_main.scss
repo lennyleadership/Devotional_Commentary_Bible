@@ -1079,7 +1079,7 @@ section.study {
 
 
 .sidenote:before {
-    /*content: counter(sidenote-counter);*/
+    content: counter(sidenote-counter);
     top: -0.5rem;
 }
 
