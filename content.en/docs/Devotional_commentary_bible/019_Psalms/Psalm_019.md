@@ -41,7 +41,7 @@ toc: true
 19:11 Moreover by them is thy servant warned: and in keeping of them there is great reward.  
 19:12 Who can understand his errors? cleanse thou me from <b>secret faults</b>.  
 19:13 Keep back thy servant also from <b>presumptuous sins</b><a id="1_ref" href = "#1"><sup>[1]</sup></a>; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression. <a class = "sidenote">test</a>  
-19:14 Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer. <a class = "sidenote">test2</a>  
+19:14 Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer. <label for="sn-in-his-later-books" class="margin-toggle sidenote-number"></label></span><input type="checkbox" id="sn-in-his-later-books" class="margin-toggle"/><span class="sidenote"><a href="http://www.edwardtufte.com/tufte/books_be"><em>Beautiful Evidence</em></a></span>  
 
 <p id="1">[1] a portion of a poem:  
 <br>I have sinned times without number,  
