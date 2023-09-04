@@ -40,7 +40,7 @@ toc: true
 
 19:11 Moreover by them is thy servant warned: and in keeping of them there is great reward.  
 19:12 Who can understand his errors? cleanse thou me from <b>secret faults</b>.  
-19:13 Keep back thy servant also from <b>presumptuous sins</b><a id="1_ref" href = "#1">[1]</a>; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.  
+19:13 Keep back thy servant also from <b>presumptuous sins</b><a id="1_ref" href = "#1"><sup>[1]</sup></a>; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.  
 19:14 Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.  
 
 <p id="1">[1] a portion of a poem:  
@@ -49,7 +49,7 @@ and been guilty of pride and unbelief,
 of failure to find thy mind in thy Word,  
 of neglect to seek thee in my daily life.  
 
-Reference: <a href = "https://banneroftruth.org/us/devotional/confession-and-petition/" target="_blank" rel="noopener noreferrer">Banner of Truth | Confession and Petition</a>
+<i>Reference: <a href = "https://banneroftruth.org/us/devotional/confession-and-petition/" target="_blank" rel="noopener noreferrer">Banner of Truth | Confession and Petition</a></i>
 <a href="#1_ref">&#8617;</a></p>
 </div>
 
