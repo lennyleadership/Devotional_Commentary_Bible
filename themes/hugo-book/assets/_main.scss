@@ -20,7 +20,7 @@ body {
     box-sizing: inherit;
   }
   
-  /*counter-reset: counter(sidenote-counter)*/; /*for tufte sidenote*/
+  counter-reset: sidenote-counter; /*for tufte sidenote*/
 }
 
 
