@@ -1055,6 +1055,16 @@ section.study {
 
 /* Tufte webpage (body and margine) layout *********************************/
 
+body {
+    width: 87.5%; /* 87.5*/
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5%; /*left margin: 12.5*/
+    font-family: Calibri;
+    color: #111;
+    max-width: 1400px;
+    counter-reset: sidenote-counter;
+}
 
 .sidenote,
 .marginnote {
@@ -1064,7 +1074,8 @@ section.study {
     width: 50%; /*50*/
     margin-top: 0.3rem;
     margin-bottom: 0;
-    font-size: 1.1rem;
+    font-size: .8rem; /*define the side note font size*/
+    font-style: italic;
     line-height: 1.3;
     vertical-align: baseline;
     position: relative;
@@ -1089,15 +1100,16 @@ section.study {
 
 .sidenote-number:after {
     content: counter(sidenote-counter);
-    font-size: 1rem;
+    font-size: 1rem;/*define the numbering index in the body*/
     top: -0.5rem;
-    left: 0.1rem;
+    left: 0.3rem;
 }
 
 
 .sidenote:before {
     content: counter(sidenote-counter) " ";
     font-size: 1rem;
+    font-style: italic*; /* define the numbering index in the sidenote*/
     top: -0.5rem;
 }
 
@@ -1105,6 +1117,7 @@ section.study {
 label.sidenote-number {
     display: inline-block;
     max-height: 2rem; /* should be less than or equal to paragraph line-height */
+    font-style: italic;
 }
 
 
@@ -1116,7 +1129,6 @@ label.margin-toggle:not(.sidenote-number) {
 
 
 
-/* end *********************************************************************************************
 
 
 
