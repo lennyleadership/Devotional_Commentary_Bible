@@ -47,12 +47,13 @@ toc: true
 18:17 He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.  
 18:18 They prevented me in the day of my calamity: but the LORD was my stay.  
 18:19 He brought me forth also into a large place; he delivered me, because he delighted in me.  
-<b>18:20 The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me</b>. <a class = "marginnote">v20: abundant providence. 上帝丰富的供应。(God has repaid (NASV) or rewarded (ESV) me according to the cleanness of my hands.</a>    
+<b>18:20 The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me</b>. 
+<label for="18:20" class="margin-toggle sidenote-number"></label><span class="sidenote">v20: abundant providence. 上帝丰富的供应。(God has repaid (NASV) or rewarded (ESV) me according to the cleanness of my hands.</span>
 
 18:21 For I have kept the ways of the LORD, and have not wickedly departed from my God.  
 18:22 For all his judgments were before me, and I did not put away his statutes from me.  
 18:23 I was also upright before him, and I kept myself from mine iniquity.  
-<b>18:24 Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight</b>. <a class = "marginnote">v20 and v24 is parallel</a>  
+<b>18:24 Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight</b>. <label for="18:24" class="margin-toggle sidenote-number"></label><span class="sidenote">v20 and v24 is parallel</span>    
 18:25 With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright;  
 
 18:26 With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward.  
@@ -61,7 +62,7 @@ toc: true
 18:29 For by thee I have run through a troop; and by my God have I leaped over a wall.  
 18:30 As for God, his way is perfect: the word of the LORD is tried: he is a buckler to all those that trust in him.  
 
-18:31 For who is God save the LORD? or who is a rock save our God? <a class = "marginnote">v31-35 subject: a gospel message: Who God is? Whoever does not equip me with strength, and does not make my way blameless is not God.  This is the criteria to separate the LORD God from other gods.</a>    
+18:31 For who is God save the LORD? or who is a rock save our God? <label for="18:31" class="margin-toggle sidenote-number"></label><span class="sidenote">v31-35 subject: a gospel message: Who God is? Whoever does not equip me with strength, and does not make my way blameless is not God.  This is the criteria to separate the LORD God from other gods.</span>   
 18:32 It is God that girdeth me with strength, and maketh my way perfect.  
 18:33 He maketh my feet like hinds' feet, and setteth me upon my high places.  
 18:34 He teacheth my hands to war, so that a bow of steel is broken by mine arms.  
