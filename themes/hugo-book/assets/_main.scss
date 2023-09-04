@@ -1057,13 +1057,13 @@ section.study {
 }
 
 .sidenote-number {
-    counter-increment: counter(sidenote-counter);
+    counter-increment: sidenote-counter;
 }
 
 
 .sidenote-number:after,
 .sidenote:before {
-    content: counter(sidenote-counter);
+    /*content: counter(sidenote-counter);*/
     font-family: et-book-roman-old-style;
     position: relative;
     vertical-align: baseline;
@@ -1079,7 +1079,7 @@ section.study {
 
 
 .sidenote:before {
-    content: counter(sidenote-counter);
+    content: counter(sidenote-counter) "";
     top: -0.5rem;
 }
 
