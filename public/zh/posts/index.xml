@@ -1,21 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories &amp; Tags on Devotional Commentary Bible</title>
-    <link>https://devotional-commentary-bible.netlify.app/zh/posts/</link>
-    <description>Recent content in Categories &amp; Tags on Devotional Commentary Bible</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://devotional-commentary-bible.netlify.app/zh/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Reftagger</title>
-      <link>https://devotional-commentary-bible.netlify.app/zh/posts/Obadiah_test/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://devotional-commentary-bible.netlify.app/zh/posts/Obadiah_test/</guid>
-      <description>Obadiah 1:1
-Obadiah 1:3
-俄1:3
-var refTagger = {settings: {bibleVersion: &#34;hlybblsmpshndtn&#34; /*&#39;KJV&#39;*/}}; (function(d, t) {var n=d.querySelector(&#39;[nonce]&#39;);refTagger.settings.nonce = n &amp;&amp; (n.nonce||n.getAttribute(&#39;nonce&#39;));var g = d.createElement(t), s = d.getElementsByTagName(t)[0];g.src = &#39;https://api.reftagger.com/v2/RefTagger.js&#39;;g.nonce = refTagger.settings.nonce;s.parentNode.insertBefore(g, s);}(document, &#39;script&#39;));  </description>
-    </item>
-    
-  </channel>
-</rss>
