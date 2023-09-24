@@ -21,7 +21,6 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  <button class="tablinks" onclick="tablabel(event, 'note')"></button>
 </div>
 
 <!-- Tab content -->
@@ -52,7 +51,6 @@ toc: true
 <a href="#1_ref">&#8617;</a></p>
 </div>
 
-Psalms
-<!--more-->
+
 
 
