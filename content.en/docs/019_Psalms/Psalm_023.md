@@ -21,6 +21,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'note')">The Names of God</button>
 </div>
 
 <!-- Tab content -->
@@ -54,5 +55,14 @@ Side notes on the names of God is referred to <a href = "https://jwipn.com/the-n
 </div>
 
 
+<div id="note" class="tabcontent">
 
+23:1 The LORD is my shepherd; I shall not want.<label for="verse1" class="margin-toggle sidenote-number"></label><span class="sidenote">He is Jehovah-Raah—The Lord, my Shepherd!<br>He is Jehovah-Jireh—The Lord, my Provider!</span>  
+23:2 He maketh me to lie down in green pastures: he leadeth me beside the still waters.  
+23:3 He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.  
+23:4 Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.  
+23:5 Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.  
 
+23:6 Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.  
+
+</div>
