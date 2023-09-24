@@ -132,7 +132,7 @@ Strong’s Dictionary defines this word as “a maggot (as voracious); the crims
 
 So the word “tola’ath” or “towla” in Psalm 22:6 denotes not only a worm but also identifies it as a crimson or scarlet worm common to the Middle East and predominantly in Israel. It should be noted that the colors crimson and scarlet are very deep, blackish-red, which is the color of blood. And in this crimson worm, we find a hidden meaning of biblical significance.
 
-### The Life Cycle of the Crimson Worm
+<b>The Life Cycle of the Crimson Worm</b>
 
 The Crimson Worm (scientific name: coccus ilicis or kermes ilicis) looks more like a grub than a worm. In the lifecycle of this worm is where the remez is found. And it points to the work of Jesus on the cross.
 
@@ -144,11 +144,11 @@ On day four, the tail of the mother worm pulls up into her head, forming a heart
 
 *Isa 1:18 Come now, and let us reason together, saith the LORD: though your sins be as scarlet [shaniy – root word of tola’ath], they shall be as white as snow; though they be red like crimson [tola’ath], they shall be as wool.*
 
-### The Body of the Tola’ath
+<b>The Body of the Tola’ath</b>
 
 In biblical times, the red dye excreted from the Crimson Worm was used in the High Priest’s robe and probably for red dye used on ram’s skins to create the covering of the Tabernacle in the wilderness (Ex 26:1, 28:5). Uses of this red dye continue today. While still red and attached to the tree, the worm’s body and shell are scraped off and used to make what is called “Royal Red Dye.” The waxy material is used to make high-quality shellac, used in the Middle East as a wood preserver. And the remains of the Crimson Worm are also used in medicines that help regulate the human heart.
 
-### What Does Psalm 22 Mean: “I am a Worm”
+<b>What Does Psalm 22 Mean: “I am a Worm”</b>
 
 Was Jesus a “Crimson Worm” on the cross? In typology, yes!
 
@@ -161,7 +161,7 @@ Isa 1:18 … though your sins be as scarlet, they shall be as white as snow; tho
 - Just as the mother worm, when crushed, excretes a crimson, scarlet dye that both covers the baby worms and stains, or marks, them, Jesus was also bruised, or crushed, for our iniquities (Isa 53:5). His scourgings, and the nails that were driven into his hands and feet, brought forth His crimson, scarlet blood that both washes away our sins (Rev 1:5) and marks us as His own (Eph 2:13).
 - Finally, just as the baby worm is dependent on the mother worm for the crimson dye to give it life and to mark it, a repentant sinner must depend on the blood of Jesus for the forgiveness of sins, to receive new life, and to be marked as His own (Acts 4:12, 1 Pet 1:18-19).
 
-### A Little Red Worm
+<b>A Little Red Worm</b>
 
 In expounding on Psalm 22:6 (“But I am a worm, and no man; a reproach of men, and despised of the people”), Charles Spurgeon wrote:
 
@@ -169,7 +169,7 @@ In expounding on Psalm 22:6 (“But I am a worm, and no man; a reproach of men, 
 
 Jesus became poor. And in typology, having the sins of the world upon Himself, Jesus became like a worm, like a lowly crimson worm, hanging on a tree. (Job 25:6 and Isa 41:14 reveal the typology of sinful man as a worm.)
 
-### Nature Declares the Glory of God
+<b>Nature Declares the Glory of God</b>
 
 Look around and see all the whispers of Jesus. From the beauty of God’s creation — the sun, the moon, the stars, the land, the seas, the animals, and especially mankind — everything testifies of our amazing God. In the spring, we see new life emerging, and in the summer, we feel the sun’s warmth. In the fall, the colors of God’s “paintbrush” are vivid, and in the winter, the world rests in a blanket of white. All this is the lifecycle of nature. And all is a gift from God.
 
