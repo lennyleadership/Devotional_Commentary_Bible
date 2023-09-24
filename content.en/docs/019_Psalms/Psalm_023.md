@@ -26,7 +26,7 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-23:1 The LORD is my shepherd; I shall not want.  
+23:1 The LORD is my shepherd<label for="Raah" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Raah (the Lord my Shepherd)</span>; I shall not want<label for="jiren" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Jireh (the Lord my Provider)</span>.  
 23:2 He maketh me to lie down in green pastures: he leadeth me beside the still waters.  
 23:3 He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.  
 23:4 Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.  
