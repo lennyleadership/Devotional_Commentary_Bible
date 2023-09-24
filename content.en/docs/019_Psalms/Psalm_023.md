@@ -26,13 +26,15 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-23:1 The LORD is my shepherd<label for="Raah" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Raah (the Lord my Shepherd)</span>; I shall not want<label for="jiren" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Jireh (the Lord my Provider)</span>.  
+23:1 The LORD is my shepherd<label for="shepherd" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Raah (the Lord my Shepherd)</span>; I shall not want<label for="want" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Jireh (the Lord my Provider)</span>.  
 23:2 He maketh me to lie down in green pastures: he leadeth me beside the still waters<label for="pastures" class="margin-toggle sidenote-number"></label><span class="sidenote"> Jehovah-Shalom (the Lord my Peace)</span>.  
-23:3 He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.  
-23:4 Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.  
-23:5 Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.  
+23:3 He restoreth my soul<label for="rophe" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Rophe (the Lord my Healer)</span>: he leadeth me in the paths of righteousness<label for="righteousness" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Tsidkenu (the Lord is our Righteousness)</span> for his name's sake.  
+23:4 Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me<label for="with me" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Ezer (the Lord is my Help)</span>; thy rod and thy staff they comfort me.  
+23:5 Thou preparest a table<label for="table" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Nissi (the Lord is my Banner)</span> before me in the presence of mine enemies: thou anointest my head with oil<label for="anoint" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-M’Kaddesh (the Lord who sanctifies me)</span>; my cup runneth over<label for="run over" class="margin-toggle sidenote-number"></label><span class="sidenote">El Olam (the Everlasting God)</span>.  
 
-23:6 Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.  
+23:6 Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house<label for="house" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Nachalah (the Lord my inheritance)</span> of the LORD for ever.  
+
+Side notes on the names of God is referred to <a href = "https://jwipn.com/the-names-of-god-in-psalm-23/" target="_blank" rel="noopener noreferrer">TJericho Walls | he names of God in Psalm 23</a> 
 
 </div>
 
