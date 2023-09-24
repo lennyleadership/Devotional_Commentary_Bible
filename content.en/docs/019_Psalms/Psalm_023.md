@@ -43,12 +43,13 @@ toc: true
 23:2 他使我躺卧在青草地上、领我在可安歇的水边。  
 23:3 他使我的灵魂苏醒、为自己的名引导我走义路。  
 23:4 我虽然行过死荫的幽谷、也不怕遭害。因为你与我同在。你的杖、你的竿、都安慰我。  
-23:5 在我敌人面前、你为我摆设筵席。你用油膏了我的头、使我的福杯满溢<label for="筵席" class="margin-toggle sidenote-number"></label><span class="sidenote"><a href = "https://r.729ly.net/devotionals/devotionals-mw/devotionals-mw-mw220429" target="_blank" rel="noopener noreferrer">旷野吗哪 2022年4月29日：听我，扶我，藏我</a>
-</span>。  
+23:5 在我敌人面前、你为我摆设筵席。你用油膏了我的头、使我的福杯满溢。<a id="1_ref" href = "#1">[1]</a>  
 
 23:6 我一生一世必有恩惠慈爱随着我。我且要住在耶和华的殿中、直到永远。  
-^1]: 在敌人面前，神只会为你摆设丰盛的筵席，祂不会给你“残羹剩饭”。你是祂的儿女，再落魄也不会是“难民”。  
 
+<p id="1">[1] 在敌人面前，神只会为你摆设丰盛的筵席，祂不会给你“残羹剩饭”。你是祂的儿女，再落魄也不会是“难民”。 
+<br><a href = "https://r.729ly.net/devotionals/devotionals-mw/devotionals-mw-mw220429" target="_blank" rel="noopener noreferrer">旷野吗哪 2022年4月29日：听我，扶我，藏我</a>
+<a href="#1_ref">&#8617;</a></p>
 </div>
 
 Psalms
