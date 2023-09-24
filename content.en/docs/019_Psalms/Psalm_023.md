@@ -3,7 +3,7 @@ weight: 23
 title: Psalm 23
 authors: Lenny
 categories: null
-tags: [旷野吗哪]
+tags: ["Names of God", 旷野吗哪]
 description: 
 draft: false
 date: "2022-04-19"
@@ -34,7 +34,7 @@ toc: true
 
 23:6 Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house<label for="house" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Nachalah (the Lord my inheritance)</span> of the LORD for ever.  
 
-Side notes on the names of God is referred to <a href = "https://jwipn.com/the-names-of-god-in-psalm-23/" target="_blank" rel="noopener noreferrer">TJericho Walls | he names of God in Psalm 23</a> 
+Side notes on the names of God is referred to <a href = "https://jwipn.com/the-names-of-god-in-psalm-23/" target="_blank" rel="noopener noreferrer">Jericho Walls | he names of God in Psalm 23</a> 
 
 </div>
 
