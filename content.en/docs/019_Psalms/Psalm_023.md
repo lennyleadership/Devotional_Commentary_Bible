@@ -35,7 +35,7 @@ toc: true
 
 23:6 Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house<label for="house" class="margin-toggle sidenote-number"></label><span class="sidenote">Jehovah-Nachalah (the Lord my inheritance)</span> of the LORD for ever.  
 
-Side notes on the names of God is referred to <a href = "https://jwipn.com/the-names-of-god-in-psalm-23/" target="_blank" rel="noopener noreferrer">Jericho Walls | he names of God in Psalm 23</a> 
+Side notes on the names of God is referred to <a href = "https://jwipn.com/the-names-of-god-in-psalm-23/" target="_blank" rel="noopener noreferrer">Jericho Walls | The names of God in Psalm 23</a> 
 
 </div>
 
@@ -58,11 +58,12 @@ Side notes on the names of God is referred to <a href = "https://jwipn.com/the-n
 <div id="note" class="tabcontent">
 
 23:1 The LORD is my shepherd; I shall not want.<label for="verse1" class="margin-toggle sidenote-number"></label><span class="sidenote">He is Jehovah-Raah—The Lord, my Shepherd!<br>He is Jehovah-Jireh—The Lord, my Provider!</span>  
-23:2 He maketh me to lie down in green pastures: he leadeth me beside the still waters.  
-23:3 He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.  
-23:4 Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.  
-23:5 Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.  
+23:2 He maketh me to lie down in green pastures: he leadeth me beside the still waters.<label for="verse2" class="margin-toggle sidenote-number"></label><span class="sidenote">He is Jehovah-Shalom—The Lord, my Peace!</span>  
+23:3 He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.<label for="verse3" class="margin-toggle sidenote-number"></label><span class="sidenote">He is Jehovah-Rophe—The Lord, my Healer!<br>He is Jehovah-Tsidkeneau—The Lord of Righteousness!</span>  
+23:4 Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.<label for="verse4" class="margin-toggle sidenote-number"></label><span class="sidenote">He is Jehovah-Shama—The Lord is Present!<br>He is Jehovah-Ezer—The Lord, my Help!</span>  
+23:5 Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.<label for="verse5" class="margin-toggle sidenote-number"></label><span class="sidenote">He is Jehovah-Nissi—The Lord, my Standard of Victory!<br>He is Jehovah-InKaddesh— The Lord, my Holiness, my Sanctification!<br>He is Jehovah-Manah—The Lord my Portion!</span>  
 
-23:6 Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.  
+23:6 Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.<label for="verse6" class="margin-toggle sidenote-number"></label><span class="sidenote">He is Jehovah-Cheleq—The Lord my Inheritance!</span>  
 
+Side notes on the names of God is referred to <a href = "https://reasonsforhopejesus.com/names-jehovah-hidden-psalm-23/" target="_blank" rel="noopener noreferrer">Reasons for Hope Jesus | The Names of Jehovah hidden in Psalm 23! This will surprise you!</a> 
 </div>
