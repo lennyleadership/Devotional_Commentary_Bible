@@ -66,4 +66,6 @@ Side notes on the names of God is referred to <a href = "https://jwipn.com/the-n
 23:6 Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.<label for="verse6" class="margin-toggle sidenote-number"></label><span class="sidenote">He is Jehovah-Cheleq—The Lord my Inheritance!</span>  
 
 Side notes on the names of God is referred to <a href = "https://reasonsforhopejesus.com/names-jehovah-hidden-psalm-23/" target="_blank" rel="noopener noreferrer">Reasons for Hope Jesus | The Names of Jehovah hidden in Psalm 23! This will surprise you!</a> 
+
+many names of God revealed by the works of the Great Shepherd.  This is a remez (something hidden) that In Jewish hermeneutics (interpretation of Scripture), is a hidden message, or a deeper meaning found below the surface or behind the words. You can read about a remez in Revelation 7 and Genesis 5.  
 </div>
