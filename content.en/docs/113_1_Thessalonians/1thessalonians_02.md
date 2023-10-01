@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 title: 1 Thessalonians 2
 authors: Lenny
 categories: null
