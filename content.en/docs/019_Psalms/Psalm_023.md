@@ -49,9 +49,19 @@ Side notes on the names of God is referred to <a href = "https://jwipn.com/the-n
 
 23:6 我一生一世必有恩惠慈爱随着我。我且要住在耶和华的殿中、直到永远。  
 
+
+---
+[2023.10.10 Chalk River 周二信徒同事午餐聚会]  
+宏彬分享：农村人的惧怕，什么神都拜。这和使徒行传17章里提到的雅典人拜未识之神是一个道理。22节说凡事很敬畏鬼神。在上帝那里没有惧怕。还有一家人把女儿送出去，因为父母听信谣言，说女儿剋了儿子的命。
+
+
+---
+
 <p id="1">[1] 在敌人面前，神只会为你摆设丰盛的筵席，祂不会给你“残羹剩饭”。你是祂的儿女，再落魄也不会是“难民”。 
 <br><a href = "https://r.729ly.net/devotionals/devotionals-mw/devotionals-mw-mw220429" target="_blank" rel="noopener noreferrer">旷野吗哪 2022年4月29日：听我，扶我，藏我</a>
 <a href="#1_ref">&#8617;</a></p>
+
+
 </div>
 
 
