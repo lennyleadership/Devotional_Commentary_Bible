@@ -1,13 +1,13 @@
 ---
-weight: 1x
-title: Proverbs 1x
+weight: 2x
+title: Proverbs 2x
 authors: Lenny Lin
 categories: null
 tags: []
 description: 
 draft: false
-date: "2023-09-22"
-lastmod: "2023-09-22"
+date: "2023-10-"
+lastmod: "2023-10-"
 series:
 toc: true
 ---
