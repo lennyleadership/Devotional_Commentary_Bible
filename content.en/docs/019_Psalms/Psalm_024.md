@@ -1,5 +1,5 @@
 ---
-weight: 024
+weight: 24
 title: Psalm 24
 authors: Lenny
 categories: null
