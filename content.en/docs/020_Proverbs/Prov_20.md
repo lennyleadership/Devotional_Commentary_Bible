@@ -3,7 +3,7 @@ weight: 20
 title: Proverbs 20
 authors: Lenny Lin
 categories: null
-tags: [Creation]
+tags: [Creation, Family Relationship]
 description: 
 draft: false
 date: "2023-10-18"
@@ -38,7 +38,7 @@ toc: true
 20:10 Divers weights, and divers measures, both of them are alike abomination to the LORD.  
 
 20:11 Even a child is known by his doings, whether his work be pure, and whether it be right.  
-20:12 <b>The hearing ear, and the seeing eye, the LORD hath made even both of them</b><label for="made" class="margin-toggle sidenote-number"></label><span class="sidenote">Creation statement</span>.  
+20:12 <b>The hearing ear, and the seeing eye, the LORD hath made even both of them</b><label for="made" class="margin-toggle sidenote-number"></label><span class="sidenote">Subject: Creation statement</span>.  
 20:13 Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.  
 20:14 It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.  
 20:15 There is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel.  
@@ -47,7 +47,7 @@ toc: true
 20:17 Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.  
 20:18 Every purpose is established by counsel: and with good advice make war.  
 20:19 He that goeth about as a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.  
-20:20 Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.  
+20:20 Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness<label for="curseth" class="margin-toggle sidenote-number"></label><span class="sidenote">Subject: Family Relationship</span>.  
 
 20:21 An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed.  
 20:22 Say not thou, I will recompense evil; but wait on the LORD, and he shall save thee.  
