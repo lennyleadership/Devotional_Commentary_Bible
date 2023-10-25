@@ -88,6 +88,9 @@ This is not an exhaustive list; however, here are some of the most popular trees
     Hornbeam  
 [https://www.rootwell.com/blogs/tree-roots-strongest-and-deepest]
 
+[3]  
+<a href = "https://karinasussanto.wordpress.com/2015/03/07/the-palm-and-cedar-tree/" target="_blank" rel="noopener noreferrer">Karina's Thought | The Palm and Cedar Tree</a>
+
 
 
 </div>
