@@ -3,7 +3,7 @@ weight: 49
 title: Isaiah 49
 authors: Lenny
 categories: null
-tags: 
+tags: ["Engraving 刻", ]
 date: "2023-10-26"
 description: 
 draft: false
@@ -45,7 +45,7 @@ toc: true
 49:14 But Zion said, The LORD hath forsaken me, and my Lord hath forgotten me.  
 49:15 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.  
 
-49:16 Behold, I have <b>graven thee upon the palms of my hands</b>; thy walls are continually before me.<label for="graven" class="margin-toggle sidenote-number"></label><span class="sidenote">engraving, tattoo <br> our names were engraven on God's palm of hands</span>  
+49:16 Behold, I have <b>graven thee upon the palms of my hands</b>; thy walls are continually before me.<label for="graven" class="margin-toggle sidenote-number"></label><span class="sidenote">engraving, tattoo <br> our names were engraven on God's palm of hands.<br> the nail scare on Jesus' hands.<br>Isaiah 44:5 and Isaiah 49:16 are corresponding verses.</span>  
 49:17 Thy children shall make haste; thy destroyers and they that made thee waste shall go forth of thee.  
 49:18 Lift up thine eyes round about, and behold: all these gather themselves together, and come to thee. As I live, saith the LORD, thou shalt surely clothe thee with them all, as with an ornament, and bind them on thee, as a bride doeth.  
 49:19 For thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away.  

@@ -31,7 +31,7 @@ toc: true
 44:2 Thus saith the LORD that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen.  
 44:3 For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine offspring:  
 44:4 And they shall spring up as among the grass, as willows by the water courses.  
-44:5 One shall say, I am the LORD's; and another shall call himself by the name of Jacob; and another shall <b>subscribe with his hand</b> unto the LORD, and surname himself by the name of Israel<label for="subscribe" class="margin-toggle sidenote-number"></label><span class="sidenote">engraving, or tattoo</span>.  
+44:5 One shall say, I am the LORD's; and another shall call himself by the name of Jacob; and another shall <b>subscribe with his hand</b> unto the LORD, and surname himself by the name of Israel<label for="subscribe" class="margin-toggle sidenote-number"></label><span class="sidenote">engraving, or tattoo. <br>Isaiah 44:5 and Isaiah 49:16 are corresponding verses.</span>.  
 
 44:6 Thus saith the LORD the King of Israel, and his redeemer the LORD of hosts; I am the first, and I am the last; and beside me there is no God.  
 44:7 And who, as I, shall call, and shall declare it, and set it in order for me, since I appointed the ancient people? and the things that are coming, and shall come, let them shew unto them.  
