@@ -92,5 +92,9 @@ This is not an exhaustive list; however, here are some of the most popular trees
 <a href = "https://karinasussanto.wordpress.com/2015/03/07/the-palm-and-cedar-tree/" target="_blank" rel="noopener noreferrer">Karina's Thought | The Palm and Cedar Tree</a>
 
 
+[4]  
+
+<a href = "https://www.lavistachurchofchrist.org/cms/the-palm-and-cedar-trees/" target="_blank" rel="noopener noreferrer">The Palm and Cedar Trees</a>
+
 
 </div>
