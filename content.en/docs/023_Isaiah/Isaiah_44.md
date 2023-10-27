@@ -3,7 +3,7 @@ weight: 44
 title: Isaiah 44
 authors: Lenny
 categories: null
-tags: 
+tags: ["Engraving 刻", ]
 date: "2023-10-26"
 description: 
 draft: false
@@ -31,7 +31,7 @@ toc: true
 44:2 Thus saith the LORD that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen.  
 44:3 For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine offspring:  
 44:4 And they shall spring up as among the grass, as willows by the water courses.  
-44:5 One shall say, I am the LORD's; and another shall call himself by the name of Jacob; and another shall subscribe with his hand unto the LORD, and surname himself by the name of Israel.  
+44:5 One shall say, I am the LORD's; and another shall call himself by the name of Jacob; and another shall <b>subscribe with his hand</b> unto the LORD, and surname himself by the name of Israel<label for="subscribe" class="margin-toggle sidenote-number"></label><span class="sidenote">engraving, or tattoo</span>.  
 
 44:6 Thus saith the LORD the King of Israel, and his redeemer the LORD of hosts; I am the first, and I am the last; and beside me there is no God.  
 44:7 And who, as I, shall call, and shall declare it, and set it in order for me, since I appointed the ancient people? and the things that are coming, and shall come, let them shew unto them.  
@@ -54,7 +54,7 @@ toc: true
 44:21 Remember these, O Jacob and Israel; for thou art my servant: I have formed thee; thou art my servant: O Israel, thou shalt not be forgotten of me.  
 44:22 I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee.  
 44:23 Sing, O ye heavens; for the LORD hath done it: shout, ye lower parts of the earth: break forth into singing, ye mountains, O forest, and every tree therein: for the LORD hath redeemed Jacob, and glorified himself in Israel.  
-44:24 Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I am the LORD that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself;
+44:24 Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I am the LORD that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself;  
 44:25 That frustrateth the tokens of the liars, and maketh diviners mad; that turneth wise men backward, and maketh their knowledge foolish;
 
 44:26 That confirmeth the word of his servant, and performeth the counsel of his messengers; that saith to Jerusalem, Thou shalt be inhabited; and to the cities of Judah, Ye shall be built, and I will raise up the decayed places thereof:  
