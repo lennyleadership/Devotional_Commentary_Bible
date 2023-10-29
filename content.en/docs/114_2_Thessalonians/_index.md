@@ -1,6 +1,6 @@
 ---
-Weight: 999
-title: blank
+Weight: 114
+title: 2 Thessalonians
 authors: Lenny Lin
 categories: null
 tags: 
