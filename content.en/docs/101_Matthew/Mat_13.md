@@ -77,7 +77,7 @@ toc: true
 13:41 The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;  
 13:42 And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.  
 13:43 Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.  
-13:44 Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.  
+13:44 Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.<a id="1_ref" href = "#1">[1]</a><label for="treasure" class="margin-toggle sidenote-number"></label><span class="sidenote">Parable: The kingdom of heaven is like unto treasure hid in a field</span>    
 13:45 Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls:  
 
 13:46 Who, when he had found one pearl of great price, went and sold all that he had, and bought it.  
@@ -95,6 +95,14 @@ toc: true
 13:56 And his sisters, are they not all with us? Whence then hath this man all these things?  
 13:57 And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house.  
 13:58 And he did not many mighty works there because of their unbelief.  
+
+
+<p id="1">[1] Parable: The kingdom of heaven is like unto treasure hid in a field
+<br>[2023.10.22 Sunday LBC]
+<br>Kevin's story
+<br>RCMP, Dennis, stage 4 cancer, life of 3 months.
+<br>bible study hosted by Yip's couples at Dennis' residency
+<a href="#1_ref">&#8617;</a></p>
 
 </div>
 
