@@ -30,7 +30,7 @@ Book of Luke
 19:2 And, behold, there was a man named Zacchaeus, which was the chief among the publicans, and he was rich.  
 19:3 And he sought to see Jesus who he was; and could not for the press, because he was little of stature.  
 19:4 And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way.  
-19:5 And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house. <a class = "marginnote">[2022.11.16, LBC, Wed., Christine: Jesus already knew Zacchaeus]</a>  
+19:5 And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house.<label for="Zacchaeus" class="margin-toggle sidenote-number"></label><span class="sidenote">2022.11.16, LBC, Wed., Christine: Jesus already knew Zacchaeus</span>  
 
 19:6 And he made haste, and came down, and received him joyfully.  
 19:7 And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner.  
@@ -39,12 +39,12 @@ Book of Luke
 19:10 For the Son of man is come to seek and to save that which was lost.  
 
 19:11 And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.  
-19:12 He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.  <a class = "marginnote">[2022.11.16, LBC, Wed., nobleman is the picture of Jesus]</a>  
+19:12 He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.<label for="nobleman" class="margin-toggle sidenote-number"></label><span class="sidenote">2022.11.16, LBC, Wed., nobleman is the picture of Jesus</span>     
 19:13 And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.  
 19:14 But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us.  
 19:15 And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.  
 
-19:16 Then came the first, saying, Lord, thy pound hath gained ten pounds. <a class = "marginnote">Use your talent as if God uses it, not with your own strength</a>    
+19:16 Then came the first, saying, Lord, thy pound hath gained ten pounds.<label for="talent" class="margin-toggle sidenote-number"></label><span class="sidenote">Use your talent as if God uses it, not with your own strength</span>     
 19:17 And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.  
 19:18 And the second came, saying, Lord, thy pound hath gained five pounds.  
 19:19 And he said likewise to him, Be thou also over five cities.  
@@ -87,7 +87,7 @@ Book of Luke
 
 
 
-<div id="chinese" class="tabcontent" style="display:block">
+<div id="chinese" class="tabcontent">
 
 19:1 耶稣进了耶利哥、正经过的时候、
 19:2 有一个人名叫撒该、作税吏长、是个财主。  

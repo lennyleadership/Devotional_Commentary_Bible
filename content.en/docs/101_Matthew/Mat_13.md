@@ -99,9 +99,18 @@ toc: true
 
 <p id="1">[1] Parable: The kingdom of heaven is like unto treasure hid in a field
 <br>[2023.10.22 Sunday LBC]
-<br>Kevin's story
+<br>1. Kevin's story
 <br>RCMP, Dennis, stage 4 cancer, life of 3 months.
-<br>bible study hosted by Yip's couples at Dennis' residency
+<br>bible study hosted by Yip's couples at Dennis' residency.
+<br>Consequence: 
+<br>1) Dennis commented: God has done marvelous things in my life.
+<br>2) Keving baptized Dennis and Dennis' mother; Kevin hosted funeral service of Dennis, his parents.
+<br>Points:
+<br>Jesus gives peace that no other source can give.
+<br>2. Parable
+<br>God is the host in the parable.
+<br>Christianity is for the week (not for the loser).
+<br>God invited us for salvation.
 <a href="#1_ref">&#8617;</a></p>
 
 </div>
