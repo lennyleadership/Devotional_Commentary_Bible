@@ -16,6 +16,23 @@ Book of Luke
 <!--more-->
 ---
 
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'verse1')">LBC</button>
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+
+</div>
+
+
+
+<div id="chinese" class="tabcontent">
+
 14:1 安息日、耶稣到一个法利赛人的首领家里去吃饭、他们就窥探他。  
 14:2 在他面前有一个患水臌的人。  
 14:3 耶稣对律法师和法利赛人说、安息日治病、可以不可以。  
@@ -46,7 +63,7 @@ Book of Luke
 14:24 我告诉你们、先前所请的人、没有一个得尝我的筵席。  
 14:25 有极多的人和耶稣同行。他转过来对他们说、
 
-14:26 人到我这里来、若不爱我胜过爱自己的父母、妻子、儿女、弟兄、姐妹和自己的性命、就不能作我的门徒。〔爱我胜过爱原文作恨〕[^1]&emsp;[^2]  
+14:26 人到我这里来、若不爱我胜过爱自己的父母、妻子、儿女、弟兄、姐妹和自己的性命、就不能作我的门徒。〔爱我胜过爱原文作恨〕<a id="1_ref" href = "#1">[1]</a>&emsp;<a id="2_ref" href = "#2">[2]</a>  
 14:27 凡不背着自己十字架跟从我的、也不能作我的门徒。  
 14:28 你们那一个要盖一座楼、不先坐下算计花费、能盖成不能呢。  
 14:29 恐怕安了地基、不能成功、看见的人都笑话他、  
@@ -56,11 +73,12 @@ Book of Luke
 14:32 若是不能、就趁敌人还远的时候、派使者去求和息的条款。  
 14:33 这样、你们无论甚么人、若不撇下一切所有的、就不能作我的门徒。  
 14:34 盐本是好的。盐若失了味、可用甚么叫它再咸呢。  
-14:35 或用在田里、或堆在粪里、都不合式。只好丢在外面。有耳可听的、就应当听。[^3]  
+14:35 或用在田里、或堆在粪里、都不合式。只好丢在外面。有耳可听的、就应当听。<a id="3_ref" href = "#3">[3]</a>  
 
 ---
 
-[^1]: Bible study on 2022.09.14  
+<p id="1">[1] 
+Bible study on 2022.09.14  
 Jesus is not an add-on to my life. [MY's comments]  
 It is daily decision to follow Christ. [CY's comments]  
 There are many half-hearted christian. [KY's comments]
@@ -73,22 +91,38 @@ God is not saying to give you a passport to heaven. [KY's comments]
 Lukewarm is referred to un-believers. [KY's comments]  
 He has not grasped the salvation.  His comments is at stake. [KY's comments]  
 God wants relationship with us, rather than be interested in the ticket to the heaven. [KY's comments]  
-God can't be mocked by our lip service. [KY's comments]
-[^2]: 路加十四章让我看到，上帝爱世人，把福音的好消息先给以色列人，后来是外邦人，不愿意看到世人沉沦。不过谁可以进来天国呢？ 1）不是每个人对福音有积极的反应。2）愿意参加的人还得满足条件，是不是愿意放下一切（爱上帝多于爱家人、背十字架）。耶稣讲的很清楚，得计算代价，得想清楚了再来（盖楼、打仗的比喻）。上帝不愿意滥竽充数。  
+God can't be mocked by our lip service. [KY's comments]<a href="#1_ref">&#8617;</a></p>
+
+<p id="2">[2] 
+路加十四章让我看到，上帝爱世人，把福音的好消息先给以色列人，后来是外邦人，不愿意看到世人沉沦。不过谁可以进来天国呢？ 1）不是每个人对福音有积极的反应。2）愿意参加的人还得满足条件，是不是愿意放下一切（爱上帝多于爱家人、背十字架）。耶稣讲的很清楚，得计算代价，得想清楚了再来（盖楼、打仗的比喻）。上帝不愿意滥竽充数。  
 路加十四章也诠释了腓立比二12说的，我们要“恐惧战兢”完成你们自己得救的事。  
 The parables in Luke 14 told me this:  
 God love the world, and gave His son.  He firstly gave such good news to Jews, then the gentiles.  However, who can come into the Heaven. 1) not every one responses to the gospel positively, 2) whoever wants to come has to meet requirements, such as: a) by comparison, love Him more than family members and self, b) bear the cross every day, ...  God do not want to make up the number in the Heaven.  
-The parables in Luke 14 tell me how I suppose to live out a normal Christian life.  The attitude is also amplified in Philippians 2:12 work out your own salvation with fear and trembling.  
-[^3]: want to be salt, but don't be salty. Be all in. [KY's comments] You want a job, but I don't want to work. [MY's comments]  
+The parables in Luke 14 tell me how I suppose to live out a normal Christian life.  The attitude is also amplified in Philippians 2:12 work out your own salvation with fear and trembling. 
+<a href="#2_ref">&#8617;</a></p>
+
+<p id="3">[3] 
+want to be salt, but don't be salty. Be all in. [KY's comments] You want a job, but I don't want to work. [MY's comments]  
 Starting point: real, authentic in heart, not luke-warm. [KY's comments]  
 Sincerity can be replaced with whole-hearted. [CY's comments]   
 take up my cross.  my cross, do I put Him first? (have that in mind)  I have not put Christ first when I firstly believe in Him.  [CY's comments]  
 saved, but not bear in fruits. back-sliding(?) [Tony's comments]
 Christian who follows, Christian who does not follow the Shepard. [KY's comments]
-Easy believism (makes me doubt ...) [KY's comments]
+Easy believism (makes me doubt ...) [KY's comments]<a href="#3_ref">&#8617;</a></p>
+
+</div>
 
 
----
+
+
+<div id="verse1" class="tabcontent">
+
+
+</div>
+
+
+
+
 
 <script src="https://cdn.jsdelivr.net/gh/KenHung/Ezra@3.2/dist/ezra.js" 
         integrity="sha384-kVFpui/QIbzb/ptM/MkYo+MNKX24PUVJwldqzR7LKCwn2j7bi1zfiIt6PKy1F9Ku" 

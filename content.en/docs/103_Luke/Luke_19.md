@@ -3,7 +3,7 @@ weight: 19
 title: Luke 19
 authors: Lenny 
 categories: null
-tags: 
+tags: ["Wealth and the Rich"]
 description: 
 draft: false
 date: "2022-08-24"

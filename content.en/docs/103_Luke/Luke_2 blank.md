@@ -31,18 +31,15 @@ Book of Luke
 
 
 
-<div id="chinese" class="tabcontent" style="display:block">
+<div id="chinese" class="tabcontent">
 
 
 </div>
 
 
-----
-
-<div id="verse1" class="tabcontent" style="display:block">
 
 
-
+<div id="verse1" class="tabcontent">
 
 
 </div>
