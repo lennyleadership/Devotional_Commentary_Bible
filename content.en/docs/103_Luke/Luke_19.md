@@ -30,7 +30,7 @@ Book of Luke
 19:2 And, behold, there was a man named Zacchaeus, which was the chief among the publicans, and he was rich.  
 19:3 And he sought to see Jesus who he was; and could not for the press, because he was little of stature.  
 19:4 And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way.  
-19:5 And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house.<label for="Zacchaeus" class="margin-toggle sidenote-number"></label><span class="sidenote">2022.11.16, LBC, Wed., Christine: Jesus already knew Zacchaeus</span>  
+19:5 And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house.<label for="Zacchaeus" class="margin-toggle sidenote-number"></label><span class="sidenote">2022.11.16, LBC, Wed., Christine: Jesus already knew Zacchaeus. <br>2023.10.29, LBC, Sun. | Psalm 139:1-18, Lord, you have searched me and known me.</span>  
 
 19:6 And he made haste, and came down, and received him joyfully.  
 19:7 And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner.  
