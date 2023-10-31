@@ -118,37 +118,45 @@ Book of Luke
 ---
 
 <p id="1">[1] 
-Bible study on 2022.09.14  
-Jesus is not an add-on to my life. [MY's comments]  
-It is daily decision to follow Christ. [CY's comments]  
-There are many half-hearted christian. [KY's comments]
-"by comparison"  
-Nothing will hold you back.  
-Some Christians see it as religion.  
-We all were lukewarm. [CY's comments]  
-Can't just let everyone in. [CY's comments]    
-God is not saying to give you a passport to heaven. [KY's comments]    
-Lukewarm is referred to un-believers. [KY's comments]  
-He has not grasped the salvation.  His comments is at stake. [KY's comments]  
-God wants relationship with us, rather than be interested in the ticket to the heaven. [KY's comments]  
-God can't be mocked by our lip service. [KY's comments]<a href="#1_ref">&#8617;</a></p>
+LBC on 2022.09.14  
+<br>Jesus is not an add-on to my life. [MY's comments]  
+<br>It is daily decision to follow Christ. [CY's comments]  
+<br>There are many half-hearted christian. [KY's comments]
+<br>"by comparison"  
+<br>Nothing will hold you back.  
+<br>Some Christians see it as religion.  
+<br>We all were lukewarm. [CY's comments]  
+<br>Can't just let everyone in. [CY's comments]    
+<br>God is not saying to give you a passport to heaven. [KY's comments]    
+<br>Lukewarm is referred to un-believers. [KY's comments]  
+<br>He has not grasped the salvation.  His comments is at stake. [KY's comments]  
+<br>God wants relationship with us, rather than be interested in the ticket to the heaven. [KY's comments]  
+<br>God can't be mocked by our lip service. [KY's comments]<a href="#1_ref">&#8617;</a></p>
 
 <p id="2">[2] 
-路加十四章让我看到，上帝爱世人，把福音的好消息先给以色列人，后来是外邦人，不愿意看到世人沉沦。不过谁可以进来天国呢？ 1）不是每个人对福音有积极的反应。2）愿意参加的人还得满足条件，是不是愿意放下一切（爱上帝多于爱家人、背十字架）。耶稣讲的很清楚，得计算代价，得想清楚了再来（盖楼、打仗的比喻）。上帝不愿意滥竽充数。  
+路加十四章让我看到，上帝爱世人，把福音的好消息先给以色列人，后来是外邦人，不愿意看到世人沉沦。不过谁可以进来天国呢？ 
+<br>1）不是每个人对福音有积极的反应。
+<br>2）愿意参加的人还得满足条件，是不是愿意放下一切（爱上帝多于爱家人、背十字架）。耶稣讲的很清楚，得计算代价，得想清楚了再来（盖楼、打仗的比喻）。上帝不愿意滥竽充数。  
 路加十四章也诠释了腓立比二12说的，我们要“恐惧战兢”完成你们自己得救的事。  
-The parables in Luke 14 told me this:  
-God love the world, and gave His son.  He firstly gave such good news to Jews, then the gentiles.  However, who can come into the Heaven. 1) not every one responses to the gospel positively, 2) whoever wants to come has to meet requirements, such as: a) by comparison, love Him more than family members and self, b) bear the cross every day, ...  God do not want to make up the number in the Heaven.  
+
+<br>The parables in Luke 14 told me this:  
+<br>God love the world, and gave His son.  He firstly gave such good news to Jews, then the gentiles.  However, who can come into the Heaven. 
+<br>1) not every one responses to the gospel positively, 
+<br>2) whoever wants to come has to meet requirements, such as: 
+<br>a) by comparison, love Him more than family members and self, 
+<br>b) bear the cross every day, ...  God do not want to make up the number in the Heaven.  
 The parables in Luke 14 tell me how I suppose to live out a normal Christian life.  The attitude is also amplified in Philippians 2:12 work out your own salvation with fear and trembling. 
 <a href="#2_ref">&#8617;</a></p>
 
 <p id="3">[3] 
-want to be salt, but don't be salty. Be all in. [KY's comments] You want a job, but I don't want to work. [MY's comments]  
-Starting point: real, authentic in heart, not luke-warm. [KY's comments]  
-Sincerity can be replaced with whole-hearted. [CY's comments]   
-take up my cross.  my cross, do I put Him first? (have that in mind)  I have not put Christ first when I firstly believe in Him.  [CY's comments]  
-saved, but not bear in fruits. back-sliding(?) [Tony's comments]
-Christian who follows, Christian who does not follow the Shepard. [KY's comments]
-Easy believism (makes me doubt ...) [KY's comments]<a href="#3_ref">&#8617;</a></p>
+want to be salt, but don't be salty. Be all in. [KY's comments] 
+<br>You want a job, but I don't want to work. [MY's comments]  
+<br>Starting point: real, authentic in heart, not luke-warm. [KY's comments]  
+<br>Sincerity can be replaced with whole-hearted. [CY's comments]   
+<br>take up my cross.  my cross, do I put Him first? (have that in mind)  I have not put Christ first when I firstly believe in Him.  [CY's comments]  
+<br>saved, but not bear in fruits. back-sliding(?) [Tony's comments]
+<br>Christian who follows, Christian who does not follow the Shepard. [KY's comments]
+<br>Easy believism (makes me doubt ...) [KY's comments]<a href="#3_ref">&#8617;</a></p>
 
 </div>
 
