@@ -39,11 +39,26 @@ toc: true
 92:10 But my horn shalt thou exalt like the horn of an unicorn: I shall be anointed with fresh oil.  
 
 92:11 Mine eye also shall see my desire on mine enemies, and mine ears shall hear my desire of the wicked that rise up against me.  
-92:12 The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.<label for="palm" class="margin-toggle sidenote-number"></label><span class="sidenote">Life Application Study Bible Commentary: Palm trees are known for their long life span.  "To flourish like plam trees" means to stand tall and to live long.  The palms are also an excellent source of dates.<br>
-The cedars of Lebanon grew to 120 feet in height and up to 30 feet in circumference; thus, they were solid, strong, and immovable.  The writer saw believers as upright, strong, productive, and unmoved by the winds of circumstance and aging.</span>  
+92:12 The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon. <a id="1_ref" href = "#1">[1]</a>    
 92:13 Those that be planted in the house of the LORD shall flourish in the courts of our God.  
 92:14 They shall still bring forth fruit in old age; they shall be fat and flourishing;  
 92:15 To shew that the LORD is upright: he is my rock, and there is no unrighteousness in him.  
+
+<p id="1">[1] 
+Life Application Bible Study: Palm trees are known for their long life span.  "To flourish like plam trees" means to stand tall and to live long.  The palms are also an excellent source of dates.  
+<br>ESV Bible Study: The palm tree represents "long lived and stately". "They flourish in the courts of our God indicates enduring residence in God's presence.  
+<br>CSB Bible Study: Trees often refer figuratively to the characteristics of national leaders.  
+<br>MacArthur Bible Study:  The palm tree and the cear symbolized permanence and strength.
+<br>The cedars of Lebanon grew to 120 feet in height and up to 30 feet in circumference; thus, they were solid, strong, and immovable.  The writer saw believers as upright, strong, productive, and unmoved by the winds of circumstance and aging.  
+<br> Swindall Bible Study: In our culture, many people live for the day they can hang it up and retire.  I was talking to a newspaper columnist who said, "Now, how old are you?"  
+<br>So I told her.  
+<br>"And you've got these plans?" she asked.
+<br>"Oh, yeah!"
+<br>So she said, "You have a lot of energy.  I thought by now you'd be looking for a place to hang it up."
+<br>And I said, "Hang what up?"
+
+<br>I am not looking for a place to hang it up.  I am looking for a place to live it out.  In my old age I want to have as much energy and vigor and life as when I was young.  You can retire from your work, but you don't retire from life or ministry.
+<a href="#1_ref">&#8617;</a></p>
 </div>
 
 <div id="chinese" class="tabcontent">
