@@ -46,17 +46,16 @@ toc: true
 
 <p id="1">[1] 
 Life Application Bible Study: Palm trees are known for their long life span.  "To flourish like plam trees" means to stand tall and to live long.  The palms are also an excellent source of dates.  
-<br>ESV Bible Study: The palm tree represents "long lived and stately". "They flourish in the courts of our God indicates enduring residence in God's presence.  
-<br>CSB Bible Study: Trees often refer figuratively to the characteristics of national leaders.  
-<br>MacArthur Bible Study:  The palm tree and the cear symbolized permanence and strength.
-<br>The cedars of Lebanon grew to 120 feet in height and up to 30 feet in circumference; thus, they were solid, strong, and immovable.  The writer saw believers as upright, strong, productive, and unmoved by the winds of circumstance and aging.  
-<br> Swindall Bible Study: In our culture, many people live for the day they can hang it up and retire.  I was talking to a newspaper columnist who said, "Now, how old are you?"  
+<br><br>ESV Bible Study: The palm tree represents "long lived and stately". "They flourish in the courts of our God indicates enduring residence in God's presence.  
+<br><br>CSB Bible Study: Trees often refer figuratively to the characteristics of national leaders.  
+<br><br>MacArthur Bible Study:  The palm tree and the cear symbolized permanence and strength.
+<br><br>The cedars of Lebanon grew to 120 feet in height and up to 30 feet in circumference; thus, they were solid, strong, and immovable.  The writer saw believers as upright, strong, productive, and unmoved by the winds of circumstance and aging.  
+<br><br> Swindall Bible Study: In our culture, many people live for the day they can hang it up and retire.  I was talking to a newspaper columnist who said, "Now, how old are you?"  
 <br>So I told her.  
 <br>"And you've got these plans?" she asked.
 <br>"Oh, yeah!"
 <br>So she said, "You have a lot of energy.  I thought by now you'd be looking for a place to hang it up."
 <br>And I said, "Hang what up?"
-
 <br>I am not looking for a place to hang it up.  I am looking for a place to live it out.  In my old age I want to have as much energy and vigor and life as when I was young.  You can retire from your work, but you don't retire from life or ministry.
 <a href="#1_ref">&#8617;</a></p>
 </div>
