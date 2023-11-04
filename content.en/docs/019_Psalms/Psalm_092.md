@@ -39,7 +39,8 @@ toc: true
 92:10 But my horn shalt thou exalt like the horn of an unicorn: I shall be anointed with fresh oil.  
 
 92:11 Mine eye also shall see my desire on mine enemies, and mine ears shall hear my desire of the wicked that rise up against me.  
-92:12 The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.  
+92:12 The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.<label for="palm" class="margin-toggle sidenote-number"></label><span class="sidenote">Life Application Study Bible Commentary: Palm trees are known for their long life span.  "To flourish like plam trees" means to stand tall and to live long.  The palms are also an excellent source of dates.<br>
+The cedars of Lebanon grew to 120 feet in height and up to 30 feet in circumference; thus, they were solid, strong, and immovable.  The writer saw believers as upright, strong, productive, and unmoved by the winds of circumstance and aging.</span>  
 92:13 Those that be planted in the house of the LORD shall flourish in the courts of our God.  
 92:14 They shall still bring forth fruit in old age; they shall be fat and flourishing;  
 92:15 To shew that the LORD is upright: he is my rock, and there is no unrighteousness in him.  
@@ -68,6 +69,20 @@ toc: true
 
 <div id="note" class="tabcontent">
 
+# Meditation
+Palm tree  is endogenous tree.
+
+inner change will make outward looking change.
+
+inward break-through makes the tree grow.
+
+self-denial is the way of break-through.
+
+
+
+
+
+# Supplementary information
 [1]  
 Do cedar trees have a large root system?  
 The root system of cedar trees depends on the soil condition. The taproot reaches depths of about 7.6 meters or 26 feet and widths of up to 6 meters or 20 feet. Thin rocky soil results in the formation of more fibrous lateral roots. The cedar tree can develop a deep taproot when the soil allows it.  
