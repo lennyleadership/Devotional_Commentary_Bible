@@ -3,7 +3,7 @@ weight: 92
 title: Psalm 92
 authors: Lenny
 categories: null
-tags: ["The Palm Tree", "The Cedar"]
+tags: ["The Palm Tree", "The Cedar", 佛教, 佛魔一体]
 description: 
 draft: false
 date: "2023-10-24"
@@ -87,7 +87,8 @@ Matthew Henry's Commentary: He triumphs in God, and his glory and grace.
 92:12 义人要发旺如棕树、生长如利巴嫩的香柏树。  
 92:13 他们栽于耶和华的殿中、发旺在我们　神的院里。  
 92:14 他们年老的时候、仍要结果子。要满了汁浆而常发青。  
-92:15 好显明耶和华是正直的、他是我的磐石、在他毫无不义。<label for="不义" class="margin-toggle sidenote-number"></label><span class="sidenote">佛教有一个观点：佛魔一体。这个观点不单是说在一个信佛的人身上，同时有佛性和魔性，好比硬币的两面。而且也是说佛、菩萨、罗汉也同时有佛性和魔性。这个观点应该让我们意识到佛不是神，基督信仰里所讲的神没有魔性，只有公义。</span>  
+92:15 好显明耶和华是正直的、他是我的磐石、在他毫无不义。<label for="不义" class="margin-toggle sidenote-number"></label><span class="sidenote">佛教有一个观点：佛魔一体。这个观点不单是说在一个信佛的人身上，同时有佛性和魔性，好比硬币的两面。而且也是说佛、菩萨、罗汉也同时有佛性和魔性。这个观点应该让我们意识到佛不是神，基督信仰里所讲的神没有魔性，只有公义。
+<br>- 与Winston Wang的交流 2023-11.06</span>  
 </div>
 
 <div id="note" class="tabcontent">
