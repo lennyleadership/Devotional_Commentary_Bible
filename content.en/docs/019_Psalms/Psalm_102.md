@@ -3,7 +3,7 @@ weight: 102
 title: Psalm 102
 authors: Lenny
 categories: null
-tags: []
+tags: [活泉小简]
 description: 
 draft: false
 date: "2023-11-"
@@ -20,7 +20,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  <button class="tablinks" onclick="tablabel(event, 'note')"></button>
+
 </div>
 
 <!-- Tab content -->
@@ -100,7 +100,4 @@ toc: true
 102:28 你仆人的子孙要长存。他们的后裔、要坚立在你面前。  
 </div>
 
-<div id="note" class="tabcontent">
 
-
-</div>
