@@ -3,7 +3,7 @@ weight: 139
 title: Psalm 139
 authors: Lenny
 categories: null
-tags: []
+tags: ["活泉小简.祷告"]
 description: 
 draft: false
 date: "2023-03-20"
@@ -85,7 +85,10 @@ toc: true
 
 139:21 耶和华阿、恨恶你的、我岂不恨恶他们么。攻击你的、我岂不憎嫌他们么。  
 139:22 我切切的恨恶他们、以他们为仇敌。  
-139:23 　神阿、求你鉴察我、知道我的心思、试炼我、知道我的意念。  
+139:23 　神阿、求你鉴察我、知道我的心思、试炼我、知道我的意念。<label for="prayer" class="margin-toggle sidenote-number"></label><span class="sidenote">
+祷告的时候，对神忠心的心思若与那完全信靠神的信心联合起来，就会加强祷告的力量。我们的心思也必须投入祷告之中。
+<br><br>在我们进入祷告的内室之前，心思会为我们预备了真实祷告的道路。一一邦兹
+<br>活泉小简 2023年11月10日</span>  
 139:24 看在我里面有甚么恶行没有、引导我走永生的道路。  
   
 </div>
