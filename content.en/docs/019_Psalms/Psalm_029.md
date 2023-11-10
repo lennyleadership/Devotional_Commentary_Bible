@@ -1,6 +1,6 @@
 ---
-weight: 999
-title: Psalm
+weight: 029
+title: Psalm 29
 authors: Lenny
 categories: null
 tags: ["活泉小简.祷告"]

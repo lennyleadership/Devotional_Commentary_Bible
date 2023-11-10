@@ -90,8 +90,4 @@ toc: true
   
 </div>
 
-<div id="verse1" class="tabcontent">
 
-  
-
-</div>
