@@ -25,7 +25,7 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-21:1 The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will.  
+21:1 The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will.<label for="king" class="margin-toggle sidenote-number"></label><span class="sidenote">Psalm 2:2 The kings of the earth set themselves, and the rulers take counsel together, <b>against the LORD</b>, and against his anointed, saying, ... </span>  
 21:2 Every way of a man is right in his own eyes: but the LORD pondereth the hearts.  
 21:3 To do justice and judgment is more acceptable to the LORD than sacrifice.  
 21:4 An high look, and a proud heart, and the plowing of the wicked, is sin.  
