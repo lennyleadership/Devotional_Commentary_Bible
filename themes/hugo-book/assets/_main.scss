@@ -775,6 +775,18 @@ a {
 /* the end*/*****************************************************************************************
 
 
+/*color coped from yihui */
+:not(.logo) > a:hover {
+  position: relative;
+  inset: 1px 0 0 1px;
+}
+
+:hover > .anchor {
+  display: inline;
+}
+
+/*the end8/
+
 
 /* font color options *//////////////////////////////////////////////////////////////////////////////////
 .blue {
