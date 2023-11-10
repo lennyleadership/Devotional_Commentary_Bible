@@ -3,7 +3,7 @@ weight: 5
 title: Hebrews 05
 authors: Lenny
 categories: null
-tags: [Gethsemane, "Jesus character - Obedience"]
+tags: [Gethsemane, "Jesus character - Obedience","活泉小简.祷告"]
 description: 
 draft: false
 date: "2023-03-12"
@@ -54,8 +54,10 @@ toc: true
 5:5 如此、基督也不是自取荣耀作大祭司、乃是在乎向他说『你是我的儿子、我今日生你。』的那一位。  
  
 5:6 就如经上又有一处说、『你是照着麦基洗德的等次永远为祭司。』  
-5:7 基督在肉体的时候、既大声哀哭、流泪祷告恳求那能救他免死的主、就因他的虔诚、蒙了应允。  
-5:8 他虽然为儿子、还是因所受的苦难<b>学</b>了顺从。<a class = "marginnote">v8: 耶稣需要学吗？</a>  
+5:7 基督在肉体的时候、既大声哀哭、流泪祷告恳求那能救他免死的主、就因他的虔诚、蒙了应允。<label for="prayer" class="margin-toggle sidenote-number"></label><span class="sidenote">祷告当效法保罗，他自己祷告也请别人代祷彼此用力，彼此得着安慰。更当效法主耶稣的榜样主遇了危险艰难就竭力祷告如在客西马尼的祷告，所以终能成此大功。
+<br><br>若非祷告，就没有人能作工，也没有人能有神耐久作工的能力。--霍普金
+<br>2023年11月5日 活泉小间</span>  
+5:8 他虽然为儿子、还是因所受的苦难<b>学</b>了顺从。<label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">v8: 耶稣需要学吗？</span>    
 5:9 他既得以完全、就为凡顺从他的人、成了永远得救的根源。  
 5:10 并蒙　神照着麦基洗德的等次称他为大祭司。  
  
