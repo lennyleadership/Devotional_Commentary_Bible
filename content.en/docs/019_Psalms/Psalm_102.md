@@ -3,7 +3,7 @@ weight: 102
 title: Psalm 102
 authors: Lenny
 categories: null
-tags: [活泉小简]
+tags: ["活泉小简.祷告"]
 description: 
 draft: false
 date: "2023-11-"
@@ -65,7 +65,7 @@ toc: true
 
 102:1 〔困苦人发昏的时候、在耶和华面前吐露苦情的祷告。〕耶和华阿、求你听我的祷告、容我的呼求达到你面前。<label for="prayer" class="margin-toggle sidenote-number"></label><span class="sidenote">祷告需要全人的投入,包括思想祷灵和身体。当一个人祷告的时候所有属于他的都会因着祷告而得着益处。因此，在祷告之时必须将自己及属乎自己的一切都交于神手中。
 <br><br>祷告乃是打开神无限恩典和能力之仓的钥匙。- Dick Webster
-<br>2023年11月7日 活泉小简</span>  
+<br>活泉小简 2023年11月7日 </span>  
 102:2 我在急难的日子、求你向我侧耳、不要向我掩面。我呼求的日子、求你快快应允我。  
 102:3 因为我的年日、如烟云消灭、我的骨头、如火把烧着。  
 102:4 我的心被伤、如草枯干、甚至我忘记吃饭。  
