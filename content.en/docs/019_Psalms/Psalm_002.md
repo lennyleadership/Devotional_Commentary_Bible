@@ -25,11 +25,6 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-
-</div>
-
-<div id="chinese" class="tabcontent">
-
 2:1 Why do the heathen rage, and the people imagine a vain thing?  
 2:2 The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,<label for="kings" class="margin-toggle sidenote-number"></label><span class="sidenote">Proverbs 21:1 The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will</span>  
 2:3 Let us break their bands asunder, and cast away their cords from us.  
@@ -46,7 +41,7 @@ toc: true
 2:12 Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.  
 </div>
 
-<div id="note" class="tabcontent">
+<div id="chinese" class="tabcontent">
 
 2:1 外邦为甚么争闹、万民为甚么谋算虚妄的事。  
 2:2 世上的君王一齐起来、臣宰一同商议、要敌挡耶和华、并他的受膏者、  
@@ -63,3 +58,5 @@ toc: true
 2:11 当存畏惧事奉耶和华、又当存战兢而快乐。  
 2:12 当以嘴亲子、恐怕他发怒、你们便在道中灭亡、因为他的怒气快要发作。凡投靠他的、都是有福的。  
 </div>
+
+
