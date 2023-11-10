@@ -1101,6 +1101,7 @@ body {
 .sidenote-number:after {
     content: counter(sidenote-counter);
     font-size: 1rem;/*define the numbering index in the body*/
+    color: darkred;
     top: -0.5rem;
     left: 0.3rem;
 }
@@ -1110,6 +1111,7 @@ body {
     content: counter(sidenote-counter) " ";
     font-size: 1rem;
     font-style: italic; /* define the numbering index in the sidenote*/
+    color: darkred;
     top: -0.5rem;
 }
 
