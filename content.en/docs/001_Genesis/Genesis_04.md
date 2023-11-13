@@ -98,7 +98,7 @@ toc: true
 
 <p id="1">[1]
 [希伯来书十一4] 亚伯因着信献祭与神，比该隐所献的更美，因此便得了称义的见证。  
-[Hebrews 11:4 NKJV]  By faith Abel offered to God a more excellent sacrifice than Cain, through which he obtained witness that he was righteous, God testifying of his gifts; and through it he being dead still speaks.
+<br>[Hebrews 11:4 NKJV]  By faith Abel offered to God a more excellent sacrifice than Cain, through which he obtained witness that he was righteous, God testifying of his gifts; and through it he being dead still speaks.
 <br><br> 
 2022年3月8日：旷野吗哪 | 亚伯的献祭   
 <br>该隐先献，但是他并不认真，他随便拿地里的一些出产来献。  
