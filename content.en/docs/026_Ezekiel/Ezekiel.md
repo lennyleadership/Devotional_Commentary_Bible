@@ -1,4 +1,6 @@
 ---
+weight: 
+title: 以西结书
 authors: Lenny
 categories: null
 date: "2022-04-19"
@@ -7,7 +9,6 @@ draft: true
 lastmod: "2022-04-23"
 series: null
 tags: null
-title: 026 以西结书
 toc: true
 ---
 
