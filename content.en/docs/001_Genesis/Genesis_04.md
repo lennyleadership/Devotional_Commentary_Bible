@@ -28,7 +28,7 @@ toc: true
 4:1 And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.  
 4:2 And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.  
 4:3 And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.  
-4:4 And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:  
+4:4 And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:<label for="offering" class="margin-toggle sidenote-number"></label><span class="sidenote">Hebrews 11:4</span>  
 4:5 But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.  
 
 4:6 And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?  
@@ -36,7 +36,8 @@ toc: true
 <br>1. "<b>If you do well</b> [by repenting], you will be able to look up again in freedom from anger and guilt. <b>If you do not do well</b> [by continuing to hate Abel], <b>sin</b> is crouching <b>at</b> your <b>door</b>, ready to destroy you. His [Abel's] <b>desire is for you</b> [i.e., he will acknowledge your leadership] and <b>you</b> will <b>rule over</b> him" [i.e., if you do well].
 <br>2. "<b>If you do well</b> (or, as the Septuagint reads it, "If you offer correctly") will you not be accepted?" The well-doing had reference to the offering. Abel did well by hiding himself behind an acceptable sacrifice. Cain did badly by bringing an offering without blood, and all his after-conduct was but the legitimate result of this false worship.
 <br>3. The RSV says, "If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door; its desire is for you, but you must master it."
-<br>4. F. W. Grant says in his <i>Numerical Bible</i>, "If you do not well, a sin-offering croucheth or lieth at the door." In other words, provision was made if he wanted it.</span>. And unto thee shall be his desire, and thou shalt rule over him.  
+<br>4. F. W. Grant says in his <i>Numerical Bible</i>, "If you do not well, a sin-offering croucheth or lieth at the door." In other words, provision was made if he wanted it.
+<br><br> Gill's Bible Commentary | https://sacred-texts.com/bib/cmt/gill/gen004.htm |> "it is the best to render the word a sin.</span>. And unto thee shall be his desire, and thou shalt rule over him.  
 4:8 And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.  
 4:9 And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother's keeper?  
 4:10 And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground.  
