@@ -3,7 +3,7 @@ weight: 4
 title: Genesis 4
 authors: Lenny
 categories: null
-tags: [旷野吗哪]
+tags: [旷野吗哪, "Offering 献祭"]
 description: 
 draft: false
 date: "2022-08-17"
@@ -28,7 +28,7 @@ toc: true
 4:1 And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.  
 4:2 And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.  
 4:3 And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.  
-4:4 And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:<label for="offering" class="margin-toggle sidenote-number"></label><span class="sidenote">Hebrews 11:4</span>  
+4:4 And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:<label for="offering" class="margin-toggle sidenote-number"></label><span class="sidenote">Hebrews 11:4<br><br>Proverbs 21:3 To do justice and judgment is more acceptable to the LORD than sacrifice.</span>  
 4:5 But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.  
 
 4:6 And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?  
