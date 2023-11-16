@@ -3,7 +3,7 @@ weight: 11
 title: Luke 11
 authors: Lenny 
 categories: null
-tags: [Prayer, 活泉小简, Darby, "Brother DW Thoughts", "Brother KY Thoughts", "Brother LL Thoughts", "Sister GB Thoughts"]
+tags: ["Prayer 祷告", 活泉小简, Darby, "Brother DW Thoughts", "Brother KY Thoughts", "Brother LL Thoughts", "Sister GB Thoughts"]
 series: 
 description: 
 draft: false

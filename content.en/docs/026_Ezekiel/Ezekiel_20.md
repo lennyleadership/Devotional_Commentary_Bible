@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-07-08"
 series:
-tags: [祷告]
+tags: ["Prayer 祷告"]
 title: 20 结二十章
 toc: true
 ---
