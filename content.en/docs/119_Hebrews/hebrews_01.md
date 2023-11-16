@@ -3,11 +3,11 @@ weight: 1
 title: Hebrews 01
 authors: Lenny
 categories: null
-tags: [holy Spirit, "Jesus in the OT"]
+tags: ["Holy Spirit 圣灵", "Jesus in the OT"]
 description: 
 draft: false
 date: "2023-03-12"
-lastmod: "2023-04-13"
+lastmod: "2023-11-16"
 series: 
 toc: true
 ---

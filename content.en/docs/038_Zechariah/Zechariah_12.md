@@ -4,9 +4,9 @@ categories: null
 date: "2022-04-19"
 description: 
 draft: false
-lastmod: "2022-07-010"
+lastmod: "2023-11-16"
 series:
-tags: [以色列复国, 千年国度, 荣耀神, 属灵争战, 圣灵, 耶稣]
+tags: [以色列复国, 千年国度, 荣耀神, 属灵争战, "Holy Spirit 圣灵", "Jesus 耶稣"]
 title: 12 亚十二章
 toc: true
 ---

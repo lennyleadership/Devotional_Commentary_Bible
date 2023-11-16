@@ -3,11 +3,11 @@ weight: 4
 title: Ephesians 4
 authors: Lenny
 categories: null
-tags: [holy Spirit, Incoming redemption]
+tags: ["Holy Spirit 圣灵", Incoming redemption]
 date: "2022-08-17"
 description: 
 draft: false
-lastmod: "2022-08-17"
+lastmod: "2023-11-16"
 series:
 toc: true
 ---

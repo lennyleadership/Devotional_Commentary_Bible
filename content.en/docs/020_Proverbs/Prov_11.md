@@ -3,11 +3,11 @@ weight: 11
 title: Proverbs 11
 authors: Lenny Lin
 categories: null
-tags: [holy Spirit]
+tags: ["Holy Spirit 圣灵"]
 description: 
 draft: false
 date: "2022-12-05"
-lastmod: "2022-12-05"
+lastmod: "2023-11-16"
 series:
 toc: true
 ---
