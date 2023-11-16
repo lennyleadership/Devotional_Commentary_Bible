@@ -4,11 +4,11 @@ title: Hebrews 03
 authors: Lenny
 categories: null
 series:
-tags: [Literacy device, Parallelism structure, Word]
+tags: [Literacy device, Parallelism structure, "Words 言语"]
 description: 
 draft: false
 date: "2023-03-12"
-lastmod: "2023-03-12"
+lastmod: "2023-11-16"
 toc: true
 ---
 

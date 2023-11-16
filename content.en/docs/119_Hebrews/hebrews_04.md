@@ -3,11 +3,11 @@ weight: 4
 title: Hebrews 04
 authors: Lenny
 categories: null
-tags: [Collapsible text demo, Word]
+tags: ["Demo Accordion Text", "Words 言语"]
 description: 
 draft: false
 date: "2023-03-12"
-lastmod: "2023-03-12"
+lastmod: "2023-11-16"
 series:
 toc: true
 ---

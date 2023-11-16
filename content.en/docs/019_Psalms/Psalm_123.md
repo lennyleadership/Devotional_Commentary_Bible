@@ -3,7 +3,7 @@ weight: 123
 title: Psalm 123
 authors: Lenny
 categories: null
-tags: [Tab demo, My Utmost, Tooltip demo]
+tags: ["Demo Tab", My Utmost, "Demo Tooltip"]
 description: 
 draft: false
 date: "2022-11-24"

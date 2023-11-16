@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-05-02"
 series:
-tags: [等候, 赞美]
+tags: [等候神, 赞美]
 title: 07 第七章
 toc: true
 ---

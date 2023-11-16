@@ -3,7 +3,7 @@ weight: 18
 title: Proverbs 18
 authors: Lenny Lin
 categories: null
-tags: [言语, Words]
+tags: ["Words 言语"]
 series:
 description: 
 draft: false

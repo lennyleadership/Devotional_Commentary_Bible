@@ -3,11 +3,11 @@ weight: 14
 title: Proverbs 14
 authors: Lenny Lin
 categories: null
-tags: [Reverence Fear]
+tags: ["Fear God"]
 description: 
 draft: false
 date: "2023-03-22"
-lastmod: "2023-03-22"
+lastmod: "2023-11-16"
 series:
 toc: true
 ---

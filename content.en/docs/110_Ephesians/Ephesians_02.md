@@ -3,11 +3,11 @@ weight: 2
 title: Ephesians 2
 authors: Lenny
 categories: null
-tags: ["Margine note demo", "ezraLinkifier", "Tab Demo", "Footnote Demo"]
+tags: ["Demo Margine note", "Demo ezraLinkifier", "Demo Tab", "Demo Footnote"]
 description: 
 draft: false
 date: "2022-08-17"
-lastmod: "2022-12-04"
+lastmod: "2023-11-16"
 series:
 toc: true
 ---

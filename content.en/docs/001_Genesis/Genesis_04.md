@@ -3,7 +3,7 @@ weight: 4
 title: Genesis 4
 authors: Lenny
 categories: null
-tags: [旷野吗哪, "Offering 献祭"]
+tags: [旷野吗哪, "Offering 献祭","Fear God"]
 description: 
 draft: false
 date: "2022-08-17"
