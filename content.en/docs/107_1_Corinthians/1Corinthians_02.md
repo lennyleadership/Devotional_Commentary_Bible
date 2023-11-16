@@ -3,11 +3,11 @@ weight: 2
 title: 1 Corinthians 2
 authors: Lenny
 categories: null
-tags: [My Utmost, "Holy Spirit 圣灵", God's mystery, God's secret]
+tags: ["My Upmmost 竭诚为主", "Holy Spirit 圣灵", God's mystery, God's secret]
 date: "2022-04-19"
 description: 
 draft: false
-lastmod: "2022-04-26"
+lastmod: "2023-11-16"
 series:
 toc: true
 ---

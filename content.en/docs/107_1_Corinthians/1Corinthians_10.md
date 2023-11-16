@@ -3,11 +3,11 @@ weight: 10
 title: 1 Corinthians 10
 authors: Lenny
 categories: null
-tags: [My Utmost, Moses struck the rock, Jesus is the rock]
+tags: ["My Upmmost 竭诚为主", Moses struck the rock, Jesus is the rock]
 description: 
 draft: false
 date: "2022-11-16"
-lastmod: "2022-11-27"
+lastmod: "2023-11-16"
 series:
 toc: true
 ---
