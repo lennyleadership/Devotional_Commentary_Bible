@@ -3,7 +3,7 @@ weight: 1
 title: Ephesians 1
 authors: Lenny
 categories: null
-tags: [神的旨意, 教会, 圣洁, 刘志雄讲道, 于宏杰讲道, "bibleref", "Margine note demo"]
+tags: [神的旨意, 教会, 圣洁, 刘志雄讲道, 于宏杰讲道, "Demo bibleref", "Demo Margine Note"]
 date: "2022-08-17"
 description: 
 draft: false
