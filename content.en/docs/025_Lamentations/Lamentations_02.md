@@ -4,11 +4,11 @@ title: 哀二章
 authors: Lenny
 categories: null
 tags: [对今日教会的提醒, 主与我们同负一轭, 背起自己的十字架, 
-时政, 认识上帝, chinese bible ref]
+时政, 认识上帝, "Demo Chinese bible ref"]
 date: "2022-08-06"
 description: 
 draft: false
-lastmod: "2022-08-06"
+lastmod: "2023-11-16"
 series:
 toc: true
 ---
