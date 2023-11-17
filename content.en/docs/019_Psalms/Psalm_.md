@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 
 title: Psalm
 authors: Lenny
 categories: null

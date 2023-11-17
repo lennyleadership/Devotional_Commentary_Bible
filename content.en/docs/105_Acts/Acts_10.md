@@ -3,11 +3,11 @@ weight: 10
 title: Acts 10
 authors: Lenny
 categories: null
-tags: 
+tags: ["活泉小简.祷告"]
 description: 
 draft: false
 date: "2022-08-16"
-lastmod: "2022-08-16"
+lastmod: "2023-11-17"
 series:
 toc: true
 ---
@@ -88,7 +88,10 @@ toc: true
 <div id="chinese" class="tabcontent">
 
 10:1 在该撒利亚有一个人、名叫哥尼流、是义大利营的百夫长。  
-10:2 他是个虔诚人、他和全家都敬畏　神、多多赒济百姓、常常祷告　神。  
+10:2 他是个虔诚人、他和全家都敬畏　神、多多赒济百姓、常常祷告　神<label for="祷告" class="margin-toggle sidenote-number"></label><span class="sidenote">
+祷告的要素乃是虑诚的态度。祷告加强虑诚的心，而虔诚也促成了最好的祷告。虔诚助长了祷告并能帮助祷告击中要害。祷告在真正虑诚的人身上成长。
+<br>我们虔诚的心态和心境使我们的祷告能够有效地靠近施恩座。--邦兹
+<br>2023年11月16日 活泉简</span>。  
 10:3 有一天、约在申初、他在异象中、明明看见　神的一个使者进去、到他那里、说、哥尼流。  
 10:4 哥尼流定睛看他、惊怕说、主阿、甚么事呢。天使说、你的祷告、和你的赒济、达到　神面前已蒙记念了。  
 10:5 现在你当打发人往约帕去、请那称呼彼得的西门来。  
