@@ -4,10 +4,10 @@ title: Isaiah
 authors: Lenny
 categories: null
 tags: 
-date: "2023-10-"
+date: "2023-11-"
 description: 
 draft: false
-lastmod: "2023-10-"
+lastmod: "2023-11-"
 series:
 toc: true
 ---

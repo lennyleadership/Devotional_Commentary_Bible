@@ -3,7 +3,7 @@ weight: 15
 title: Romans 15
 authors: Lenny
 categories: null
-tags: 
+tags: ["活泉小简.祷告"]
 description: 
 draft: false
 date: "2022-12-01"
