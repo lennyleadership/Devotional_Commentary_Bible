@@ -3,7 +3,7 @@ weight: 55
 title: Isaiah 55
 authors: Lenny
 categories: null
-tags: 
+tags: ["Seek the Lord while he may be found"]
 date: "2023-11-19"
 description: 
 draft: false
