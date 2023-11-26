@@ -52,13 +52,13 @@ type: docs
 
 
 {{< columns >}}
-神学书籍
+<b>神学书籍</b>
 
 <a href = "https://www.godoor.net/text/shenxue/jddwg/" target="_blank" rel="noopener noreferrer">伯特纳 著 | 基督的位格</a>
 
 <a href = "https://www.godoor.net/text/shenxue/rskndam/content.htm" target="_blank" rel="noopener noreferrer">卡森 著 | 认识苦难的奥秘</a>
 
-<a href = "https://www.godoor.net/text/shenxue/jdjydl/frame.htm" target="_blank" rel="noopener noreferrer">Loraine Boettner | 预定论</a>
+<a href = "https://www.godoor.net/text/shenxue/jdjydl/frame.htm" target="_blank" rel="noopener noreferrer">Loraine Boettner  著 | 预定论</a>
 
 <--->
 
