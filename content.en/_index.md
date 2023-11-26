@@ -17,7 +17,7 @@ type: docs
 <--->
 <b><font class = "font_upper">中文查经网站</font></b>:  
 
-<a href = "http://www.godoor.com/book/library/html/bible/jyzl/content.html" target="_blank" rel="noopener noreferrer">信仰之门 | 旧约综览</a>
+<a href = "http://www.godoor.com/book/library/html/bible/jyzl/content.html" target="_blank" rel="noopener noreferrer">信仰之门 |> 旧约综览</a>
 
 <a href = "https://cmcbiblereading.com/" target="_blank" rel="noopener noreferrer">圣经综合解读</a>
 
