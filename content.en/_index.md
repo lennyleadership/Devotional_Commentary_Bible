@@ -17,6 +17,8 @@ type: docs
 <--->
 <b><font class = "font_upper">中文查经网站</font></b>:  
 
+<a href = "http://www.godoor.com/book/library/html/bible/jyzl/content.html" target="_blank" rel="noopener noreferrer">信仰之门 | 旧约综览</a>
+
 <a href = "https://cmcbiblereading.com/" target="_blank" rel="noopener noreferrer">圣经综合解读</a>
 
 <a href = "https://www.ccbiblestudy.org/index-S.htm" target="_blank" rel="noopener noreferrer">华人基督徒查经资料网站</a>
@@ -54,11 +56,11 @@ type: docs
 {{< columns >}}
 <b>神学书籍</b>
 
-<a href = "https://www.godoor.net/text/shenxue/jddwg/" target="_blank" rel="noopener noreferrer">伯特纳 著 | 基督的位格</a>
+<a href = "https://www.godoor.net/text/shenxue/jddwg/" target="_blank" rel="noopener noreferrer">信仰之门 |> 《基督的位格》 伯特纳 著</a>
 
-<a href = "https://www.godoor.net/text/shenxue/rskndam/content.htm" target="_blank" rel="noopener noreferrer">卡森 著 | 认识苦难的奥秘</a>
+<a href = "https://www.godoor.net/text/shenxue/rskndam/content.htm" target="_blank" rel="noopener noreferrer">信仰之门 |> 《认识苦难的奥秘》 卡森 著</a>
 
-<a href = "https://www.godoor.net/text/shenxue/jdjydl/frame.htm" target="_blank" rel="noopener noreferrer">Loraine Boettner  著 | 预定论</a>
+<a href = "https://www.godoor.net/text/shenxue/jdjydl/frame.htm" target="_blank" rel="noopener noreferrer">信仰之门 |>  《预定论》 Loraine Boettner  著</a>
 
 <--->
 
