@@ -71,7 +71,14 @@ toc: true
 5:36 Neither shalt thou swear by thy head, because thou canst not make one hair white or black.  
 5:37 But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.  
 5:38 Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:  
-5:39 But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.  
+5:39 But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also<label for="cheek" class="margin-toggle sidenote-number"></label><span class="sidenote">Isaiah 50:6 NKJV
+I gave My back to those who struck Me, And My cheeks to those who plucked out the beard; I did not hide My face from shame and spitting.
+<br>Lamentations 3:30 NKJV
+Let him give his cheek to the one who strikes him, And be full of reproach.
+<br>Matthew 26:67 NKJV
+Then they spat in His face and beat Him; and others struck Him with the palms of their hands,
+
+</span>.  
 5:40 And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also.  
 
 5:41 And whosoever shall compel thee to go a mile, go with him twain.  

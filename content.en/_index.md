@@ -29,7 +29,7 @@ type: docs
 
 <a href = "http://www.zgaxr.com/book/008/042/1135.htm" target="_blank" rel="noopener noreferrer">圣经66卷查经资料汇总目录－新　约</a>
 
-
+<a href = "http://www.b3927.com/" target="_blank" rel="noopener noreferrer">灯与光网站</a>
 
 {{< /columns >}}
 
