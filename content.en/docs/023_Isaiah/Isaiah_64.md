@@ -3,7 +3,7 @@ weight: 64
 title: Isaiah 64
 authors: Lenny
 categories: null
-tags: ["污秽的外衣"]
+tags: ["污秽的外衣", "筵席的比喻","自义"]
 date: "2023-12-01"
 description: 
 draft: false
