@@ -3,7 +3,7 @@ weight: 034
 title: Psalm 34
 authors: Lenny
 categories: null
-tags: ["上帝拣选人得救？"]
+tags: ["上帝拣选人得救？","人在患难中"]
 description: 
 draft: false
 date: "2023-11-24"
@@ -47,7 +47,7 @@ toc: true
 34:17 The righteous cry, and the LORD heareth, and delivereth them out of all their troubles.  
 34:18 The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.  
 34:19 Many are the afflictions of the righteous: but the LORD delivereth him out of them all.  
-34:20 He keepeth all his bones: not one of them is broken.  
+34:20 He keepeth all his bones: not one of them is broken.    
 
 34:21 Evil shall slay the wicked: and they that hate the righteous shall be desolate.  
 34:22 The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate.  
@@ -77,7 +77,7 @@ toc: true
 34:17 义人呼求、耶和华听见了、便救他们脱离一切患难。  
 34:18 耶和华靠近伤心的人、拯救灵性痛悔的人。  
 34:19 义人多有苦难。但耶和华救他脱离这一切。  
-34:20 又保全他一身的骨头、连一根也不折断。  
+34:20 又保全他一身的骨头、连一根也不折断。 <label for="delivery" class="margin-toggle sidenote-number"></label><span class="sidenote">19-20节：人在患难中的时候，不能体会上帝的应许。</span> 
 
 34:21 恶必害死恶人。恨恶义人的、必被定罪。  
 34:22 耶和华救赎他仆人的灵魂。凡投靠他的、必不至定罪。  
