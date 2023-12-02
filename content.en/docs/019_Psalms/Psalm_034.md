@@ -7,7 +7,7 @@ tags: ["上帝拣选人得救？","人在患难中", 谨守言语]
 description: 
 draft: false
 date: "2023-11-24"
-lastmod: "2023-11-24"
+lastmod: "2023-12-02"
 series: 
 toc: true
 ---
