@@ -3,7 +3,7 @@ weight: 21
 title: Proverbs 21
 authors: Lenny Lin
 categories: null
-tags: []
+tags: [谨守言语]
 description: 
 draft: false
 date: "2023-11-09"
@@ -51,7 +51,9 @@ toc: true
 
 21:21 He that followeth after righteousness and mercy findeth life, righteousness, and honour.  
 21:22 A wise man scaleth the city of the mighty, and casteth down the strength of the confidence thereof.  
-21:23 Whoso keepeth his mouth and his tongue keepeth his soul from troubles.  
+21:23 Whoso <b>keepeth his mouth and his tongue</b> keepeth his soul from troubles.<label for="tongu" class="margin-toggle sidenote-number"></label><span class="sidenote">Psalm 34:13 NKJV
+Keep your tongue from evil, And your lips from speaking deceit.
+</span>  
 21:24 Proud and haughty scorner is his name, who dealeth in proud wrath.  
 21:25 The desire of the slothful killeth him; for his hands refuse to labour.  
 

@@ -3,7 +3,7 @@ weight: 034
 title: Psalm 34
 authors: Lenny
 categories: null
-tags: ["上帝拣选人得救？","人在患难中"]
+tags: ["上帝拣选人得救？","人在患难中", 谨守言语]
 description: 
 draft: false
 date: "2023-11-24"
@@ -39,7 +39,9 @@ toc: true
 
 34:11 Come, ye children, hearken unto me: I will teach you the fear of the LORD.  
 34:12 What man is he that desireth life, and loveth many days, that he may see good?  
-34:13 Keep thy tongue from evil, and thy lips from speaking guile.  
+34:13 <b>Keep thy tongue from evil, and thy lips from speaking guile</b>.<label for="tongue" class="margin-toggle sidenote-number"></label><span class="sidenote">Proverb 21:23 NKJV
+Whoever guards his mouth and tongue Keeps his soul from troubles.
+</span>  
 34:14 Depart from evil, and do good; seek peace, and pursue it.  
 34:15 The eyes of the LORD are upon the righteous, and his ears are open unto their cry.  
 
@@ -69,7 +71,7 @@ toc: true
 
 34:11 众弟子阿、你们当来听我的话。我要将敬畏耶和华的道、教训你们。  
 34:12 有何人喜好存活、爱慕长寿、得享美福。  
-34:13 就要禁止舌头不出恶言、嘴唇不说诡诈的话。  
+34:13 就要<b>禁止舌头不出恶言、嘴唇不说诡诈的话</b>。  
 34:14 要离恶行善、寻求和睦、一心追赶<label for="追赶" class="margin-toggle sidenote-number"></label><span class="sidenote">这句话给我的提醒是：当我们愿意就近光后，我们也要有回应。所以“敬畏神”是上帝与信者之间的互动。<br>神学上有两派观点：是上帝拣选有的人得救？我觉得上帝早已将祂的心意启示给人类，历世历代好多基督徒也在传播上帝心意，</span>。  
 34:15 耶和华的眼目、看顾义人、他的耳朵、听他们的呼求。  
 
