@@ -1,18 +1,34 @@
 ---
 weight: 3
-title: 玛三章
+title: Malachi 3
 authors: Lenny
 categories: null
+tags: [叶公好龙]
 description: 
 draft: false
 date: "2022-04-19"
-lastmod: "2022-10-01"
+lastmod: "2023-12-06"
 series:
-tags: [叶公好龙]
 toc: true
 ---
-玛拉基书
+
 <!--more-->
+
+
+<!-- Tab links -->
+
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+
+</div>
+
+<div id="chinese" class="tabcontent">
 
 3:1 万军之耶和华说、我要差遣我的使者、在我前面预备道路。你们所寻求的主、必忽然进入他的殿。立约的使者、就是你们所仰慕的、快要来到。&nbsp;&nbsp;<sup>(</sup>[^1]<sup>)</sup>  
 3:2 他来的日子、谁能当得起呢。他显现的时候、谁能立得住呢。因为他如炼金之人的火、如漂布之人的碱。&nbsp;&nbsp;<sup>(</sup>[^2]<sup>)</sup>  
@@ -48,3 +64,4 @@ toc: true
 [^8]: 虽然被掳回归的百姓表面上不拜偶像了，但神却借着等候，暴露出他们「事奉神、遵守神所吩咐的、苦苦斋戒」，其实所存的都是拜偶像的心思。今天，神也常常让信徒的人生经历各种等候，好让我们认清自己是「信耶稣、得永生」，还是「信耶稣、得水牛」。凡是真正重生得救的人，心中所盼望的是「将来要显于我们的荣耀」（罗八18），而「我们若靠基督只在今生有指望，就算比众人更可怜」（林前十五19）。  
 [^9]: 在等候神的过程中，有的人失去了耐心，质疑「公义的神在哪里呢」（二17）；而有的人凭信心等候。「敬畏耶和华的彼此谈论」（16节），神必「侧耳而听」（16节），并且记在「纪念册」（16节）上。今天，「凡人所说的闲话，当审判的日子，必要句句供出来；因为要凭你的话定你为义，也要凭你的话定你有罪」（路六36-37）。许多信徒自以为虔诚，却不能勒住自己的舌头，实际上是自欺欺人；圣灵说：「这人的虔诚是虚的」（雅一26），「因为心里所充满的，口里就说出来」（路六45）。
 [玛拉基书第3章逐节注解、祷读](https://cmcbiblereading.com/2016/11/03/%e7%8e%9b%e6%8b%89%e5%9f%ba%e4%b9%a6%e7%ac%ac3%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
+</div>

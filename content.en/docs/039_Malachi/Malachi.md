@@ -4,7 +4,7 @@ categories: null
 date: "2022-04-19"
 description: 
 draft: true
-lastmod: "2022-07-14"
+lastmod: "2023-12-06"
 series:
 tags: 
 title: 玛拉基书

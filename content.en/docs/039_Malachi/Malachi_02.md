@@ -1,19 +1,33 @@
 ---
 weight: 2
-title: 玛二章
+title: Malachi 2
 authors: Lenny
 categories: null
+tags: [上帝造人,创造论]
 description: 
 draft: false
 date: "2022-04-19"
-lastmod: "2022-10-01"
+lastmod: "2023-12-06"
 series:
-tags: 
 toc: true
 ---
-玛拉基书
+
 <!--more-->
 
+<!-- Tab links -->
+
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+
+</div>
+
+<div id="chinese" class="tabcontent">
 
 2:1 众祭司阿、这诫命是传给你们的。  
 2:2 万军之耶和华说、你们若不听从、也不放在心上、将荣耀归与我的名、我就使咒诅临到你们、使你们的福分变为咒诅。因你们不把诫命放在心上、我已经咒诅你们了。  
@@ -35,3 +49,6 @@ toc: true
 
 2:16 耶和华以色列的　神说、休妻的事、和以强暴待妻的人、都是我所恨恶的。所以当谨守你们的心、不可行诡诈。这是万军之耶和华说的。  
 2:17 你们用言语烦琐耶和华。你们还说、我们在何事上烦琐他呢。因为你们说、凡行恶的、耶和华眼看为善、并且他喜悦他们。或说、公义的　神在哪里呢。  
+
+</div>
+

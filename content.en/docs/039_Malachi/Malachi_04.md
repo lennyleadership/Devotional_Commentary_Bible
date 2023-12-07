@@ -1,18 +1,33 @@
 ---
 weight: 4
-title: 玛四章
+title: Malachi 4
 authors: Lenny
 categories: null
+tags: [叶公好龙]
 description: 
 draft: false
 date: "2022-04-19"
-lastmod: "2022-10-01"
+lastmod: "2023-12-06"
 series:
-tags: [叶公好龙]
 toc: true
 ---
-玛拉基书
+
 <!--more-->
+
+<!-- Tab links -->
+
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+
+</div>
+
+<div id="chinese" class="tabcontent">
 
 4:1 万军之耶和华说、那日临近、势如烧着的火炉。凡狂傲的和行恶的、必如碎稓。在那日必被烧尽、根本枝条一无存留。  
 4:2 但向你们敬畏我名的人、必有公义的日头出现、其光线有医治之能。〔光线原文作翅膀〕你们必出来跳跃如圈里的肥犊。[^1]  
@@ -29,3 +44,5 @@ toc: true
 圣灵使用本书，预备旧约百姓开始四百多年耐心的等候，让他们一面记念遵行「摩西的律法」（4节），一面警醒等候「先知以利亚」（4节）为基督开路。圣灵也使用本书，预备新约百姓盼望基督的到来，让他们承认自己是只配「咒诅」的罪人，接受「基督既为我们受了咒诅，就赎出我们脱离律法的咒诅」（加三13）。而在新天新地里，「以后再没有咒诅」（启二十二3；亚十四11），整本圣经将以「主耶稣的恩惠常与众圣徒同在」（启二十二21）结束！
 
 [玛拉基书第4章逐节注解、祷读](https://cmcbiblereading.com/2016/11/06/%e7%8e%9b%e6%8b%89%e5%9f%ba%e4%b9%a6%e7%ac%ac4%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
+</div>
+

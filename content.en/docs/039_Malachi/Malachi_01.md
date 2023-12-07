@@ -1,20 +1,36 @@
 ---
 weight: 1
-title: 玛一章
+title: Malachi 1
 authors: Lenny
 categories: null
 tags: [刘志雄讲道]
 description: 
 draft: false
 date: "2022-04-19"
-lastmod: "2022-10-01"
+lastmod: "2023-12-06"
 series:
 toc: true
 ---
-玛拉基书
+
 
 <!--more-->
 ---
+
+<!-- Tab links -->
+
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+
+</div>
+
+<div id="chinese" class="tabcontent">
+
 1:1 耶和华借玛拉基传给以色列的默示。&emsp;([^1])   
 1:2 耶和华说、我曾爱你们。你们却说、你在何事上爱我们呢。耶和华说、以扫不是雅各的哥哥么。我却爱雅各、&emsp;([^2])  
 1:3 恶以扫、使他的山岭荒凉、把他的地业交给旷野的野狗。  
@@ -48,3 +64,4 @@ toc: true
 「在何事上」（2、6、7节；二17；三8）、「为什么」（二14）、「如何」（三7）和「什么话」（三13），原文都是同一个词。百姓八次这个词反问神，暴露了人的愚昧和顽梗。但神却因着祂不变的爱，忍耐百姓的顶嘴，甘心降卑自己与人辩论，把人的愚昧一点一点地剥开，好让我们能够回转。  
 [^3]: 神是我们的「父亲」（6节）和「主人」（6节）。神造人的目的，就是要我们要成为承受祂基业的「儿子」（弗一9-12；来二10）、管理祂创造的「仆人」（创一26；来二5-7），彰显神的荣耀（赛四十三7）。而神救人的目的，就是把我们恢复成祂的儿子、祂的仆人，像儿子服事父亲一样（三17），因着爱神而事奉神（约壹五2-3）。因此，基督徒当尽的本分，得救的信徒没有立刻上天堂、而是在世上继续生活的目的，就是作为神的仆人来事奉祂（出八1）、见证祂（太二十八19-20；徒一8），在事奉中接受十字架的对付和造就（太十六24），长成神儿子的样式（加二20；申十12；弥六8）。  
 [玛拉基书第1章逐节注解、祷读](https://cmcbiblereading.com/2016/11/02/%e7%8e%9b%e6%8b%89%e5%9f%ba%e4%b9%a6%e7%ac%ac1%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
+</div>
