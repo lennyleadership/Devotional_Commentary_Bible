@@ -3,7 +3,7 @@ weight: 21
 title: Proverbs 21
 authors: Lenny Lin
 categories: null
-tags: [谨守言语]
+tags: [谨守言语, 抵挡上帝]
 description: 
 draft: false
 date: "2023-11-09"
@@ -23,7 +23,7 @@ toc: true
 </div>
 
 <!-- Tab content -->
-<div id="english" class="tabcontent" style="display:block">
+<div id="english" class="tabcontent" >
 
 21:1 The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will.<label for="king" class="margin-toggle sidenote-number"></label><span class="sidenote">Psalm 2:2 The kings of the earth set themselves, and the rulers take counsel together, <b>against the LORD</b>, and against his anointed, saying, ... </span>  
 21:2 Every way of a man is right in his own eyes: but the LORD pondereth the hearts.  
@@ -66,7 +66,7 @@ Keep your tongue from evil, And your lips from speaking deceit.
 21:31 The horse is prepared against the day of battle: but safety is of the LORD.  
 </div>
 
-<div id="chinese" class="tabcontent">
+<div id="chinese" class="tabcontent" style="display:block">
 
 21:1 王的心在耶和华手中、好像陇沟的水、随意流转。  
 21:2 人所行的、在自己眼中都看为正。惟有耶和华衡量人心。  
@@ -102,7 +102,7 @@ Keep your tongue from evil, And your lips from speaking deceit.
 21:27 恶人的祭物是可憎的、何况他存恶意来献呢。  
 21:28 作假见证的必灭亡。惟有听真情而言的、其言长存。  
 21:29 恶人脸无羞耻。正直人行事坚定。  
-21:30 没有人能以智慧、聪明、谋略、敌挡耶和华。  
+21:30 没有人能以智慧、聪明、谋略、敌挡耶和华。<label for="敌挡" class="margin-toggle sidenote-number"></label><span class="sidenote">这节经文在说，我们没有办法阻挡上帝。。。<br>比如，让上帝少爱我们一些。阻挡上帝在每个人生命中的计划。</span>    
 
 21:31 马是为打仗之日预备的。得胜乃在乎耶和华。  
 
