@@ -71,8 +71,8 @@ toc: true
 40:17 但我是困苦穷乏的、主仍顾念我。你是帮助我的、搭救我的。　神阿、求你不要耽延。  
 
 ----
-<p id="1">[1] 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/rL6FAYWzJEE?start=68&end=70;list=PL1C_Nq9MMPQYcmASihssKZgbq7Ed7W66V" title="2023年10月04日 基督学房香港特别聚会：举目向田观看 02 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p id="1">[1]   
+<iframe width="640" height="360" src="https://www.youtube.com/embed/rL6FAYWzJEE?t=4080s" title="2023年10月04日 基督学房香港特别聚会：举目向田观看 02 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 1:08:00 处，引用诗篇40:8讲耶稣的生命是什么？耶稣从来不做自己喜欢做的事，永远做父神喜欢做的事。祂的生命在我们里面可以成为极大的恩典和能力。喜爱神的旨意，到一个地步是享受。这是耶稣要在我们里面做的事。
 <a href="#1_ref">&#8617;</a></p>
 </div>
