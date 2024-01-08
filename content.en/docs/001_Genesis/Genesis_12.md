@@ -3,7 +3,7 @@ weight: 12
 title: Genesis 12
 authors: Lenny
 categories: null
-tags: []
+tags: ["Abram, Lot, Covenent"]
 description: 
 draft: false
 date: "2024-01-08"

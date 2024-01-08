@@ -21,6 +21,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'note-01')">耶稣的资格</button>
 </div>
 
 <!-- Tab content -->
@@ -91,4 +92,23 @@ toc: true
 1:24 约瑟醒了、起来、就遵着主使者的吩咐、把妻子娶过来。  
 1:25 只是没有和他同房、等他生了儿子、〔有古卷作等他生了头胎的儿子〕就给他起名叫耶稣。  
 
+</div>
+
+<div id="note-01" class="tabcontent">
+
+如果把耶稣比喻成一座殿宇的话，我们透过旧约看耶稣好比是在外面看到殿宇的恢宏。新约看耶稣好比是在里面看殿宇的荣美。而马太福音第一章则是殿宇的大厅。我初信的时候，最不爱读第一章。耶稣的家谱能有什么内容吗？其实不然，这章书讲到耶稣作君王、无瑕疵的祭物、和大祭司的资格。
+
+这是基督信仰的核心价值观，与我们的关系太大了！
+
+这里分享几则我读这一章的学习笔记。
+
+https://spiritual-notes.netlify.app/docs/11-break-the-bread/17_2023_12_10_jesus_genealogy/
+
+https://spiritual-notes.netlify.app/docs/31_jesus_life/13_jesus_kingship/
+
+https://spiritual-notes.netlify.app/docs/31_jesus_life/14_virgin_birth/
+
+https://spiritual-notes.netlify.app/docs/31_jesus_life/15_high_priest/
+
+通过学习，使我在唱圣诞歌的时候更好地明白歌词，感谢上帝赐下耶稣。
 </div>
