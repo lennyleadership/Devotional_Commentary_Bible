@@ -130,7 +130,7 @@ toc: true
 Date: 2024-01-20
 
 <hr>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7EbwGEhBkWw" title="O Love That Will Not Let Me Go (2020) | The Tabernacle Choir" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-MrcSKkqVUs" title="不忍弃我的爱 / O Love That Wilt Not Let Me Go" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 O Lord That Will Not Let Me Go   
 Lyrics by George Matheson and music by Albert L. Peace.
 
