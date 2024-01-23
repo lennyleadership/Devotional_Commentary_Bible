@@ -1,6 +1,6 @@
 ---
-weight: 
-title: 
+weight: 01
+title: 2 Chronicles 01
 authors: Lenny
 categories: null
 tags: 
