@@ -3,7 +3,7 @@ weight: 16
 title: 2 Chronicles 16
 authors: Lenny
 categories: null
-tags: 
+tags: ["seek to the physicians"]
 description: 
 draft: false
 date: "2024-01-22"
