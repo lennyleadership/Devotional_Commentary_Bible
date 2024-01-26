@@ -3,7 +3,7 @@ weight: 6
 title: Hebrews 06
 authors: Lenny
 categories: null
-tags: 
+tags: [God's attribute]
 description: 
 draft: false
 date: "2023-03-12"
@@ -36,7 +36,7 @@ toc: true
 6:7 For the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them by whom it is dressed, receiveth blessing from God:  
 6:8 But that which beareth thorns and briers is rejected, and is nigh unto cursing; whose end is to be burned.  
 6:9 But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak.  
-6:10 For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister.  
+6:10 For God is not unrighteous<label for="righteous" class="margin-toggle sidenote-number"></label><span class="sidenote">God's attribute: righteousness</span> to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister.  
 
 6:11 And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:  
 6:12 That ye be not slothful, but followers of them who through faith and patience inherit the promises.  

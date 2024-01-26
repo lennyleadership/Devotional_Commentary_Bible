@@ -3,7 +3,7 @@ weight: 10
 title: Hebrews 10
 authors: Lenny
 categories: null
-tags: 
+tags: [God's attribute]
 description: 
 draft: false
 date: "2023-03-12"
@@ -45,7 +45,7 @@ toc: true
 10:15 Whereof the Holy Ghost also is a witness to us: for after that he had said before,  
 
 10:16 This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;  
-10:17 And their sins and iniquities will I remember no more.  
+10:17 And their sins and iniquities will I remember no more<label for="God's attribute" class="margin-toggle sidenote-number"></label><span class="sidenote">God's attribute: forget</span>.  
 10:18 Now where remission of these is, there is no more offering for sin.  
 10:19 Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,  
 10:20 By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;  
