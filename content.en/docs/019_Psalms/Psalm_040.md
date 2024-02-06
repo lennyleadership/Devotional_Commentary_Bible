@@ -3,7 +3,7 @@ weight: 040
 title: Psalm 40
 authors: Lenny
 categories: null
-tags: ["Jesus' Life Quality"]
+tags: ["Sign of Life in Jesus"]
 description: 
 draft: false
 date: "2023-12-29"
@@ -33,7 +33,7 @@ toc: true
 
 40:6 Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required.  
 40:7 Then said I, Lo, I come: in the volume of the book it is written of me,  
-40:8 I delight to do thy will, O my God: yea, thy law is within my heart<label for="will" class="margin-toggle sidenote-number"></label><span class="sidenote">The quality of Jesus' life</span>.  
+40:8 I delight to do thy will, O my God: yea, thy law is within my heart<label for="will" class="margin-toggle sidenote-number"></label><span class="sidenote">Sign of Life in Jesus</span>.  
 40:9 I have preached righteousness in the great congregation: lo, I have not refrained my lips, O LORD, thou knowest.  
 40:10 I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation.  
 
