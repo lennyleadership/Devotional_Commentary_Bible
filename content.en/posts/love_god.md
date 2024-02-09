@@ -1,10 +1,9 @@
 +++
-title = "Verses on Loving God"
+title = "Those Who Love God"
 description = ""
 tags = []
 date = "2024-02-05"
-categories = [
-]
+categories = []
 menu = "main"
 +++
 
