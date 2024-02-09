@@ -10,7 +10,7 @@ menu = "main"
 
 
 John 14:21 NKJV  
-He who has My commandments and keeps them, it is he who <b>loves Me</b>. And he who loves Me will be loved by My Father, and I will love him and manifest Myself to him."
+He who has My commandments and keeps them, it is he who <b>loves Me</b><label for="love" class="margin-toggle sidenote-number"></label><span class="sidenote">Greek origin of love: G25, agapaō</span>. And he who loves Me will be loved by My Father, and I will love him and manifest Myself to him."
 
 
 1 Corinthians 2:9 NKJV  
