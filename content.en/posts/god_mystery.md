@@ -3,8 +3,7 @@ title = "God's Mystery"
 description = ""
 tags = ["God's mystery", "God's secret"]
 date = "2023-06-04"
-categories = [
-]
+categories = []
 menu = "main"
 +++
 

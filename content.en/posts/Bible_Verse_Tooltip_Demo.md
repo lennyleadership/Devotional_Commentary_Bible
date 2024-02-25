@@ -1,12 +1,9 @@
 +++
 title = "Bible Verse Tooltip Demo"
 description = ""
-tags = [
-
-]
+tags = []
 date = "2022-08-13"
-categories = [
-]
+categories = []
 menu = "main"
 +++
 
