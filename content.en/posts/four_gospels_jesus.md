@@ -1,7 +1,7 @@
 +++
 title = "四福音的侧重点"
 description = ""
-tags = []
+tags = [旷野吗哪]
 date = "2024-02-24"
 categories = []
 menu = "main"
