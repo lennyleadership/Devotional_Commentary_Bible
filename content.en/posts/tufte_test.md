@@ -1,12 +1,9 @@
 +++
 title = "Tufte test"
 description = ""
-tags = [
-
-]
+tags = []
 date = "2022-11-08"
-categories = [
-]
+categories = []
 menu = "main"
 +++
 

@@ -1,12 +1,9 @@
 +++
 title = ""
 description = ""
-tags = [
-
-]
+tags = []
 date = "2024-"
-categories = [
-]
+categories = []
 menu = "main"
 +++
 
