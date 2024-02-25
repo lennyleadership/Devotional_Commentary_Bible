@@ -1,9 +1,9 @@
 +++
-title = "四福音的侧重点"
-tags = [旷野吗哪]
-categories = []
+title = "Those Who Love God"
 description = ""
-date = "2024-02-24"
+tags = []
+date = "2024-02-05"
+categories = []
 menu = "main"
 +++
 
