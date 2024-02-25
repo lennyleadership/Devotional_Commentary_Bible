@@ -1,10 +1,11 @@
-++++
++++
 title = "四福音的侧重点"
 description = ""
 tags = []
 date = "2024-02-24"
 categories = []
----
+author = "Lenny Lin"
++++
 
 
 
