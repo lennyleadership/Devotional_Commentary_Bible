@@ -4,7 +4,6 @@ description = ""
 tags = []
 date = "2024-02-24"
 categories = []
-author = "Lenny Lin"
 ---
 
 
