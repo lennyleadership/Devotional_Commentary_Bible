@@ -1,10 +1,9 @@
 +++
-title = "旷野吗哪"
+title = "四福音的侧重点"
 description = ""
 tags = [旷野吗哪]
 date = "2024-"
-categories = [
-]
+categories = []
 menu = "main"
 +++
 

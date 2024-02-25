@@ -1,10 +1,13 @@
----
-weight: 
-title: 四福音书的侧重点
-author: Lenny Lin
-date: 2024-02-24
-linktitle: 
----
++++
+title = "四福音的侧重点"
+description = ""
+tags = []
+date = "2024-02-24"
+categories = []
+menu = "main"
++++
+
+
 
 福音书的定义
 
