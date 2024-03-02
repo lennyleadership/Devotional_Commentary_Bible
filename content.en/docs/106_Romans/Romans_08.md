@@ -68,7 +68,9 @@ toc: true
 8:34 Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.  
 8:35 Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?  
 
-8:36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.  
+8:36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter<label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">Psalms 44:22 (NKJV)
+<br>22 Yet for Your sake we are killed all day long;
+<br>We are accounted as sheep for the slaughter.</span>.  
 8:37 Nay, in all these things we are more than conquerors through him that loved us.  
 8:38 For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,  
 8:39 Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is <a class = "blue">in Christ Jesus</a> our Lord.  
@@ -119,7 +121,8 @@ toc: true
 8:34 谁能定他们的罪呢。有基督耶稣已经死了、而且从死里复活、现今在　神的右边、也替我们祈求。〔有基督云云或作是已经死了而且从死里复活现今在　神的右边也替我们祈求的基督耶稣么〕  
 8:35 谁能使我们与基督的爱隔绝呢。难道是患难么、是困苦么、是逼迫么、是饥饿么、是赤身露体么、是危险么、是刀剑么。  
 
-8:36 如经上所记、『我们为你的缘故、终日被杀。人看我们如将宰的羊。』  
+8:36 如经上所记、『我们为你的缘故、终日被杀。人看我们如将宰的羊<label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">诗篇 44:22
+<br>22 我们为你的缘故终日被杀，人看我们如将宰的羊。</span>。』  
 8:37 然而靠着爱我们的主、在这一切的事上、已经得胜有余了。  
 8:38 因为我深信无论是死、是生、是天使、是掌权的、是有能的、是现在的事、是将来的事、  
 8:39 是高处的、是低处的、是别的受造之物、都不能叫我们与　神的爱隔绝。这爱是在我们的主基督耶稣里的。  
