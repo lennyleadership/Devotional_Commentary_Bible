@@ -3,7 +3,7 @@ weight: 8
 title: Romans 8
 authors: Lenny
 categories: null
-tags: 
+tags: ["人怎样看基督徒"]
 description: 
 draft: false
 date: "2022-12-01"
