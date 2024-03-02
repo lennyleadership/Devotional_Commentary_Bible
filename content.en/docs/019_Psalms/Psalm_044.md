@@ -3,7 +3,7 @@ weight: 044
 title: Psalm 44
 authors: Lenny
 categories: null
-tags: []
+tags: ["人怎样看基督徒"]
 description: 
 draft: false
 date: "2024-03-01"
