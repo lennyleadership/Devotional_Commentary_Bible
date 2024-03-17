@@ -1,5 +1,5 @@
 ---
-Weight: 11
+Weight: 011
 title: 1 Kings
 authors: Lenny Lin
 categories: null
