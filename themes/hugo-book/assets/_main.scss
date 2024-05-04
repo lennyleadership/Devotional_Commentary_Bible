@@ -465,53 +465,6 @@ img {
   }
 
 
-/* table *//////////////////////////////////////////////////////////////////////////////////////////
-table {
-  /*width: 100%;*/  
-  font-size: 80%;
-  /*border: 1px solid #fbe4d5;*/
-  vertical-align: middle;
-  
-  overflow: auto;
-  display: block;
-  border-spacing: 0;
-  border-collapse: collapse;
-  margin-top: $padding-16;
-  margin-bottom: $padding-16;
-
-  tr th {
-    padding: $padding-8 $padding-16;
-    border-bottom: $padding-1 solid #000;
-    }
-
-
-  tr td {
-    padding: $padding-8 $padding-16;
-    border: $padding-1 solid var(--gray-200);
-    }
-  }
-  
-.subtitle {
-  padding-top: 2px;
-  padding-bottom: 2px;
-}  
-
-th { /*a header cell*/
-  background-color: #D6EEEE;
-}
-
-
-tr:nth-child(2n) {
-  background: var(--gray-100);
-    }
-
-
-tr:nth-child(even) {
-  /*background-color: #f2f2f2;*/
-}
-
-/* end */********************************************************************************************
-
 
 
 hr {

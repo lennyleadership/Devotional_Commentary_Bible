@@ -15,6 +15,13 @@ toc: true
 Genesis
 <!--more-->
 ---
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
 
 22:1 And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.  
 22:2 And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.  <a id="1_ref" href = "#1">[1]</a>      
@@ -45,9 +52,6 @@ Genesis
 22:23 And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham's brother.  
 22:24 And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.  
 
-
-
-
 <p id="1">[1]   
 [Genesis 22:2] Take now thy son . . and offer him there for a burnt-offering upon one of the mountains which I will tell thee of.  
 Character determines how a man interprets God’s will (cf. Psalm 18:25-26).   
@@ -56,6 +60,8 @@ Don’t ask God to test you. Never declare as Peter did – "I will do anything,
 [April 26, The Supreme Climb](https://www.oswaldchambers.co.uk/classic/the-supreme-climb-2-classic/) <a href="#1_ref">&#8617;</a></p>
 
 <p id="2">[2]   
+My Utmost for His Highest
+
 By Myself I have sworn, says the Lord, because you have done this thing…I will bless you… — Genesis 22:16-17   
 
 Abraham, at this point, has reached where he is in touch with the very nature of God. He now understands the reality of God.  
@@ -77,7 +83,7 @@ It is through the discipline of obedience that I get to the place where Abraham 
 
 The promises of God are of no value to us until, through obedience, we come to understand the nature of God. We may read some things in the Bible every day for a year and they may mean nothing to us. Then, because we have been obedient to God in some small detail, we suddenly see what God means and His nature is instantly opened up to us. “All the promises of God in Him are Yes, and in Him Amen…” (2 Corinthians 1:20). Our “Yes” must be born of obedience; when by obedience we ratify a promise of God by saying, “Amen,” or, “So be it.” That promise becomes ours.
 
----
+
 
 《竭诚为主》11月17日  
 
@@ -96,3 +102,44 @@ The promises of God are of no value to us until, through obedience, we come to u
 神的应许对我们毫无价值，除非我们藉顺服明白神的本性。圣经的话可以念过三百六十五次，而仍对我们毫无意义。但突然我们却看出神的意思，因为在某些事上我们顺服神，他的性情立刻向我们开敞了。[神的应许不论有多少，在基督都是是的，所以藉着他也是实在的。]这个[是的]，必须从顺服中出来；我们若藉着生命中的顺服对应许说[阿们]，那应许就属于我们。 
 
 祈祷◆主啊，求你唤醒我，以致我那必死的身体，能真正成为一个顺服圣灵的仆人。 <a href="#2_ref">&#8617;</a></p>
+</div>
+
+<div id="chinese" class="tabcontent">
+
+22:1 这些事以后、　神要试验亚伯拉罕、就呼叫他说、亚伯拉罕、他说、我在这里。  
+22:2 　神说、你带着你的儿子、就是你独生的儿子、你所爱的以撒、往摩利亚地去、在我所要指示你的山上、把他献为燔祭。  
+22:3 亚伯拉罕清早起来、备上驴、带着两个仆人和他儿子以撒、也劈好了燔祭的柴、就起身往　神所指示他的地方去了。  
+22:4 到了第三日、亚伯拉罕举目远远的看见那地方。  
+22:5 亚伯拉罕对他的仆人说、你们和驴在此等候、我与童子往那里去拜一拜、就回到你们这里来。  
+
+22:6 亚伯拉罕把燔祭的柴放在他儿子以撒身上、自己手里拿着火与刀。于是二人同行。  
+22:7 以撒对他父亲亚伯拉罕说、父亲哪。亚伯拉罕说、我儿、我在这里。以撒说、请看、火与柴都有了、但燔祭的羊羔在哪里呢。  
+22:8 亚伯拉罕说、我儿、　神必自己预备作燔祭的羊羔。于是二人同行。  
+22:9 他们到了　神所指示的地方、亚伯拉罕在那里筑坛、把柴摆好、捆绑他的儿子以撒、放在坛的柴上。  
+22:10 亚伯拉罕就伸手拿刀、要杀他的儿子。  
+
+22:11 耶和华的使者从天上呼叫他说、亚伯拉罕、亚伯拉罕、他说、我在这里。  
+22:12 天使说、你不可在这童子身上下手、一点不可害他。现在我知道你是敬畏　神的了、因为你没有将你的儿子、就是你独生的儿子、留下不给我。  
+22:13 亚伯拉罕举目观看、不料、有一只公羊、两角扣在稠密的小树中、亚伯拉罕就取了那只公羊来、献为燔祭、代替他的儿子。  
+22:14 亚伯拉罕给那地方起名叫耶和华以勒、〔意思就是耶和华必预备〕直到今日人还说、在耶和华的山上必有预备。  
+22:15 耶和华的使者第二次从天上呼叫亚伯拉罕说、  
+
+22:16 耶和华说你既行了这事、不留下你的儿子、就是你独生的儿子、我便指着自己起誓说、  
+22:17 论福、我必赐大福给你、论子孙、我必叫你的子孙多起来、如同天上的星、海边的沙、你子孙必得着仇敌的城门。  
+22:18 并且地上万国都必因你的后裔得福、因为你听从了我的话。  
+22:19 于是亚伯拉罕回到他仆人那里、他们一同起身往别是巴去、亚伯拉罕就住在别是巴。  
+22:20 这事以后、有人告诉亚伯拉罕说、密迦给你兄弟拿鹤生了几个儿子、  
+
+22:21 长子是乌斯、他的兄弟是布斯、和亚兰的父亲基母利。  
+22:22 并基薛、哈琐、必达、益拉、彼土利、（彼土利生利百加)
+22:23 这八个人、都是密迦给亚伯拉罕的兄弟拿鹤生的。  
+22:24 拿鹤的妾名叫流玛、生了提八、迦含、他辖、和玛迦。  
+</div>
+
+
+
+
+
+
+
+
