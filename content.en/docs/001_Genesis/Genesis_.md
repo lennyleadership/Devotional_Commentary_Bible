@@ -12,7 +12,7 @@ series:
 toc: true
 ---
 
-change the draft status from true to false.
+
 
 <!--more-->
 ---
@@ -28,7 +28,7 @@ change the draft status from true to false.
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-
+change the draft status from true to false.
 </div>
 
 <div id="chinese" class="tabcontent">
