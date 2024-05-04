@@ -145,15 +145,40 @@ toc: true
 
 <div id="jacob" class="tabcontent">
 
-It is always in my mind that the event of Esau sold his birthright [Genesis 25:33] happened at the same time when Jacob stole the blessing from Isaac [Genesis 27].  When I re-read the bible about Jacob's life, I realized that these were two separate things.
-
-God did not like Esau because Esau despised God's promise.
+It is always in my mind that the event of Esau sold his birthright<label class="margin-toggle sidenote-number"></label><span class="sidenote">God did not like Esau [Malachi 1:2-3] because Esau despised God's promise.</span> [Genesis 25:33] happened at the same time when Jacob took away the blessing from Isaac [Genesis 27].  When I re-read the bible about Jacob's life, I realized that these were two separate things [Genesis 27:36].
 
 I believe Esau and Jacob were young when Esau sold his birthright, maybe they were teenage or around 20 years old, because the event was recorded in Genesis 25, and Genesis 26 told us Isaac married two women at his forth at the end of the chapter.  Issac was not aware of this event.  
 
-Many years have passed, Issac was old. Jacob probably reached 50 years old.  He deceived his father Isaac and got blessings because Isaac's eyes were dim and could not see.
+Many years have passed, Issac was old. Jacob probably reached 50 years old (at least over 40 years old [Genesis 26:34]).  He deceived his father Isaac and got blessings because Isaac's eyes were dim and could not see.
 
-God loved Jacob because He firstly *intervened* Jacob's life in his dream when Jacob was the on way to his uncle Laban, then He in the form of angel wrested with Jacob
+Life went on and he had to escape from Esau. Uptill this moment in Jacob's life, he did not have personal relationship with God.
+
+Jacob paid for his deception.  He was deceived by Laban.  At the beginning, he shepherded Laban's sheep for seven years expecting marriage with Rachel, but he married in the evening without knowing his wife was Leah.  He then served Laban another seven years to marry with Rachel.  I wonder if it was God's punishment [Hosea 12:2].
+
+During Jacob's 20 years living together with Laban and serving Laban, Laban ripped off him by changing his wages 10 times [Genesis 31:41]. I wonder if it was God's punishment [Hosea 12:2].
+
+How Jacob responded is striking, and it made himself exceedingly prosperous [Genesis 30:43].
+
+
+God loved Jacob because He firstly *intervened* Jacob's life in his dream when Jacob was the on way to his uncle Laban, then He in the form of angel wrested with Jacob at the second time.
+
+
+
+
+Reference Bible verses:
+
+Genesis 31:41 NKJV  
+Thus I have been in your house twenty years; I served you fourteen years for your two daughters, and six years for your flock, and you have changed my wages ten times.
+
+創 世 記 31:41 CUVS  
+我 这 二 十 年 在 你 家 里 ， 为 你 的 两 个 女 儿 服 事 你 十 四 年 ， 为 你 的 羊 群 服 事 你 六 年 ， 你 又 十 次 改 了 我 的 工 价 。
+
+Hosea 12:2 NKJV  
+"The LORD also brings a charge against Judah, And will punish Jacob according to his ways; According to his deeds He will recompense him.  
+
+何 西 阿 書 12:2 CUVS  
+耶 和 华 与 犹 大 争 辩 ， 必 照 雅 各 所 行 的 惩 罚 他 ， 按 他 所 做 的 报 应 他 。  
+
 
 Malachi 1:2-3 NKJV   
 "I have loved you," says the LORD. "Yet you say, 'In what way have You loved us?' Was not Esau Jacob's brother?" Says the LORD. "Yet Jacob I have loved;   
