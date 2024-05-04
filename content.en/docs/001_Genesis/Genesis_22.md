@@ -59,6 +59,7 @@ If we keep true to God, God will take us through an ordeal which will bring us o
 Don’t ask God to test you. Never declare as Peter did – "I will do anything, I will go to death with Thee." Abraham did not make any such declaration, he remained true to God, and God purified his faith.  
 [April 26, The Supreme Climb](https://www.oswaldchambers.co.uk/classic/the-supreme-climb-2-classic/) <a href="#1_ref">&#8617;</a></p>
 
+---
 <p id="2">[2]   
 My Utmost for His Highest
 

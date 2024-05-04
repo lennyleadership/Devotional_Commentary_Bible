@@ -21,6 +21,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'jacob')">Jacob's Life</button>
 </div>
 
 <!-- Tab content -->
@@ -140,4 +141,30 @@ toc: true
 27:45 你哥哥向你消了怒气、忘了你向他所作的事、我便打发人去把你从那里带回来。为甚么一日丧你们二人呢。  
 
 27:46 利百加对以撒说、我因这赫人的女子、连性命都厌烦了。倘若雅各也娶赫人的女子为妻、像这些一样、我活着还有甚么益处呢。  
+</div>
+
+<div id="jacob" class="tabcontent">
+
+It is always in my mind that the event of Esau sold his birthright [Genesis 25:33] happened at the same time when Jacob stole the blessing from Isaac [Genesis 27].  When I re-read the bible about Jacob's life, I realized that these were two separate things.
+
+God did not like Esau because Esau despised God's promise.
+
+I believe Esau and Jacob were young when Esau sold his birthright, maybe they were teenage or around 20 years old, because the event was recorded in Genesis 25, and Genesis 26 told us Isaac married two women at his forth at the end of the chapter.  Issac was not aware of this event.  
+
+Many years have passed, Issac was old. Jacob probably reached 50 years old.  He deceived his father Isaac and got blessings because Isaac's eyes were dim and could not see.
+
+God loved Jacob because He firstly *intervened* Jacob's life in his dream when Jacob was the on way to his uncle Laban, then He in the form of angel wrested with Jacob
+
+Malachi 1:2-3 NKJV   
+"I have loved you," says the LORD. "Yet you say, 'In what way have You loved us?' Was not Esau Jacob's brother?" Says the LORD. "Yet Jacob I have loved;   
+But Esau I have hated, And laid waste his mountains and his heritage For the jackals of the wilderness."
+
+瑪 拉 基 書 1:2-3 CUVS   
+耶 和 华 说 ： 我 曾 爱 你 们 。 你 们 却 说 ： 你 在 何 事 上 爱 我 们 呢 ？ 耶 和 华 说 ： 以 扫 不 是 雅 各 的 哥 哥 麽 ？ 我 却 爱 雅 各 ，  
+恶 以 扫 ， 使 他 的 山 岭 荒 凉 ， 把 他 的 地 业 交 给 旷 野 的 野 狗 。  
+
+
+
+
+
 </div>
