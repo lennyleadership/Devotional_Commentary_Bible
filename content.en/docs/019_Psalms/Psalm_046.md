@@ -1,5 +1,5 @@
 ---
-weight: 46
+weight: 046
 title: Psalm 46
 authors: Lenny
 categories: null

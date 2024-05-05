@@ -1,5 +1,5 @@
 ---
-weight: 33
+weight: 033
 title: Psalm 33
 authors: Lenny
 categories: null
