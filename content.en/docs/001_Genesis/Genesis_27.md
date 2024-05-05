@@ -145,13 +145,15 @@ toc: true
 
 <div id="jacob" class="tabcontent">
 
-It is always in my mind that the event of Esau sold his birthright<label class="margin-toggle sidenote-number"></label><span class="sidenote">God did not like Esau [Malachi 1:2-3] because Esau despised God's promise.</span> [Genesis 25:33] happened at the same time when Jacob took away the blessing from Isaac [Genesis 27].  When I re-read the bible about Jacob's life, I realized that these were two separate things [Genesis 27:36].
+It is always in my mind that the event of Esau sold his birthright<label class="margin-toggle sidenote-number"></label><span class="sidenote">God did not like Esau [Malachi 1:2-3] because Esau despised God's promise.</span> [Genesis 25:33] happened at the same time when Jacob took away the blessing from Isaac [Genesis 27].  When I re-read the bible about Jacob's life, I realized that these were two separate things.
 
 I believe Esau and Jacob were young when Esau sold his birthright, maybe they were teenage or around 20 years old, because the event was recorded in Genesis 25, and Genesis 26 told us Isaac married two women at his forth at the end of the chapter.  Issac was not aware of this event.  
 
 Many years have passed, Issac was old. Jacob probably reached 50 years old (at least over 40 years old [Genesis 26:34]).  He deceived his father Isaac and got blessings because Isaac's eyes were dim and could not see.
 
-Life went on and he had to escape from Esau. Uptill this moment in Jacob's life, he did not have personal relationship with God.
+Life went on and he had to escape from Esau. Uptill this moment in Jacob's life, he did not have personal relationship with God.  It is intriguing that NKJV used "supplanted" in Genesis 27:36.  This is the verb form (H6117) of the heel (H6119).  It could mean to restrain Esau from getting the birthright and blessing, and use any means to get the birthright and blessing.  Jacob was no different from Esau in terms of human nature. Both of them wanted blessing.  What is the blessing?  Genesis 27:37 says: Jacob will be the master, and all his brethren will be his servants; with grain and wine I have sustained him.  
+
+It did not please God [Hosea 12:2]. What punishment did Jacob pay for?
 
 Jacob paid for his deception.  He was deceived by Laban.  At the beginning, he shepherded Laban's sheep for seven years expecting marriage with Rachel, but he married in the evening without knowing his wife was Leah.  He then served Laban another seven years to marry with Rachel.  I wonder if it was God's punishment [Hosea 12:2].
 
@@ -159,13 +161,22 @@ During Jacob's 20 years living together with Laban and serving Laban, Laban ripp
 
 How Jacob responded is striking, and it made himself exceedingly prosperous [Genesis 30:43].
 
-
-God loved Jacob because He firstly *intervened* Jacob's life in his dream when Jacob was the on way to his uncle Laban, then He in the form of angel wrested with Jacob at the second time.
+God loved Jacob because:  
+1) He selected Jacob even before Jacob was born;  
+2) He firstly *intervened* Jacob's life in his dream when Jacob was the on way to his uncle Laban, then   
+3) He in the form of angel wrested with Jacob at the second time.
 
 
 
 
 Reference Bible verses:
+
+Genesis 27:37 NKJV
+Then Isaac answered and said to Esau, "Indeed I have made him your master, and all his brethren I have given to him as servants; with grain and wine I have sustained him. What shall I do now for you, my son?"
+
+創 世 記 27:37 CUVS
+以 撒 回 答 以 扫 说 ： 我 已 立 他 为 你 的 主 ， 使 他 的 弟 兄 都 给 他 作 仆 人 ， 并 赐 他 五 谷 新 酒 可 以 养 生 。 我 儿 ， 现 在 我 还 能 为 你 做 甚 麽 呢 ？
+
 
 Genesis 31:41 NKJV  
 Thus I have been in your house twenty years; I served you fourteen years for your two daughters, and six years for your flock, and you have changed my wages ten times.
@@ -181,14 +192,19 @@ Hosea 12:2 NKJV
 
 
 Malachi 1:2-3 NKJV   
-"I have loved you," says the LORD. "Yet you say, 'In what way have You loved us?' Was not Esau Jacob's brother?" Says the LORD. "Yet Jacob I have loved;   
-But Esau I have hated, And laid waste his mountains and his heritage For the jackals of the wilderness."
+[2] "I have loved you," says the LORD. "Yet you say, 'In what way have You loved us?' Was not Esau Jacob's brother?" Says the LORD. "Yet Jacob I have loved;   
+[3] But Esau I have hated, And laid waste his mountains and his heritage For the jackals of the wilderness."
 
 瑪 拉 基 書 1:2-3 CUVS   
-耶 和 华 说 ： 我 曾 爱 你 们 。 你 们 却 说 ： 你 在 何 事 上 爱 我 们 呢 ？ 耶 和 华 说 ： 以 扫 不 是 雅 各 的 哥 哥 麽 ？ 我 却 爱 雅 各 ，  
-恶 以 扫 ， 使 他 的 山 岭 荒 凉 ， 把 他 的 地 业 交 给 旷 野 的 野 狗 。  
+[2] 耶 和 华 说 ： 我 曾 爱 你 们 。 你 们 却 说 ： 你 在 何 事 上 爱 我 们 呢 ？ 耶 和 华 说 ： 以 扫 不 是 雅 各 的 哥 哥 麽 ？ 我 却 爱 雅 各 ，  
+[3] 恶 以 扫 ， 使 他 的 山 岭 荒 凉 ， 把 他 的 地 业 交 给 旷 野 的 野 狗 。  
 
 
+Romans 9:11 NKJV  
+(for the children not yet being born, nor having done any good or evil, that the purpose of God according to election might stand, not of works but of Him who calls),
+
+羅 馬 書 9:11 CUVS  
+（ 双 子 还 没 有 生 下 来 ， 善 恶 还 没 有 做 出 来 ， 只 因 要 显 明 神 拣 选 人 的 旨 意 ， 不 在 乎 人 的 行 为 ， 乃 在 乎 召 人 的 主 。 ）
 
 
 
