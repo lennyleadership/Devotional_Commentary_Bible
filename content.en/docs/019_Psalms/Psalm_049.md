@@ -33,7 +33,14 @@ toc: true
 
 49:6 They that trust in their wealth, and boast themselves in the multitude of their riches;  
 49:7 <b>None of them can by any means redeem his brother, nor give to God a ransom for him</b>:  
-49:8 <b>(For the redemption of their soul is precious, and it ceaseth for ever:)</b><label class="margin-toggle sidenote-number"></label><span class="sidenote">Mat 16:26, Mat 20:28; 1 Tim 2:6; 1 Peter 1:18</span>  
+49:8 <b>(For the redemption of their soul is precious, and it ceaseth for ever:)</b><label class="margin-toggle sidenote-number"></label><span class="sidenote">Mat 16:26, Mat 20:28; 1 Tim 2:6; 1 Peter 1:18<br><br>On the contrast, Jesus was worth of thirty shekels.
+<br><br>
+Exodus 21:32 NKJV  
+If the ox gores a male or female servant, he shall give to their master thirty shekels of silver, and the ox shall be stoned.  
+<br><br>
+出 埃 及 記 21:32 CUVS
+牛 若 触 了 奴 仆 或 是 婢 女 ， 必 将 银 子 三 十 舍 客 勒 给 他 们 的 主 人 ， 也 要 用 石 头 把 牛 打 死 。
+</span>  
 49:9 <b>That he should still live for ever, and not see corruption</b>.  
 49:10 For he seeth that wise men die, likewise the fool and the brutish person perish, and leave their wealth to others.  
 
