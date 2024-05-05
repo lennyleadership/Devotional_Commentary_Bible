@@ -33,7 +33,7 @@ toc: true
 
 49:6 They that trust in their wealth, and boast themselves in the multitude of their riches;  
 49:7 <b>None of them can by any means redeem his brother, nor give to God a ransom for him</b>:  
-49:8 <b>(For the redemption of their soul is precious, and it ceaseth for ever:)</b><label class="margin-toggle sidenote-number"></label><span class="sidenote">Mat 16:26, Mat 20:28; 1Ti 2:6; 1Pe 1:18</span>  
+49:8 <b>(For the redemption of their soul is precious, and it ceaseth for ever:)</b><label class="margin-toggle sidenote-number"></label><span class="sidenote">Mat 16:26, Mat 20:28; 1 Tim 2:6; 1 Peter 1:18</span>  
 49:9 <b>That he should still live for ever, and not see corruption</b>.  
 49:10 For he seeth that wise men die, likewise the fool and the brutish person perish, and leave their wealth to others.  
 
