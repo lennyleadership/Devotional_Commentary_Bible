@@ -33,7 +33,7 @@ toc: true
 6:5 For every man shall bear his own burden.  
 
 6:6 Let him that is taught in the word communicate unto him that teacheth in all good things.  
-6:7 Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.  
+6:7 Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.<label class="margin-toggle sidenote-number"></label><span class="sidenote">Psalm 50:21 These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.</span>  
 6:8 For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.  
 6:9 And let us not be weary in well doing: for in due season we shall reap, if we faint not.  
 6:10 As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.  
