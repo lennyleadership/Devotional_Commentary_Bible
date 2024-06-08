@@ -1,5 +1,5 @@
 ---
-weight: 31
+weight: 031
 title: Psalm 31
 authors: Lenny
 categories: null
