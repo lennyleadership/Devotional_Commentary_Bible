@@ -3,7 +3,7 @@ weight: 3
 title: Matthew 3
 authors: Lenny
 categories: null
-tags: 
+tags: ["The Origin of Baptism"]
 description: 
 draft: false
 date: "2023-06-04"
@@ -21,6 +21,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'baptism')">Origin of Baptism</button>
 </div>
 
 <!-- Tab content -->
@@ -42,7 +43,7 @@ toc: true
 3:12 Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.  
 3:13 Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.  
 3:14 But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?  
-3:15 And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him.  
+3:15 And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to <b>fulfil all righteousness</b>. Then he suffered him.  
 
 3:16 And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:  
 3:17 And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.  
@@ -73,4 +74,15 @@ toc: true
 
 3:17 从天上有声音说、这是我的爱子、我所喜悦的。  
 
+</div>
+
+<div id="baptism" class="tabcontent">
+
+First, it must be understood that baptism is an outward proclamation of an inward conversion. In other words, baptism is a ceremonial act undertaken after a person accepts Jesus Christ as his or her Lord and Savior. This is usually done in the presence of the church body as a public proclamation of one’s faith.
+
+Concerning the origin of baptism, Christian theologians suggest that, although baptism was used by John the Baptist, baptism itself did not originate with Christians or, for that matter, with John. Jews practiced baptism as a traditional act of purification and the initiation of converts to Judaism long before the coming of the Messiah. The origins of baptism might be found in the book of Leviticus where the Levite priests were commanded to perform a symbolic cleansing in water before and after performing their priestly duties. Leviticus 16:4 tells us, “He is to put on the sacred linen tunic, with linen undergarments next to his body; he is to tie the linen sash around him and put on the linen turban. These are sacred garments; so he must bathe himself with water before he puts them on.” Scripture also states in Leviticus 16:23-24, "Then Aaron is to go into the Tent of Meeting and take off the linen garments he put on before he entered the Most Holy Place, and he is to leave them there. He shall bathe himself with water in a holy place and put on his regular garments. Then he shall come out and sacrifice the burnt offering for himself and the burnt offering for the people, to make atonement for himself and for the people.”
+
+Although the act described in these Old Testament passages was not specifically called “baptism,” it does highlight how important and holy ceremonial (and practical) cleansing is to God. John’s “baptism of repentance” (Luke 3:3; Acts 19:4) followed this paradigm of cleansing, although the final cleansing from sin is only available through Christ, and John’s baptism was the foreshadowing of that. The significance of baptism as a New Testament ceremony is that, as believers in Jesus Christ, we are baptized into His death (Romans 6:3) and raised to walk in newness of life (Romans 6:4 KJV). The Lord taught the significance of baptism to the extent that He Himself was baptized by John the Baptist at the start of His ministry (Mark 1:9).
+
+Reference: <a href = "https://www.gotquestions.org/origin-baptism.html" target="_blank" rel="noopener noreferrer">GotQuestions.org | What is the origin of baptism?</a>
 </div>
