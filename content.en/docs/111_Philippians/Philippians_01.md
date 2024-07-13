@@ -1,6 +1,6 @@
 ---
 weight: 01
-title: Philippians 01
+title: Philippians 1
 authors: Lenny
 categories: null
 tags: 
@@ -23,7 +23,6 @@ toc: true
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-Philippians Chapter 1 
 1:1 Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:  
 1:2 Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.  
 1:3 I thank my God upon every remembrance of you,  
