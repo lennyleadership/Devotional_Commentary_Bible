@@ -12,7 +12,57 @@ series:
 toc: true
 ---
 
+
 <!--more--> 
+
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+2:1 If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,  
+2:2 Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.  
+2:3 Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.  
+2:4 Look not every man on his own things, but every man also on the things of others.  
+2:5 Let this mind be in you, which was also in Christ Jesus:  
+
+2:6 Who, being in the form of God, thought it not robbery to be equal with God:  
+2:7 But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:  
+2:8 And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.  
+2:9 Wherefore God also hath highly exalted him, and given him a name which is above every name:  
+2:10 That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;  
+
+2:11 And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.  
+2:12 Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.  
+2:13 For it is God which worketh in you both to will and to do of his good pleasure.  
+2:14 Do all things without murmurings and disputings:  
+2:15 That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;  
+
+2:16 Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.  
+2:17 Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.  
+2:18 For the same cause also do ye joy, and rejoice with me.  
+2:19 But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state.  
+2:20 For I have no man likeminded, who will naturally care for your state.  
+
+2:21 For all seek their own, not the things which are Jesus Christ's.  
+2:22 But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel.  
+2:23 Him therefore I hope to send presently, so soon as I shall see how it will go with me.  
+2:24 But I trust in the Lord that I also myself shall come shortly.  
+2:25 Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.  
+
+2:26 For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick.  
+2:27 For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow.  
+2:28 I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.  
+2:29 Receive him therefore in the Lord with all gladness; and hold such in reputation:  
+2:30 Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.  
+
+</div>
+
+<div id="chinese" class="tabcontent">
 
 2:1 所以在基督里若有甚么劝勉、爱心有甚么安慰、圣灵有甚么交通、心中有甚么慈悲怜悯、  
 2:2 你们就要意念相同、爱心相同、有一样的心思、有一样的意念、使我的喜乐可以满足。  
@@ -94,4 +144,7 @@ II. He urges this from the consideration of their readiness always to obey the g
 **work out your own salvation** The Gr. verb rendered "work out" means "to continually work to bring something to fulfillment or completion."  It can't refer to salvation by works (cf. Rom. 3:21-24; Eph. 2:8-9), but it does refer to the believer's responsibility for active pursuit of obedience in the process of sanctification (see notes on 3:13,14; Rom 6:19; cf. 1Cor. 9:24-27; 15:58; 2Cor. 7:1; Gal. 6:7-9; Eph 4:1; Col. 3:1-17; Heb. 6:10, 11; 12:1,2; 2Pet. 1:5-11)  
 **fear and trembling**. The attitude with which Christians are to pursue their sanctification.  It involves a healthy fear of offending God and a rightous awe and respect for Him (cf. Prov. 1:7; 9:10; Is. 66:1,2).
 <a href="#1_ref">&#8617;</a></p>
+
+</div>
+
 
