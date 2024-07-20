@@ -3,11 +3,11 @@ weight: 12
 title: Hebrews 12
 authors: Lenny
 categories: null
-tags: 
+tags: ["Isa 53:11 satisfied", "Heb 12:2 Joy", "Phil Rejoce"]
 description: 
 draft: false
 date: "2023-03-12"
-lastmod: "2023-03-12"
+lastmod: "2024-07-19"
 series:
 toc: true
 ---
