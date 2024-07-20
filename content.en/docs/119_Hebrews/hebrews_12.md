@@ -67,7 +67,11 @@ toc: true
 <div id="chinese" class="tabcontent">
 
 12:1 我们既有这许多的见证人、如同云彩围着我们、就当放下各样的重担、脱去容易缠累我们的罪、存心忍耐、奔那摆在我们前头的路程、  
-12:2 仰望为我们信心创始成终的耶稣。〔或作仰望那将真道创始成终的耶稣〕他因那摆在前面的喜乐、就轻看羞辱、忍受了十字架的苦难、便坐在　神宝座的右边。  
+12:2 仰望为我们信心创始成终的耶稣。〔或作仰望那将真道创始成终的耶稣〕他因那摆在前面的喜乐、就轻看羞辱、忍受了十字架的苦难、便坐在　神宝座的右边。<label class="margin-toggle sidenote-number"></label><span class="sidenote">喜乐：以 賽 亞 書 53:11 CUVS  
+他 必 看 见 自 己 劳 苦 的 功 效 ， 便 心 满 意 足 。 有 许 多 人 因 认 识 我 的 义 仆 得 称 为 义 ； 并 且 他 要 担 当 他 们 的 罪 孽 。  
+Isaiah 53:11 NKJV  
+He shall see the labor of His soul, and be satisfied. By His knowledge My righteous Servant shall justify many, For He shall bear their iniquities.
+</span>  
 12:3 那忍受罪人这样顶撞的、你们要思想、免得疲倦灰心。  
 12:4 你们与罪恶相争、还没有抵挡到流血的地步。  
 12:5 你们又忘了那劝你们如同劝儿子的话、说、『我儿、你不可轻看主的管教、被他责备的时候、也不可灰心。  
