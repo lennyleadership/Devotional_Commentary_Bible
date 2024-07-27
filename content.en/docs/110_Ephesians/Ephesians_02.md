@@ -3,7 +3,7 @@ weight: 2
 title: Ephesians 2
 authors: Lenny
 categories: null
-tags: ["Demo Margine Note", "Demo ezraLinkifier", "Demo Tab", "Demo Footnote"]
+tags: ["Demo Side Note","Demo Margin Note", "Demo ezraLinkifier", "Demo Tab", "Demo Footnote"]
 description: 
 draft: false
 date: "2022-08-17"
@@ -29,7 +29,11 @@ Ephesians 2
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-2:1 And you hath he quickened, who were dead in trespasses and sins;      
+2:1 And you hath he quickened, who were dead in trespasses and sins<label class="margin-toggle sidenote-number"></label><span class="sidenote">The Greek word for sin, hamartia, is a word that means "to miss." Our English word sin comes from a root "to miss." In fact, it comes from a game in archery that the British used to have. They would put a hoop on a pole, and each man would take his quiver of arrows and shoot his arrows through the hoop one at a time. And so maybe you would have five men in the contest. Each of them with ten arrows, and one after another they would shoot their arrow through the hoop there at the top of the pole. Now, if a man should miss the hoop, then he was called a sinner, you have missed. And he would have to treat the rest of the fellows to the drinks. He was a sinner. He had missed the mark. 
+<br>
+Now, by the very root of the word, it does indicate, which is also true, that it is possible to be a sinner without wanting to be. It is possible that you would be trying very hard to hit the mark. But no matter how hard we may try to hit the mark, none of us have really hit the mark that God has required for man. All have sinned, or missed the mark, and come short of the glory of God. Now, some may have come closer than others.
+<br>
+- Chuch Smith commentary on Ephesians 2:1</span>;      
 2:2 Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:   
 2:3 Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.  
 2:4 But God, who is rich in mercy, for his great love wherewith he loved us,  
