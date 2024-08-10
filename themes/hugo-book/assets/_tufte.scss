@@ -6,8 +6,8 @@ body{
 
 .sidenote,
 .marginnote { /*define the side note*/
-    float: right;
-    clear: right;
+    float: left;
+    /*clear: right;*/
     margin-right: -55%; /* adjust where the sidenote starts*/
     width: 50%;
     margin-top: 0;
