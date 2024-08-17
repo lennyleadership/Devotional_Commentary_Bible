@@ -40,7 +40,7 @@ toc: true
 7:10 And the commandment, which was ordained to life, I found to be unto death.  
 
 <b>7:11 For sin, taking occasion by the commandment, deceived me, and by it slew me</b>.<label class="margin-toggle sidenote-number"></label><span class="sidenote">NLT: Sin took advantage of those commands and deceived me; it used the commands to kill me.
-<br>
+<br>How terrible sin is?
 </span>  
 7:12 Wherefore the law is holy, and the commandment holy, and just, and good.  
 7:13 Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.  
