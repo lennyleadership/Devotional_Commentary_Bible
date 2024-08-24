@@ -29,7 +29,7 @@ toc: true
 
 7:1 Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?  
 7:2 For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband.  
-7:3 So then if, while her husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man.  
+7:3 So then if, while her husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man.<label class="margin-toggle sidenote-number"></label><span class="sidenote">Jesus called us as his brothers and sisters, and considered church as bride.  Whom Satan called us as?</span>  
 7:4 Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God.  
 7:5 For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.  
 
@@ -39,7 +39,7 @@ toc: true
 7:9 For I was alive without the law once: but when the commandment came, sin revived, and I died.  
 7:10 And the commandment, which was ordained to life, I found to be unto death.  
 
-<b>7:11 For sin, taking occasion by the commandment, deceived me, and by it slew me</b>.<label class="margin-toggle sidenote-number"></label><span class="sidenote">NLT: Sin took advantage of those commands and deceived me; it used the commands to kill me.
+<b>7:11 For sin, taking occasion by the commandment, deceived me, and by it slew me</b>.<label class="margin-toggle sidenote-number"></label><span class="sidenote">NLT: Sin took advantage of those commands and deceived me; it used the commands to kill me.  
 <br>How terrible sin is?
 </span>  
 7:12 Wherefore the law is holy, and the commandment holy, and just, and good.  
