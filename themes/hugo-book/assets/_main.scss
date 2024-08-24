@@ -10,6 +10,10 @@ body {
   background: var(--body-background);
   letter-spacing: 0.33px;
   font-weight: $body-font-weight;
+  
+  text-align: justify;
+  text-justify: inter-word;
+  
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
