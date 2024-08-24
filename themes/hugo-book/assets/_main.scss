@@ -159,6 +159,22 @@ ul.pagination {
   }
 }
 
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  width: 50%;
+  text-align:left;
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
+
+
 .container {
   max-width: $container-max-width;
   margin: 0 auto;
