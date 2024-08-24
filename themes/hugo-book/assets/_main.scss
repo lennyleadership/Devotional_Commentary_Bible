@@ -169,8 +169,11 @@ hr {
   border-style: inset;
   border-width: 5px;
   width: 50%;
-  border-radius: 5px
+  border-radius: 5px;
+  background: var(--gray-200);
+  height: $padding-1;
 }
+
 
 
 .container {
@@ -505,11 +508,7 @@ img {
 
 
 
-hr {
-    height: $padding-1;
-    border: none;
-    background: var(--gray-200);
-}
+
 
 
 
