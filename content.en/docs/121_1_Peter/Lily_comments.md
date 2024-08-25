@@ -1,4 +1,6 @@
 ---
+weight: 6
+title: 彼得前后书 ─ 魂的得救
 authors: Lenny
 categories: null
 description: 
@@ -7,7 +9,6 @@ date: "2022-04-19"
 lastmod: "2023-04-09"
 series:
 tags: [魂的救恩, salvation of soul]
-title: 彼得前后书 ─ 魂的得救
 toc: true
 ---
 
