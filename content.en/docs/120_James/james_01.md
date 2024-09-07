@@ -3,11 +3,11 @@ weight: 01
 title: James 01
 authors: Lenny
 categories: null
-tags: 
+tags: [Firstfruits]
 description: 
 draft: false
 date: "2024-07-13"
-lastmod: "2024-07-13"
+lastmod: "2024-09-07"
 series:
 toc: true
 ---
@@ -46,7 +46,9 @@ toc: true
   
 1:16 Do not err, my beloved brethren.   
 1:17 Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.   
-1:18 Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.   
+1:18 Of his own will begat he us with the word of truth, that we should be <a class = "blue">a kind of firstfruits of his creatures</a>.<label class="margin-toggle sidenote-number"></label><span class="sidenote">Firstfruits: 1 Cor 15:20<br><br>1 Corinthians 15:20 NKJV<br><br>
+But now Christ is risen from the dead, and has become the firstfruits of those who have fallen asleep.
+</span>   
 1:19 Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:   
 1:20 For the wrath of man worketh not the righteousness of God.   
   
