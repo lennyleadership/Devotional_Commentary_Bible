@@ -63,10 +63,10 @@ toc: true
       </p></td>
   </tr>
   <tr>
-    <th><p>56
-      </p></th>
-    <th><p>Book of Romans
-      </p></th>
+    <td><p>56
+      </p></td>
+    <td><p>Book of Romans
+      </p></td>
   </tr>
   <tr>
     <td><p>60 - 61
@@ -81,10 +81,10 @@ toc: true
       </p></td>
   </tr>
   <tr>
-    <th><p>60 - 62
-      </p></th>
-    <th><p>Ephesians
-      </p></th>
+    <td><p>60 - 62
+      </p></td>
+    <td><p>Ephesians
+      </p></td>
   </tr>
   <tr>
     <td><p>60 - 62
@@ -99,10 +99,10 @@ toc: true
       </p></td>
   </tr>
   <tr>
-    <th><p>62 - 64
-      </p></th>
-    <th><p>1 Timothy
-      </p></th>
+    <td><p>62 - 64
+      </p></td>
+    <td><p>1 Timothy
+      </p></td>
   </tr>
   <tr>
     <td><p>62 - 64
@@ -111,10 +111,10 @@ toc: true
       </p></td>
   </tr>
   <tr>
-    <th><p>62 - 64
-      </p></th>
-    <th><p>Philemon
-      </p></th>
+    <td><p>62 - 64
+      </p></td>
+    <td><p>Philemon
+      </p></td>
   </tr>
   <tr>
     <td><p>64 - 65
@@ -130,9 +130,9 @@ toc: true
   </tr>
   <tr>
     <th><p>67 - 68
-      </p></th>
-    <th><p>2 Peter
-      </p></th>
+      </p></td>
+    <td><p>2 Peter
+      </p></td>
   </tr>
   <tr>
     <td><p>67 - 69
@@ -141,10 +141,10 @@ toc: true
       </p></td>
   </tr>
   <tr>
-    <th><p>
-      </p></th>
-    <th><p>
-      </p></th>
+    <td><p>
+      </p></td>
+    <td><p>
+      </p></td>
   </tr>
   <tr>
     <td><p>80-90
