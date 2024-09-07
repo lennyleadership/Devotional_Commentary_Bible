@@ -45,15 +45,15 @@ toc: true
       </p></th>
   </tr>
   <tr>
-    <td><p>~63
+    <td><p>60 - 61
       </p></td>
-    <td><p>Acts
+    <td><p>Gospel of Luke
       </p></td>
   </tr>
   <tr>
-    <td><p>
+    <td><p>~63
       </p></td>
-    <td><p>
+    <td><p>Acts
       </p></td>
   </tr>
   <tr>
@@ -153,9 +153,9 @@ toc: true
       </p></th>
   </tr>
   <tr>
-    <td><p>
+    <td><p>80-90
       </p></td>
-    <td><p>
+    <td><p>Gospel of John
       </p></td>
   </tr>
   <tr>
