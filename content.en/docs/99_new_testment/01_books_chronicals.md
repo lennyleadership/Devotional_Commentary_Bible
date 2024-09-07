@@ -45,6 +45,18 @@ toc: true
       </p></td>
   </tr>
   <tr>
+    <td><p>51
+      </p></td>
+    <td><p>1 Thessalonians
+      </p></td>
+  </tr>
+  <tr>
+    <td><p>51
+      </p></td>
+    <td><p>2 Thessalonians
+      </p></td>
+  </tr>
+  <tr>
     <td><p>~52
       </p></td>
     <td><p>Gospel of Mark
@@ -129,7 +141,7 @@ toc: true
       </p></td>
   </tr>
   <tr>
-    <th><p>67 - 68
+    <td><p>67 - 68
       </p></td>
     <td><p>2 Peter
       </p></td>
@@ -138,12 +150,6 @@ toc: true
     <td><p>67 - 69
       </p></td>
     <td><p>Hebrews
-      </p></td>
-  </tr>
-  <tr>
-    <td><p>
-      </p></td>
-    <td><p>
       </p></td>
   </tr>
   <tr>
