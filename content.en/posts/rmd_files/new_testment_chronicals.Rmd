@@ -1,0 +1,15 @@
+---
+title: "new_testment_chronicals"
+author: "Lenny Lin"
+date: "2024-09-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyr)
+library(ggplot2)
+```

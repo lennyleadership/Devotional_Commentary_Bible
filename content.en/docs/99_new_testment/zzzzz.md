@@ -1,20 +1,21 @@
 ---
-weight: 
-title: 
-authors: Lenny
+weight:
+title:
+authors: Lenny Lin
 categories: null
 tags: 
 description: 
 draft: true
-date: "2024"
-lastmod: "2024"
+date: "2024-"
+lastmod: "2024-"
 series:
 toc: true
 ---
 
 
 <!--more-->
----
+bookHidden: true
+
 
 <!-- Tab links -->
 <div class="tab">
@@ -31,3 +32,4 @@ toc: true
 <div id="chinese" class="tabcontent">
 
 </div>
+
