@@ -21,16 +21,22 @@ toc: true
 <colgroup><col style="width: 40%" /><col style="width: 60%" />
 </colgroup>
   <tr>
-    <th><p>44 - 49
+    <th><p>Year
       </p></th>
-    <th><p>James
+    <th><p>Books
       </p></th>
   </tr>
   <tr>
-    <th><p>50
-      </p></th>
-    <th><p>Galatians
-      </p></th>
+    <td><p>44 - 49
+      </p></td>
+    <td><p>James
+      </p></td>
+  </tr>
+  <tr>
+    <td><p>50
+      </p></td>
+    <td><p>Galatians
+      </p></td>
   </tr>
   <tr>
     <td><p>50
@@ -132,18 +138,6 @@ toc: true
     <td><p>67 - 69
       </p></td>
     <td><p>Hebrews
-      </p></td>
-  </tr>
-  <tr>
-    <td><p>
-      </p></td>
-    <td><p>
-      </p></td>
-  </tr>
-  <tr>
-    <td><p>
-      </p></td>
-    <td><p>
       </p></td>
   </tr>
   <tr>
