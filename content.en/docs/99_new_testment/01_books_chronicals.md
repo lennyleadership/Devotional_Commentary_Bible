@@ -111,28 +111,28 @@ toc: true
       </p></th>
   </tr>
   <tr>
+    <td><p>64 - 65
+      </p></td>
+    <td><p>1 Peter
+      </p></td>
+  </tr>
+  <tr>
     <td><p>66 - 67
       </p></td>
     <td><p>2 Timothy
       </p></td>
   </tr>
   <tr>
+    <th><p>67 - 68
+      </p></th>
+    <th><p>2 Peter
+      </p></th>
+  </tr>
+  <tr>
     <td><p>67 - 69
       </p></td>
     <td><p>Hebrews
       </p></td>
-  </tr>
-  <tr>
-    <td><p>
-      </p></td>
-    <td><p>
-      </p></td>
-  </tr>  
-  <tr>
-    <th><p>
-      </p></th>
-    <th><p>
-      </p></th>
   </tr>
   <tr>
     <td><p>
@@ -159,27 +159,27 @@ toc: true
       </p></td>
   </tr>
   <tr>
-    <td><p>
+    <td><p>90 - 95
       </p></td>
-    <td><p>
-      </p></td>
-  </tr>
-  <tr>
-    <th><p>
-      </p></th>
-    <th><p>
-      </p></th>
-  </tr>
-  <tr>
-    <td><p>
-      </p></td>
-    <td><p>
+    <td><p>1 John
       </p></td>
   </tr>
   <tr>
-    <td><p>
+    <td><p>90 - 95
       </p></td>
-    <td><p>
+    <td><p>2 John
+      </p></td>
+  </tr>
+  <tr>
+    <td><p>90 - 95
+      </p></td>
+    <td><p>3 John
+      </p></td>
+  </tr>
+  <tr>
+    <td><p>94 - 96
+      </p></td>
+    <td><p>Revelation
       </p></td>
   </tr>
 </table>
