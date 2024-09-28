@@ -52,8 +52,8 @@ toc: true
 11:20 Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:  
 
 11:21 For if God spared not the natural branches, take heed lest he also spare not thee.  
-11:22 Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in his goodness: otherwise thou also shalt be cut off<label class="margin-toggle sidenote-number"></label><span class="sidenote">"Once saved, always saved."<br>The genuine salvation at the first place will be saved at the end.  However those who do not continue in his goodness were not saved truly at the first place.</span>.  
-11:23 And they also, if they abide not still in unbelief, shall be graffed in: for God is able to graff them in again.  
+11:22 Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in his goodness: otherwise thou also shalt be cut off.    
+11:23 And they also, if they abide not still in unbelief, shall be graffed in: for God is able to graff them in again<label class="margin-toggle sidenote-number"></label><span class="sidenote">"Once saved, always saved."<br>The genuine salvation at the first place will be saved at the end.  Some believers went astray and yet returned can be saved.  However those who do not continue in his goodness were not saved truly at the first place.</span>.  
 11:24 For if thou wert cut out of the olive tree which is wild by nature, and wert graffed contrary to nature into a good olive tree: how much more shall these, which be the natural branches, be graffed into their own olive tree?  
 11:25 For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.  
 
