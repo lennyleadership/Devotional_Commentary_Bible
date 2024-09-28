@@ -12,9 +12,9 @@ series:
 toc: true
 ---
 
-
+<iframe src="https://www.esv.org/audio-player/romans+11/" style="border: 0; width: 100%; height: 109px;"></iframe>
 <!--more-->
----
+<br>
 
 
 <!-- Tab links -->
@@ -72,7 +72,7 @@ toc: true
 11:36 For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.  
 </div>
 
----
+
 <div id="chinese" class="tabcontent">
 
 11:1 我且说、　神弃绝了他的百姓么。断乎没有。因为我也是以色列人、亚伯拉罕的后裔、属便雅悯支派的。  

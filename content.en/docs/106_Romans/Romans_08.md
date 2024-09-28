@@ -3,7 +3,7 @@ weight: 8
 title: Romans 8
 authors: Lenny
 categories: null
-tags: ["人怎样看基督徒"]
+tags: ["Identity in Christ", "Audiable Bible Demo"]
 description: 
 draft: false
 date: "2022-12-01"
@@ -15,7 +15,7 @@ toc: true
 
 <iframe src="https://www.esv.org/audio-player/romans+8/" style="border: 0; width: 100%; height: 109px;"></iframe>
 <!--more-->
----
+<br>
 
 <!-- Tab links -->
 <div class="tab">
@@ -76,7 +76,7 @@ toc: true
 8:39 Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is <u class = "red">in Christ Jesus</u> our Lord.  
 </div>
 
----
+
 <div id="chinese" class="tabcontent">
 
 8:1 如今那些在基督耶稣里的、就不定罪了。  
@@ -129,6 +129,6 @@ toc: true
 </div>
 
 
----
+
 
 
