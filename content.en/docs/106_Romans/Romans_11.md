@@ -3,7 +3,7 @@ weight: 11
 title: Romans 11
 authors: Lenny
 categories: null
-tags: 
+tags: ["Once Saved, Always Saved"]
 description: 
 draft: false
 date: "2024-09-27"
