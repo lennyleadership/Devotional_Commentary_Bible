@@ -14,7 +14,7 @@ toc: true
 
 
 <!--more-->
----
+
 
 
 <!-- Tab links -->
@@ -56,7 +56,7 @@ toc: true
 14:23 And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin.  
 </div>
 
----
+
 <div id="chinese" class="tabcontent">
 
 14:1 信心软弱的、你们要接纳、但不要辩论所疑惑的事。  

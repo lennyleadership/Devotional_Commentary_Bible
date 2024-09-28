@@ -23,7 +23,7 @@ toc: true
 </div>
 
 <!-- Tab content -->
-<div id="verses" class="tabcontent" style="display:block">
+<div id="english" class="tabcontent" style="display:block">
 
 16:1 I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:  
 16:2 That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also.  

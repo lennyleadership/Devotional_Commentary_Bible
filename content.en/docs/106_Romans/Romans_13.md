@@ -14,7 +14,7 @@ toc: true
 
 
 <!--more-->
----
+
 
 
 <!-- Tab links -->
@@ -45,7 +45,7 @@ toc: true
 13:14 But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.  
 </div>
 
----
+
 <div id="chinese" class="tabcontent">
 
 13:1 在上有权柄的、人人当顺服他。因为没有权柄不是出于　神的。凡掌权的都是　神所命的。  
