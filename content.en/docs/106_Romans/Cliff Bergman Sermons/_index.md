@@ -1,13 +1,13 @@
 ---
-Weight: 91
-title: "Martyne Lloyd-Jones - Romans"
+Weight: 92
+title: "Cliff Bergman - Romans"
 authors: Lenny Lin
 categories: null
 tags: 
 description: 
 draft: false
-date: "2022-08-16"
-lastmod: "2022-08-16"
+date: "2024-09-08"
+lastmod: "2024-09-08"
 series:
 toc: true
 bookCollapseSection: true
