@@ -60,7 +60,7 @@ toc: true
 11:26 And so all Israel shall be saved<label class="margin-toggle sidenote-number"></label><span class="sidenote">repeat verse 1, God did not reject the nation of Israel.</span>: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:  
 11:27 For this is my covenant unto them, when I shall take away their sins.  
 11:28 As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the fathers' sakes.  
-11:29 For the gifts and calling of God are without repentance.  
+11:29 For the gifts and calling of God are without repentance<label class="margin-toggle sidenote-number"></label><span class="sidenote">NLT: For God's gifts and his call can never be withdrawn.</span>.  
 11:30 For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:  
 
 11:31 Even so have these also now not believed, that through your mercy they also may obtain mercy.  
