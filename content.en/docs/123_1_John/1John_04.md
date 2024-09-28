@@ -3,7 +3,7 @@ weight: 4
 title: 1 John 4
 authors: Lenny
 categories: null
-tags: 
+tags: ["agape,philostorgos,philadelphia"]
 description: 
 draft: false
 date: "2023-04-23"
@@ -38,8 +38,8 @@ toc: true
 4:9 In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.  
 4:10 Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.  
 
-4:11 Beloved, if God so loved us, we ought also to love one another.  
-4:12 No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.  
+4:11 <a class ="blue">Beloved</a>, if God so <a class ="blue">loved</a> us, we ought also to <a class ="blue">love</a> one another.  
+4:12 No man hath seen God at any time. If we <a class ="blue">love</a> one another, God dwelleth in us, and his <a class ="blue">love</a> is perfected in us.  
 4:13 Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.  
 4:14 And we have seen and do testify that the Father sent the Son to be the Saviour of the world.  
 4:15 Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.  

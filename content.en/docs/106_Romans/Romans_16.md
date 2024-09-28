@@ -13,9 +13,6 @@ toc: true
 ---
 
 
-<!--more-->
----
-
 
 <!-- Tab links -->
 <div class="tab">
@@ -62,7 +59,7 @@ toc: true
 16:27 To God only wise, be glory through Jesus Christ for ever. Amen.  
 </div>
 
-----
+
 <div id="chinese" class="tabcontent" >
 
 16:1 我对你们举荐我们的姊妹非比、他是坚革哩教会中的女执事。  
@@ -110,12 +107,5 @@ A few days before the trip’s end, the Lord directed me to Romans 16:12
 > Salute the beloved Persis, which laboured much in the Lord.”
 
 It struck me – it does not say that they “laboured much <u class = "red">for</u> the the Lord” but that they “laboured <u class ="red">in</u> the Lord”. And is it not a blessing, as my devotional reading went on to say, that the Master knew that they did so in Him – and yes for Him. Isn’t it enough that He knows!
-
-
-</div>
-
-----
-
-<div id="Devotion2" class="tabcontent">
 
 </div>

@@ -3,7 +3,7 @@ weight: 12
 title: Romans 12
 authors: Lenny
 categories: null
-tags: 
+tags: ["agape,philostorgos,philadelphia"]
 description: 
 draft: false
 date: "2024-09-27"
@@ -36,8 +36,8 @@ toc: true
 12:6 Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;  
 12:7 Or ministry, let us wait on our ministering: or he that teacheth, on teaching;  
 12:8 Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.  
-12:9 Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.  
-12:10 Be kindly affectioned one to another with brotherly love; in honour preferring one another;  
+12:9 Let <a class ="blue">love</a> be without dissimulation. Abhor that which is evil; cleave to that which is good.  
+12:10 Be kindly <a class ="blue">affectioned</a> one to another with <a class ="blue">brotherly love</a>; in honour preferring one another;  
 
 12:11 Not slothful in business; fervent in spirit; serving the Lord;  
 12:12 Rejoicing in hope; patient in tribulation; continuing instant in prayer;  
