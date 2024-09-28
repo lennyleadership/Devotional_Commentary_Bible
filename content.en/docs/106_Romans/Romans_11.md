@@ -57,7 +57,7 @@ toc: true
 11:24 For if thou wert cut out of the olive tree which is wild by nature, and wert graffed contrary to nature into a good olive tree: how much more shall these, which be the natural branches, be graffed into their own olive tree?  
 11:25 For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.  
 
-11:26 And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:  
+11:26 And so all Israel shall be saved<label class="margin-toggle sidenote-number"></label><span class="sidenote">repeat verse 1, God did not reject the nation of Israel.</span>: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:  
 11:27 For this is my covenant unto them, when I shall take away their sins.  
 11:28 As concerning the gospel, they are enemies for your sakes: but as touching the election, they are beloved for the fathers' sakes.  
 11:29 For the gifts and calling of God are without repentance.  
