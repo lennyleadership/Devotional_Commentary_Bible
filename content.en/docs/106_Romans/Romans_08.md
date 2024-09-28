@@ -3,7 +3,7 @@ weight: 8
 title: Romans 8
 authors: Lenny
 categories: null
-tags: ["Identity in Christ", "Audiable Bible Demo"]
+tags: ["Justification, Sanctification, Glorification","Identity in Christ", "Audible Bible Demo"]
 description: 
 draft: false
 date: "2022-12-01"
@@ -60,7 +60,7 @@ toc: true
 8:27 And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.  
 8:28 And we know that all things work together for good to them that love God, to them who are the called according to his purpose.  
 8:29 For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.  
-8:30 Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also <u class = "red">glorified</u>.  
+8:30 Moreover whom he did predestinate, them he also called: and whom he <a class = "blue">called</a>, them he also <a class = "blue">justified</a>: and whom he justified, them he also <a class = "blue">glorified</a><label class="margin-toggle sidenote-number"></label><span class="sidenote">"Justification, Sanctification, Glorification"</span>.  
 
 8:31 What shall we then say to these things? If God be for us, who can be against us?  
 8:32 He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?  
