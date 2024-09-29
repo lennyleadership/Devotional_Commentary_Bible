@@ -11,10 +11,10 @@ lastmod: "2022-08-17"
 series:
 toc: true
 ---
-Ephesians 
+
 
 <!--more-->
----
+
 
 <!-- Tab links -->
 
@@ -26,7 +26,9 @@ Ephesians
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
 
-1:1 Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful <a class = "blue">in Christ Jesus</a>:  
+1:1 Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful <a class = "blue">in Christ Jesus</a><label class="margin-toggle sidenote-number"></label><span class="marginnote">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BshBcN1Ub48?si=RN-z92ANtH2rJztw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</span>:  
 1:2 Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.  
 1:3 Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places <a class = "blue">in Christ</a><label class="margin-toggle sidenote-number"></label><span class="sidenote">spiritual blessings</span>:  
 1:4 According as he hath chosen us <a class = "blue">in him</a> before the foundation of the world, that we should be holy and without blame before him <a class = "blue">in love</a><label class="margin-toggle sidenote-number"></label><span class="sidenote">aim to be holy</span>:  
