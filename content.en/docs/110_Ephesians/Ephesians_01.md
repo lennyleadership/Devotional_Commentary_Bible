@@ -28,17 +28,17 @@ Ephesians
 
 1:1 Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful <a class = "blue">in Christ Jesus</a>:  
 1:2 Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.  
-1:3 Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places <a class = "blue">in Christ</a>:  
-1:4 According as he hath chosen us <a class = "blue">in him</a> before the foundation of the world, that we should be holy and without blame before him <a class = "blue">in love</a>:  
+1:3 Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places <a class = "blue">in Christ</a><label class="margin-toggle sidenote-number"></label><span class="sidenote">spiritual blessings</span>:  
+1:4 According as he hath chosen us <a class = "blue">in him</a> before the foundation of the world, that we should be holy and without blame before him <a class = "blue">in love</a><label class="margin-toggle sidenote-number"></label><span class="sidenote">aim to be holy</span>:  
 1:5 Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,  
  
 1:6 To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.  
-1:7 <a class = "blue">In whom</a> we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;  
+1:7 <a class = "blue">In whom</a> we have redemption through his blood, the forgiveness of sins, according to the riches of his grace<label class="margin-toggle sidenote-number"></label><span class="sidenote">redemption and forgiveness</span>;  
 1:8 Wherein he hath abounded toward us in all wisdom and prudence;  
-1:9 Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:  
-1:10 That in the dispensation of the fullness of times he might gather together in one all things <a class = "blue">in Christ</a>, both which are in heaven, and which are on earth; even in him:  
+1:9 Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed <a class = "blue">in himself</a>:  
+1:10 That in the dispensation of the fullness of times he might gather together in one all things <a class = "blue">in Christ</a><label class="margin-toggle sidenote-number"></label><span class="sidenote">unite all things in one</span>, both which are in heaven, and which are on earth; even in him:  
  
-1:11 <a class = "blue">In whom</a> also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:  
+1:11 <a class = "blue">In whom</a><label class="margin-toggle sidenote-number"></label><span class="sidenote">obtain an inheritance</span> also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:  
 1:12 That we should be to the praise of his glory, who first trusted in Christ.  
 1:13 <a class = "blue">In whom</a> ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, <u class = "red">ye were sealed with that holy Spirit of promise</u>,  
 1:14 Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.  
