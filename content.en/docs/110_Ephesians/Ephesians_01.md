@@ -43,13 +43,13 @@ toc: true
 1:12 That we should be to the praise of his glory, who first trusted in Christ.  
 1:13 <a class = "blue">In whom</a> ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, <u class = "red">ye were sealed with that holy Spirit of promise</u>,  
 1:14 Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.  
-1:15 Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,  
+1:15 Wherefore I also, after I heard of your faith <a class = "blue">in the Lord Jesus</a>, and love unto all the saints,  
  
 1:16 Cease not to give thanks for you, making mention of you in my prayers;  
 1:17 That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:  
 1:18 The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,  
 1:19 And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,  
-1:20 Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,  
+1:20 Which he wrought <a class = "blue">in Christ</a>, when he raised him from the dead, and set him at his own right hand in the heavenly places,  
  
 1:21 Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:  
 1:22 And hath put all things under his feet, and gave him to be the head over all things to the church,  
