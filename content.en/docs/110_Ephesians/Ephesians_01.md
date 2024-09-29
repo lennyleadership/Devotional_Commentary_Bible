@@ -37,7 +37,7 @@ toc: true
 1:7 <a class = "blue">In whom</a> we have redemption through his blood, the forgiveness of sins, according to the riches of his grace<label class="margin-toggle sidenote-number"></label><span class="sidenote">redemption and forgiveness</span>;  
 1:8 Wherein he hath abounded toward us in all wisdom and prudence;  
 1:9 Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed <a class = "blue">in himself</a>:  
-1:10 That in the dispensation of the fullness of times he might gather together in one all things <a class = "blue">in Christ</a><label class="margin-toggle sidenote-number"></label><span class="sidenote">unite all things in one</span>, both which are in heaven, and which are on earth; even in him:  
+1:10 That in the <a class = "blue">dispensation</a> of the fullness of times he might gather together in one all things <a class = "blue">in Christ</a><label class="margin-toggle sidenote-number"></label><span class="sidenote">unite all things in one</span>, both which are in heaven, and which are on earth; even in him:  
  
 1:11 <a class = "blue">In whom</a><label class="margin-toggle sidenote-number"></label><span class="sidenote">obtain an inheritance</span> also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:  
 1:12 That we should be to the praise of his glory, who first trusted in Christ.  
