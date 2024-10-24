@@ -75,13 +75,20 @@ toc: true
 2:40 And with many other words did he testify and exhort, saying, Save yourselves from this untoward generation.  
 
 2:41 Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls.  
-2:42 And they continued stedfastly in the apostles' doctrine and fellowship, and in breaking of bread, and in prayers.  
+2:42 And they continued stedfastly in the apostles' doctrine and fellowship<a id="1_ref" href = "#1">[1]</a>, and in breaking of bread, and in prayers.  
 2:43 And fear came upon every soul: and many wonders and signs were done by the apostles.  
 2:44 And all that believed were together, and had all things common;  
 2:45 And sold their possessions and goods, and parted them to all men, as every man had need.  
 
 2:46 And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart,  
 2:47 Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.  
+
+<p id="1">[1]  
+The word fellowship means much more than “being together.” It means “having in common” and probably refers to the sharing of material goods that was practiced in the early church. This was certainly not a form of modern communism, for the program was totally voluntary, temporary (Act_11:27-30), and motivated by love. - Warren W. Wiersbe
+
+Most special groups in antiquity ate together (mystery cults, Pharisaic fellowships, burial associations, etc.). Many Greek associations met for communal meals only once a month, however (contrast Act_2:46). This earliest Christian practice of daily meals (later reduced to weekly) is thus noteworthy.
+Table fellowship denoted intimacy, and discussions or even lectures at meals were common. Given the topic of discussion recommended by Jewish pietists and what this text says about teaching and prayer (possibly including participation in the temple prayers—Act_3:1), early Christian fellowship undoubtedly centered more on intimate worship, sharing and learning the Scriptures than its modern Western counterpart tends to do. - IVP Bible Background
+<a href="#1_ref">&#8617;</a></p>
 </div>
 
 <div id="chinese" class="tabcontent">
