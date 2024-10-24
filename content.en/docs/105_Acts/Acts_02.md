@@ -75,7 +75,7 @@ toc: true
 2:40 And with many other words did he testify and exhort, saying, Save yourselves from this untoward generation.  
 
 2:41 Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls.  
-2:42 And they continued stedfastly in the apostles' doctrine and fellowship<a id="1_ref" href = "#1">[1]</a>, and in breaking of bread, and in prayers.  
+2:42 And they continued stedfastly in the apostles' doctrine and fellowship<a id="1_ref" href = "#1"><sup>[1]</sup></a><label class="margin-toggle sidenote-number"></label><span class="sidenote">There is "the" in ESV translation</span>, and in breaking of bread, and in prayers.  
 2:43 And fear came upon every soul: and many wonders and signs were done by the apostles.  
 2:44 And all that believed were together, and had all things common;  
 2:45 And sold their possessions and goods, and parted them to all men, as every man had need.  
