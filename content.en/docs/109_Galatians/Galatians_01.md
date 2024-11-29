@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Galatians
+title: Galatians 1
 authors: Lenny
 categories: null
 tags: 
