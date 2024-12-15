@@ -52,7 +52,10 @@ toc: true
 1:20 Which he wrought <a class = "blue">in Christ</a>, when he raised him from the dead, and set him at his own right hand in the heavenly places,  
  
 1:21 Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:  
-1:22 And hath put all things under his feet, and gave him to be the head over all things to the church,  
+1:22 And hath put all things under his feet, and gave him to be the head over all things to the church,
+<label class="margin-toggle sidenote-number"></label><span class="sidenote">教会没有基督，好像一个身体没有头;
+基督没有教会，好像头没有身体。头的丰盛是为着身体，至于身体就是充满万有者所充满的。
+摘自《最高的生命》(安汝慈)</span>
 1:23 Which is his body, the fulness of him that filleth all in all.  
 </div>
 
@@ -84,10 +87,7 @@ toc: true
 1:20 就是照他在基督身上、所运行的大能大力、使他从死里复活、叫他在天上坐在自己的右边、<a id="10_ref" href = "#10">[10]</a>  
 
 1:21 远超过一切执政的、掌权的、有能的、主治的、和一切有名的。不但是今世的、连来世的也都超过了。  
-1:22 又将万有<u>服在他的脚下</u>、使他为<u>教会</u>作万有之首。
-<label class="margin-toggle sidenote-number"></label><span class="sidenote">教会没有基督，好像一个身体没有头;
-基督没有教会，好像头没有身体。头的丰盛是为着身体，至于身体就是充满万有者所充满的。
-摘自《最高的生命》(安汝慈)</span>  
+1:22 又将万有<u>服在他的脚下</u>、使他为<u>教会</u>作万有之首。  
 1:23 <u>教会</u>是他的身体、是那充满万有者所充满的。  
 
 
