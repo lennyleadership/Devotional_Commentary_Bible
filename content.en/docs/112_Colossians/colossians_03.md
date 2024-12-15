@@ -36,7 +36,10 @@ toc: true
 3:8 But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.  
 3:9 Lie not one to another, seeing that ye have put off the old man with his deeds;  
 3:10 And have put on the new man, which is renewed in knowledge after the image of him that created him:  
-3:11 Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all.  
+3:11 Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all.
+<label class="margin-toggle sidenote-number"></label><span class="sidenote">基督徒的生命不仅是有属灵悟性的生命，也不仅是献已的生命，而是基督作生命。
+这是基督徒的圆心，也是基督徒的圆周，基督是他们的一切。
+摘自《最高的生命》(安汝慈)</span>  
 3:12 Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;  
 3:13 Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.  
 3:14 And above all these things put on charity, which is the bond of perfectness.  
