@@ -89,8 +89,11 @@ Ephesians
 <b>Wuest</b>: And stop being intoxicated with wine, in which state of intoxication there is profligacy. 
 But be constantly controlled by the Spirit,  (Eerdmans Publishing - used by permission)  
 <br><br>
----
-Charles Swindoll - “Be filled” is a command, which means I play a part in it. For example, 
+
+---  
+
+Charles Swindoll - When you’re drunk with alcohol, you lose control. You also lose self-respect and the respect of others.
+“Be filled” is a command, which means I play a part in it. For example, 
 I cannot be filled with the Spirit while I have unconfessed sin within me. 
 I cannot be filled with the Spirit while at the same time conducting my life in the energy of the flesh. 
 I cannot be filled with the Spirit while I am resisting God’s will and relying only on myself. 
@@ -105,6 +108,13 @@ Many a morning I begin my day by sitting on the side of the bed, saying:  <br>
   Take control of my senses so that I am literally filled with Your presence and empowered with Your energy. 
   I want to be Your tool, Your vessel today. I can’t make it happen. And so I’m saying, 
   Lord, fill me with Your Spirit today.</i>
+  
+Ray Stedman affirms that ... You have the Spirit, but the interesting paradox is that, 
+though all Christians have the Holy Spirit, we constantly need to be filled with the Holy Spirit. 
+The filling of the Holy Spirit is the momentary taking from him of the resources you need for the situation 
+in which you are. <b>It has nothing to do with an experience, or a feeling or a crisis</b>; it is a quiet drinking 
+again and again of an inner supply of strength." (<a href = "https://www.raystedman.org/new-testament/ephesians/watch-how-you-walk" 
+target="_blank" rel="noopener noreferrer">(Watch how you Walk)</a>
 <a href="#1_ref">&#8617;</a></p>
 
 ----
