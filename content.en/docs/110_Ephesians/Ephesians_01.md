@@ -55,7 +55,7 @@ toc: true
 1:22 And hath put all things under his feet, and gave him to be the head over all things to the church,
 <label class="margin-toggle sidenote-number"></label><span class="sidenote">教会没有基督，好像一个身体没有头;
 基督没有教会，好像头没有身体。头的丰盛是为着身体，至于身体就是充满万有者所充满的。
-摘自《最高的生命》(安汝慈)</span>
+摘自《最高的生命》(安汝慈)</span>  
 1:23 Which is his body, the fulness of him that filleth all in all.  
 </div>
 
