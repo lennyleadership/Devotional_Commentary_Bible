@@ -7,7 +7,7 @@ tags:
 date: "2022-08-17"
 description: 
 draft: false
-lastmod: "2022-08-17"
+lastmod: "2024-12-14"
 series:
 toc: true
 ---
@@ -46,7 +46,12 @@ Ephesians
  
 5:16 Redeeming the time, because the days are evil.  
 5:17 Wherefore be ye not unwise, but understanding what the will of the Lord is.  
-5:18 And be not drunk with wine, wherein is excess; but be filled with the Spirit;  
+5:18 And be not drunk with wine, wherein is excess; but be filled with the Spirit;<a id="1_ref" href = "#1">[1]</a>
+<label class="margin-toggle sidenote-number"></label><span class="sidenote">
+被圣灵充满的意思：<br>
+圣灵既然在你里面，你就可<b>授以全平权，让祂管理你全身</b>，让祂充满你的外面和里面。
+让祂因握有你全身的管理权而成就祂的完全旨意;容许祂藉着祂对你的充满，而给你以能力。
+摘自《最高的生命》(安汝慈)</span>   
 5:19 Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;  
 5:20 Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;  
  
@@ -66,6 +71,16 @@ Ephesians
 5:32 This is <b>a great mystery</b>: but I speak concerning Christ and the church.  
 5:33 Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.  
 </div>
+
+<p id="1">[1] 
+<li>「被圣灵充满」原文直译是「被借着圣灵充满」，充满的媒介是圣灵，充满的内容是基督的丰满（一23；三19）。
+重生得救的信徒已经有了圣灵的印记（一13）和内住（加四6），现在保罗命令他们「不要叫神的圣灵担忧」（四30），
+而要「顺著圣灵而行」（加五16），借着圣灵让基督在心中掌权作主（三16-17），生命被变得越来越「效法神」（1节）。</li>
+<li>圣灵的内住，是神让人得以完全地拥有圣灵；「被圣灵充满」，是人让圣灵完全地拥有自己。因此，
+「被圣灵充满」和「醉酒」一样，都可能有快乐（徒十三52）和不由自主（徒二4）的表现。但醉酒会「使人放荡」（18b）、
+降服于肉体，只是自娱自乐；「被圣灵充满」却「不是叫人混乱，而是叫人和谐」（林前十四33和合本新译本），
+使人降服于主，最终使整个教会「满有基督长成的身量」（四13）。</li>
+<a href="#1_ref">&#8617;</a></p>
 
 ----
 <div id="chinese" class="tabcontent">
