@@ -82,10 +82,10 @@ Ephesians
 使人降服于主，最终使整个教会「满有基督长成的身量」（四13）。</li>
 摘自《以弗所书第5章逐节注解、祷读》
 <br><br>
-<b>CSB</b>: And don't get drunk with wine, which leads to reckless actions, but be filled <b>by</b> the Spirit:    
-<b>NET</b>: And do not get drunk with wine, which is debauchery, but be filled <b>by</b> the Spirit,     
+<b>CSB</b>: And don't get drunk with wine, which leads to reckless actions, but be filled <b>by</b> the Spirit:<br>    
+<b>NET</b>: And do not get drunk with wine, which is debauchery, but be filled <b>by</b> the Spirit,<br>     
 <b>NLT</b>: Don't be drunk with wine, because that will ruin your life. Instead, <b>let the Holy Spirit fill and control you</b>. 
-(NLT - Tyndale House)    
+(NLT - Tyndale House)<br>    
 <b>Wuest</b>: And stop being intoxicated with wine, in which state of intoxication there is profligacy. 
 But be constantly controlled by the Spirit,  (Eerdmans Publishing - used by permission)  
 <br><br>
@@ -97,7 +97,7 @@ I cannot be filled with the Spirit while I am resisting God’s will and relying
 I need to be sure that I have taken care of the sins that have emerged in my life, 
 that I have not ignored the wrong that I have done before God and to others. 
 I need to walk in conscious dependence on the Lord on a daily basis. 
-Many a morning I begin my day by sitting on the side of the bed, saying:  
+Many a morning I begin my day by sitting on the side of the bed, saying:  <br>
   <i>This is your day, Lord. I want to be at Your disposal. I have no idea what these next twenty-four hours 
   will contain. But before I sip my first cup of coffee, and even before I get dressed, 
   I want You to know that from this moment on throughout this day, I’m Yours, Lord. 
