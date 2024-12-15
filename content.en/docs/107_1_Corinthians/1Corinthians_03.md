@@ -3,11 +3,11 @@ weight: 3
 title: 1 Corinthians 3
 authors: Lenny
 categories: null
-tags: [得救, "Brother DW Thoughts", "Brother LL Thoughts"]
-date: "2022.08.04"
+tags: [得救, 安汝慈,"Brother DW Thoughts", "Brother LL Thoughts"]
+date: "2022-08-04"
 description: 
 draft: false
-lastmod: "2022.08.04"
+lastmod: "2024-12-14"
 series:
 toc: true
 ---
@@ -33,7 +33,11 @@ toc: true
 3:14 人在那根基上所建造的工程、若存得住、他就要得赏赐。  
 3:15 人的工程若被烧了、他就要受亏损。自己却要得救。虽然得救乃像从火里经过的一样。[^1]  
 
-3:16 岂不知你们是　神的殿、　神的灵住在你们里头么。  
+3:16 岂不知你们是　神的殿、　神的灵住在你们里头么。
+<label class="margin-toggle sidenote-number"></label><span class="sidenote">
+照神的计划，在圣灵的恩赐中是有一定的目的，正如圣子的恩赐中，罪人藉着圣子而有生命，
+藉着圣灵而有更丰盛的生命。罪人着圣子离开这自然的世界，而进入属灵的世界，
+信徒藉着圣灵可以进到灵性生活的最高点。摘自《最高的生命》(安汝慈)</span>
 3:17 若有人毁坏　神的殿、　神必要毁坏那人。因为　神的殿是圣的、这殿就是你们。  
 3:18 人不可自欺。你们中间若有人、在这世界自以为有智慧、倒不如变作愚拙、好成为有智慧的。  
 3:19 因这世界的智慧、在　神看是愚拙。如经上记着说、『主叫有智慧的中了自己的诡计。』  
