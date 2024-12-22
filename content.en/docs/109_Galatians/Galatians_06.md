@@ -1,6 +1,6 @@
 ---
-weight: 6
-title: Galatians 6
+weight: 06
+title: Galatians 06
 authors: Lenny
 categories: null
 tags: 
