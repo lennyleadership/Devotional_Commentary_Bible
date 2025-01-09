@@ -8,6 +8,7 @@
        url('fonts/roboto-v27-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('fonts/roboto-v27-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* roboto-700 - latin */
 @font-face {
   font-family: 'Roboto';
@@ -30,27 +31,115 @@
        url('fonts/roboto-mono-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-body {
-  font-family: 'Roboto', sans-serif;
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-transform: uppercase;
+    font-weight: $header-font-weight;
+    font-size: 1rem;
+    line-height: 2;
+    margin-top: 1.5em;
+    margin-bottom: $padding-16;
+
+    a.anchor {
+      opacity: 0;
+      font-size: 0.75em;
+      vertical-align: middle;
+      text-decoration: none;
+    }
+
+    &:hover a.anchor,
+    a.anchor:focus {
+      opacity: initial;
+    }
+  }
+  
+
+/* spaced overline for h1 */////////////////////////////////////////////////////////////////////////
+.overline {
+  padding-top: 25px;
+  border-top-style: solid;
+  border-top-width: 5px;
+  width: fit-content;
+  border-top-color: orange;
+  }
+  
+
+h1:before {
+  content:' ';
+  display:block;
+  padding-top: 25px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: lightgrey;
 }
+
+
+/* the end */***************************************************************************************
+
+
+
+h2 {
+  text-indent: 2%;
+}
+
+
+h3{
+    font-style: italic;
+    font-size: .9rem;
+    text-indent: 4%;
+  }
+  
+
+h4 {
+  font-style: italic;
+  font-size: 0.8em;
+  margin-left: 20px;
+  }
+
+h5 {
+  font-style: italic;
+  font-size: 0.7em;
+  }
+
+h6 {
+  font-style: italic;
+  font-size: 0.6em;
+  }
+  
+
+a {
+  text-decoration: none;
+  color: var(--color-link);
+}
+
 
 code {
   font-family: 'Roboto Mono', monospace;
 }
 
+
 /* font color options */////////////////////////////////////////////////////////////////////////////
 .blue {
   color: blue;
 }
+/* end ********************************************************************************************/
 
-/* red underline *//////////////////////////////////////////////////////////////////////////////////////
+
+/* red underline *//////////////////////////////////////////////////////////////////////////////////
 u.red{
   border-bottom:1px solid red;
   color: blue;
 }
-/* end *********************************************************************************************
-
 /* end ********************************************************************************************/
+
+
 
 
 .font_upper {

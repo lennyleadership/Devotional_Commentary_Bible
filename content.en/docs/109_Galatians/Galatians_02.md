@@ -30,7 +30,11 @@ toc: true
 2:2 And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.  
 2:3 But neither Titus, who was with me, being a Greek, was compelled to be circumcised:  
 2:4 And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:  
-2:5 To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.  
+2:5 To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you<label class="margin-toggle sidenote-number"></label><span class="sidenote">老牧师在刚过去的主日分享了“主再来”。他提到在七八十年代这个话题比较热门，现在鲜有教会提及。他这次籍着这个主题再次勉励大家在来年做好预备。
+
+这个主题如此地重要，以至上帝把这个心意放在犹太婚礼的习俗中。新郎一般在晚上迎娶新娘，新娘和伴娘要做好准备。可能早期的新娘还不知道那个晚上是哪天。耶稣来到世上的时候，籍着这个习俗让后辈知道主一定会再来。我们一定要预备好。
+
+今天早上读到加拉太二:5。CSB和NLT的翻译都是： We wanted to preserve the truth of the gospel message for you. “主再来”的主题如此之重要，我们当传承下去。</span>.  
 
 2:6 But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man's person:) for they who seemed to be somewhat in conference added nothing to me:  
 2:7 But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;

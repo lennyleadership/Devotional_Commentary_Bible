@@ -10,6 +10,7 @@ body {
   background: var(--body-background);
   letter-spacing: 0.33px;
   
+  font-family: 'Roboto', sans-serif;
   font-weight: $body-font-weight;
   
   text-align: justify;
@@ -23,7 +24,6 @@ body {
   * {
     box-sizing: inherit;
   }
-  
 
     /*width: 87.5%; /* 87.5*/
     /*margin-left: auto;
@@ -37,90 +37,10 @@ body {
 
 
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    text-transform: uppercase;
-    font-weight: $header-font-weight;
-    font-size: 1rem;
-    line-height: 2;
-    margin-top: 1.5em;
-    margin-bottom: $padding-16;
-
-    a.anchor {
-      opacity: 0;
-      font-size: 0.75em;
-      vertical-align: middle;
-      text-decoration: none;
-    }
-
-    &:hover a.anchor,
-    a.anchor:focus {
-      opacity: initial;
-    }
-  }
-
-
-/* spaced overline for h1 */////////////////////////////////////////////////////////////////////////
-.overline {
-  padding-top: 25px;
-  border-top-style: solid;
-  border-top-width: 5px;
-  width: fit-content;
-  border-top-color: orange;
-  }
-  
-
-h1:before {
-  content:' ';
-  display:block;
-  padding-top: 25px;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: lightgrey;
-}
-
-
-/* the end */***************************************************************************************
 
 
 
-h2 {
-  text-indent: 2%;
-}
 
-
-h3{
-    font-style: italic;
-    font-size: .9rem;
-    text-indent: 4%;
-  }
-  
-
-h4 {
-  font-style: italic;
-  font-size: 0.8em;
-  margin-left: 20px;
-  }
-
-h5 {
-  font-style: italic;
-  font-size: 0.7em;
-  }
-
-h6 {
-  font-style: italic;
-  font-size: 0.6em;
-  }
-  
-
-a {
-  text-decoration: none;
-  color: var(--color-link);
-}
 
 img {
   vertical-align: baseline;
@@ -604,12 +524,7 @@ dl {
     }
   }
 
-figure {
-  margin: $padding-16 0;
-  figcaption p {
-    margin-top: 0;
-    }
-  }
+
 
 
 
