@@ -83,8 +83,8 @@ toc: true
 
 7:16 我如今欢喜、能在凡事上为你们放心。  
 
-<p id="1">[1] [内心世界] 保罗很坦率地表达了自己的内心世界。    
-[2 Corinthians‬7:5 NKJV]  For indeed, when we came to Macedonia, our bodies had no rest, but we were troubled on every side. <mark>Outside were conflicts, inside were fears</mark>.  
+<p id="1">[1] [内心世界] 保罗很坦率地表达了自己的内心世界。  
+[2 Corinthians 7:5 NKJV]  For indeed, when we came to Macedonia, our bodies had no rest, but we were troubled on every side. <mark>Outside were conflicts, inside were fears</mark>.  
 [2022.04.29 note] When reading these verses today, I recalled the time I was with you all.  I looked like calm on the appearance, but I was experiencing what Paul described himself, "outside were conflicts, inside were fears", and yet I was also experiencing what Paul experienced, God comforted me by all of you.  Precious time with you all.  
 <a href="#1_ref">&#8617;</a></p>
 
