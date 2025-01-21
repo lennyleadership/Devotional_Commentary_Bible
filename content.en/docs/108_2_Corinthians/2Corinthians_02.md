@@ -46,7 +46,7 @@ toc: true
 
 2:13 I had no rest in my spirit, because I found not Titus my brother: but taking my leave of them, I went from thence into Macedonia.
 
-2:14 Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.
+2:14 Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.<a id="1_ref" href = "#1">[1]</a>
 
 2:15 For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:
 
@@ -54,6 +54,48 @@ toc: true
 2:16 To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?
 
 2:17 For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ.
+
+
+<p id="1">[1] The picture here is that of the
+ “Roman Triumph,” the special tribute that Rome gave
+ to their conquering generals. It was their equivalent of
+ the American ticker-tape parade.
+ If a commander in chief won a complete victory
+ over the enemy on foreign soil, and if he killed at least
+ five thousand enemy soldiers and gained new territory
+ for the emperor, then that commander in chief was
+ entitled to a Roman Triumph. The processional would
+ include the commander riding in a golden chariot, sur
+rounded by his officers. The parade would also include
+ a display of the spoils of battle, as well as the captive
+ enemy soldiers. The Roman priests would also be in
+ the parade, carrying burning incense to pay tribute to
+ the victorious army.
+ The procession would follow a special route
+ through the city and would end at the Circus
+ Maximus, where the helpless captives would entertain
+ the people by fighting wild beasts. It was a very special
+ day in Rome when the citizens were treated to a full
+scale Roman Triumph.
+ How does this piece of history apply to the bur
+dened believer today? Jesus Christ, our great
+ Commander in chief, came to foreign soil (this earth)
+ and completely defeated the enemy (Satan). Instead of
+ killing five thousand persons, He gave life to more than
+ five thousand persons—to three thousand plus at
+ Pentecost and to another two thousand plus shortly
+ after Pentecost (Acts 2:41; 4:4). Jesus Christ claimed
+ the spoils of battle—lost souls who had been in
+ bondage to sin and Satan (Luke 11:14–22; Eph. 4:8;
+ Col. 2:15). What a splendid victory!
+ The victorious general’s sons would walk behind
+ their father’s chariot, sharing in his victory; and that is
+ where believers are today—following in Christ’s tri
+umph. We do not fight for victory; we fight from
+ victory. Neither in Asia nor in Corinth did the situa
+tion look like victory to Paul, but he believed
+ God—and God turned defeat into victory. - Wiersbe Bible Commentary
+<a href="#1_ref">&#8617;</a></p>
 </div>
 
 <div id="chinese" class="tabcontent">
