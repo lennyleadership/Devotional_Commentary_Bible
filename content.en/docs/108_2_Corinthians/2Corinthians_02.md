@@ -46,7 +46,7 @@ toc: true
 
 2:13 I had no rest in my spirit, because I found not Titus my brother: but taking my leave of them, I went from thence into Macedonia.
 
-2:14 Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.<a class="sidenote" id="1_ref" href = "#1">[1]</a>
+2:14 Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.<a id="1_ref" href = "#1">[1]</a>
 
 2:15 For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:
 
