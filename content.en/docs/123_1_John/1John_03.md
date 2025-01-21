@@ -7,7 +7,7 @@ tags:
 description: 
 draft: false
 date: "2023-04-23"
-lastmod: "2023-04-23"
+lastmod: "2025-01-20"
 series:
 toc: true
 ---
@@ -24,7 +24,7 @@ toc: true
 </div>
 
 <!-- Tab content -->
-<div id="english" class="tabcontent" style="display:block">
+<div id="english" class="tabcontent" >
 
 3:1 Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.  
 3:2 Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.  
@@ -57,7 +57,7 @@ toc: true
 
 </div>
 
-<div id="chinese" class="tabcontent">
+<div id="chinese" class="tabcontent" style="display:block">
 
 3:1 你看父赐给我们是何等的慈爱、使我们得称为　神的儿女。我们也真是他的儿女。世人所以不认识我们、是因未曾认识他。  
 3:2 亲爱的弟兄阿、我们现在是　神的儿女、将来如何、还未显明。但我们知道主若显现、我们必要像他。因为必得见他的真体。  
@@ -86,5 +86,9 @@ toc: true
 3:21 亲爱的弟兄阿、我们的心若不责备我们、就可以向　神坦然无惧了。  
 3:22 并且我们一切所求的、就从他得着。因为我们遵守他的命令、行他所喜悦的事。  
 3:23 　神的命令就是叫我们信他儿子耶稣基督的名、且照他所赐给我们的命令彼此相爱。  
-3:24 遵守　神命令的、就住在　神里面。　神也住在他里面。我们所以知道　神住在我们里面、是因他所赐给我们的圣灵。  
+3:24 遵守　神命令的、就住在　神里面。　神也住在他里面。我们所以知道　神住在我们里面、是因他所赐给我们的圣灵。  <sup id="1_ref" href = "#1">[1]</sup>
+
+<p id="1">[1] 上帝成为我们的居所。唯有在上帝里面才得享保守保守。(诗篇91)
+<a href="#1_ref">&#8617;</a></p>
+
 </div>
