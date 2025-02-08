@@ -25,7 +25,8 @@ toc: true
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
-13:1 Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.  
+
+3:1 Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.  
 13:2 And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.  
 13:3 And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.  
 13:4 Charity suffereth long<label class="margin-toggle sidenote-number"></label><span class="sidenote">Meditate on God's love</span>, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,  
@@ -43,6 +44,7 @@ toc: true
 </div>
 
 <div id="chinese" class="tabcontent">
+
 13:1 我若能说万人的方言、并天使的话语、却没有爱、我就成了鸣的锣、响的钹一般。  
 13:2 我若有先知讲道之能、也明白各样的奥秘、各样的知识。而且有全备的信、叫我能够移山、却没有爱、我就算不得甚么。  
 13:3 我若将所有的赒济穷人、又舍己身叫人焚烧、却没有爱、仍然与我无益。  
