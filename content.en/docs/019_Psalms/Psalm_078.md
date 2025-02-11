@@ -3,7 +3,7 @@ weight: 078
 title: Psalm 078
 authors: Lenny
 categories: null
-tags: []
+tags: ["Rock vs. Rocks"]
 description: 
 draft: false
 date: "2025-02-10"
