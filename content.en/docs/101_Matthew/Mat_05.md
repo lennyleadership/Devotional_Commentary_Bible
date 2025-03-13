@@ -7,14 +7,14 @@ tags: [Cheek]
 description: 
 draft: false
 date: "2023-06-07"
-lastmod: "2023-06-07"
+lastmod: "2025-03-12"
 series:
 toc: true
 ---
 
 
 <!--more-->
----
+
 
 <!-- Tab links -->
 
@@ -28,7 +28,12 @@ toc: true
 
 5:1 And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:  
 5:2 And he opened his mouth, and taught them, saying,  
-5:3 Blessed are the poor in spirit: for theirs is the kingdom of heaven.  
+5:3 Blessed are the poor in spirit: for theirs is the kingdom of heaven.<label class="margin-toggle sidenote-number"></label><span class="sidenote">詩 篇 76:8 CUVS  
+你 从 天 上 使 人 听 判 断 。 　 神 起 来 施 行 审 判 ， 要 救 地 上 一 切 <b>谦 卑</b> 的 人 ； 那 时 地 就 惧 怕 而 静 默 。 （ 细 拉 ）
+<br>
+Psalm 76:8-9 CSB  
+[8] From heaven you pronounced judgment. The earth feared and grew quiet   
+[9] when God rose up to judge and to save all <b>the lowly</b> of the earth. Selah</span>  
 5:4 Blessed are they that mourn: for they shall be comforted.  
 5:5 Blessed are the meek: for they shall inherit the earth.  
 
