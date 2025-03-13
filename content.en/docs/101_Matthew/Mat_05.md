@@ -27,7 +27,7 @@ toc: true
 <div id="english" class="tabcontent" style="display:block">
 
 5:1 And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:  
-5:2 And he opened his mouth, and taught them, saying,  
+5:2 And he opened his mouth, and taught them, saying,<label class="margin-toggle sidenote-number"></label><span class="sidenote"><a href = "https://spiritual-notes.netlify.app/docs/11-break-the-bread/54_2025.03.09_7_hates_n_7_likes/" target="_blank" rel="noopener noreferrer">Spiritual Notes | 7 Hates and 7 Likes</a></span>  
 5:3 Blessed are the poor in spirit: for theirs is the kingdom of heaven.<label class="margin-toggle sidenote-number"></label><span class="sidenote">詩 篇 76:8 CUVS  
 你 从 天 上 使 人 听 判 断 。 　 神 起 来 施 行 审 判 ， 要 救 地 上 一 切 <b>谦 卑</b> 的 人 ； 那 时 地 就 惧 怕 而 静 默 。 （ 细 拉 ）
 <br>
