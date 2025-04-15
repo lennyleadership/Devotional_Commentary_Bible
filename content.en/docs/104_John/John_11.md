@@ -29,7 +29,7 @@ toc: true
 11:1 Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.  
 11:2 (It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)
 11:3 Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.  
-11:4 When Jesus heard that, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.  
+11:4 When Jesus heard that, he said, This sickness is not unto death, but <b>for</b> the glory of God, that the Son of God might be glorified <b>thereby</b>.  
 11:5 Now Jesus loved Martha, and her sister, and Lazarus.  
 
 11:6 When he had heard therefore that he was sick, he abode two days still in the same place where he was.  
@@ -101,7 +101,7 @@ toc: true
 11:1 有一个患病的人、名叫拉撒路、住在伯大尼、就是马利亚和他姐姐马大的村庄。  
 11:2 这马利亚就是那用香膏抹主、又用头发擦他脚的。患病的拉撒路是他的兄弟。  
 11:3 他姊妹两个就打发人去见耶稣说、主阿、你所爱的人病了。  
-11:4 耶稣听见就说、这病不至于死、乃是为　神的荣耀、叫　神的儿子因此得荣耀。  
+11:4 耶稣听见就说、这病不至于死、乃是为　神的荣耀、叫　神的儿子因此得荣耀。<label class="margin-toggle sidenote-number"></label><span class="sidenote">功课一：耶稣行神迹的动机不是为自己当下的好处。他可以饱受饥饿，而不把石头变成面包。中文里没有“荣耀”这样的词，属于舶来品。翻</span>  
 11:5 耶稣素来爱马大、和他妹子、并拉撒路。  
 
 11:6 听见拉撒路病了、就在所居之地、仍住了两天。  
