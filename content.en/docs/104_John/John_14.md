@@ -14,14 +14,16 @@ toc: true
 
 <!--more-->
 
+<!-- Tab links -->
 <div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'verses')">John 14</button>
-  <button class="tablinks" onclick="tablabel(event, 'Devotion1')">verse 13-14</button>
-  
+  <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'Devotion1')">verse 13-14</button>  
 </div>
 
 <!-- Tab content -->
-<div id="verses" class="tabcontent" style="display:block">
+<div id="english" class="tabcontent" style="display:block">
+
 14:1 Let not your heart be troubled: ye believe in God, believe also in me.  
 14:2 In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.  
 14:3 And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also.  
@@ -61,8 +63,49 @@ toc: true
 14:31 But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence. 
 </div>
 
+<div id="chinese" class="tabcontent">
+
+14:1 你们心里不要忧愁。你们信　神、也当信我。  
+14:2 在我父的家里、有许多住处。若是没有、我就早已告诉你们了。我去原是为你们预备地方去。  
+14:3 我若去为你们预备了地方、就必再来接你们到我那里去。我在那里、叫你们也在那里。  
+14:4 我往那里去、你们知道。那条路、你们也知道。〔有古卷作我往那里去你们知道那条路〕 
+14:5 多马对他说、主阿、我们不知道你往那里去、怎么知道那条路呢。  
+
+14:6 耶稣说、我就是道路、真理、生命。若不借着我、没有人能到父那里去。  
+14:7 你们若认识我、也就认识我的父。从今以后、你们认识他、并且已经看见他。  
+14:8 腓力对他说、求主将父显给我们看、我们就知足了。  
+14:9 耶稣对他说、腓力、我与你们同在这样长久、你还不认识我么。人看见了我、就是看见了父。你怎么说、将父显给我们看呢。  
+14:10 我在父里面、父在我里面、你不信么。我对你们所说的话、不是凭着自己说的、乃是住在我里面的父作他自己的事。  
+
+14:11 你们当信我、我在父里面、父在我里面。即或不信、也当因我所作的事信我。  
+14:12 我实实在在的告诉你们、我所作的事、信我的人也要作。并且要作比这更大的事。因为我往父那里去。  
+14:13 你们奉我的名、无论求甚么、我必成就、叫父因儿子得荣耀。  
+14:14 你们若奉我的名求甚么、我必成就。  
+14:15 你们若爱我、就必遵守我的命令。  
+
+14:16 我要求父、父就另外赐给你们一位保惠师、〔或作训慰师下同〕叫他永远与你们同在、  
+14:17 就是真理的圣灵、乃世人不能接受的。因为不见他、也不认识他。你们却认识他。因他常与你们同在、也要在你们里面。  
+14:18 我不撇下你们为孤儿、我必到你们这里来。  
+14:19 还有不多的时候、世人不再看见我。你们却看见我。因为我活着、你们也要活着。  
+14:20 到那日你们就知道我在父里面、你们在我里面、我也在你们里面。  
+
+14:21 有了我的命令又遵守的、这人就是爱我的。爱我的必蒙我父爱他、我也要爱他、并且要向他显现。  
+14:22 犹大（不是加略人犹大)问耶稣说、主阿、为甚么要向我们显现、不向世人显现呢。  
+14:23 耶稣回答说、人若爱我、就必遵守我的道。我父也必爱他、并且我们要到他那里去、与他同住。  
+14:24 不爱我的人就不遵守我的道。你们所听见的道不是我的、乃是差我来之父的道。  
+14:25 我还与你们同住的时候、已将这些话对你们说了。  
+
+14:26 但保惠师、就是父因我的名所要差来的圣灵、他要将一切的事、指教你们、并且要叫你们想起我对你们所说的一切话。  
+14:27 我留下平安给你们、我将我的平安赐给你们。我所赐的、不像世人所赐的。你们心里不要忧愁、也不要胆怯。  
+14:28 你们听见我对你们说了、我去还要到你们这里来。你们若爱我、因我到父那里去、就必喜乐、因为父是比我大的。  
+14:29 现在事情还没有成就、我预先告诉你们、叫你们到事情成就的时候、就可以信。  
+14:30 以后我不再和你们多说话、因为这世界的王将到。他在我里面是毫无所有。  
+
+14:31 但要叫世人知道我爱父、并且父怎样吩咐我、我就怎样行。起来、我们走吧。  
+</div>
 
 <div id="Devotion1" class="tabcontent">
+
 <h2>Giving the Gospel</h2>  
 
 by Joni Eareckson Tada
@@ -103,7 +146,10 @@ Interestingly Joni saw her accident as a part of God's strategy to further His g
 Then I go over this question again: What is the gospel?    
 1) First of all, it is the good news of Jesus' coming down and saving us from sin, so that we can be free from dying in the sin;   
 2) Secondly, it is about the power of transformation.  The gospel can change me.  If I still prayed for the benefit for myself, and there was no change in me, the gospel would not be a good news.  God is not the Lord, but a servant of me;  
-
 </div>
+
+
+
+
 
  

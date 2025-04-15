@@ -1,14 +1,14 @@
 ---
 weight: 3
+title: John 03
 authors: Lenny
 categories: null
-date: "2022-04-19"
 description: 
 draft: false
-lastmod: "2022-05-30"
+date: "2022-04-19"
+lastmod: "2025-04-14"
 series:
 tags: [Spurgeon, Gospel]
-title: John 03
 toc: true
 ---
 

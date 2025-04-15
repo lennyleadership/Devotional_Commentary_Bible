@@ -1,13 +1,13 @@
 ---
+title: 1 Corinthians
 authors: Lenny
 categories: null
-date: "2022-04-19"
 description: 
 draft: true
-lastmod: "2022-04-19"
+date: "2022-04-19"
+lastmod: "2025-04-14"
 series: null
 tags: null
-title: 1 Corinthians
 toc: true
 ---
 
