@@ -76,7 +76,7 @@ toc: true
 
 11:41 Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, <b>I thank</b> thee that thou hast heard me.  
 11:42 And I knew that thou hearest me always: but because of the people which stand by I said it, that they may believe that thou hast sent me.  
-11:43 And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.  
+11:43 And when he thus had spoken, he cried with a loud voice, Lazarus, <b>come forth</b>.<label class="margin-toggle sidenote-number"></label><span class="sidenote">难点四：不像是走出来的。怎么出来的？</span>  
 11:44 And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.  
 11:45 Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.  
 
@@ -86,8 +86,8 @@ toc: true
 11:49 And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,
 11:50 Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.  
 
-11:51 And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
-11:52 And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.  
+11:51 And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;   
+11:52 And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.<label class="margin-toggle sidenote-number"></label><span class="sidenote">难点五：抵挡耶稣的人也会说预言。</span>  
 11:53 Then from that day forth they took counsel together for to put him to death.  
 11:54 Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.  
 11:55 And the Jews' passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.  
@@ -155,14 +155,14 @@ toc: true
 11:46 但其中也有去见法利赛人的、将耶稣所作的事告诉他们。  
 11:47 祭司长和法利赛人聚集公会、说、这人行好些神迹、我们怎么办呢。  
 11:48 若这样由着他、人人都要信他。罗马人也要来夺我们的地土、和我们的百姓。  
-11:49 内中有一个人、名叫该亚法、本年作大祭司、对他们说、你们不知道甚么。  
+11:49 内中有一个人、名叫该亚法<a id="1_ref" href = "#2">[2]</a>、本年作大祭司、对他们说、你们不知道甚么。<label class="margin-toggle sidenote-number"></label><span class="sidenote">该亚法的岳父是亚那以大祭司身份将耶稣交付审判，随后转交给本丢·彼拉多 [约18:13-14]。<br>亚那于主后6-15年任大祭司。该亚法于主后18-36年任大祭司。</span>  
 11:50 独不想一个人替百姓死、免得通国灭亡、就是你们的益处。  
 
-11:51 他这话不是出于自己、是因他本年作大祭司、所以预言耶稣将要替这一国死。  
+11:51 他这话不是出于自己、是因他本年作大祭司、所以预言耶稣将要替这一国死。<label class="margin-toggle sidenote-number"></label><span class="sidenote">该亚法说对了。</span>  
 11:52 也不但替这一国死、并要将　神四散的子民、都聚集归一。  
 11:53 从那日起他们就商议要杀耶稣。  
 11:54 所以耶稣不再显然行在犹太人中间、就离开那里往靠近旷野的地方去。到了一座城、名叫以法莲、就在那里和门徒同住。  
-11:55 犹太人的逾越节近了。有许多人从乡下上耶路撒冷去、要在节前洁净自己。  
+11:55 犹太人的逾越节近了。有许多人从乡下上耶路撒冷去、要在节<b>前</b>洁净自己。<label class="margin-toggle sidenote-number"></label><span class="sidenote">徒劳的洁净。宗教形式！</span>  
 
 11:56 他们就寻找耶稣、站在殿里彼此说、你们的意思如何、他不来过节么。  
 11:57 那时、祭司长和法利赛人早已吩咐说、若有人知道耶稣在那里、就要报明、好去拿他。  
@@ -171,6 +171,19 @@ toc: true
 
 <p id="1">[1] 耶稣和门徒住在约旦河，当初施洗约翰给人施洗的地方。耶稣带着门徒从那里去伯大尼，然后没有直接上耶路撒冷，而是去到靠近旷野的城，名叫以法莲。
 <a href="#1_ref">&#8617;</a></p>
+
+<p id="2">[2] 该亚法  
+（Caiaphas）  
+
+全名约瑟·该亚法。耶稣在地上传道时，这人是大祭司（路3:2），也是大祭司亚那的女婿（约18:13；见亚那）。该亚法是本丢·彼拉多之前的总督瓦勒利乌斯·格拉图斯于公元18年左右（有些人说更迟一些，应是公元26年）任命的。该亚法担任大祭司直到公元36年左右，任期比前几任大祭司都要长，主要由于他的外交手腕圆滑，而且肯跟罗马统治阶层合作。据称该亚法跟彼拉多私交很好。该亚法属于撒都该派。（徒5:17）
+
+该亚法是密谋杀害耶稣的主脑，他预言耶稣不久就要为犹太民族而死。虽然该亚法一心一意促成这件事，但这个预言却不是出于他自己的。（约11:49-53；18:12-14）耶稣在公议会（犹太最高法庭）受审，该亚法撕裂外衣喊道：“他说了亵渎的话！”（太26:65）耶稣被带到彼拉多面前，该亚法率领群众大声呼叫“把他挂在柱上！把他挂在柱上！”（约19:6,11），也跟暴民一起要求释放巴拉巴而非耶稣（太27:20,21；可15:11）。该亚法必定跟民众齐声呼喊：“除了凯撒，我们没有王。”（约19:15）此外，该亚法看见耶稣之上的牌子写着“犹太人的王”，也必定曾为此向罗马总督提出抗议。（约19:21）
+
+该亚法没有因耶稣死了而罢休，反而大力迫害新兴的基督教会。使徒们被带到这个宗教领袖面前，他严令禁止他们继续传道，危言恐吓他们，甚至鞭打他们，但全都徒劳无效。不管该亚法如何阻挠，使徒们仍“天天在圣殿里，又挨家逐户，持续不懈地教导人”。（徒4:5-7；5:17,18,21,27,28,40,42）该亚法除了负上杀害耶稣的血债之外，不久还负上杀害义人司提反的血债。不但如此，该亚法还把公函给大数城的扫罗，让他向大马士革的基督徒发动迫害。（徒7:1,54-60；9:1,2）不过这事以后，该亚法就被罗马执政官维特利乌斯革去大祭司之职。
+
+该亚法强硬要耶稣发誓是否说过他是上帝的儿子基督。在听到耶稣确实的答复时，该亚法就撕裂自己的衣服并叫公会定他说僭妄话的罪。公会依其指示，判耶稣死罪。——马太福音26:59-66。
+<a href = "https://wol.jw.org/cmn-Hans/wol/d/r23/lp-chs/1200000856" target="_blank" rel="noopener noreferrer">source: </a>
+<a href="#2_ref">&#8617;</a></p>
 </div>
 
 <div id="lazalu" class="tabcontent">
