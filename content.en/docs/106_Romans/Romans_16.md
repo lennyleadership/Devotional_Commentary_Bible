@@ -106,6 +106,6 @@ A few days before the trip’s end, the Lord directed me to Romans 16:12
 >“Salute Tryphena and Tryphosa, who labour in the Lord.  
 > Salute the beloved Persis, which laboured much in the Lord.”
 
-It struck me – it does not say that they “laboured much <u class = "red">for</u> the the Lord” but that they “laboured <u class ="red">in</u> the Lord”. And is it not a blessing, as my devotional reading went on to say, that the Master knew that they did so in Him – and yes for Him. Isn’t it enough that He knows!
+It struck me – it does not say that they “laboured much <u class = "red">for</u> the Lord” but that they “laboured <u class ="red">in</u> the Lord”. And is it not a blessing, as my devotional reading went on to say, that the Master knew that they did so in Him – and yes for Him. Isn’t it enough that He knows!
 
 </div>
