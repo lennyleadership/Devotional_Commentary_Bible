@@ -42,9 +42,9 @@ toc: true
 11:12 Then said his disciples, Lord, if he sleep, he shall do well.  
 11:13 Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.  
 11:14 Then said Jesus unto them plainly, Lazarus is dead.  
-11:15 And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.  
+11:15 And <b>I am glad for your sakes that I was not there</b>, to the intent ye may believe; nevertheless let us go unto him.<label class="margin-toggle sidenote-number"></label><span class="sidenote">难点一</span>  
 
-11:16 Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.  
+11:16 Then said Thomas, which is called Didymus, unto his fellowdisciples, <b>Let us also go, that we may die with him</b>.<label class="margin-toggle sidenote-number"></label><span class="sidenote">难点二</span>  
 11:17 Then when Jesus came, he found that he had lain in the grave four days already.  
 11:18 Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:  
 11:19 And many of the Jews came to Martha and Mary, to comfort them concerning their brother.  
@@ -105,7 +105,7 @@ toc: true
 11:5 耶稣素来爱马大、和他妹子、并拉撒路。  
 
 11:6 听见拉撒路病了、就在所居之地、仍住了两天。  
-11:7 然后对门徒说、我们再往犹太去吧。<label class="margin-toggle sidenote-number"></label><span class="sidenote">耶稣和门徒住在约旦河，当初施洗约翰给人施洗的地方。耶稣带着门徒从那里去伯大尼，然后没有直接上耶路撒冷，而是去到靠近旷野的城，名叫以法莲。</span>  
+11:7 然后对门徒说、我们再往犹太去吧。<a id="1_ref" href = "#1">[1]</a>    
 11:8 门徒说、拉比、犹太人近来要拿石头打你、你还往那里去么。  
 11:9 耶稣回答说、白日不是有十二小时么。人在白日走路、就不至跌倒、因为看见<b>这世上的光</b>。  
 11:10 若在黑夜走路、就必跌倒、因为他没有光。  
@@ -167,6 +167,10 @@ toc: true
 11:56 他们就寻找耶稣、站在殿里彼此说、你们的意思如何、他不来过节么。  
 11:57 那时、祭司长和法利赛人早已吩咐说、若有人知道耶稣在那里、就要报明、好去拿他。  
 
+----
+
+<p id="1">[1] 耶稣和门徒住在约旦河，当初施洗约翰给人施洗的地方。耶稣带着门徒从那里去伯大尼，然后没有直接上耶路撒冷，而是去到靠近旷野的城，名叫以法莲。
+<a href="#1_ref">&#8617;</a></p>
 </div>
 
 <div id="lazalu" class="tabcontent">
