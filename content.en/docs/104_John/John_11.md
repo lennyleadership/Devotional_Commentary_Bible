@@ -64,17 +64,17 @@ toc: true
 
 11:31 The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.  
 11:32 Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died.  
-11:33 When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,
+11:33 When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he <b>groaned</b> in the spirit, and was troubled,<label class="margin-toggle sidenote-number"></label><span class="sidenote">难点三。NLT翻成a deep anger welled up in him。NET的解读是：耶稣憎恶死亡，撒旦的权势。</span>
 11:34 And said, Where have ye laid him? They said unto him, Lord, come and see.  
 11:35 Jesus wept.  
 
 11:36 Then said the Jews, Behold how he loved him!
 11:37 And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?  
-11:38 Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it.  
+11:38 Jesus therefore again <b>groaning</b> in himself cometh to the grave. It was a cave, and a stone lay upon it.  
 11:39 Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been dead four days.  
-11:40 Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?  
+11:40 Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest <b>see</b> the glory of God?  
 
-11:41 Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me.  
+11:41 Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, <b>I thank</b> thee that thou hast heard me.  
 11:42 And I knew that thou hearest me always: but because of the people which stand by I said it, that they may believe that thou hast sent me.  
 11:43 And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.  
 11:44 And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.  
@@ -101,7 +101,7 @@ toc: true
 11:1 有一个患病的人、名叫拉撒路、住在伯大尼、就是马利亚和他姐姐马大的村庄。  
 11:2 这马利亚就是那用香膏抹主、又用头发擦他脚的。患病的拉撒路是他的兄弟。  
 11:3 他姊妹两个就打发人去见耶稣说、主阿、你所爱的人病了。  
-11:4 耶稣听见就说、这病不至于死、乃是为　神的荣耀、叫　神的儿子因此得荣耀。<label class="margin-toggle sidenote-number"></label><span class="sidenote">功课一：耶稣行神迹的动机不是为自己当下的好处。他可以饱受饥饿，而不把石头变成面包。中文里没有“荣耀”这样的词，属于舶来品。对应的中文词语是“脸上有光彩！<br>功课二：公开承认他是神的儿子。”</span>  
+11:4 耶稣听见就说、这病不至于死、乃是为　神的荣耀、叫　<b>神的儿子</b>因此得荣耀。<label class="margin-toggle sidenote-number"></label><span class="sidenote">功课一：耶稣行神迹的动机不是为自己当下的好处。他可以饱受饥饿，而不把石头变成面包。中文里没有“荣耀”这样的词，属于舶来品。对应的中文词语是“脸上有光彩！”<br>功课二：公开承认他是神的儿子。</span>  
 11:5 耶稣素来爱马大、和他妹子、并拉撒路。  
 
 11:6 听见拉撒路病了、就在所居之地、仍住了两天。  
@@ -117,7 +117,7 @@ toc: true
 11:15 我没有在那里就欢喜、这是为你们的缘故、好叫你们相信。如今我们可以往他那里去吧。  
 
 11:16 多马、又称为低土马、就对那同作门徒的说、我们也去和他同死吧。  
-11:17 耶稣到了、就知道拉撒路在坟墓里、已经四天了。  
+11:17 耶稣到了、就知道拉撒路在坟墓里、已经四天了。<label class="margin-toggle sidenote-number"></label><span class="sidenote">耶稣是第三天复活。这是归荣耀给上帝的事情。</span>  
 11:18 伯大尼离耶路撒冷不远、约有六里路。  
 11:19 有好些犹太人来看马大和马利亚、要为他们的兄弟安慰他们。  
 11:20 马大听见耶稣来了、就出去迎接他。马利亚却仍然坐在家里。  
@@ -128,15 +128,15 @@ toc: true
 11:24 马大说、我知道在末日复活的时候、他必复活。  
 11:25 耶稣对他说、复活在我、生命也在我。信我的人、虽然死了、也必复活。  
 
-11:26 凡活着信我的人、必永远不死。你信这话么。  
-11:27 马大说、主阿、是的。我信你是基督、是　神的儿子、就是那要临到世界的。  
+11:26 <b>凡活着信我的人、必永远不死</b>。你信这话么。<label class="margin-toggle sidenote-number"></label><span class="sidenote">功课：得着基督耶稣的生命。富有挑战的问题。</span>  
+11:27 马大说、主阿、是的。我信你是基督、是　神的儿子、就是那要临到世界的。<label class="margin-toggle sidenote-number"></label><span class="sidenote">功课：显然，马大有迟疑。她不明白耶稣的话。</span>  
 11:28 马大说了这话、就回去暗暗的叫他妹子马利亚说、夫子来了、叫你。  
 11:29 马利亚听见了、就急忙起来、到耶稣那里去。  
 11:30 那时、耶稣还没有进村子、仍在马大迎接他的地方。  
 
 11:31 那些同马利亚在家里安慰他的犹太人、见他急忙起来出去、就跟着他。以为他要往坟墓那里去哭。  
 11:32 马利亚到了耶稣那里、看见他、就俯伏在他脚前、说、主阿、你若早在这里、我兄弟必不死。  
-11:33 耶稣看见他哭、并看见与他同来的犹太人也哭、就心里悲叹、又甚忧愁。、  
+11:33 耶稣看见他哭、并看见与他同来的犹太人也哭、就心里悲叹、又甚忧愁。  
 11:34 便说、你们把他安放在那里。他们回答说、请主来看。  
 11:35 耶稣哭了。  
 
@@ -144,10 +144,10 @@ toc: true
 11:37 其中有人说、他既然开了瞎子的眼睛、岂不能叫这人不死么。  
 11:38 耶稣又心里悲叹、来到坟墓前。那坟墓是个洞、有一块石头挡着。  
 11:39 耶稣说、你们把石头挪开。那死人的姐姐马大对他说、主阿、他现在必是臭了、因为他死了已经四天了。  
-11:40 耶稣说、我不是对你说过、你若信、就必看见　神的荣耀么。  
+11:40 耶稣说、我不是对你说过、你若信、就必<b>看见</b>　神的荣耀么。<label class="margin-toggle sidenote-number"></label><span class="sidenote">不是归荣耀给上帝。</span>  
 
-11:41 他们就把石头挪开。耶稣举目望天说、父阿、我感谢你、因为你已经听我。  
-11:42 我也知道你常听我、但我说这话、是为周围站着的众人、叫他们信是你差了我来。  
+11:41 他们就把石头挪开。耶稣举目望天说、<b>父</b>阿、我<b>感谢</b>你、因为你已经听我。<label class="margin-toggle sidenote-number"></label><span class="sidenote">功课：耶稣没有像摩西那样对上帝不信任。</span>  
+11:42 我也知道你常听我、但我说这话、是为周围站着的众人、叫他们信<b>是你差了我来</b>。<label class="margin-toggle sidenote-number"></label><span class="sidenote">功课：公开他与上帝的父子关系。</span>  
 11:43 说了这话、就大声呼叫说、拉撒路出来。  
 11:44 那死人就出来了、手脚裹着布、脸上包着手巾。耶稣对他们说、解开、叫他走。  
 11:45 那些来看马利亚的犹太人、见了耶稣所作的事、就多有信他的。  
