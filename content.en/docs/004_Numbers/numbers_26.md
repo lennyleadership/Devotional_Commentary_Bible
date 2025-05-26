@@ -203,7 +203,7 @@ Psalm 88 was credited to Heman.
 
 Eleven psalms were credited to Koralites.  
 
-
+The sons of Korah became a music group.
 
 
 

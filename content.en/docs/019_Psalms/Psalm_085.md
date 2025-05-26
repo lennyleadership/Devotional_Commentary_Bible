@@ -34,9 +34,10 @@ toc: true
 
 85:6 Wilt thou not revive us again: that thy people may rejoice in thee?  
 85:7 Shew us thy mercy, O LORD, and grant us thy salvation.  
-85:8 I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.  
-85:9 Surely his salvation is nigh them that fear him; that glory may dwell in our land.  
-85:10 Mercy and truth are met together; righteousness and peace have kissed each other.  
+85:8 I will hear what God the LORD will speak: for he will <b>speak peace</b><label class="margin-toggle sidenote-number"></label><span class="sidenote">The idiom “speak peace” refers to establishing or maintaining peaceful relations with someone. | NET Bible</span> unto his people, and to his saints: but let them not turn again to folly.  
+85:9 Surely his salvation is nigh them that fear him; that glory may dwell in our land.<label class="margin-toggle sidenote-number"></label><span class="sidenote">John 1:14 ESV  
+And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.</span>  
+85:10 Mercy and truth are met together; righteousness and peace have kissed each other.<label class="margin-toggle sidenote-number"></label><span class="sidenote">Psalm 85:10 is a prayer, and was answered 520 years after.</span>  
 
 85:11 Truth shall spring out of the earth; and righteousness shall look down from heaven.  
 85:12 Yea, the LORD shall give that which is good; and our land shall yield her increase.  
@@ -64,7 +65,11 @@ toc: true
 
 <div id="meditation" class="tabcontent">
 
-Psalm 85:10 is a prayer, and was answered 520 years after.  The sons of Korah became a music group.  
+The sons of Korah became a music group.
+
+Ultimately, this "kiss" took place on the cross of Calvary, through the blood of the last Lamb (Rom 3:25-26). God is at harmony with his people by finally bringing a grace-based salvation "near" in Immanuel (Matt. 1:23). And redeemed humanity is at harmony with itself as God's righteousness is conveyed to it by faith (Rom 4:22-25).
+
+Gary McBride on 2025-05-26 referenced Rom 5:6-11 for the work of reconciliation on the cross.
 
 Here are some verses from the New Testament of the Bible.[<a href = "https://www.easyenglish.bible/psalms/psalm085-taw.htm#:~:text=Many%20Bible%20students%20think%20that,was%20angry%20with%20his%20people." target="_blank" rel="noopener noreferrer">easyenglish Bible</a>]
 
