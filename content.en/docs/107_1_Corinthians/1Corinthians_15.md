@@ -3,7 +3,7 @@ weight: 15
 title: 1 Corinthians 15
 authors: Lenny
 categories: null
-tags: ["Law and Sin"]
+tags: ["Law and Sin", "Jesus is the spirit"]
 description: 
 draft: false
 date: "2024-09-27"
@@ -78,7 +78,7 @@ toc: true
 15:42 So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:  
 15:43 It is sown in dishonour; it is raised in glory: it is sown in weakness; it is raised in power:  
 15:44 It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body.  
-15:45 And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit.  
+15:45 And so it is written, The first man Adam was made a living soul; the last Adam was made <b>a quickening spirit</b>.<label class="margin-toggle sidenote-number"></label><span class="sidenote">Jesus is the spirit</span>  
 
 15:46 Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual.  
 15:47 The first man is of the earth, earthy: the second man is the Lord from heaven.  
