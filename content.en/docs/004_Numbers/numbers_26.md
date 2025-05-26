@@ -14,7 +14,7 @@ toc: true
 
 
 <!--more-->
----
+
 
 <!-- Tab links -->
 <div class="tab">
@@ -194,7 +194,7 @@ I think God could have cursed the sons of Korah in the same manner in which God 
 Note then the kindness and the severity of God: severity toward those who have fallen, but God’s kindness to you, provided you continue in his kindness. Otherwise, you too will be cut off.  
 Unlike other people, God treated the people he chose with mercy and grace. Why so? God revealed himself as the sovereign, righteous, and merciful One.
 
-Perhaps the most telling point about these saved sons of Korah is the way the LORD graciously used them in His service in years to come. The prophet Samuel was a descendant of Korah (1 Chronicles 6:31-38). The Korahites were assigned the task of custodian and doorkeeper for the Tabernacle (1 Chronicles 9:19-21). Among King David’s military men were a group of Korahites commended for their expertise. (1 Chronicles 12:1-6).
+Perhaps the most telling point about these saved sons of Korah is the way the LORD graciously used them in His service in years to come. The prophet Samuel was a descendant of Korah (1 Chronicles 6:31-38). The Korahites were assigned the task of custodian and doorkeeper for the Tabernacle (1 Chronicles 9:19-21). Among King David’s military men were a group of Korahites commended for their expertise. (1 Chronicles 12:1-6) <a href = "https://melissamclaughlin.org/2020/10/22/who-were-the-sons-of-korah-in-the-bible/#comment-28328" target="_blank" rel="noopener noreferrer">A comment on Melissa Mclaughlin Blog</a>.
 
 It is interesting to note that Elkanah was not doing temple service. Although Korah’s sons were spared for separating them from their father’s rebellion, they were not allowed to do temple service from then on. Hannah’s cry to the Lord restored Elkanah’s line to service in the temple.  
 Also notable is that the Psalms before Ps 45:10 are all a cry, a seeking and yearning for God. The mood of the Psalms after that change notably to praise, thanksgiving and worship.  
@@ -203,7 +203,7 @@ Psalm 88 was credited to Heman.
 
 Eleven psalms were credited to Koralites.  
 
-Psalm 85:10 is a prayer, and was answered 520 years after.  The sons of Korah became a music group.  
+
 
 
 

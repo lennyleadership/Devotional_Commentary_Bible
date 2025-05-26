@@ -13,13 +13,14 @@ toc: true
 ---
 
 <!--more-->
----
+
 
 <!-- Tab links -->
 
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'meditation')">Meditation</button>
 </div>
 
 <!-- Tab content -->
@@ -61,4 +62,15 @@ toc: true
 85:13 公义要行在他面前、叫他的脚踪、成为可走的路。  
 </div>
 
+<div id="meditation" class="tabcontent">
 
+Psalm 85:10 is a prayer, and was answered 520 years after.  The sons of Korah became a music group.  
+
+Here are some verses from the New Testament of the Bible.[<a href = "https://www.easyenglish.bible/psalms/psalm085-taw.htm#:~:text=Many%20Bible%20students%20think%20that,was%20angry%20with%20his%20people." target="_blank" rel="noopener noreferrer">easyenglish Bible</a>]
+
+1) Luke 2:14. Glory to God in the heavens, and peace to his saints on earth.  
+2) John 1:14. The Word became a man and lived with us and we saw his glory. (The Word is one of Jesus’ Bible names.)  
+3) Romans 5:1. Because we have been made righteous through faith, we have peace with God through our Lord Jesus Christ. (Faith means that we accept the kind love of God.)  
+4) Matthew 1:21. Jesus will save his people from their sins.  
+
+</div>
