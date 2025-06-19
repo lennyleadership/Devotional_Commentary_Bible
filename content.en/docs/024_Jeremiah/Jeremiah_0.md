@@ -6,11 +6,13 @@ categories: null
 series:
 tags: 
 description: 
-draft: false
-date: "2022-04-19"
-lastmod: "2022-04-26"
+draft: true
+date: "2025"
+lastmod: "2025"
 toc: true
 ---
+
+change the draft status from `true` to `false`.
 
 <!--more-->
 
@@ -27,11 +29,11 @@ toc: true
 </div>
 
 
-<div id="chinese" class="tabcontent" style="display:block">
+<div id="chinese" class="tabcontent">
 
 </div>
 
 
-<div id="verse1" class="tabcontent" style="display:block">
+<div id="verse1" class="tabcontent">
 
 </div>

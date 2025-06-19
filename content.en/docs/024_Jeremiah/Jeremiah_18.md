@@ -54,7 +54,7 @@ toc: true
 </div>
 
 
-<div id="chinese" class="tabcontent" style="display:block">
+<div id="chinese" class="tabcontent“>
 
 18:1 耶和华的话临到耶利米说、  
 18:2 你起来、下到窑匠的家里去、我在那里要使你听我的话。  
@@ -86,7 +86,7 @@ toc: true
 </div>
 
 
-<div id="verse1" class="tabcontent" style="display:block">
+<div id="verse1" class="tabcontent">
 
 能忍受多大磨练，就能承受多大成就  
 
