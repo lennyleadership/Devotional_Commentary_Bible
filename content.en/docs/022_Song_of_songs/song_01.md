@@ -33,9 +33,9 @@ toc: true
 1:3 Because of the savour of thy good ointments thy name is as ointment poured forth, therefore do the virgins love thee.
 
 1:4 <b>Draw</b> me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.<a id="1_ref" href = "#1">[1]</a> <label class="margin-toggle"></label><span class="marginnote">    Song of Solomon 1:4 : [Hos. 11:4; John 6:44; 12:32]  
-    Song of Solomon 1:4 : Ps. 119:32; See Phil. 3:12-14  
+    Song of Solomon 1:4 : [Ps. 119:32; See Phil. 3:12-14]  
     Song of Solomon 1:4 : Ps. 45:14, 15; [ch. 2:4; John 14:2; Eph. 2:6]  
-    Song of Solomon 1:4 : Ps. 9:2; 45:15  
+    Song of Solomon 1:4 : [Ps. 9:2; 45:15]  
     Song of Solomon 1:4 : [See ver. 2 above]; ch. 4:10  
 </span>
 
@@ -69,9 +69,8 @@ toc: true
 1:17 The beams of our house are cedar, and our rafters of fir.
 
 <p id="1">[1] 
-Some English Translations 
-Song of Solomon 1:4 CUVS  
-愿 你 吸 引 我 ， 我 们 就 快 跑 跟 随 你 。 王 带 我 进 了 内 室 ， 我 们 必 因 你 欢 喜 快 乐 。 我 们 要 称 赞 你 的 爱 情 ， 胜 似 称 赞 美 酒 。 他 们 爱 你 是 理 所 当 然 的 。
+
+Some English Translations  
 
 Song of Solomon 1:4 LSB  
 “Draw me after you and let us run together! The king has brought me into his chambers.” “We will rejoice in you and be glad; We will extol your love more than wine. Rightly do they love you.”
