@@ -13,7 +13,6 @@ toc: true
 ---
 
 <!--more-->
----
 
 <!-- Tab links -->
 
@@ -102,7 +101,7 @@ toc: true
 
 <div id="meditation" class="tabcontent">
 102:1 Hear my prayer, O LORD, and let my cry come unto thee.  
-<p style = "font-size: .8rem; color: "#bcbcbc"; font-style: italic">This is Jesus' prayer</p>  
+<p class = "overline">This is Jesus' prayer.</p>  
 102:2 Hide not thy face from me in the day when I am in trouble; incline thine ear unto me: in the day when I call answer me speedily.  
 102:3 For my days are consumed like smoke, and my bones are burned as an hearth.  
 102:4 My heart is smitten, and withered like grass; so that I forget to eat my bread.  
