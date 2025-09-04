@@ -101,11 +101,13 @@ toc: true
 
 <div id="meditation" class="tabcontent">
 102:1 Hear my prayer, O LORD, and let my cry come unto thee.  
-<p class = "note">Matthew 26:39,42,44 CUVS
+<p class = "note">Matthew 26:39,42,44 CUVS  
 [39] 他 就 稍 往 前 走 ， 俯 伏 在 地 ， 祷 告 说 ： 我 父 阿 ， 倘 若 可 行 ， 求 你 叫 这 杯 离 开 我 。 然 而 ， 不 要 照 我 的 意 思 ， 只 要 照 你 的 意 思 。   
-[42] 第 二 次 又 去 祷 告 说 ： 我 父 阿 ， 这 杯 若 不 能 离 开 我 ， 必 要 我 喝 ， 就 愿 你 的 意 旨 成 全 。   
-[44] 耶 稣 又 离 开 他 们 去 了 。 第 三 次 祷 告 ， 说 的 话 还 是 与 先 前 一 样 。
 
+[42] 第 二 次 又 去 祷 告 说 ： 我 父 阿 ， 这 杯 若 不 能 离 开 我 ， 必 要 我 喝 ， 就 愿 你 的 意 旨 成 全 。   
+
+[44] 耶 稣 又 离 开 他 们 去 了 。 第 三 次 祷 告 ， 说 的 话 还 是 与 先 前 一 样 。
+<br>
 Matthew 26:39,42,44 LSB  
 [39] And He went a little beyond them, and fell on His face and prayed, saying, “My Father, if it is possible, let this cup pass from Me; yet not as I will, but as You will.”   
 [42] He went away again a second time and prayed, saying, “My Father, if this cannot pass away unless I drink it, Your will be done.”   
