@@ -101,11 +101,16 @@ toc: true
 
 <div id="meditation" class="tabcontent">
 102:1 Hear my prayer, O LORD, and let my cry come unto thee.  
-<p class = "note">Matthew 26:38 CUVS  
-便 对 他 们 说 ： 我 心 里 甚 是 忧 伤 ， 几 乎 要 死 ； 你 们 在 这 里 等 候 ， 和 我 一 同 儆 醒 。
+<p class = "note">Matthew 26:39,42,44 CUVS
+[39] 他 就 稍 往 前 走 ， 俯 伏 在 地 ， 祷 告 说 ： 我 父 阿 ， 倘 若 可 行 ， 求 你 叫 这 杯 离 开 我 。 然 而 ， 不 要 照 我 的 意 思 ， 只 要 照 你 的 意 思 。   
+[42] 第 二 次 又 去 祷 告 说 ： 我 父 阿 ， 这 杯 若 不 能 离 开 我 ， 必 要 我 喝 ， 就 愿 你 的 意 旨 成 全 。   
+[44] 耶 稣 又 离 开 他 们 去 了 。 第 三 次 祷 告 ， 说 的 话 还 是 与 先 前 一 样 。
 
-Matthew 26:38 LSB  
-Then He said to them, “My soul is deeply grieved, to the point of death; remain here and keep watch with Me.”</p>    
+Matthew 26:39,42,44 LSB  
+[39] And He went a little beyond them, and fell on His face and prayed, saying, “My Father, if it is possible, let this cup pass from Me; yet not as I will, but as You will.”   
+[42] He went away again a second time and prayed, saying, “My Father, if this cannot pass away unless I drink it, Your will be done.”   
+[44] And He left them again, and went away and prayed a third time, saying the same thing once more.
+</p>    
 
 102:2 Hide not thy face from me in the day when I am in trouble; incline thine ear unto me: in the day when I call answer me speedily.   
 102:3 For my days are consumed like smoke, and my bones are burned as an hearth.    
