@@ -120,11 +120,9 @@ Matthew 26:39,42,44 LSB
 </div>
 
 <div class = "note">
-路加 22:43-44 CUVS   
-
-
-<p>[43] 有 一 位 天 使 从 天 上 显 现 ， 加 添 他 的 力 量 。</p>   
-<p>[44] 耶 稣 极 其 伤 痛 ， 祷 告 更 加 恳 切 ， 汗 珠 如 大 血 点 滴 在 地 上 。</p>
+路加 22:43-44 和合本     
+[43] 有 一 位 天 使 从 天 上 显 现 ， 加 添 他 的 力 量 。  
+[44] 耶 稣 极 其 伤 痛 ， 祷 告 更 加 恳 切 ， 汗 珠 如 大 血 点 滴 在 地 上 。  
 
 Luke 22:43-44 LSB  
 [43] Now an angel from heaven appeared to Him, strengthening Him.   
