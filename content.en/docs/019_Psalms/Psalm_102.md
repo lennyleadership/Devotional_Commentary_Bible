@@ -113,7 +113,9 @@ Matthew 26:39,42,44 LSB
 [39] And He went a little beyond them, and fell on His face and prayed, saying, “My Father, if it is possible, let this cup pass from Me; yet not as I will, but as You will.”    
 [42] He went away again a second time and prayed, saying, “My Father, if this cannot pass away unless I drink it, Your will be done.”    
 [44] And He left them again, and went away and prayed a third time, saying the same thing once more.  
+</div>
 
+<div class = "note">
 路加 22:43-44 CUVS   
 [43] 有 一 位 天 使 从 天 上 显 现 ， 加 添 他 的 力 量 。   
 [44] 耶 稣 极 其 伤 痛 ， 祷 告 更 加 恳 切 ， 汗 珠 如 大 血 点 滴 在 地 上 。
