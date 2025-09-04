@@ -103,6 +103,7 @@ toc: true
 
 102:1 Hear my prayer, O LORD, and let my cry come unto thee.  
 <div class = "note">
+
 太 26:39, 42, 44 CUVS   
 [39] 他 就 稍 往 前 走 ， 俯 伏 在 地 ， 祷 告 说 ： 我 父 阿 ， 倘 若 可 行 ， 求 你 叫 这 杯 离 开 我 。 然 而 ， 不 要 照 我 的 意 思 ， 只 要 照 你 的 意 思 。     
 [42] 第 二 次 又 去 祷 告 说 ： 我 父 阿 ， 这 杯 若 不 能 离 开 我 ， 必 要 我 喝 ， 就 愿 你 的 意 旨 成 全 。    
@@ -115,9 +116,6 @@ Matthew 26:39,42,44 LSB
 [42] He went away again a second time and prayed, saying, “My Father, if this cannot pass away unless I drink it, Your will be done.”    
 [44] And He left them again, and went away and prayed a third time, saying the same thing once more.  
 
-</div>
-
-<div class = "note">
 
 路 22:43-44 和合本     
 [43] 有 一 位 天 使 从 天 上 显 现 ， 加 添 他 的 力 量 。  
