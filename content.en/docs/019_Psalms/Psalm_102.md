@@ -101,7 +101,12 @@ toc: true
 
 <div id="meditation" class="tabcontent">
 102:1 Hear my prayer, O LORD, and let my cry come unto thee.  
-<p class = "note">注：</p>    
+<p class = "note">Matthew 26:38 CUVS  
+便 对 他 们 说 ： 我 心 里 甚 是 忧 伤 ， 几 乎 要 死 ； 你 们 在 这 里 等 候 ， 和 我 一 同 儆 醒 。
+
+Matthew 26:38 LSB  
+Then He said to them, “My soul is deeply grieved, to the point of death; remain here and keep watch with Me.”</p>    
+
 102:2 Hide not thy face from me in the day when I am in trouble; incline thine ear unto me: in the day when I call answer me speedily.   
 102:3 For my days are consumed like smoke, and my bones are burned as an hearth.    
 102:4 My heart is smitten, and withered like grass; so that I forget to eat my bread.   
