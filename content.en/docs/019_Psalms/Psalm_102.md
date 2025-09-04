@@ -130,6 +130,7 @@ Luke 22:43-44 LSB
 门徒约翰虽然没有记载耶稣在克西马尼园的祷告内容，但记载了一段耶稣平时的祷告内容，说明这个祷词时时萦绕在耶稣的心头。  
 John 12:27 CUVS  
 [27] 我 现 在 心 里 忧 愁 ， 我 说 甚 麽 才 好 呢 ？ 父 阿 ， 救 我 脱 离 这 时 候 ； 但 我 原 是 为 这 时 候 来 的 。  
+[44] 耶 稣 极 其 伤 痛 ， 祷 告 更 加 恳 切 ， 汗 珠 如 大 血 点 滴 在 地 上 。    
 John 12:27 LSB  
 [27] “Now MY SOUL HAS BECOME DISMAYED; and what shall I say, ‘Father, SAVE ME from this hour’? But for this purpose I came to this hour.
 </div>    
