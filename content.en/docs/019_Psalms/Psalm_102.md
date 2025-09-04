@@ -102,8 +102,7 @@ toc: true
 <div id="meditation" class="tabcontent">
 102:1 Hear my prayer, O LORD, and let my cry come unto thee.  
 
-<div class = "note">太 26:39,42,44 CUVS   
-
+<div class = "note">Matthew 26:39,42,44 CUVS   
 [39] 他 就 稍 往 前 走 ， 俯 伏 在 地 ， 祷 告 说 ： 我 父 阿 ， 倘 若 可 行 ， 求 你 叫 这 杯 离 开 我 。 然 而 ， 不 要 照 我 的 意 思 ， 只 要 照 你 的 意 思 。     
 [42] 第 二 次 又 去 祷 告 说 ： 我 父 阿 ， 这 杯 若 不 能 离 开 我 ， 必 要 我 喝 ， 就 愿 你 的 意 旨 成 全 。    
 [44] 耶 稣 又 离 开 他 们 去 了 。 第 三 次 祷 告 ， 说 的 话 还 是 与 先 前 一 样 。     
@@ -118,8 +117,7 @@ Matthew 26:39,42,44 LSB
 </div>
 
 <div class = "note">
-路加 22:43-44 和合本     
-
+Luke 22:43-44 和合本     
 [43] 有 一 位 天 使 从 天 上 显 现 ， 加 添 他 的 力 量 。  
 [44] 耶 稣 极 其 伤 痛 ， 祷 告 更 加 恳 切 ， 汗 珠 如 大 血 点 滴 在 地 上 。  
 
@@ -130,7 +128,6 @@ Luke 22:43-44 LSB
 门徒约翰虽然没有记载耶稣在克西马尼园的祷告内容，但记载了一段耶稣平时的祷告内容，说明这个祷词时时萦绕在耶稣的心头。  
 John 12:27 CUVS  
 [27] 我 现 在 心 里 忧 愁 ， 我 说 甚 麽 才 好 呢 ？ 父 阿 ， 救 我 脱 离 这 时 候 ； 但 我 原 是 为 这 时 候 来 的 。  
-[44] 耶 稣 极 其 伤 痛 ， 祷 告 更 加 恳 切 ， 汗 珠 如 大 血 点 滴 在 地 上 。    
 John 12:27 LSB  
 [27] “Now MY SOUL HAS BECOME DISMAYED; and what shall I say, ‘Father, SAVE ME from this hour’? But for this purpose I came to this hour.
 </div>    
