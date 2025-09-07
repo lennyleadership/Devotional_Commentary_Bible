@@ -19,6 +19,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'commentary')">解经</button>
   <button class="tablinks" onclick="tablabel(event, 'meditation')">灵修</button>
 </div>
 
@@ -99,7 +100,7 @@ toc: true
 102:28 你仆人的子孙要长存。他们的后裔、要坚立在你面前。  
 </div>
 
-<div id="meditation" class="tabcontent">
+<div id="commentary" class="tabcontent">
 
 102:1 Hear my prayer, O LORD, and let my cry come unto thee.  
 <div class = "note">
@@ -109,12 +110,13 @@ toc: true
 [42] 第 二 次 又 去 祷 告 说 ： 我 父 阿 ， 这 杯 若 不 能 离 开 我 ， 必 要 我 喝 ， 就 愿 你 的 意 旨 成 全 。    
 [44] 耶 稣 又 离 开 他 们 去 了 。 第 三 次 祷 告 ， 说 的 话 还 是 与 先 前 一 样 。     
 
-马克福音里关于祷告内容的记载雷同。   
 
 Matthew 26:39,42,44 LSB   
 [39] And He went a little beyond them, and fell on His face and prayed, saying, “My Father, if it is possible, let this cup pass from Me; yet not as I will, but as You will.”    
 [42] He went away again a second time and prayed, saying, “My Father, if this cannot pass away unless I drink it, Your will be done.”    
 [44] And He left them again, and went away and prayed a third time, saying the same thing once more.  
+
+马可福音里关于祷告内容的记载雷同。   
 
 
 路 22:43-44 和合本     
@@ -125,7 +127,7 @@ Luke 22:43-44 LSB
 [43] Now an angel from heaven appeared to Him, strengthening Him.   
 [44] And being in agony He was praying very fervently, and His sweat became like drops of blood, falling down upon the ground.
 
-门徒约翰虽然没有记载耶稣在克西马尼园的祷告内容，但记载了一段耶稣平时的祷告内容，说明这个祷词时时萦绕在耶稣的心头。  
+门徒约翰虽然没有记载耶稣在客西马尼园的祷告内容，但记载了一段耶稣平时的祷告内容，说明这个祷词时时萦绕在耶稣的心头。  
 John 12:27 CUVS  
 [27] 我 现 在 心 里 忧 愁 ， 我 说 甚 麽 才 好 呢 ？ 父 阿 ， 救 我 脱 离 这 时 候 ； 但 我 原 是 为 这 时 候 来 的 。  
 John 12:27 LSB  
@@ -164,4 +166,23 @@ John 12:27 LSB
 102:26 They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:  
 102:27 But thou art the same, and thy years shall have no end.  
 102:28 The children of thy servants shall continue, and their seed shall be established before thee.  
+
+
+这诗独特的题词指出它是给受苦的圣徒独自默想用的，其中有些思想使人想起诗篇22篇、69篇和79篇的内容。这首诗还与以赛亚书40至66章中的一些语句相似。  
+25至27节在希伯来书1章10至12节里被应用在基督身上。诗人在这几节经文里是向着耶和华说的，而希伯来书的作者却认定耶稣基督就是永恒的那一位，是世界的创造主和维持者。这有力地肯定了耶稣基督的神性。  
+[source: https://www.yanjinggongju.com/article/M2902#:~:text=%E8%AF%97%E7%AF%87102%20*%20%EF%BC%88%E5%9B%B0%E8%8B%A6%E4%BA%BA%E5%8F%91%E6%98%8F%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E5%9C%A8%E8%80%B6%E5%92%8C%E5%8D%8E%E9%9D%A2%E5%89%8D%E5%90%90%E9%9C%B2%E8%8B%A6%E6%83%85%E7%9A%84%E7%A5%B7%E5%91%8A%E3%80%82%EF%BC%89%20*%201%E8%80%B6%E5%92%8C%E5%8D%8E%E5%95%8A%EF%BC%8C%E6%B1%82%E4%BD%A0%E5%90%AC%E6%88%91%E7%9A%84%E7%A5%B7%E5%91%8A%EF%BC%8C%E5%AE%B9%E6%88%91%E7%9A%84%E5%91%BC%E6%B1%82%E8%BE%BE%E5%88%B0%E4%BD%A0%E9%9D%A2%E5%89%8D%EF%BC%81%20*%202%E6%88%91%E5%9C%A8%E6%80%A5%E9%9A%BE%E7%9A%84%E6%97%A5%E5%AD%90%EF%BC%8C%E6%B1%82%E4%BD%A0%E5%90%91%E6%88%91%E4%BE%A7%E8%80%B3%EF%BC%9B%E4%B8%8D%E8%A6%81%E5%90%91%E6%88%91%E6%8E%A9%E9%9D%A2%EF%BC%81&text=*%203%E5%9B%A0%E4%B8%BA%EF%BC%8C%E6%88%91%E7%9A%84%E5%B9%B4%E6%97%A5%E5%A6%82%E7%83%9F%E4%BA%91%E6%B6%88%E7%81%AD%EF%BC%9B%E6%88%91%E7%9A%84%E9%AA%A8%E5%A4%B4%E5%A6%82%E7%81%AB%E6%8A%8A%E7%83%A7%E7%9D%80%E3%80%82%20*%204%E6%88%91%E7%9A%84%E5%BF%83%E8%A2%AB%E4%BC%A4%EF%BC%8C%E5%A6%82%E8%8D%89%E6%9E%AF%E5%B9%B2%EF%BC%8C%E7%94%9A%E8%87%B3%E6%88%91%E5%BF%98%E8%AE%B0%E5%90%83%E9%A5%AD%E3%80%82%20*%205%E5%9B%A0%E6%88%91%E5%94%89%E5%93%BC%E7%9A%84%E5%A3%B0%E9%9F%B3%EF%BC%8C%E6%88%91%E7%9A%84%E8%82%89%E7%B4%A7%E8%B4%B4%E9%AA%A8%E5%A4%B4%E3%80%82%20*,21%E4%BD%BF%E4%BA%BA%E5%9C%A8%E9%94%A1%E5%AE%89%E4%BC%A0%E6%89%AC%E8%80%B6%E5%92%8C%E5%8D%8E%E7%9A%84%E5%90%8D%EF%BC%8C%E5%9C%A8%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%E4%BC%A0%E6%89%AC%E8%B5%9E%E7%BE%8E%E4%BB%96%E7%9A%84%E8%AF%9D%EF%BC%8C%20*%2022%E5%B0%B1%E6%98%AF%E5%9C%A8%E4%B8%87%E6%B0%91%E5%92%8C%E5%88%97%E5%9B%BD%E8%81%9A%E4%BC%9A%E4%BA%8B%E5%A5%89%E8%80%B6%E5%92%8C%E5%8D%8E%E7%9A%84%E6%97%B6%E5%80%99%E3%80%82%20*%2023%E4%BB%96%E4%BD%BF%E6%88%91%E7%9A%84%E5%8A%9B%E9%87%8F%E4%B8%AD%E9%81%93%E8%A1%B0%E5%BC%B1%EF%BC%8C%E4%BD%BF%E6%88%91%E7%9A%84%E5%B9%B4%E6%97%A5%E7%9F%AD%E5%B0%91%E3%80%82%20*%2024%E6%88%91%E8%AF%B4%EF%BC%9A%E6%88%91%E7%9A%84%E7%A5%9E%E5%95%8A%EF%BC%8C%E4%B8%8D%E8%A6%81%E4%BD%BF%E6%88%91%E4%B8%AD%E5%B9%B4%E5%8E%BB%E4%B8%96%E3%80%82]
+</div>
+
+<div id="meditation" class="tabcontent">
+
+prayers in Gethsemane
+
+My soul is very sorrowful, even to death. [Mat 26:38]
+agony [an intense and often prolonged state of mental or physical suffering]
+
+耶稣不为自己伸冤，
+
+Jesus only responded to Pilate when he asked Jesus, “Are you the King of the Jews?” Jesus said, “You have said so.” Other than that Jesus gave no answer to anybody. [Mat 27:11]
+
+耶稣在十字架上说了七句话。
 </div>
