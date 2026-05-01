@@ -18,7 +18,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  
+  <button class="tablinks" onclick="tablabel(event, 'commentary')">Journal</button> 
 </div>
 
 <!-- Tab content -->
@@ -84,4 +84,9 @@ toc: true
 
 </div>
 
+<div id="commentary" class="tabcontent">
+Commentary on <b>Exodus 3:16</b>  
+The LORD<b>H3068</b> God<b>H430</b> of your fathers
 
+
+</div>

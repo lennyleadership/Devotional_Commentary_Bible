@@ -23,6 +23,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'commentary')">Journal</button> 
 </div>
 
 <!-- Tab content -->
@@ -32,6 +33,10 @@ toc: true
 </div>
 
 <div id="chinese" class="tabcontent">
+
+</div>
+
+<div id="commentary" class="tabcontent">
 创世记 50:24-26 和合本   
 24 约瑟对他弟兄们说：“我要死了，但　神必定看顾你们，领你们从这地上去，到他起誓所应许给亚伯拉罕、以撒、雅各之地。”  
 25 约瑟叫以色列的子孙起誓说：“　神必定看顾你们；你们要把我的骸骨从这里搬上去。”  
@@ -42,6 +47,9 @@ toc: true
 
 约书亚记 24:32 和合本  
 32 以色列人从埃及所带来约瑟的骸骨，葬埋在示剑，就是在雅各从前用一百块银子向示剑的父亲、哈抹的子孙所买的那块地里；这就作了约瑟子孙的产业。
+
+希伯来书 11:22 和合本  
+22 约瑟因着信，临终的时候，提到以色列族将来要出埃及，并为自己的骸骨留下遗命。
 
 <b>約瑟骸骨在曠野40年中如何保存</b>  
 
@@ -81,5 +89,10 @@ toc: true
 
 一句话概括  
 约瑟不是耶稣本人，但他以“受苦—被高举—拯救众人—留下记号”的轨迹，很像基督的影子 。
+
+<b>约瑟的信心</b>  
+约瑟的信心不主要表现在“壮烈宣言”，而是在长期苦难、升高、富足之后仍然不忘神的应许 。他相信神没有忘记以色列，甚至把自己的骸骨也交托给那应许，这是一种很具体、很持久的信心表现 。  
+
+约瑟的信心类型和亚伯拉罕、摩西不同，他的信心更体现在忠心、忍耐、饶恕和对神应许的坚持 。
 
 </div>
