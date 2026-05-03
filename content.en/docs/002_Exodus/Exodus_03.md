@@ -151,5 +151,9 @@ Visits are costly. They require time which is quite the commodity in our Amazon 
 
 May the Lord visit with you today. And may his visit with you change the way you visit with those all around you!
 
+# H6490 (the root is H6485) <a href = "https://www.chaimbentorah.com/2021/04/hebrew-word-study-visitation/" target="_blank" rel="noopener noreferrer">HEBREW WORD STUDY – VISITATION – PAQAD פקד   Pei Qop Daleth</a> 
+You see that mountain top we were dancing on was named Chiithani.  Chiithani is rendered in Psalms 119:93 as quickened me.  It more modern terms it means to experience life.  But this is in a Piel intensive form thus it means to experience life abundantly, to its fullest.   David is saying that he will never forget the Pakad or the visitation of God to bring him instructions for it is those instructions in life that cause him to experience life to its fullest. However, if he were to ignore or forget any of the instructions that God gives us during His visitation, we will fall off that cliff into despair and depression.
+
+I believe what Psalms 119:93 is instructing us to do is to cling to the memory of those visitations or Pakad we have with God where He whispers his will, desires, and purpose to us.  
 
 </div>
