@@ -87,7 +87,7 @@ toc: true
 <div id="commentary" class="tabcontent">
 Commentary on <b>Exodus 3:16</b>  
 
-
+# 摩西
 出埃及记 2:14-15 和合本  
 14 那人说：“谁立你作我们的首领和审判官呢？难道你要杀我，像杀那埃及人吗？”摩西便惧怕，说：“这事必是被人知道了。”  
 15 法老听见这事，就想杀摩西，但摩西躲避法老，逃往米甸地居住。
@@ -96,14 +96,60 @@ Commentary on <b>Exodus 3:16</b>
 23 “他将到四十岁，心中起意去看望他的弟兄以色列人；......  
 27 那欺负邻舍的把他推开，说：‘谁立你作我们的首领和审判官呢？  
 28 难道你要杀我，像昨天杀那埃及人吗？’  
-29 摩西听见这话就逃走了，寄居于米甸；在那里生了两个儿子。
+29 摩西听见这话就<b>逃走</b>了，寄居于米甸；在那里生了两个儿子。
 
 希伯来书 11:24-27 和合本  
 24 摩西因着信，长大了就不肯称为法老女儿之子。  
 25 他宁可和　神的百姓同受苦害，也不愿暂时享受罪中之乐。  
 26 他看为基督受的凌辱比埃及的财物更宝贵，因他想望所要得的赏赐。  
-27 他因着信，就离开埃及，不怕王怒；因为他<b>恒心忍耐</b>，如同看见那不能看见的主。
+27 他因着信，就<b>离开</b>埃及，不怕王怒；因为他<b>恒心忍耐</b>，如同看见那不能看见的主。
 
-
+# 亚伯拉罕、以撒、雅各的神
 The LORD<b>H3068</b> God<b>H430</b> of your fathers
+
+# H6485 <a href = "https://www.wechoosewelcome.com/stories/the-power-of-a-visit" target="_blank" rel="noopener noreferrer">WeChooseWelcome | The Power of a Visit</a>
+
+"In a world of movement, where is God?"
+
+My American-ness shows in my typical approach to visits: clear purpose, clear timeline, clear boundaries. But God has been teaching me so much through the Afghan approach to visiting. And, come to find out, the concept of God visiting his people is laced throughout the entirety of the Scriptures. 
+
+The Hebrew word pâqad, often translated as visit, shows up consistently throughout the Torah,  speaking of God and his desire to visit with his people. 
+
+In Psalm 8, the writer exclaims, “What is man that you are mindful of him and the son of man that you care for him?” A more literal translation here would be, “What is the  son of man that you would visit him?” (Psalm 8:4). 
+
+In Genesis 21, when God fulfilled his long-in-coming promise to Sarah for a child, the writer records, “The Lord visited Sarah as he had said, and the Lord did to Sarah as he had promised (Genesis 21:1). 
+
+Before Joseph dies, as he looks back over his painful and eventful life, he leaves his brothers with the promise, “I am about to die, but God will visit you and bring you up out of this land to the land that he swore to Abraham, to Isaac, and to Jacob…God will surely visit you” (Genesis 50:24 & 25). 
+
+The Hebrew word paqad, often translated as visit, shows up consistently throughout the Torah,  speaking of God and his desire to visit with his people. 
+
+In Psalm 8, the writer exclaims, “What is man that you are mindful of him and the son of man that you care for him?” A more literal translation here would be, “What is the  son of man that you would visit him?” (Psalm 8:4). 
+
+In Genesis 21, when God fulfilled his long-in-coming promise to Sarah for a child, the writer records, “The Lord visited Sarah as he had said, and the Lord did to Sarah as he had promised (Genesis 21:1). 
+
+Before Joseph dies, as he looks back over his painful and eventful life, he leaves his brothers with the promise, “I am about to die, but God will visit you and bring you up out of this land to the land that he swore to Abraham, to Isaac, and to Jacob…God will surely visit you” (Genesis 50:24 & 25). 
+
+When God comes to Moses to appoint him to lead his people out of slavery (in fulfillment of the  aforementioned promise), he uses the same visiting language. God tells him, “Go and gather the elders of Israel together and say to them, ‘The  Lord, the God of your fathers…has appeared to me saying, “I have observed you and what has been done to you in Egypt, and I promise I will bring you up out of the affliction of Egypt”.'” (Exodus 3:16-17). The word observed is once again pagad: “to visit.”
+
+Soon after, when Moses had obeyed, the writer of Genesis records, “And the people believed, and when they heard that the Lord had visited the people of Israel and that he had seen their affliction, they bowed their heads and worshipped” (Genesis 4:31). 
+
+The appropriate response to the realization that the God who made the universe would visit us is to bow our heads and worship. 
+
+Christ’s Visit with Us
+
+All these hints at a God who longs to visit his people culminate in the person of Christ who visited his people quite literally by tabernacling among them as a person. He visited with his creation for 33 years. While he visited the earth, he made it a habit to visit with people: to meet them where they were and invite them into relationship with him. 
+
+One particular instance brings this concept home, and it is only recorded by Luke, who seemed to have a particular heart for the outcast and the sinner. In the story of Zaccheus, we see God’s desire to visit his people showcased in all of its stunning and shocking beauty. 
+
+Zaccheus was a Jew who worked on the inside with the Roman powers who were occupying Israel. He lined his pockets while his own people starved. As such, he was not often welcomed or celebrated. His wealth did not change his diminutive physical stature, so he climbed a tree to see what was going on with this Jesus fella. You likely know the story (Luke 19:1-9). 
+
+Jesus sees him, names him, and invites himself over to his house in a gesture that would have shocked both Jew and Roman alike. As if the invitation itself were not enough, the timing of the visit underscores the nature of our God. This encounter took place in the last week of Jesus’s life. He had set his face like flint toward Jerusalem. To say he had a bit on his mind would be the understatement of the century. However, he made time for a visit with a notorious sinner. 
+
+An Open Invitation 
+
+Visits are costly. They require time which is quite the commodity in our Amazon age. They require proximity and presence in an age where we can far more easily send a package that will arrive in an hour or two. They require flexibility and response. When I think of the reality of God himself wanting to visit with me daily, I am blown away. Yet, God freely and continually offers the gift of his presence (Hebrews 4:14-16). Even though he maintains the universe and upholds matter, he still wants to hear about the details of my day. Such a reality leaves my  mouth echoing the psalmist, saying, “What is man that you are mindful of him?”
+
+May the Lord visit with you today. And may his visit with you change the way you visit with those all around you!
+
+
 </div>
