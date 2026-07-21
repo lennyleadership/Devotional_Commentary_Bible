@@ -118,15 +118,16 @@ Quiz #3 Paul says in Colossians 2:9 that all the fullness of deity dwells in Chr
 歌羅西書 2:9 說「神本性一切的豐盛都有形有體地居住在基督裡面」。這句話主要強調什麼？
 
 A They should depend mainly on teachings and traditions of church to become holy.  
-&nbsp; &nbsp;  基督徒要成为圣洁，就要持守教会的教导和约定俗成的做法。
+&emsp;  基督徒要成为圣洁，就要持守教会的教导和约定俗成的做法。
 
-B They must practice mystical experiences to Christ to reach a higher spiritual level.  
+B They must practice miraculous vision and dream to Christ to reach a higher spiritual level.  
+&emsp;  基督徒要寻求在异象、异梦中经历耶稣
 
+C They must find other spiritual mediators, such as church elders or pastors, to approach God.  
+&emsp;  基督徒要靠着教会的长老、牧师才能经历上帝
 
-C They must find other spiritual mediators, such as church elders or pastors, to approach God.
-
-D They already have complete access to God’s fullness through union with Christ.
-
+D They already have complete access to God’s fullness through union with Christ.  
+&emsp;  基督徒要通过与耶稣的合一，才能拥有来自上帝的丰盛。
 
 
 Quiz #4 Paul describes believers in Colossians 2:11–12 as having undergone a kind of spiritual circumcision and burial with Christ in baptism. What does this imagery mainly communicate about life in union with Christ?
