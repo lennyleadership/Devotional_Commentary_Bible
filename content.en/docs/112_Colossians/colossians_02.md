@@ -7,20 +7,20 @@ tags: []
 description: 
 draft: false
 date: "2023-06-04"
-lastmod: "2023-06-04"
+lastmod: "2026-07-20"
 series:
 toc: true
 ---
 
 
 <!--more-->
----
+
 
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  
+  <button class="tablinks" onclick="tablabel(event, 'quiz')">Quiz 问题</button>  
 </div>
 
 <!-- Tab content -->
@@ -81,5 +81,24 @@ toc: true
 2:21 见上节
 2:22 这都是照人所吩咐所教导的。说到这一切、正用的时候就都败坏了。  
 2:23 这些规条、使人徒有智慧之名、用私意崇拜、自表谦卑、苦待己身、其实在克制肉体的情欲上、是毫无功效。  
+
+</div>
+
+<div id="quiz" class="tabcontent">
+
+Quiz #1 Paul says in Colossians 2:9 that all the fullness of deity dwells in Christ in bodily form. What is one key implication of this truth for believers seeking spiritual maturity?
+
+<ol>
+<li>&nbsp; A They should depend mainly on religious rules and traditions to become holy.
+</li>
+<li>&nbsp; B They must add mystical experiences to Christ to reach a higher spiritual level.
+</li>
+<li>&nbsp; C They must find other spiritual mediators, such as angels, to approach God.
+</li>
+<li>&nbsp; D They already have complete access to God’s fullness through union with Christ.
+</li>
+</ol>
+
+
 
 </div>
