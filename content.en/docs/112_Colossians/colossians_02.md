@@ -101,7 +101,7 @@ C Spiritual growth requires discovering secret spiritual knowledge beyond the go
 D Spiritual growth depends on a stable, ongoing relationship with Christ as the source of life.   
   属灵生命要连于耶稣基督
 
-
+---
 Quiz #2 Colossians 2:8 warns believers not to be taken captive through "philosophy and empty deceit" according to human tradition. What is Paul’s main concern about such teaching?
 
 A It teaches that believers should stop asking questions and simply obey leaders.
@@ -113,16 +113,21 @@ C It shifts trust away from Christ to human ideas that seem wise but lack real s
 D It completely rejects any use of the mind or thinking in the Christian life.
 
 
+---
+Quiz #3 Paul says in Colossians 2:9 that all the fullness of deity dwells in Christ in bodily form. What is one key implication of this truth for believers seeking spiritual maturity?   
+歌羅西書 2:9 說「神本性一切的豐盛都有形有體地居住在基督裡面」。這句話主要強調什麼？
 
-Quiz #3 Paul says in Colossians 2:9 that all the fullness of deity dwells in Christ in bodily form. What is one key implication of this truth for believers seeking spiritual maturity?
+A They should depend mainly on teachings and traditions of church to become holy.  
+  基督徒要成为圣洁，就要持守教会的教导和约定俗成的做法。
 
-A They should depend mainly on teachings and traditions of church to become holy.
+B They must practice mystical experiences to Christ to reach a higher spiritual level.  
 
-B They must practice mystical experiences to Christ to reach a higher spiritual level.
 
 C They must find other spiritual mediators, such as church elders or pastors, to approach God.
 
 D They already have complete access to God’s fullness through union with Christ.
+
+
 
 Quiz #4 Paul describes believers in Colossians 2:11–12 as having undergone a kind of spiritual circumcision and burial with Christ in baptism. What does this imagery mainly communicate about life in union with Christ?
 
