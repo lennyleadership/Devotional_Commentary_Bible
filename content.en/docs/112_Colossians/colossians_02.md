@@ -86,6 +86,122 @@ toc: true
 
 <div id="quiz" class="tabcontent">
 
+Quiz: In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situation best illustrates what it means to be "rooted" in Christ in everyday life?   
+&emsp;  西二7中提到基督徒仿佛在耶稣里生根建造。以下哪一条比较贴切地
+
+A A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.  
+&emsp;  信徒时常读经、祷告，在做决定、或者做事情前时常寻求基督耶稣的话语
+
+B A believer avoids learning about other beliefs out of fear that questions might weaken faith.  
+&emsp;  
+
+C A church member changes beliefs whenever a popular speaker presents a new, persuasive idea.  
+
+D A Christian feels close to God only when attending large conferences with emotional worship.
+
+---
+Quiz: Colossians 2 emphasizes that believers have "fullness" in Christ. Which statement best captures what this fullness means for daily Christian identity?
+
+A Fullness is reserved only for a few very mature Christians, not for ordinary believers.  
+
+B Believers in Christ already have all they need to be accepted by God because Christ’s work is sufficient.  
+
+C Believers must add spiritual rituals to Christ’s work to become truly complete.  
+
+D Fullness in Christ means Christians will never struggle emotionally or face hardship.
+
+---
+Quiz: Paul describes believers as having been buried with Christ in baptism and raised with him through faith. Which choice best shows how this union in Christ’s death and resurrection should shape a believer’s view of sin?
+
+A Sin is handled mainly by trying harder through willpower and self-improvement strategies.
+
+B Believers are called to consider their old ways of life as dead and to walk in newness of life, relying on Christ’s power.
+
+C Sin is no longer serious because forgiveness has already been given.
+
+D Union with Christ’s death and resurrection is only a symbolic idea, with no impact on daily choices.
+
+---
+Quiz: Colossians 2 speaks of the "record of debt" with its legal demands being canceled and nailed to the cross. How should this truth most directly affect a believer who is overwhelmed by guilt over past sins?
+
+A They must wait until they have lived perfectly for a long time before believing they are truly forgiven.
+
+B They can rest in the fact that Christ has fully dealt with their guilt at the cross and respond with repentance and gratitude.
+
+C They should focus on punishing themselves emotionally to prove they are sorry enough.
+
+D They should ignore feelings of guilt entirely and assume that sin no longer matters.
+
+
+---
+Quiz: Colossians 2 warns against being taken captive by hollow and deceptive philosophy, which depends on human tradition rather than Christ. Which response best reflects wise discernment when encountering new spiritual teachings today?
+
+A Rely mainly on whether respected Christian influencers endorse the teaching, using their approval as the main test.
+
+B Immediately accept any teaching that sounds spiritual and positive, trusting that sincerity guarantees truth.
+
+C Measure new teachings against the character and work of Christ revealed in Scripture, accepting what aligns and rejecting what contradicts him.
+
+D Reject all teaching that uses thoughtful arguments or philosophy, assuming it is automatically dangerous.
+
+---
+Quiz: Paul confronts legalism in Colossians 2 by warning against being judged over dietary laws, festivals, and sabbaths. What is the most accurate way to apply this teaching to modern debates about religious rules?
+
+A Assume that spiritual maturity is mainly shown by strict adherence to detailed man-made rules.
+
+B Conclude that any moral instruction or command in Scripture is now irrelevant for Christians.
+
+C Decide that personal freedom means Christians never need to limit themselves for the sake of others’ consciences.
+
+D Recognize that ceremonial or culture-based regulations must not be treated as conditions for salvation, while still valuing obedience to Christ’s clear commands.
+
+---
+Quiz: In Colossians 2, Paul describes Christ as the head over every power and authority. How should this truth most influence a believer’s response to spiritual forces or fears about unseen powers?
+
+A Believers should focus mainly on identifying and naming every spiritual power so they can feel safe.
+
+B Believers should deny that any spiritual powers exist, assuming all references are purely symbolic.
+
+C Believers can trust that Christ’s victory and authority are greater than any spiritual power and live in confidence, seeking protection and guidance from him.
+
+D Believers must rely on elaborate rituals and formulas to manage spiritual forces effectively.
+
+---
+Quiz: Colossians 2 criticizes "self-imposed worship" and harsh treatment of the body that lack value in restraining sensual indulgence. What key lesson does this teach about efforts toward personal holiness?
+
+A External disciplines, if not rooted in Christ, can appear impressive but fail to change the heart’s desires.
+
+B True holiness is mainly about following whatever religious rules a community values most.
+
+C Harsh self-denial and extreme religious practices automatically produce genuine holiness.
+
+D Seeking holiness is unnecessary since believers are already forgiven in Christ.
+
+---
+Quiz: Colossians 2 stresses being "built up" in Christ and strengthened in the faith. Which scenario best shows a healthy process of growing in this rooted, strengthened faith?
+
+A A believer isolates from other Christians, assuming that faith grows strongest when entirely alone.
+
+B A believer expects instant spiritual maturity without ongoing learning, community, or struggle.
+
+C A believer engages regularly with Scripture, prays, participates in a local church, and applies the gospel to both joys and hardships.
+
+D A believer bases growth mainly on chasing constant new spiritual experiences rather than steady practices.
+
+---
+Quiz: Considering Colossians 2 as a whole, which response best summarizes how a believer should live out a "new life in Christ" in practical terms?
+
+A Define spirituality by strict rule-keeping and suspicion of anyone who practices faith differently.
+
+B Center life on Christ’s sufficiency, grow in rooted faith, embrace union with his death and resurrection, receive forgiveness deeply, resist legalism, and use discernment against false teaching.
+
+C Focus mainly on avoiding suffering and seeking comfort, trusting that Christ’s role is to keep life easy.
+
+D Treat Christ mainly as an inspiring example, while relying primarily on personal effort and popular wisdom for guidance.
+
+
+---
+
 Quiz #1 In Colossians 2:6–7, Paul urges believers to continue to live their lives in Christ, "rooted and built up" in Him. What does being rooted in Christ primarily emphasize about spiritual growth?  
 保羅勸勉信徒「在祂裡面生根建造」（西 2:6–7）。「生根」主要指向什麼？
 
@@ -117,8 +233,8 @@ D It completely rejects any use of the mind or thinking in the Christian life.
 Quiz #3 Paul says in Colossians 2:9 that all the fullness of deity dwells in Christ in bodily form. What is one key implication of this truth for believers seeking spiritual maturity?   
 歌羅西書 2:9 說「神本性一切的豐盛都有形有體地居住在基督裡面」。這句話主要強調什麼？
 
-A They should depend mainly on teachings and traditions of church to become holy.  
-&emsp;  基督徒要成为圣洁，就要持守教会的教导和约定俗成的做法。
+A They should depend mainly on pastors' teachings and church traditions to become holy.  
+&emsp;  基督徒要成为圣洁，就要听牧师的教导和教会沿袭的传统。
 
 B They must practice miraculous vision and dream to Christ to reach a higher spiritual level.  
 &emsp;  基督徒要寻求在异象、异梦中经历耶稣
@@ -140,6 +256,7 @@ C Union with Christ means a deep, inner cutting away of the old self and entry i
 
 D Union with Christ is limited to external religious rituals without spiritual reality.
 
+---
 Quiz #5 In Colossians 2:14–15, Paul says that Christ canceled the record of debt and disarmed the rulers and authorities. How does this truth contribute to freedom from false teaching and spiritual fear?
 
 A It assures believers that their guilt is fully dealt with and hostile spiritual powers are defeated in Christ.
