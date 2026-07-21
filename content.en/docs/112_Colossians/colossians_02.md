@@ -90,16 +90,16 @@ Quiz #1 In Colossians 2:6–7, Paul urges believers to continue to live their li
 保羅勸勉信徒「在祂裡面生根建造」（西 2:6–7）。「生根」主要指向什麼？
 
 A Spiritual growth is mainly about outward church activities.  
-&nbsp;  属灵生命靠教会的活动得以成长。
+&nbsp; &nbsp; 属灵生命靠教会的活动得以成长。
 
 B Spiritual growth comes from strict adherence to culture influenced by Christianity or ethnic religious customs.    
-&nbsp;&nbsp;  属灵生命靠基督教传承下来的做法得以成长。
+&emsp;  属灵生命靠基督教传承下来的做法得以成长。
 
 C Spiritual growth requires discovering secret spiritual knowledge beyond the gospel.   
-&nbsp;&nbsp;&nbsp;  属灵生命不单靠福音成长，而且还要不断地认识属灵的奥秘。
+&ensp; 属灵生命不单靠福音成长，而且还要不断地认识属灵的奥秘。
 
 D Spiritual growth depends on a stable, ongoing relationship with Christ as the source of life.   
-&nbsp;&nbsp;&nbsp;&nbsp;  属灵生命要连于耶稣基督
+&nbsp; &nbsp; 属灵生命要连于耶稣基督
 
 ---
 Quiz #2 Colossians 2:8 warns believers not to be taken captive through "philosophy and empty deceit" according to human tradition. What is Paul’s main concern about such teaching?
@@ -118,7 +118,7 @@ Quiz #3 Paul says in Colossians 2:9 that all the fullness of deity dwells in Chr
 歌羅西書 2:9 說「神本性一切的豐盛都有形有體地居住在基督裡面」。這句話主要強調什麼？
 
 A They should depend mainly on teachings and traditions of church to become holy.  
-  基督徒要成为圣洁，就要持守教会的教导和约定俗成的做法。
+&nbsp; &nbsp;  基督徒要成为圣洁，就要持守教会的教导和约定俗成的做法。
 
 B They must practice mystical experiences to Christ to reach a higher spiritual level.  
 
