@@ -86,19 +86,57 @@ toc: true
 
 <div id="quiz" class="tabcontent">
 
-Quiz #1 Paul says in Colossians 2:9 that all the fullness of deity dwells in Christ in bodily form. What is one key implication of this truth for believers seeking spiritual maturity?
+Quiz #1 In Colossians 2:6–7, Paul urges believers to continue to live their lives in Christ, "rooted and built up" in Him. What does being rooted in Christ primarily emphasize about spiritual growth?
 
-<ol>
-<li>&nbsp; A They should depend mainly on religious rules and traditions to become holy.
-</li>
-<li>&nbsp; B They must add mystical experiences to Christ to reach a higher spiritual level.
-</li>
-<li>&nbsp; C They must find other spiritual mediators, such as angels, to approach God.
-</li>
-<li>&nbsp; D They already have complete access to God’s fullness through union with Christ.
-</li>
-</ol>
+A Spiritual growth is mainly about outward religious performance.
+
+B Spiritual growth comes from strict adherence to cultural or ethnic religious customs.
+
+C Spiritual growth requires discovering secret spiritual knowledge beyond the gospel.
+
+D Spiritual growth depends on a stable, ongoing relationship with Christ as the source of life.
 
 
+Quiz #2 Colossians 2:8 warns believers not to be taken captive through "philosophy and empty deceit" according to human tradition. What is Paul’s main concern about such teaching?
+
+A It teaches that believers should stop asking questions and simply obey leaders.
+
+B It only criticizes non-Christian religions, not distortions within the church.
+
+C It shifts trust away from Christ to human ideas that seem wise but lack real spiritual power.
+
+D It completely rejects any use of the mind or thinking in the Christian life.
+
+
+
+Quiz #3 Paul says in Colossians 2:9 that all the fullness of deity dwells in Christ in bodily form. What is one key implication of this truth for believers seeking spiritual maturity?
+
+A They should depend mainly on teachings and traditions of church to become holy.
+
+B They must practice mystical experiences to Christ to reach a higher spiritual level.
+
+C They must find other spiritual mediators, such as church elders or pastors, to approach God.
+
+D They already have complete access to God’s fullness through union with Christ.
+
+Quiz #4 Paul describes believers in Colossians 2:11–12 as having undergone a kind of spiritual circumcision and burial with Christ in baptism. What does this imagery mainly communicate about life in union with Christ?
+
+A Union with Christ only changes a person’s status before God, not their inner life.
+
+B Union with Christ guarantees a life free from suffering and struggle.
+
+C Union with Christ means a deep, inner cutting away of the old self and entry into new resurrection life.
+
+D Union with Christ is limited to external religious rituals without spiritual reality.
+
+Quiz #5 In Colossians 2:14–15, Paul says that Christ canceled the record of debt and disarmed the rulers and authorities. How does this truth contribute to freedom from false teaching and spiritual fear?
+
+A It assures believers that their guilt is fully dealt with and hostile spiritual powers are defeated in Christ.
+
+B It teaches that sin is no longer serious because debt and powers are canceled.
+
+C It means that spiritual powers can still condemn believers despite Christ’s work.
+
+D It shows that believers still need extra rituals to remove guilt fully.
 
 </div>
