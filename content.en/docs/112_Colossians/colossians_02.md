@@ -248,6 +248,7 @@ Quiz: Colossians 2 speaks of the "record of debt" with its legal demands being c
 
 <h1><span class = "overline">Quiz #</span></h1>
 Quiz: Colossians 2 warns against being taken captive by hollow and deceptive philosophy, which depends on human tradition rather than Christ. Which response best reflects wise discernment when encountering new spiritual teachings today?  
+<br>
 歌罗西书第 2 章警告信徒，不要被那依靠人的传统、而不是依靠基督的虚空和欺骗性哲学掳去。今天遇到新的属灵教导时，以下哪一种回应最能体现明智的分辨力？
 
 <p></p>
@@ -287,6 +288,7 @@ Quiz: Colossians 2 warns against being taken captive by hollow and deceptive phi
 
 <h1><span class = "overline">Quiz #</span></h1>
 Quiz: Paul confronts legalism in Colossians 2 by warning against being judged over dietary laws, festivals, and sabbaths. What is the most accurate way to apply this teaching to modern debates about religious rules?  
+<br>
 保罗在歌罗西书第 2 章中反对律法主义，警告信徒不要因饮食条例、节期或安息日而被人论断。对于现代有关宗教规条的争论，以下哪一种应用最准确？
 
 <p></p>
@@ -325,7 +327,8 @@ Quiz: Paul confronts legalism in Colossians 2 by warning against being judged ov
 
 
 <h1><span class = "overline">Quiz #</span></h1>
-Quiz: In Colossians 2, Paul describes Christ as the head over every power and authority. How should this truth most influence a believer’s response to spiritual forces or fears about unseen powers?    
+Quiz: In Colossians 2, Paul describes Christ as the head over every power and authority. How should this truth most influence a believer’s response to spiritual forces or fears about unseen powers?
+<br>
 在歌罗西书第 2 章中，保罗描述基督是超越一切执政掌权者的元首。这一真理最应当如何影响信徒面对属灵势力，或对看不见的权势感到惧怕时的回应？  
 
 <p></p>
@@ -365,6 +368,7 @@ Quiz: In Colossians 2, Paul describes Christ as the head over every power and au
 
 <h1><span class = "overline">Quiz #</span></h1>
 Quiz: Colossians 2 criticizes "self-imposed worship" and harsh treatment of the body that lack value in restraining sensual indulgence. What key lesson does this teach about efforts toward personal holiness?
+<br>
 歌罗西书第 2 章批评“私意崇拜”和苦待己身，指出这些做法在克制肉体的情欲上毫无功效。这教导我们关于追求个人圣洁的一个关键功课是什么？
 
 <p></p>
@@ -404,6 +408,7 @@ Quiz: Colossians 2 criticizes "self-imposed worship" and harsh treatment of the 
 
 <h1><span class = "overline">Quiz #</span></h1>
 Quiz: Colossians 2 stresses being "built up" in Christ and strengthened in the faith. Which scenario best shows a healthy process of growing in this rooted, strengthened faith?  
+<br>
 歌罗西书第 2 章强调要在基督里“被建造”，并且在信心上得坚固。以下哪种情况最能展现这种生根、坚固信心的健康成长过程？
 
 <p></p>
@@ -441,7 +446,8 @@ Quiz: Colossians 2 stresses being "built up" in Christ and strengthened in the f
 
 
 <h1><span class = "overline">Quiz #</span></h1>
-Quiz: Considering Colossians 2 as a whole, which response best summarizes how a believer should live out a "new life in Christ" in practical terms?  
+Considering Colossians 2 as a whole, which response best summarizes how a believer should live out a "new life in Christ" in practical terms?  
+<br>
 纵观歌罗西书第 2 章的整体内容，以下哪一项最能概括信徒在实际生活中应当如何活出“在基督里的新生命”？
 
 <p></p>
@@ -481,7 +487,8 @@ Quiz: Considering Colossians 2 as a whole, which response best summarizes how a 
 
 <h1><span class = "overline">Quiz #</span></h1>
 Quiz #1 In Colossians 2:6–7, Paul urges believers to continue to live their lives in Christ, "rooted and built up" in Him. What does being rooted in Christ primarily emphasize about spiritual growth?  
-保羅勸勉信徒「在祂裡面生根建造」（西 2:6–7）。「生根」主要指向什麼？
+<br>
+在歌罗西书 2:6–7 中，保罗劝勉信徒要在基督里继续生活，在他里面“生根建造”。在基督里“生根”主要强调了关于属灵成长的什么信息？
 
 <p></p>
 <ol type="A">
@@ -504,7 +511,7 @@ Quiz #1 In Colossians 2:6–7, Paul urges believers to continue to live their li
 <li>
 &emsp;  Spiritual growth requires discovering secret spiritual knowledge beyond the gospel.  
 <br>
-&emsp; 属灵生命不单靠福音成长，而且还要不断地认识属灵的奥秘。
+&emsp; 属灵生命不单靠福音成长，而且需要去发现福音之外的隐秘属灵知识。
 </li>
 
 <p></p>
@@ -512,7 +519,7 @@ Quiz #1 In Colossians 2:6–7, Paul urges believers to continue to live their li
 <li>
 &emsp; Spiritual growth depends on a stable, ongoing relationship with Christ as the source of life.  
 <br>
-&emsp; 属灵生命要连于耶稣基督
+&emsp; 属灵成长取决于与作为生命源头的基督建立稳定、持续的关系。
 </li>
 </ol>
 
@@ -520,6 +527,7 @@ Quiz #1 In Colossians 2:6–7, Paul urges believers to continue to live their li
 
 <h1><span class = "overline">Quiz #</span></h1>
 Quiz #2 Colossians 2:8 warns believers not to be taken captive through "philosophy and empty deceit" according to human tradition. What is Paul’s main concern about such teaching?
+<br>
 歌罗西书 2:8 警告信徒，不要照着人的传统，被“哲学和虚空的欺骗”掳去。保罗对这类教导的主要担忧是什么？
 
 <p></p>
@@ -559,14 +567,15 @@ Quiz #2 Colossians 2:8 warns believers not to be taken captive through "philosop
 
 <h1><span class = "overline">Quiz #</span></h1>
 Quiz #3 Paul says in Colossians 2:9 that all the fullness of deity dwells in Christ in bodily form. What is one key implication of this truth for believers seeking spiritual maturity?   
-歌羅西書 2:9 說「神本性一切的豐盛都有形有體地居住在基督裡面」。這句話主要強調什麼？
+<br>
+保罗在歌罗西书 2:9 中说到，神本性的一切丰盛，都有形有体地居住在基督里面。对于寻求属灵成熟的信徒来说，这一真理的一个关键意义是什么？
 
 <p></p>
 <ol type="A">
 <li>
 &emsp; They should depend mainly on pastors' teachings and church traditions to become holy.  
 <br>
-&emsp; 基督徒要成为圣洁，就要听牧师的教导和教会沿袭的传统。
+&emsp; 基督徒应当主要依靠牧师教导和所在教会沿袭下来的习惯来成为圣洁。
 </li>
 
 <p></p>
@@ -574,7 +583,7 @@ Quiz #3 Paul says in Colossians 2:9 that all the fullness of deity dwells in Chr
 <li>
 &emsp; They must practice miraculous vision and dream to Christ to reach a higher spiritual level.  
 <br>
-&emsp; 基督徒要寻求在异象、异梦中经历耶稣
+&emsp; 基督徒必须在异象、异梦中经历耶稣才能达到更高的属灵层次。
 </li>
 
 <p></p>
@@ -590,7 +599,7 @@ Quiz #3 Paul says in Colossians 2:9 that all the fullness of deity dwells in Chr
 <li>
 &emsp; They already have complete access to God’s fullness through union with Christ. 
 <br>
-&emsp; 基督徒要通过与耶稣的合一，才能拥有来自上帝的丰盛。
+&emsp; 借着与基督联合，基督徒<<mark style="background-color: #A8CD66 ; color: black;">已经</mark>完全得着了神的丰盛。
 </li>
 </ol>
 
@@ -598,6 +607,7 @@ Quiz #3 Paul says in Colossians 2:9 that all the fullness of deity dwells in Chr
 
 <h1><span class = "overline">Quiz #</span></h1>
 Quiz #4 Paul describes believers in Colossians 2:11–12 as having undergone a kind of spiritual circumcision and burial with Christ in baptism. What does this imagery mainly communicate about life in union with Christ?  
+<br>
 保罗在歌罗西书 2:11–12 中描述信徒经历了一种属灵的割礼，并在洗礼中与基督一同埋葬。这种意象主要传达了关于与基督联合之生活的什么信息？
 
 <p></p>
@@ -637,6 +647,7 @@ Quiz #4 Paul describes believers in Colossians 2:11–12 as having undergone a k
 
 <h1><span class = "overline">Quiz #</span></h1>
 Quiz #5 In Colossians 2:14–15, Paul says that Christ canceled the record of debt and disarmed the rulers and authorities. How does this truth contribute to freedom from false teaching and spiritual fear?   
+<br>
 在歌罗西书 2:14–15 中，保罗说基督撤销了那记录着律法要求的债据，并且解除了执政的、掌权者的武装。这一真理如何有助于信徒从虚假的教导和属灵的恐惧中得着自由？
 
 <p></p>
@@ -672,5 +683,44 @@ Quiz #5 In Colossians 2:14–15, Paul says that Christ canceled the record of de
 </li>
 </ol>
 
+
+<h1><span class = "overline">Quiz #</span></h1>
+
+Paul warns in Colossians 2:16–17 against letting anyone judge believers in matters of food, drink, festivals, or sabbath days. Why does he say these things are only a "shadow" compared to Christ?
+<br>
+保罗在歌罗西书 2:16–17 中警告信徒，不要让人在饮食、节期或安息日等问题上论断他们。为什么他说与基督相比，这些事物不过是“影儿”？
+
+<p></p>
+<ol type="A">
+<li>
+&emsp; Because Christ rejects all forms of worship that involve community or rhythm.
+<br>
+&emsp; 因为基督拒绝一切涉及群体或规律的敬拜形式。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Because believers should avoid any kind of structure or discipline in their spiritual lives.
+<br>
+&emsp; 因为信徒应该在属灵生活中避免任何形式的架构或纪律。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Because religious practices never had any role in God’s plan.
+<br>
+&emsp; 因为宗教礼仪在神的计划中从未扮演过任何角色。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Because such practices were temporary pointers that find their fulfillment in Christ Himself.
+<br>
+&emsp; 因为这些礼仪只是暂时的指向，它们的终极应验是在基督自己身上。
+</li>
+</ol>
 
 </div>
