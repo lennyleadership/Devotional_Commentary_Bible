@@ -89,7 +89,7 @@ toc: true
 <h1><span class = "overline">Quiz #1</span></h1>
 In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situation best illustrates what it means to be "rooted" in Christ in everyday life?  
 <br>
-&emsp;  在歌罗西书2章7节中，保罗使用了在基督里“生根”的意象。以下哪种情况最能说明在日常生活中在基督里“生根”的含义？
+在歌罗西书2章7节中，保罗使用了在基督里“生根”的意象。以下哪种情况最能说明在日常生活中在基督里“生根”的含义？
 
 <p></p>
 <ol type="A">
@@ -128,9 +128,10 @@ In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situat
 
 <h1><span class = "overline">Quiz #2</span></h1>
 Colossians 2:3 and 2:9 emphasizes that believers have "fullness" in Christ. Which statement best captures what this fullness means for daily Christian identity?  
-&emsp;  歌罗西书 2:3 和 2:9 强调信徒在基督里得着了“丰盛”。以下哪一项陈述最能准确表达这种丰盛对基督徒日常身份的意义？
+<br>
+歌罗西书 2:3 和 2:9 强调信徒在基督里得着了“丰盛”。以下哪一项陈述最能准确表达这种丰盛对基督徒日常身份的意义？
 
-
+<p></p>
 <ol type="A">
 <li>
 &emsp; Fullness is reserved only for a few very mature Christians, not for ordinary believers.
