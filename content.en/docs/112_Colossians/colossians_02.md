@@ -90,37 +90,40 @@ toc: true
 In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situation best illustrates what it means to be "rooted" in Christ in everyday life?  
 &emsp;  在歌罗西书2章7节中，保罗使用了在基督里“生根”的意象。以下哪种情况最能说明在日常生活中在基督里“生根”的含义？
 
-A A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.  
+A&emsp;   A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.  
 &emsp;  信徒经常回归圣经和祷告，持续让基督的教导来塑造自己的决定和反应。
 
-B A student avoids learning about other beliefs out of fear that questions might weaken faith.  
+B&emsp;   A student avoids learning about other beliefs out of fear that questions might weaken faith.  
 &emsp;  学生避免去了解其他信仰，因为害怕产生疑问会削弱自己的信心。
 
-C A church member changes beliefs whenever a popular speaker presents a new, persuasive idea.  
+C&emsp;   A church member changes beliefs whenever a popular speaker presents a new, persuasive idea.  
 &emsp;  每当有受欢迎的讲员提出新的、具说服力的观点时，一位教会成员就会改变自己的信念。
 
-D A Christian feels close to God only when attending large conferences with emotional worship.  
+D&emsp;   A Christian feels close to God only when attending large conferences with emotional worship.  
 &emsp;  基督徒只有在参加带有充满情感的敬拜的大型特会时，才会感到与神亲近。
 
 
----
-Quiz: Colossians 2:3 and 2:9 emphasize that believers have "fullness" in Christ. Which statement best captures what this fullness means for daily Christian identity?  
-&emsp;  西二3，9 保罗强调每一位信徒都有在基督里的丰盛。下面哪一条说法比较准确地概述了基督徒的身份？
-
-A Fullness is reserved only for a few very mature Christians, not for ordinary believers.     
-&emsp;  只有那些成熟的基督徒才能得着这样的丰盛，一般的基督徒不可能得着。
-
-B Believers in Christ already have all they need to be accepted by God because Christ’s work is sufficient.    
+<h1><span class = "overline">Quiz #2</span></h1>
+Colossians 2:3 and 2:9 emphasizes that believers have "fullness" in Christ. Which statement best captures what this fullness means for daily Christian identity?  
+&emsp;  歌罗西书 2:3 和 2:9 强调信徒在基督里得着了“丰盛”。以下哪一项陈述最能准确表达这种丰盛对基督徒日常身份的意义？
+A
+Fullness is reserved only for a few very mature Christians, not for ordinary believers.
+&emsp;  
+B
+Believers in Christ already have all they need to be accepted by God because Christ’s work is sufficient.
+&emsp;  
+C
+Believers must add spiritual rituals to Christ’s work to become truly complete.
+&emsp;  
+D
+Fullness in Christ means Christians will never struggle emotionally or face hardship.
 &emsp;  
 
-C Believers must add rituals in church to Christ’s work to become truly complete.    
-&emsp;  每一位基督徒除了接受耶稣基督的救恩之外，还要做一些教会的
-
-D Fullness in Christ means Christians will never struggle emotionally or face hardship.  
-&emsp;  基督里的丰盛意味着基督徒永远不会在情绪上挣扎或面临困难。
 
 
 ---
+
+
 Quiz: Paul describes believers as having been buried with Christ in baptism and raised with him through faith. Which choice best shows how this union in Christ’s death and resurrection should shape a believer’s view of sin?  
 保罗描述信徒在洗礼中与基督一同埋葬，并且借着信心与他一同复活。以下哪一项最能说明，这种与基督的死和复活的联合如何塑造了信徒对罪的看法？
 
