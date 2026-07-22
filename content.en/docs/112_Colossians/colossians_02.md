@@ -91,33 +91,33 @@ In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situat
 &emsp;  在歌罗西书2章7节中，保罗使用了在基督里“生根”的意象。以下哪种情况最能说明在日常生活中在基督里“生根”的含义？
 
 A&emsp;   A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.  
-&emsp;  信徒经常回归圣经和祷告，持续让基督的教导来塑造自己的决定和反应。
+&emsp; &emsp;  信徒经常回归圣经和祷告，持续让基督的教导来塑造自己的决定和反应。
 
 B&emsp;   A student avoids learning about other beliefs out of fear that questions might weaken faith.  
-&emsp;  学生避免去了解其他信仰，因为害怕产生疑问会削弱自己的信心。
+&emsp; &emsp;  学生避免去了解其他信仰，因为害怕产生疑问会削弱自己的信心。
 
 C&emsp;   A church member changes beliefs whenever a popular speaker presents a new, persuasive idea.  
-&emsp;  每当有受欢迎的讲员提出新的、具说服力的观点时，一位教会成员就会改变自己的信念。
+&emsp; &emsp;  每当有受欢迎的讲员提出新的、具说服力的观点时，一位教会成员就会改变自己的信念。
 
 D&emsp;   A Christian feels close to God only when attending large conferences with emotional worship.  
-&emsp;  基督徒只有在参加带有充满情感的敬拜的大型特会时，才会感到与神亲近。
+&emsp; &emsp; 基督徒只有在参加带有充满情感的敬拜的大型特会时，才会感到与神亲近。
 
 
 <h1><span class = "overline">Quiz #2</span></h1>
 Colossians 2:3 and 2:9 emphasizes that believers have "fullness" in Christ. Which statement best captures what this fullness means for daily Christian identity?  
 &emsp;  歌罗西书 2:3 和 2:9 强调信徒在基督里得着了“丰盛”。以下哪一项陈述最能准确表达这种丰盛对基督徒日常身份的意义？
-A
-Fullness is reserved only for a few very mature Christians, not for ordinary believers.
-&emsp;  
-B
-Believers in Christ already have all they need to be accepted by God because Christ’s work is sufficient.
-&emsp;  
-C
-Believers must add spiritual rituals to Christ’s work to become truly complete.
-&emsp;  
-D
-Fullness in Christ means Christians will never struggle emotionally or face hardship.
-&emsp;  
+
+A Fullness is reserved only for a few very mature Christians, not for ordinary believers.
+&emsp;  丰盛仅保留给少数非常成熟的基督徒，而不是给普通的信徒。
+
+B Believers in Christ already have all they need to be accepted by God because Christ’s work is sufficient.
+&emsp;  在基督里的信徒已经拥有了蒙神悦纳所需的一切，因为基督的作为已经完全。
+
+C Believers must add spiritual rituals to Christ’s work to become truly complete.
+&emsp;  信徒必须在基督的作为之上增加属灵的仪式，才能变得真正完全。
+
+D Fullness in Christ means Christians will never struggle emotionally or face hardship.
+&emsp;  在基督里的丰盛，意味着基督徒永远不会在情绪上挣扎或面临困难。
 
 
 
