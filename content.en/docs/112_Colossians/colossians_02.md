@@ -92,8 +92,8 @@ In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situat
 
 <ol type="A">
 <li>
-<a>&emsp; A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.</a>    
-<a>&emsp; 信徒经常回归圣经和祷告，持续让基督的教导来塑造自己的决定和反应。</a>
+&emsp; A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.   
+&emsp; 信徒经常回归圣经和祷告，持续让基督的教导来塑造自己的决定和反应。
 </li>
 
 <li>
@@ -105,14 +105,16 @@ In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situat
 <p></p>
 
 <li>
-&emsp; A church member changes beliefs whenever a popular speaker presents a new, persuasive idea.      
+&emsp; A church member changes beliefs whenever a popular speaker presents a new, persuasive idea.    
+<br>
 &emsp; 每当有受欢迎的讲员提出新的、具说服力的观点时，一位教会成员就会改变自己的信念。
 </li>
 
 <p></p>
 
 <li>
-&emsp; A Christian feels close to God only when attending large conferences with emotional worship.    
+&emsp; A Christian feels close to God only when attending large conferences with emotional worship.  
+<br>
 &emsp; 基督徒只有在参加带有充满情感的敬拜的大型特会时，才会感到与神亲近。
 </li>
 </ol>
