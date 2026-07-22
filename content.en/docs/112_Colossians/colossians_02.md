@@ -88,11 +88,14 @@ toc: true
 
 <h1><span class = "overline">Quiz #1</span></h1>
 In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situation best illustrates what it means to be "rooted" in Christ in everyday life?  
+<br>
 &emsp;  在歌罗西书2章7节中，保罗使用了在基督里“生根”的意象。以下哪种情况最能说明在日常生活中在基督里“生根”的含义？
 
+<p></p>
 <ol type="A">
 <li>
 &emsp; A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.   
+<br>
 &emsp; 信徒经常回归圣经和祷告，持续让基督的教导来塑造自己的决定和反应。
 </li>
 
@@ -120,6 +123,8 @@ In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situat
 &emsp; 基督徒只有在参加带有充满情感的敬拜的大型特会时，才会感到与神亲近。
 </li>
 </ol>
+
+
 
 <h1><span class = "overline">Quiz #2</span></h1>
 Colossians 2:3 and 2:9 emphasizes that believers have "fullness" in Christ. Which statement best captures what this fullness means for daily Christian identity?  
@@ -160,11 +165,9 @@ Colossians 2:3 and 2:9 emphasizes that believers have "fullness" in Christ. Whic
 
 
 
+<h1><span class = "overline">Quiz #3</span></h1>
 
----
-
-
-Quiz: Paul describes believers as having been buried with Christ in baptism and raised with him through faith. Which choice best shows how this union in Christ’s death and resurrection should shape a believer’s view of sin?  
+Paul describes believers as having been buried with Christ in baptism and raised with him through faith. Which choice best shows how this union in Christ’s death and resurrection should shape a believer’s view of sin?  
 保罗描述信徒在洗礼中与基督一同埋葬，并且借着信心与他一同复活。以下哪一项最能说明，这种与基督的死和复活的联合如何塑造了信徒对罪的看法？
 
 A Sin is handled mainly by trying harder through willpower and self-improvement strategies.  
