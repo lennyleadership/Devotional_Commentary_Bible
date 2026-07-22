@@ -90,18 +90,27 @@ toc: true
 In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situation best illustrates what it means to be "rooted" in Christ in everyday life?  
 &emsp;  在歌罗西书2章7节中，保罗使用了在基督里“生根”的意象。以下哪种情况最能说明在日常生活中在基督里“生根”的含义？
 
-A&emsp;   A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.  
+<ol type="A">
+<li>
+&emsp; A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.  
 &emsp; &emsp;  信徒经常回归圣经和祷告，持续让基督的教导来塑造自己的决定和反应。
+</li>
 
-B&emsp;   A student avoids learning about other beliefs out of fear that questions might weaken faith.  
+<li>
+&emsp; A student avoids learning about other beliefs out of fear that questions might weaken faith.  
 &emsp; &emsp;  学生避免去了解其他信仰，因为害怕产生疑问会削弱自己的信心。
+</li>
 
-C&emsp;   A church member changes beliefs whenever a popular speaker presents a new, persuasive idea.  
+<li>
+&emsp; A church member changes beliefs whenever a popular speaker presents a new, persuasive idea.  
 &emsp; &emsp;  每当有受欢迎的讲员提出新的、具说服力的观点时，一位教会成员就会改变自己的信念。
+</li>
 
-D&emsp;   A Christian feels close to God only when attending large conferences with emotional worship.  
+<li>
+&emsp;   A Christian feels close to God only when attending large conferences with emotional worship.  
 &emsp; &emsp; 基督徒只有在参加带有充满情感的敬拜的大型特会时，才会感到与神亲近。
-
+</li>
+</ol>
 
 <h1><span class = "overline">Quiz #2</span></h1>
 Colossians 2:3 and 2:9 emphasizes that believers have "fullness" in Christ. Which statement best captures what this fullness means for daily Christian identity?  
