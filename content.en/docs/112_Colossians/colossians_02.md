@@ -102,10 +102,14 @@ In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situat
 &emsp; 学生避免去了解其他信仰，因为害怕产生疑问会削弱自己的信心。
 </li>
 
+<p></p>
+
 <li>
 &emsp; A church member changes beliefs whenever a popular speaker presents a new, persuasive idea.      
 &emsp; 每当有受欢迎的讲员提出新的、具说服力的观点时，一位教会成员就会改变自己的信念。
 </li>
+
+<p></p>
 
 <li>
 &emsp; A Christian feels close to God only when attending large conferences with emotional worship.    
