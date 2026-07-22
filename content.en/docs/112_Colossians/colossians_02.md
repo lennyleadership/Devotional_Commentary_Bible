@@ -86,20 +86,22 @@ toc: true
 
 <div id="quiz" class="tabcontent">
 
-Quiz: In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situation best illustrates what it means to be "rooted" in Christ in everyday life?   
-&emsp;  西二7中提到基督徒仿佛在耶稣里生根建造。以下哪一条比较贴切地
+<h1><span class = "overline">Quiz #1</span></h1>
+In Colossians 2, Paul uses the image of being "rooted" in Christ. Which situation best illustrates what it means to be "rooted" in Christ in everyday life?  
+&emsp;  在歌罗西书2章7节中，保罗使用了在基督里“生根”的意象。以下哪种情况最能说明在日常生活中在基督里“生根”的含义？
+A
+A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.  
+&emsp;  信徒经常回归圣经和祷告，持续让基督的教导来塑造自己的决定和反应。
+B
+A student avoids learning about other beliefs out of fear that questions might weaken faith.  
+&emsp;  学生避免去了解其他信仰，因为害怕产生疑问会削弱自己的信心。
+C
+A church member changes beliefs whenever a popular speaker presents a new, persuasive idea.  
+&emsp;  每当有受欢迎的讲员提出新的、具说服力的观点时，一位教会成员就会改变自己的信念。
+D
+A Christian feels close to God only when attending large conferences with emotional worship.  
+&emsp;  基督徒只有在参加带有充满情感的敬拜的大型特会时，才会感到与神亲近。
 
-A A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.  
-&emsp;  信徒时常读经、祷告，在做决定、或者做事情前时常寻求基督耶稣的话语
-
-B A believer avoids learning about other beliefs out of fear that questions might weaken faith.  
-&emsp;  不去思考烧脑的神学问题，以免信心受到摇动。
-
-C A church member changes beliefs whenever a popular speaker presents a new, persuasive idea.    
-&emsp;  名牧的观点肯定是对的，他们怎么说，我们就怎么信。
-
-D A Christian feels close to God only when attending large conferences with emotional music worship.  
-&emsp;  大型聚会的音乐敬拜特别感人，能让我感受到与上帝同在。
 
 ---
 Quiz: Colossians 2:3 and 2:9 emphasize that believers have "fullness" in Christ. Which statement best captures what this fullness means for daily Christian identity?  
