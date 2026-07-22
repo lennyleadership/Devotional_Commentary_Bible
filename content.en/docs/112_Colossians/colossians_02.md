@@ -86,47 +86,7 @@ toc: true
 
 <div id="quiz" class="tabcontent">
 
-<h1><span class = "overline">Quiz #1</span></h1>
-In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situation best illustrates what it means to be "rooted" in Christ in everyday life?  
-<br>
-在歌罗西书2章7节中，保罗使用了在基督里“生根”的意象。以下哪种情况最能说明在日常生活中在基督里“生根”的含义？
-
-<p></p>
-<ol type="A">
-<li>
-&emsp; A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.   
-<br>
-&emsp; 信徒经常回归圣经和祷告，持续让基督的教导来塑造自己的决定和反应。
-</li>
-
-<p></p>
-
-<li>
-&emsp; A believer avoids learning about other beliefs out of fear that questions might weaken faith.      
-<br>
-&emsp; 信徒避免去了解其他信仰，因为害怕产生疑问会削弱自己的信心。
-</li>
-
-<p></p>
-
-<li>
-&emsp; A believer changes beliefs whenever a popular speaker presents a new, persuasive idea.    
-<br>
-&emsp; 每当有受欢迎的讲员提出新的、具说服力的观点时，信徒就会改变自己的信念。
-</li>
-
-<p></p>
-
-<li>
-&emsp; A Christian feels close to God only when attending large conferences with emotional worship.  
-<br>
-&emsp; 基督徒只有在参加带有充满情感的敬拜的大型特会时，才会感到与神亲近。
-</li>
-</ol>
-
-
-
-<h1><span class = "overline">Quiz #2</span></h1>
+<h1><span class = "overline">Quiz Colossians 2:3 and 2:9</span></h1>
 Colossians 2:3 and 2:9 emphasizes that believers have "fullness" in Christ. Which statement best captures what this fullness means for daily Christian identity?  
 <br>
 歌罗西书 2:3 和 2:9 强调信徒在基督里得着了“丰盛”。以下哪一项陈述最能准确表达这种丰盛对基督徒日常身份的意义？
@@ -165,8 +125,243 @@ Colossians 2:3 and 2:9 emphasizes that believers have "fullness" in Christ. Whic
 </ol>
 
 
+<h1><span class = "overline">Quiz Colossians 2:6</span></h1>
+Colossians 2:6 stresses being "built up" in Christ and strengthened in the faith. Which scenario best shows a healthy process of growing in this rooted, strengthened faith?  
+<br>
+歌罗西书2:6强调要在基督里“被建造”，并且在信心上得坚固。以下哪种情况最能展现这种生根、坚固信心的健康成长过程？
 
-<h1><span class = "overline">Quiz #3</span></h1>
+<p></p>
+<ol type="A">
+<li>
+&emsp; A believer isolates from other Christians, assuming that faith grows strongest when entirely alone.
+<br>
+&emsp; 信徒将自己与其他基督徒隔离，认为完全独处时信心增长得最坚固。
+</li>
+
+<p></p>
+
+<li>
+&emsp; A believer expects instant spiritual maturity without ongoing learning, community, or struggle
+<br>
+&emsp; 信徒期望瞬间达到属灵成熟，而不需要持续的学习、群体生活或面对挣扎。
+</li>
+
+<p></p>
+
+<li>
+&emsp;  A believer engages regularly with Scripture, prays, participates in a local church, and applies the gospel to both joys and hardships.
+<br>
+&emsp; 信徒经常读经、祷告、参与地方教会生活，并将福音应用于喜乐与艰难之中。
+</li>
+
+<p></p>
+
+<li>
+&emsp; A believer bases growth mainly on chasing constant new spiritual experiences rather than steady practices. 
+<br>
+&emsp; 信徒主要将生命成长建立在不断追求新的属灵体验上，而不是稳定的属灵操练上。
+</li>
+</ol>
+
+
+<h1><span class = "overline">Quiz Colossians 2:7</span></h1>
+In Colossians 2:7, Paul uses the image of being "rooted" in Christ. Which situation best illustrates what it means to be "rooted" in Christ in everyday life?  
+<br>
+在歌罗西书2章7节中，保罗使用了在基督里“生根”的意象。以下哪种情况最能说明在日常生活中在基督里“生根”的含义？
+
+<p></p>
+<ol type="A">
+<li>
+&emsp; A believer regularly returns to Scripture and prayer, letting Christ’s teachings shape decisions and reactions over time.   
+<br>
+&emsp; 信徒经常回归圣经和祷告，持续让基督的教导来塑造自己的决定和反应。
+</li>
+
+<p></p>
+
+<li>
+&emsp; A believer avoids learning about other beliefs out of fear that questions might weaken faith.      
+<br>
+&emsp; 信徒避免去了解其他信仰，因为害怕产生疑问会削弱自己的信心。
+</li>
+
+<p></p>
+
+<li>
+&emsp; A believer changes beliefs whenever a popular speaker presents a new, persuasive idea.    
+<br>
+&emsp; 每当有受欢迎的讲员提出新的、具说服力的观点时，信徒就会改变自己的信念。
+</li>
+
+<p></p>
+
+<li>
+&emsp; A Christian feels close to God only when attending large conferences with emotional worship.  
+<br>
+&emsp; 基督徒只有在参加带有充满情感的敬拜的大型特会时，才会感到与神亲近。
+</li>
+</ol>
+
+
+<h1><span class = "overline">Quiz Colossians 2:6–7</span></h1>
+In Colossians 2:6–7, Paul urges believers to continue to live their lives in Christ, "rooted and built up" in Him. What does being rooted in Christ primarily emphasize about spiritual growth?  
+<br>
+在歌罗西书 2:6–7 中，保罗劝勉信徒要在基督里继续生活，在他里面“生根建造”。在基督里“生根”主要强调了关于属灵成长的什么信息？
+
+<p></p>
+<ol type="A">
+<li>
+&emsp; Spiritual growth is mainly about outward church activities.
+<br>
+&emsp; 属灵生命靠教会的活动得以成长。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Spiritual growth comes from strict adherence to culture influenced by Christianity or ethnic religious customs. 
+<br>
+&emsp; 属灵生命靠基督教传承下来的做法得以成长。
+</li>
+
+<p></p>
+
+<li>
+&emsp;  Spiritual growth requires discovering secret spiritual knowledge beyond the gospel.  
+<br>
+&emsp; 属灵生命不单靠福音成长，而且需要去发现福音之外的隐秘属灵知识。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Spiritual growth depends on a stable, ongoing relationship with Christ as the source of life.  
+<br>
+&emsp; 属灵成长取决于与作为生命源头的基督建立稳定、持续的关系。
+</li>
+</ol>
+
+
+
+<h1><span class = "overline">Quiz Colossians 2:8</span></h1>
+Colossians 2:8 warns believers not to be taken captive through "philosophy and empty deceit" according to human tradition. What is Paul’s main concern about such teaching?
+<br>
+歌罗西书 2:8 警告信徒，不要照着人的传统，被“哲学和虚空的欺骗”掳去。保罗对这类教导的主要担忧是什么？
+
+<p></p>
+<ol type="A">
+<li>
+&emsp; It teaches that believers should stop asking questions and simply obey leaders.
+<br>
+&emsp; 它教导信徒应该停止发问，只管顺服领袖。
+</li>
+
+<p></p>
+
+<li>
+&emsp; It only criticizes non-Christian religions, not distortions within the church.
+<br>
+&emsp; 它只批评非基督教的信仰，而不批评教会内部的扭曲真理。
+</li>
+
+<p></p>
+
+<li>
+&emsp;  It shifts trust away from Christ to human ideas that seem wise but lack real spiritual power.
+<br>
+&emsp; 它将人们的信任从基督转移到人的思想上，这些思想看似充满智慧，却缺乏真正的属灵能力。
+</li>
+
+<p></p>
+
+<li>
+&emsp; It completely rejects any use of the mind or thinking in the Christian life.
+<br>
+&emsp; 它完全拒绝在基督徒生活中运用理智或思考。
+</li>
+</ol>
+
+
+
+<h1><span class = "overline">Quiz Colossians 2:9</span></h1>
+Paul says in Colossians 2:9 that all the fullness of deity dwells in Christ in bodily form. What is one key implication of this truth for believers seeking spiritual maturity?   
+<br>
+保罗在歌罗西书 2:9 中说到，神本性的一切丰盛，都有形有体地居住在基督里面。对于寻求属灵成熟的信徒来说，这一真理的一个关键意义是什么？
+
+<p></p>
+<ol type="A">
+<li>
+&emsp; They should depend mainly on pastors' teachings and church traditions to become holy.  
+<br>
+&emsp; 基督徒应当主要依靠牧师教导和所在教会沿袭下来的习惯来成为圣洁。
+</li>
+
+<p></p>
+
+<li>
+&emsp; They must practice miraculous vision and dream to Christ to reach a higher spiritual level.  
+<br>
+&emsp; 基督徒必须在异象、异梦中经历耶稣才能达到更高的属灵层次。
+</li>
+
+<p></p>
+
+<li>
+&emsp;  They must find other spiritual mediators, such as church elders or pastors, to approach God.  
+<br>
+&emsp; 基督徒要靠着教会的长老、牧师才能经历上帝
+</li>
+
+<p></p>
+
+<li>
+&emsp; They mark style="background-color: #A8CD66 ; color: black;">already</mark> have complete access to God’s fullness through union with Christ. 
+<br>
+&emsp; 借着与基督联合，基督徒<mark style="background-color: #A8CD66 ; color: black;">已经</mark>完全得着了神的丰盛。
+</li>
+</ol>
+
+
+<h1><span class = "overline">Quiz Colossians 2:10</span></h1>
+In Colossians 2:10, Paul describes Christ as the head over every power and authority. How should this truth most influence a believer’s response to spiritual forces or fears about unseen powers?
+<br>
+在歌罗西书2:10中，保罗描述基督是超越一切执政掌权者的元首。这一真理最应当如何影响信徒面对属灵势力，或对看不见的权势感到惧怕时的回应？  
+
+<p></p>
+<ol type="A">
+<li>
+&emsp; Believers should focus mainly on identifying and naming every spiritual power so they can feel safe.  
+<br>
+&emsp; 信徒应当主要专注于辨认和说出每一种属灵权势的名称，好使自己感到安全。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Believers should deny that any spiritual powers exist, assuming all references are purely symbolic.  
+<br>
+&emsp; 信徒应当否认任何属灵权势的存在，认为所有相关的经文都只是象征性的说法。
+</li>
+
+<p></p>
+
+<li>
+&emsp;  Believers can trust that Christ’s victory and authority are greater than any spiritual power and live in confidence, seeking protection and guidance from him.  
+<br>
+&emsp; 信徒可以相信，基督的得胜和权柄超越一切属灵势力，并怀着信心生活，从他那里寻求保护和引导。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Believers must rely on elaborate rituals and formulas to manage spiritual forces effectively. 
+<br>
+&emsp; 信徒必须依靠复杂的仪式和公式，才能有效地应对属灵势力。
+</li>
+</ol>
+
+
+<h1><span class = "overline">Quiz Colossians 2:12</span></h1>
 
 Paul describes believers as having been buried with Christ in baptism and raised with him through faith. Which choice best shows how this union in Christ’s death and resurrection should shape a believer’s view of sin?  
 <br>
@@ -206,407 +401,8 @@ Paul describes believers as having been buried with Christ in baptism and raised
 </ol>
 
 
-<h1><span class = "overline">Quiz #</span></h1>
-Quiz: Colossians 2 speaks of the "record of debt" with its legal demands being canceled and nailed to the cross. How should this truth most directly affect a believer who is overwhelmed by guilt over past sins?   
-<br>
-歌罗西书第 2 章提到，那记录着律法要求的“债据”已经被取消，并钉在十字架上。这一真理最直接应当如何影响一位因过去的罪而被内疚压垮的信徒？
-
-<p></p>
-<ol type="A">
-<li>
-&emsp; They must wait until they have lived perfectly for a long time before believing they are truly forgiven.
-<br>
-&emsp; 他们必须等到自己长时间活得完全无罪，才可以相信自己真的已经蒙赦免。
-</li>
-
-<p></p>
-
-<li>
-&emsp; They can rest in the fact that Christ has fully dealt with their guilt at the cross and respond with repentance and gratitude.
-<br>
-&emsp; 他们可以安息在这个事实中：基督已经在十字架上彻底处理了他们的罪疚，并以悔改和感恩来回应。
-</li>
-
-<p></p>
-
-<li>
-&emsp; They should focus on punishing themselves emotionally to prove they are sorry enough. 
-<br>
-&emsp; 他们应当专注于在情感上惩罚自己，以证明自己已经足够懊悔。
-</li>
-
-<p></p>
-
-<li>
-&emsp; They should ignore feelings of guilt entirely and assume that sin no longer matters.
-<br>
-&emsp; 他们应当完全忽视内疚感，并认为罪已经不再重要。
-</li>
-</ol>
-
-
-
-<h1><span class = "overline">Quiz #</span></h1>
-Quiz: Colossians 2 warns against being taken captive by hollow and deceptive philosophy, which depends on human tradition rather than Christ. Which response best reflects wise discernment when encountering new spiritual teachings today?  
-<br>
-歌罗西书第 2 章警告信徒，不要被那依靠人的传统、而不是依靠基督的虚空和欺骗性哲学掳去。今天遇到新的属灵教导时，以下哪一种回应最能体现明智的分辨力？
-
-<p></p>
-<ol type="A">
-<li>
-&emsp; Rely mainly on whether respected Christian influencers endorse the teaching, using their approval as the main test.  
-<br>
-&emsp; 主要根据受人尊敬的基督徒意见领袖是否认可这项教导，并把他们的认同作为最主要的判断标准。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Immediately accept any teaching that sounds spiritual and positive, trusting that sincerity guarantees truth.  
-<br>
-&emsp; 只要某种教导听起来属灵、积极，就立刻接受，相信真诚必然保证真理。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Measure new teachings against the character and work of Christ revealed in Scripture, accepting what aligns and rejecting what contradicts him. 
-<br>
-&emsp; 将新的教导与圣经所启示的基督的品格和工作相衡量；接受与他一致的，拒绝与他相矛盾的。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Reject all teaching that uses thoughtful arguments or philosophy, assuming it is automatically dangerous.  
-<br>
-&emsp; 拒绝一切运用严谨论证或哲学的教导，认为它们必然危险。
-</li>
-</ol>
-
-
-
-<h1><span class = "overline">Quiz #</span></h1>
-Quiz: Paul confronts legalism in Colossians 2 by warning against being judged over dietary laws, festivals, and sabbaths. What is the most accurate way to apply this teaching to modern debates about religious rules?  
-<br>
-保罗在歌罗西书第 2 章中反对律法主义，警告信徒不要因饮食条例、节期或安息日而被人论断。对于现代有关宗教规条的争论，以下哪一种应用最准确？
-
-<p></p>
-<ol type="A">
-<li>
-&emsp; Assume that spiritual maturity is mainly shown by strict adherence to detailed man-made rules. 
-<br>
-&emsp; 认为属灵成熟主要表现在严格遵守详细的人为规条。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Conclude that any moral instruction or command in Scripture is now irrelevant for Christians.  
-<br>
-&emsp; 断定圣经中任何道德教导或命令，如今对基督徒都已经不再适用。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Decide that personal freedom means Christians never need to limit themselves for the sake of others’ consciences. 
-<br>
-&emsp; 认为个人自由意味着基督徒永远不需要为了他人的良心而限制自己。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Recognize that ceremonial or culture-based regulations must not be treated as conditions for salvation, while still valuing obedience to Christ’s clear commands.
-<br>
-&emsp; 认识到礼仪性或文化性的规条不可被当作得救的条件，同时仍然重视顺服基督清楚的命令。
-</li>
-</ol>
-  
-
-
-<h1><span class = "overline">Quiz #</span></h1>
-Quiz: In Colossians 2, Paul describes Christ as the head over every power and authority. How should this truth most influence a believer’s response to spiritual forces or fears about unseen powers?
-<br>
-在歌罗西书第 2 章中，保罗描述基督是超越一切执政掌权者的元首。这一真理最应当如何影响信徒面对属灵势力，或对看不见的权势感到惧怕时的回应？  
-
-<p></p>
-<ol type="A">
-<li>
-&emsp; Believers should focus mainly on identifying and naming every spiritual power so they can feel safe.  
-<br>
-&emsp; 信徒应当主要专注于辨认和说出每一种属灵权势的名称，好使自己感到安全。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Believers should deny that any spiritual powers exist, assuming all references are purely symbolic.  
-<br>
-&emsp; 信徒应当否认任何属灵权势的存在，认为所有相关的经文都只是象征性的说法。
-</li>
-
-<p></p>
-
-<li>
-&emsp;  Believers can trust that Christ’s victory and authority are greater than any spiritual power and live in confidence, seeking protection and guidance from him.  
-<br>
-&emsp; 信徒可以相信，基督的得胜和权柄超越一切属灵势力，并怀着信心生活，从他那里寻求保护和引导。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Believers must rely on elaborate rituals and formulas to manage spiritual forces effectively. 
-<br>
-&emsp; 信徒必须依靠复杂的仪式和公式，才能有效地应对属灵势力。
-</li>
-</ol>
-
-
-
-<h1><span class = "overline">Quiz #</span></h1>
-Quiz: Colossians 2 criticizes "self-imposed worship" and harsh treatment of the body that lack value in restraining sensual indulgence. What key lesson does this teach about efforts toward personal holiness?
-<br>
-歌罗西书第 2 章批评“私意崇拜”和苦待己身，指出这些做法在克制肉体的情欲上毫无功效。这教导我们关于追求个人圣洁的一个关键功课是什么？
-
-<p></p>
-<ol type="A">
-<li>
-&emsp; External disciplines, if not rooted in Christ, can appear impressive but fail to change the heart’s desires.  
-<br>
-&emsp; 外在的操练若不是扎根于基督，虽然看起来令人印象深刻，却不能改变人心里的欲望。
-</li>
-
-<p></p>
-
-<li>
-&emsp; True holiness is mainly about following whatever religious rules a community values most.
-<br>
-&emsp; 真正的圣洁主要在于遵守某个群体最看重的宗教规条。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Harsh self-denial and extreme religious practices automatically produce genuine holiness. 
-<br>
-&emsp; 严厉的自我克制和极端的宗教实践必然会产生真正的圣洁。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Seeking holiness is unnecessary since believers are already forgiven in Christ.  
-<br>
-&emsp; 既然信徒已经在基督里蒙赦免，追求圣洁就没有必要了。
-</li>
-</ol>
-
-
-
-<h1><span class = "overline">Quiz #</span></h1>
-Quiz: Colossians 2 stresses being "built up" in Christ and strengthened in the faith. Which scenario best shows a healthy process of growing in this rooted, strengthened faith?  
-<br>
-歌罗西书第 2 章强调要在基督里“被建造”，并且在信心上得坚固。以下哪种情况最能展现这种生根、坚固信心的健康成长过程？
-
-<p></p>
-<ol type="A">
-<li>
-&emsp; A believer isolates from other Christians, assuming that faith grows strongest when entirely alone.
-<br>
-&emsp; 信徒将自己与其他基督徒隔离，认为完全独处时信心增长得最坚固。
-</li>
-
-<p></p>
-
-<li>
-&emsp; A believer expects instant spiritual maturity without ongoing learning, community, or struggle
-<br>
-&emsp; 信徒期望瞬间达到属灵成熟，而不需要持续的学习、群体生活或面对挣扎。
-</li>
-
-<p></p>
-
-<li>
-&emsp;  A believer engages regularly with Scripture, prays, participates in a local church, and applies the gospel to both joys and hardships.
-<br>
-&emsp; 信徒经常读经、祷告、参与地方教会生活，并将福音应用于喜乐与艰难之中。
-</li>
-
-<p></p>
-
-<li>
-&emsp; A believer bases growth mainly on chasing constant new spiritual experiences rather than steady practices. 
-<br>
-&emsp; 信徒主要将生命成长建立在不断追求新的属灵体验上，而不是稳定的属灵操练上。
-</li>
-</ol>
-
-
-<h1><span class = "overline">Quiz #</span></h1>
-Considering Colossians 2 as a whole, which response best summarizes how a believer should live out a "new life in Christ" in practical terms?  
-<br>
-纵观歌罗西书第 2 章的整体内容，以下哪一项最能概括信徒在实际生活中应当如何活出“在基督里的新生命”？
-
-<p></p>
-<ol type="A">
-<li>
-&emsp; Define spirituality by strict rule-keeping and suspicion of anyone who practices faith differently.
-<br>
-&emsp; 借着严格遵守规条来定义属灵，并对任何以不同方式实践信仰的人抱有疑心。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Center life on Christ’s sufficiency, grow in rooted faith, embrace union with his death and resurrection, receive forgiveness deeply, resist legalism, and use discernment against false teaching. 
-<br>
-&emsp; 以基督的全足为生活的中心，在扎根的信心中成长，接受与他死和复活的联合，深深领受赦免，抵挡律法主义，并运用分辨力抵制虚假的教导。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Focus mainly on avoiding suffering and seeking comfort, trusting that Christ’s role is to keep life easy.  
-<br>
-&emsp; 主要专注于避免苦难和寻求安逸，相信基督的作用就是让生活保持轻松。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Treat Christ mainly as an inspiring example, while relying primarily on personal effort and popular wisdom for guidance.  
-<br>
-&emsp; 主要将基督视为一个鼓舞人心的榜样，同时主要依靠个人的努力和世俗的智慧来寻求指引。
-</li>
-</ol>
-
-
-
-<h1><span class = "overline">Quiz #</span></h1>
-Quiz #1 In Colossians 2:6–7, Paul urges believers to continue to live their lives in Christ, "rooted and built up" in Him. What does being rooted in Christ primarily emphasize about spiritual growth?  
-<br>
-在歌罗西书 2:6–7 中，保罗劝勉信徒要在基督里继续生活，在他里面“生根建造”。在基督里“生根”主要强调了关于属灵成长的什么信息？
-
-<p></p>
-<ol type="A">
-<li>
-&emsp; Spiritual growth is mainly about outward church activities.
-<br>
-&emsp; 属灵生命靠教会的活动得以成长。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Spiritual growth comes from strict adherence to culture influenced by Christianity or ethnic religious customs. 
-<br>
-&emsp; 属灵生命靠基督教传承下来的做法得以成长。
-</li>
-
-<p></p>
-
-<li>
-&emsp;  Spiritual growth requires discovering secret spiritual knowledge beyond the gospel.  
-<br>
-&emsp; 属灵生命不单靠福音成长，而且需要去发现福音之外的隐秘属灵知识。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Spiritual growth depends on a stable, ongoing relationship with Christ as the source of life.  
-<br>
-&emsp; 属灵成长取决于与作为生命源头的基督建立稳定、持续的关系。
-</li>
-</ol>
-
-
-
-<h1><span class = "overline">Quiz #</span></h1>
-Quiz #2 Colossians 2:8 warns believers not to be taken captive through "philosophy and empty deceit" according to human tradition. What is Paul’s main concern about such teaching?
-<br>
-歌罗西书 2:8 警告信徒，不要照着人的传统，被“哲学和虚空的欺骗”掳去。保罗对这类教导的主要担忧是什么？
-
-<p></p>
-<ol type="A">
-<li>
-&emsp; It teaches that believers should stop asking questions and simply obey leaders.
-<br>
-&emsp; 它教导信徒应该停止发问，只管顺服领袖。
-</li>
-
-<p></p>
-
-<li>
-&emsp; It only criticizes non-Christian religions, not distortions within the church.
-<br>
-&emsp; 它只批评非基督教的信仰，而不批评教会内部的扭曲真理。
-</li>
-
-<p></p>
-
-<li>
-&emsp;  It shifts trust away from Christ to human ideas that seem wise but lack real spiritual power.
-<br>
-&emsp; 它将人们的信任从基督转移到人的思想上，这些思想看似充满智慧，却缺乏真正的属灵能力。
-</li>
-
-<p></p>
-
-<li>
-&emsp; It completely rejects any use of the mind or thinking in the Christian life.
-<br>
-&emsp; 它完全拒绝在基督徒生活中运用理智或思考。
-</li>
-</ol>
-
-
-
-<h1><span class = "overline">Quiz #</span></h1>
-Quiz #3 Paul says in Colossians 2:9 that all the fullness of deity dwells in Christ in bodily form. What is one key implication of this truth for believers seeking spiritual maturity?   
-<br>
-保罗在歌罗西书 2:9 中说到，神本性的一切丰盛，都有形有体地居住在基督里面。对于寻求属灵成熟的信徒来说，这一真理的一个关键意义是什么？
-
-<p></p>
-<ol type="A">
-<li>
-&emsp; They should depend mainly on pastors' teachings and church traditions to become holy.  
-<br>
-&emsp; 基督徒应当主要依靠牧师教导和所在教会沿袭下来的习惯来成为圣洁。
-</li>
-
-<p></p>
-
-<li>
-&emsp; They must practice miraculous vision and dream to Christ to reach a higher spiritual level.  
-<br>
-&emsp; 基督徒必须在异象、异梦中经历耶稣才能达到更高的属灵层次。
-</li>
-
-<p></p>
-
-<li>
-&emsp;  They must find other spiritual mediators, such as church elders or pastors, to approach God.  
-<br>
-&emsp; 基督徒要靠着教会的长老、牧师才能经历上帝
-</li>
-
-<p></p>
-
-<li>
-&emsp; They already have complete access to God’s fullness through union with Christ. 
-<br>
-&emsp; 借着与基督联合，基督徒<<mark style="background-color: #A8CD66 ; color: black;">已经</mark>完全得着了神的丰盛。
-</li>
-</ol>
-
-
-
-<h1><span class = "overline">Quiz #</span></h1>
-Quiz #4 Paul describes believers in Colossians 2:11–12 as having undergone a kind of spiritual circumcision and burial with Christ in baptism. What does this imagery mainly communicate about life in union with Christ?  
+<h1><span class = "overline">Quiz Colossians 2:11–12/span></h1>
+Paul describes believers in Colossians 2:11–12 as having undergone a kind of spiritual circumcision and burial with Christ in baptism. What does this imagery mainly communicate about life in union with Christ?  
 <br>
 保罗在歌罗西书 2:11–12 中描述信徒经历了一种属灵的割礼，并在洗礼中与基督一同埋葬。这种意象主要传达了关于与基督联合之生活的什么信息？
 
@@ -644,9 +440,48 @@ Quiz #4 Paul describes believers in Colossians 2:11–12 as having undergone a k
 </ol>
 
 
+<h1><span class = "overline">Quiz Colossians 2:14</span></h1>
+Colossians 2:14 speaks of the "record of debt" with its legal demands being canceled and nailed to the cross. How should this truth most directly affect a believer who is overwhelmed by guilt over past sins?   
+<br>
+歌罗西书2:14提到，那记录着律法要求的“债据”已经被取消，并钉在十字架上。这一真理最直接应当如何影响一位因过去的罪而被内疚压垮的信徒？
 
-<h1><span class = "overline">Quiz #</span></h1>
-Quiz #5 In Colossians 2:14–15, Paul says that Christ canceled the record of debt and disarmed the rulers and authorities. How does this truth contribute to freedom from false teaching and spiritual fear?   
+<p></p>
+<ol type="A">
+<li>
+&emsp; They must wait until they have lived perfectly for a long time before believing they are truly forgiven.
+<br>
+&emsp; 他们必须等到自己长时间活得完全无罪，才可以相信自己真的已经蒙赦免。
+</li>
+
+<p></p>
+
+<li>
+&emsp; They can rest in the fact that Christ has fully dealt with their guilt at the cross and respond with repentance and gratitude.
+<br>
+&emsp; 他们可以安息在这个事实中：基督已经在十字架上彻底处理了他们的罪疚，并以悔改和感恩来回应。
+</li>
+
+<p></p>
+
+<li>
+&emsp; They should focus on punishing themselves emotionally to prove they are sorry enough. 
+<br>
+&emsp; 他们应当专注于在情感上惩罚自己，以证明自己已经足够懊悔。
+</li>
+
+<p></p>
+
+<li>
+&emsp; They should ignore feelings of guilt entirely and assume that sin no longer matters.
+<br>
+&emsp; 他们应当完全忽视内疚感，并认为罪已经不再重要。
+</li>
+</ol>
+
+
+
+<h1><span class = "overline">Quiz Colossians 2:14–15</span></h1>
+In Colossians 2:14–15, Paul says that Christ canceled the record of debt and disarmed the rulers and authorities. How does this truth contribute to freedom from false teaching and spiritual fear?   
 <br>
 在歌罗西书 2:14–15 中，保罗说基督撤销了那记录着律法要求的债据，并且解除了执政的、掌权者的武装。这一真理如何有助于信徒从虚假的教导和属灵的恐惧中得着自由？
 
@@ -684,7 +519,45 @@ Quiz #5 In Colossians 2:14–15, Paul says that Christ canceled the record of de
 </ol>
 
 
-<h1><span class = "overline">Quiz #</span></h1>
+<h1><span class = "overline">Quiz Colossians 2:16</span></h1>
+Paul confronts legalism in Colossians 2:16 by warning against being judged over dietary laws, festivals, and sabbaths. What is the most accurate way to apply this teaching to modern debates about religious rules?  
+<br>
+保罗在歌罗西书2:16中反对律法主义，警告信徒不要因饮食条例、节期或安息日而被人论断。对于现代有关宗教规条的争论，以下哪一种应用最准确？
+
+<p></p>
+<ol type="A">
+<li>
+&emsp; Assume that spiritual maturity is mainly shown by strict adherence to detailed man-made rules. 
+<br>
+&emsp; 认为属灵成熟主要表现在严格遵守详细的人为规条。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Conclude that any moral instruction or command in Scripture is now irrelevant for Christians.  
+<br>
+&emsp; 断定圣经中任何道德教导或命令，如今对基督徒都已经不再适用。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Decide that personal freedom means Christians never need to limit themselves for the sake of others’ consciences. 
+<br>
+&emsp; 认为个人自由意味着基督徒永远不需要为了他人的良心而限制自己。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Recognize that ceremonial or culture-based regulations must not be treated as conditions for salvation, while still valuing obedience to Christ’s clear commands.
+<br>
+&emsp; 认识到礼仪性或文化性的规条不可被当作得救的条件，同时仍然重视顺服基督清楚的命令。
+</li>
+</ol>
+
+<h1><span class = "overline">Quiz Colossians 2:16–17</span></h1>
 
 Paul warns in Colossians 2:16–17 against letting anyone judge believers in matters of food, drink, festivals, or sabbath days. Why does he say these things are only a "shadow" compared to Christ?
 <br>
@@ -720,6 +593,83 @@ Paul warns in Colossians 2:16–17 against letting anyone judge believers in mat
 &emsp; Because such practices were temporary pointers that find their fulfillment in Christ Himself.
 <br>
 &emsp; 因为这些礼仪只是暂时的指向，它们的终极应验是在基督自己身上。
+</li>
+</ol>
+
+
+<h1><span class = "overline">Quiz Colossians 2:20-21</span></h1>
+Colossians 2:20-21 warns against being taken captive by hollow and deceptive philosophy, which depends on human tradition rather than Christ. Which response best reflects wise discernment when encountering new spiritual teachings today?  
+<br>
+歌罗西书2：20-21警告信徒，不要被那依靠人的传统、而不是依靠基督的虚空和欺骗性哲学掳去。今天遇到新的属灵教导时，以下哪一种回应最能体现明智的分辨力？
+
+<p></p>
+<ol type="A">
+<li>
+&emsp; Rely mainly on whether respected Christian influencers endorse the teaching, using their approval as the main test.  
+<br>
+&emsp; 主要根据受人尊敬的基督徒意见领袖是否认可这项教导，并把他们的认同作为最主要的判断标准。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Immediately accept any teaching that sounds spiritual and positive, trusting that sincerity guarantees truth.  
+<br>
+&emsp; 只要某种教导听起来属灵、积极，就立刻接受，相信真诚必然保证真理。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Measure new teachings against the character and work of Christ revealed in Scripture, accepting what aligns and rejecting what contradicts him. 
+<br>
+&emsp; 将新的教导与圣经所启示的基督的品格和工作相衡量；接受与他一致的，拒绝与他相矛盾的。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Reject all teaching that uses thoughtful arguments or philosophy, assuming it is automatically dangerous.  
+<br>
+&emsp; 拒绝一切运用严谨论证或哲学的教导，认为它们必然危险。
+</li>
+</ol>
+
+<h1><span class = "overline">Quiz Colossians 2:23</span></h1>
+Colossians 2:23 criticizes "self-imposed worship" and harsh treatment of the body that lack value in restraining sensual indulgence. What key lesson does this teach about efforts toward personal holiness?
+<br>
+歌罗西书2:23批评“私意崇拜”和苦待己身，指出这些做法在克制肉体的情欲上毫无功效。这教导我们关于追求个人圣洁的一个关键功课是什么？
+
+<p></p>
+<ol type="A">
+<li>
+&emsp; External disciplines, if not rooted in Christ, can appear impressive but fail to change the heart’s desires.  
+<br>
+&emsp; 外在的操练若不是扎根于基督，虽然看起来令人印象深刻，却不能改变人心里的欲望。
+</li>
+
+<p></p>
+
+<li>
+&emsp; True holiness is mainly about following whatever religious rules a community values most.
+<br>
+&emsp; 真正的圣洁主要在于遵守某个群体最看重的宗教规条。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Harsh self-denial and extreme religious practices automatically produce genuine holiness. 
+<br>
+&emsp; 严厉的自我克制和极端的宗教实践必然会产生真正的圣洁。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Seeking holiness is unnecessary since believers are already forgiven in Christ.  
+<br>
+&emsp; 既然信徒已经在基督里蒙赦免，追求圣洁就没有必要了。
 </li>
 </ol>
 
