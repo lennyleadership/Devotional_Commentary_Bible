@@ -237,7 +237,7 @@ Colossians 2:8 warns believers not to be taken captive through "philosophy and e
 <li>
 &emsp;  It shifts trust away from Christ to human ideas that seem wise but lack real spiritual power.
 <br>
-&emsp; 它将人们的信任从基督转移到人的思想上，这些思想看似充满智慧，却缺乏真正的属灵能力。
+&emsp; 它将信徒的信任从基督转移到人的思想上，这些思想看似充满智慧，却缺乏真正的属灵能力。
 </li>
 
 <p></p>
@@ -276,7 +276,7 @@ Paul says in Colossians 2:9 that all the fullness of deity dwells in Christ in b
 <li>
 &emsp; They must practice miraculous vision and dream to Christ to reach a higher spiritual level.  
 <br>
-&emsp; 基督徒必须在异象、异梦中经历耶稣才能达到更高的属灵层次。
+&emsp; 基督徒必须借助异象、异梦才能达到更高的属灵层次。
 </li>
 
 <p></p>
