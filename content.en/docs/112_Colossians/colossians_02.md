@@ -673,4 +673,42 @@ Colossians 2:23 criticizes "self-imposed worship" and harsh treatment of the bod
 </li>
 </ol>
 
+
+<h1><span class = "overline">Quiz Colossians</span></h1>
+Considering Colossians 2 as a whole, which response best summarizes how a believer should live out a "new life in Christ" in practical terms?
+<br>
+纵观歌罗西书第 2 章的整体内容，以下哪一项最能概括信徒在实际生活中应当如何活出“在基督里的新生命”？
+
+<p></p>
+<ol type="A">
+<li>
+&emsp; Define spirituality by strict rule-keeping and suspicion of anyone who practices faith differently.
+<br>
+&emsp; 借着严格遵守规条来定义属灵，并对任何以不同方式实践信仰的人抱有疑心。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Center life on Christ’s sufficiency, grow in rooted faith, embrace union with his death and resurrection, receive forgiveness deeply, resist legalism, and use discernment against false teaching.
+<br>
+&emsp; 以基督的全足为生活的中心，在扎根的信心中成长，接受与他死和复活的联合，深深领受赦免，抵挡律法主义，并运用分辨力抵制虚假的教导。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Focus mainly on avoiding suffering and seeking comfort, trusting that Christ’s role is to keep life easy.
+<br>
+&emsp; 主要专注于避免苦难和寻求安逸，相信基督的作用就是让生活保持轻松。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Treat Christ mainly as an inspiring example, while relying primarily on personal effort and popular wisdom for guidance.
+<br>
+&emsp; 主要将基督视为一个鼓舞人心的榜样，同时主要依靠个人的努力和世俗的智慧来寻求指引。
+</li>
+</ol>
 </div>
