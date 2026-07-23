@@ -124,6 +124,21 @@ Colossians 2:3 and 2:9 emphasizes that believers have "fullness" in Christ. Whic
 </li>
 </ol>
 
+<p></p>
+
+<ol>
+Discussion: If all the fullness of God is in Christ, how should that change the way we seek spiritual satisfaction?
+<br>
+討論： 若基督裡有神一切的豐盛，這如何改變我們尋求屬靈滿足的方式？
+</ol>
+
+<p></p>
+
+<ol>
+Discussion: What are you most likely to think, “If I have this, then I will be complete”?
+<br>
+討論： 你最容易認為「有了這個，我才會完整」的是什麼？
+</ol>
 
 <h1><span class = "overline">Quiz Colossians 2:6</span></h1>
 Colossians 2:6 stresses being "built up" in Christ and strengthened in the faith. Which scenario best shows a healthy process of growing in this rooted, strengthened faith?  
@@ -286,6 +301,13 @@ Colossians 2:8 warns believers not to be taken captive through "philosophy and e
 </li>
 </ol>
 
+<p></p>
+
+<ol>
+Discussion: In what media, culture, or values do you see human-centered thinking?
+<br>
+討論： 你在哪些媒體、文化或價值觀中看見「人本」的思想？
+</ol>
 
 
 <h1><span class = "overline">Quiz Colossians 2:9</span></h1>
@@ -405,6 +427,13 @@ Paul describes believers as having been buried with Christ in baptism and raised
 </li>
 </ol>
 
+<p></p>
+
+<ol>
+Discussion: How can “dying and rising with Christ” practically shape one decision you make this week?
+<br>
+討論： 「與基督同死、同活」可以怎樣具體影響你本週的一個決定？
+</ol>
 
 <h1><span class = "overline">Quiz Colossians 2:11–12</span></h1>
 Paul describes believers in Colossians 2:11–12 as having undergone a kind of spiritual circumcision and burial with Christ in baptism. What does this imagery mainly communicate about life in union with Christ?  
@@ -717,9 +746,8 @@ Considering Colossians 2 as a whole, which response best summarizes how a believ
 </li>
 </ol>
 
-
-<h1><span class = "overline">Discussion Colossians 2</span></h1>
 <p></p>
+
 <ol type="A">
 <li>
 &emsp; The Foundation of the New Life
@@ -732,56 +760,6 @@ Discussion: In what area are you most likely to rely on something else instead o
 </ol>
 </li>
 
-<p></p>
-
-<li>
-&emsp; Rooted and Built Up
-<br>
-&emsp; 扎根與建造
-<ol>
-Discussion: What habits can help us become “rooted” in Christ?
-<br>
-討論： 哪些習慣能幫助我們在基督裡「生根」？
-</ol>
-</li>
-
-<p></p>
-
-<li>
-&emsp;  Guarding Against Empty Philosophy
-<br>
-&emsp; 防備虛空哲學
-<ol>
-Discussion: In what media, culture, or values do you see human-centered thinking?
-<br>
-討論： 你在哪些媒體、文化或價值觀中看見「人本」的思想？
-</ol>
-</li>
-
-<p></p>
-
-<li>
-&emsp; The Fullness in Christ
-<br>
-&emsp; 基督裡的豐盛
-<ol>
-Discussion: If all the fullness of God is in Christ, how should that change the way we seek spiritual satisfaction?
-<br>
-討論： 若基督裡有神一切的豐盛，這如何改變我們尋求屬靈滿足的方式？
-</ol>
-</li>
-
-<p></p>
-<li>
-&emsp; Made Full in Christ
-<br>
-&emsp; 在基督裡得豐盛
-<ol>
-Discussion: What are you most likely to think, “If I have this, then I will be complete”?
-<br>
-討論： 你最容易認為「有了這個，我才會完整」的是什麼？
-</ol>
-</li>
 
 <p></p>
 
@@ -796,18 +774,6 @@ Discussion: In your life, what “old self” patterns of behavior need to be re
 </ol>
 </li>
 
-<p></p>
-
-<li>
-&emsp;  Dying and Rising with Christ
-<br>
-&emsp; 與基督同死同活
-<ol>
-Discussion: How can “dying and rising with Christ” practically shape one decision you make this week?
-<br>
-討論： 「與基督同死、同活」可以怎樣具體影響你本週的一個決定？
-</ol>
-</li>
 
 <p></p>
 
@@ -835,4 +801,5 @@ Discussion: In what fears or pressures do you need to remember Christ’s victor
 </ol>
 </li>
 </ol>
+
 </div>
