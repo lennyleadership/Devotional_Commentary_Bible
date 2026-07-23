@@ -711,4 +711,123 @@ Considering Colossians 2 as a whole, which response best summarizes how a believ
 &emsp; 主要将基督视为一个鼓舞人心的榜样，同时主要依靠个人的努力和世俗的智慧来寻求指引。
 </li>
 </ol>
+
+
+<h1><span class = "overline">Discussion Colossians 2</span></h1>
+<p></p>
+<ol type="A">
+<li>
+&emsp; The Foundation of the New Life
+<br>
+&emsp; 新生命的根基
+<ol>
+Discussion: In what area are you most likely to rely on something else instead of depending on Christ?
+<br>
+討論： 你在哪一方面最容易用別的東西，取代對基督的倚靠？
+</ol>
+</li>
+
+<p></p>
+
+<li>
+&emsp; Rooted and Built Up
+<br>
+&emsp; 扎根與建造
+<ol>
+Discussion: What habits can help us become “rooted” in Christ?
+<br>
+討論： 哪些習慣能幫助我們在基督裡「生根」？
+</ol>
+</li>
+
+<p></p>
+
+<li>
+&emsp;  Guarding Against Empty Philosophy
+<br>
+&emsp; 防備虛空哲學
+<ol>
+Discussion: In what media, culture, or values do you see human-centered thinking?
+<br>
+討論： 你在哪些媒體、文化或價值觀中看見「人本」的思想？
+</ol>
+</li>
+
+<p></p>
+
+<li>
+&emsp; The Fullness in Christ
+<br>
+&emsp; 基督裡的豐盛
+<ol>
+Discussion: If all the fullness of God is in Christ, how should that change the way we seek spiritual satisfaction?
+<br>
+討論： 若基督裡有神一切的豐盛，這如何改變我們尋求屬靈滿足的方式？
+</ol>
+</li>
+
+<p></p>
+<li>
+&emsp; Made Full in Christ
+<br>
+&emsp; 在基督裡得豐盛
+<ol>
+Discussion: What are you most likely to think, “If I have this, then I will be complete”?
+<br>
+討論： 你最容易認為「有了這個，我才會完整」的是什麼？
+</ol>
+</li>
+
+<p></p>
+
+<li>
+&emsp; Putting Off the Old Life
+<br>
+&emsp; 脫去舊生命
+<ol>
+Discussion: In your life, what “old self” patterns of behavior need to be removed by Christ?
+<br>
+討論： 在你的生活中，有哪些「舊人的行為模式」需要被基督除去？
+</ol>
+</li>
+
+<p></p>
+
+<li>
+&emsp;  Dying and Rising with Christ
+<br>
+&emsp; 與基督同死同活
+<ol>
+Discussion: How can “dying and rising with Christ” practically shape one decision you make this week?
+<br>
+討論： 「與基督同死、同活」可以怎樣具體影響你本週的一個決定？
+</ol>
+</li>
+
+<p></p>
+
+<li>
+&emsp; The Cross Removes Condemnation
+<br>
+&emsp; 十字架除去控告
+<ol>
+Discussion: When you are troubled by past failures, self-blame, or shame, how does this verse speak to you?
+<br>
+討論： 當你因過去的失敗、自責或羞愧受困擾時，這節經文如何對你說話？
+</ol>
+</li>
+
+<p></p>
+
+<li>
+&emsp; Christ Triumphs Over Powers
+<br>
+&emsp; 基督勝過權勢
+<ol>
+Discussion: In what fears or pressures do you need to remember Christ’s victory again?
+<br>
+討論： 在哪些恐懼或壓力中，你需要重新記得基督的得勝？
+</ol>
+</li>
+</ol>
 </div>
