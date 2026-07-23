@@ -241,6 +241,11 @@ In Colossians 2:6–7, Paul urges believers to continue to live their lives in C
 </li>
 </ol>
 
+<ol>
+Discussion: In what area are you most likely to rely on something else instead of depending on Christ?
+<br>
+討論： 你在哪一方面最容易用別的東西，取代對基督的倚靠？
+</ol>
 
 
 <h1><span class = "overline">Quiz Colossians 2:8</span></h1>
@@ -674,10 +679,10 @@ Colossians 2:23 criticizes "self-imposed worship" and harsh treatment of the bod
 </ol>
 
 
-<h1><span class = "overline">Quiz Colossians</span></h1>
+<h1><span class = "overline">Quiz Colossians 2</span></h1>
 Considering Colossians 2 as a whole, which response best summarizes how a believer should live out a "new life in Christ" in practical terms?
 <br>
-纵观歌罗西书第 2 章的整体内容，以下哪一项最能概括信徒在实际生活中应当如何活出“在基督里的新生命”？
+纵观歌罗西书第2章的整体内容，以下哪一项最能概括信徒在实际生活中应当如何活出“在基督里的新生命”？
 
 <p></p>
 <ol type="A">
