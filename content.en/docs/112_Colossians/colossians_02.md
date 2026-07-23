@@ -86,60 +86,6 @@ toc: true
 
 <div id="quiz" class="tabcontent">
 
-<h1><span class = "overline">Quiz Colossians 2:3 and 2:9</span></h1>
-Colossians 2:3 and 2:9 emphasizes that believers have "fullness" in Christ. Which statement best captures what this fullness means for daily Christian identity?  
-<br>
-歌罗西书 2:3 和 2:9 强调信徒在基督里得着了“丰盛”。以下哪一项陈述最能准确表达这种丰盛对基督徒日常身份的意义？
-
-<p></p>
-<ol type="A">
-<li>
-&emsp; Fullness is reserved only for a few very mature Christians, not for ordinary believers.
-<br>
-&emsp; 丰盛仅保留给少数非常成熟的基督徒，而不是给普通的信徒。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Believers in Christ already have all they need to be accepted by God because Christ’s work is sufficient.
-<br>
-&emsp; 在基督里的信徒已经拥有了蒙神悦纳所需的一切，因为基督的作为已经完全。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Believers must add spiritual rituals to Christ’s work to become truly complete.
-<br>
-&emsp; 信徒必须在基督的作为之上增加属灵的仪式，才能变得真正完全。
-</li>
-
-<p></p>
-
-<li>
-&emsp; Fullness in Christ means Christians will never struggle emotionally or face hardship.
-<br>
-&emsp; 在基督里的丰盛，意味着基督徒永远不会在情绪上挣扎或面临困难。
-</li>
-</ol>
-
-<p></p>
-
-<ol>
-Discussion: If all the fullness of God is in Christ, how should that change the way we seek spiritual satisfaction?
-<br>
-討論： 若基督裡有神一切的豐盛，這如何改變我們尋求屬靈滿足的方式？
-</ol>
-
-<p></p>
-
-<ol>
-Discussion: What are you most likely to think, “If I have this, then I will be complete”?
-<br>
-討論： 你最容易認為「有了這個，我才會完整」的是什麼？
-</ol>
-
 <h1><span class = "overline">Quiz Colossians 2:6</span></h1>
 Colossians 2:6 stresses being "built up" in Christ and strengthened in the faith. Which scenario best shows a healthy process of growing in this rooted, strengthened faith?  
 <br>
@@ -346,6 +292,60 @@ Paul says in Colossians 2:9 that all the fullness of deity dwells in Christ in b
 <br>
 &emsp; 借着与基督联合，基督徒<mark style="background-color: #A8CD66 ; color: black;">已经</mark>完全得着了神的丰盛。
 </li>
+</ol>
+
+<h1><span class = "overline">Quiz Colossians 2:10</span></h1>
+Colossians 2:10 emphasizes that believers have "fullness" in Christ. Which statement best captures what this fullness means for daily Christian identity?  
+<br>
+歌罗西书 2:10 强调信徒在基督里得着了“丰盛”。以下哪一项陈述最能准确表达这种丰盛对基督徒日常身份的意义？
+
+<p></p>
+<ol type="A">
+<li>
+&emsp; Fullness is reserved only for a few very mature Christians, not for ordinary believers.
+<br>
+&emsp; 丰盛仅保留给少数非常成熟的基督徒，而不是给普通的信徒。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Believers in Christ already have all they need to be accepted by God because Christ’s work is sufficient.
+<br>
+&emsp; 在基督里的信徒已经拥有了蒙神悦纳所需的一切，因为基督的作为已经完全。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Believers must add spiritual rituals to Christ’s work to become truly complete.
+<br>
+&emsp; 信徒必须在基督的作为之上增加属灵的仪式，才能变得真正完全。
+</li>
+
+<p></p>
+
+<li>
+&emsp; Fullness in Christ means Christians will never struggle emotionally or face hardship.
+<br>
+&emsp; 在基督里的丰盛，意味着基督徒永远不会在情绪上挣扎或面临困难。
+</li>
+</ol>
+
+<p></p>
+
+<ol>
+Discussion: If all the fullness of God is in Christ, how should that change the way we seek spiritual satisfaction?
+<br>
+討論： 若基督裡有神一切的豐盛，這如何改變我們尋求屬靈滿足的方式？
+</ol>
+
+<p></p>
+
+<ol>
+Discussion: What are you most likely to think, “If I have this, then I will be complete”?
+<br>
+討論： 你最容易認為「有了這個，我才會完整」的是什麼？
 </ol>
 
 
