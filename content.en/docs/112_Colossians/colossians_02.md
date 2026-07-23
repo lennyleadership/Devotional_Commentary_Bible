@@ -315,7 +315,7 @@ Paul says in Colossians 2:9 that all the fullness of deity dwells in Christ in b
 <p></p>
 
 <li>
-&emsp; They mark style="background-color: #A8CD66 ; color: black;">already</mark> have complete access to God’s fullness through union with Christ. 
+&emsp; They <mark style="background-color: #A8CD66 ; color: black;">already</mark> have complete access to God’s fullness through union with Christ. 
 <br>
 &emsp; 借着与基督联合，基督徒<mark style="background-color: #A8CD66 ; color: black;">已经</mark>完全得着了神的丰盛。
 </li>
