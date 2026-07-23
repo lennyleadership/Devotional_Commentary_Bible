@@ -746,7 +746,7 @@ Considering Colossians 2 as a whole, which response best summarizes how a believ
 </li>
 </ol>
 
-<p></p>
+<h1><span class = "overline">Discussion Colossians 2</span></h1>
 
 <ol type="A">
 <li>
