@@ -202,6 +202,8 @@ In Colossians 2:6–7, Paul urges believers to continue to live their lives in C
 </li>
 </ol>
 
+<p></p>
+
 <ol>
 Discussion: In what area are you most likely to rely on something else instead of depending on Christ?
 <br>
