@@ -401,7 +401,7 @@ Paul describes believers as having been buried with Christ in baptism and raised
 </ol>
 
 
-<h1><span class = "overline">Quiz Colossians 2:11–12/span></h1>
+<h1><span class = "overline">Quiz Colossians 2:11–12</span></h1>
 Paul describes believers in Colossians 2:11–12 as having undergone a kind of spiritual circumcision and burial with Christ in baptism. What does this imagery mainly communicate about life in union with Christ?  
 <br>
 保罗在歌罗西书 2:11–12 中描述信徒经历了一种属灵的割礼，并在洗礼中与基督一同埋葬。这种意象主要传达了关于与基督联合之生活的什么信息？
@@ -607,7 +607,7 @@ Colossians 2:20-21 warns against being taken captive by hollow and deceptive phi
 <li>
 &emsp; Rely mainly on whether respected Christian influencers endorse the teaching, using their approval as the main test.  
 <br>
-&emsp; 主要根据受人尊敬的基督徒意见领袖是否认可这项教导，并把他们的认同作为最主要的判断标准。
+&emsp; 主要根据受人尊敬的属灵长者是否认可这项教导，并把他们的认同作为最主要的判断标准。
 </li>
 
 <p></p>
@@ -623,7 +623,7 @@ Colossians 2:20-21 warns against being taken captive by hollow and deceptive phi
 <li>
 &emsp; Measure new teachings against the character and work of Christ revealed in Scripture, accepting what aligns and rejecting what contradicts him. 
 <br>
-&emsp; 将新的教导与圣经所启示的基督的品格和工作相衡量；接受与他一致的，拒绝与他相矛盾的。
+&emsp; 将新的教导与圣经所启示的基督的品格和工作做对照；接受与他一致的，拒绝与他相矛盾的。
 </li>
 
 <p></p>
