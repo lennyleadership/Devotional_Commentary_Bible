@@ -693,9 +693,9 @@ Colossians 2:23 criticizes "self-imposed worship" and harsh treatment of the bod
 <p></p>
 
 <li>
-&emsp; Harsh self-denial and extreme religious practices automatically produce genuine holiness. 
+&emsp; Avoidance of movies, television shows, and team sports automatically produce genuine holiness. 
 <br>
-&emsp; 严厉的自我克制和极端的宗教实践必然会产生真正的圣洁。
+&emsp; 不看电影，不看电视连续剧，不参加团队体育必然会产生真正的圣洁。
 </li>
 
 <p></p>
