@@ -20,6 +20,7 @@ toc: true
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
   <button class="tablinks" onclick="tablabel(event, 'note1')">Bible Study on Chapter 3</button>
+  <button class="tablinks" onclick="tablabel(event, 'quiz')">Quiz</button>
 </div>
 
 <!-- Tab content -->
@@ -1350,4 +1351,235 @@ John 5:30 ESV
     </tr>    
   </tbody>
 </table>
+
+
+</div>
+
+<div id="chinese" class="tabcontent">
+
+In Hebrews 3–4, why does the author warn readers not to harden their hearts like Israel in the wilderness?
+
+A
+Because hardened hearts make people emotionally distant from others
+
+B
+Because hardened hearts make people forget religious rituals and traditions
+
+C
+Because hardened hearts prevent believers from entering God’s rest through faith and obedience
+
+D
+Because hardened hearts automatically lead to material poverty and suffering
+
+
+Hebrews 4 describes God’s rest as something believers can enter “today.” According to this passage and Watchman Nee’s teaching on rest, what best captures this rest?
+
+A
+A strict commitment to weekly observance of the Sabbath day
+
+B
+A mystical experience reserved only for especially mature believers
+
+C
+A permanent escape from all suffering and trials in life
+
+D
+An inner participation in God’s finished work through faith, ceasing from self-reliant striving
+
+
+
+How does Abraham’s faith, as described in Genesis and referenced in the New Testament, illustrate the kind of faith connected with God’s rest in Hebrews 3–4?
+
+A
+Abraham’s faith shows how rigorous law-keeping leads to God’s rest
+
+B
+Abraham’s faith emphasizes the importance of building altars and performing sacrifices
+
+C
+Abraham’s faith demonstrates trusting God’s promise despite visible impossibilities, resting in God’s ability rather than human strength
+
+D
+Abraham’s faith primarily highlights his flawless moral record, which earned him rest
+
+
+Paul writes about rejoicing while in chains (for example, in Philippians). What does his joy in imprisonment reveal about the nature of Christian rest and faith?
+
+A
+Christian rest is rooted in outward freedom and comfort, so Paul’s joy was unusual and not instructive
+
+B
+Christian rest guarantees believers will avoid persecution and suffering if they have enough faith
+
+C
+Christian rest and joy come from union with Christ and confidence in God’s purposes, not from circumstances
+
+D
+Christian rest means ignoring pain and pretending circumstances are better than they are
+
+
+
+Watchman Nee emphasizes that the Christian life begins with “sit” (rest) before “walk” (behavior). How does this idea relate to Hebrews 4’s description of entering God’s rest?
+
+A
+It teaches that believers must perfect their behavior before God will allow them to rest
+
+B
+It suggests that rest is only for retired or inactive Christians, not for those serving or working
+
+C
+It means that daily ethical choices are less important than inner feelings of peace
+
+D
+It reflects that believers first receive and rest in Christ’s finished work, then live out obedience from that rested position
+
+
+Hebrews 4:12 describes God’s word as living and active. In the context of entering God’s rest and new life of faith, what role does God’s word play?
+
+A
+It is a poetic text meant to inspire but not to challenge or transform
+
+B
+It is mainly a historical record with no direct impact on believers’ inner life
+
+C
+It functions as a sharp, penetrating voice that exposes unbelief and invites believers into deeper faith and rest
+
+D
+It is a collection of moral rules that believers must keep to earn God’s rest
+
+
+
+Hebrews 4 speaks of “striving to enter” God’s rest, which can seem paradoxical. Based on Hebrews and Watchman Nee’s teaching, how should believers understand this “striving”?
+
+A
+It means working harder and harder at religious duties to impress God
+
+B
+It refers to focusing energy on trusting God’s finished work and resisting the temptation to return to self-effort
+
+C
+It teaches that rest will come only after believers reach complete sinlessness
+
+D
+It suggests competing with other believers to gain a better position in God’s kingdom
+
+
+
+In Hebrews 3, believers are called to encourage one another “daily.” How does this mutual encouragement support a new life of faith and entry into God’s rest?
+
+A
+It replaces the need for personal faith, since mutual encouragement can carry believers entirely
+
+B
+It provides emotional distraction so believers do not think about serious spiritual issues
+
+C
+It focuses mainly on sharing material resources, which Hebrews says is the core of Christian rest
+
+D
+It helps prevent hearts from being hardened by unbelief, strengthening faith that leads into God’s rest
+
+
+Hebrews 4 contrasts those who heard the good news but did not benefit because it was not united by faith with those who did believe. What practical lesson does this offer for believers seeking God’s rest today?
+
+A
+Believers can rely on their heritage or religious background to guarantee entry into God’s rest
+
+B
+Hearing spiritual teaching is sufficient to enter God’s rest, regardless of how one responds
+
+C
+Believers must combine hearing God’s promises with actual trust and reliance, or the message remains ineffective for rest
+
+D
+God’s rest is mostly random, given to some and withheld from others without relation to faith
+
+
+
+Bringing together Hebrews 3–4, Abraham’s faith, Paul’s joy in chains, and Watchman Nee’s teaching on rest, which statement best summarizes the new life of faith and rest God offers?
+
+A
+A life focused on minimizing risk and avoiding any costly obedience or suffering
+
+B
+A life where rest is postponed until after death, with little relevance for present daily living
+
+C
+A life where believers achieve rest by flawless performance and unbroken success
+
+D
+A life where believers rest in God’s finished work, trust His promises amid weakness and trials, and live in joyful obedience
+
+
+
+在希伯来书 3–4 章中，作者为什么警告读者不要像在旷野的以色列人那样硬着心？
+
+A 因为刚硬的心会使人在情感上与他人疏远
+B 因为刚硬的心会使人忘记宗教仪式和传统
+C 因为刚硬的心会阻碍信徒借着信心和顺服进入神的安息
+D 因为刚硬的心会自动导致物质上的贫乏和苦难
+
+希伯来书第 4 章将神的安息描述为信徒“今日”就可以进入的。根据这段经文以及倪柝声关于安息的教导，以下哪一项最能准确表达这种安息的含义？
+
+A 严格恪守每周的安息日
+B 仅保留给特别成熟的信徒的神秘体验
+C 永久逃离生活中的一切苦难和试炼
+D 借着信心在内在参与神已完成的工作，停止倚靠自我的努力挣扎
+
+创世记所描述、并在新约中被引用的亚伯拉罕的信心，如何说明了与希伯来书 3–4 章中神的安息相关的那种信心？
+
+A 亚伯拉罕的信心表明了严格守律法如何带来神的安息
+B 亚伯拉罕的信心强调了筑坛和献祭的重要性
+C 亚伯拉罕的信心展示了在看似不可能的情况下依然信靠神的应许，安息在神的能力而非人的力量中
+D 亚伯拉罕的信心主要突显了他无可指摘的道德记录，这为他赢得了安息
+
+保罗写到了在锁链中依然喜乐（例如在腓立比书中）。他在监禁中的喜乐揭示了关于基督徒安息与信心的什么本质？
+
+A 基督徒的安息根植于外在的自由与舒适，因此保罗的喜乐是不寻常的，且没有指导意义
+B 基督徒的安息保证，只要信徒有足够的信心，就能避免逼迫和苦难
+C 基督徒的安息与喜乐源于与基督的联合以及对神旨意的确信，而不是源于环境
+D 基督徒的安息意味着忽视痛苦，并假装环境比实际情况更好
+
+倪柝声强调，基督徒的生活始于“坐”（安息），然后才是“行”（行为）。这一观点与希伯来书第 4 章关于进入神安息的描述有什么联系？
+
+A 它教导信徒必须先完善自己的行为，然后神才会允许他们安息
+B 它暗示安息只是为退休或不活跃的基督徒准备的，而不是为那些服侍或工作的人准备的
+C 它意味着日常的伦理抉择不如内在的平安感觉重要
+D 它反映出信徒首先要领受并在基督已完成的工作中安息，然后从那种安息的地位中活出顺服
+
+希伯来书 4:12 描述神的道是活泼的、是有功效的。在进入神的安息和新的信心生活的背景下，神的道扮演着什么角色？
+
+A 它是旨在启发人而非挑战或改变人的诗歌文本
+B 它主要是历史记录，对信徒的内在生命没有直接影响
+C 它作为一种锐利、穿透人心的声音，能揭露不信，并邀请信徒进入更深的信心与安息
+D 它是一系列道德规条的集合，信徒必须遵守才能赢得神的安息
+
+希伯来书第 4 章说到要“竭力进入”神的安息，这似乎有些矛盾。根据希伯来书和倪柝声的教导，信徒应该如何理解这种“竭力”？
+
+A 它的意思是越来越努力地履行宗教义务以给神留下深刻印象
+B 它指的是集中精力信靠神已完成的工作，并抵挡回到依靠自我努力的诱惑
+C 它教导说，安息只有在信徒达到完全无罪之后才会来到
+D 它建议与其他信徒竞争，以在神的国度中获得更好的位置
+
+在希伯来书第 3 章中，信徒被呼召要“天天”彼此相劝（鼓励）。这种相互的鼓励如何支持新的信心生活以及进入神的安息？
+
+A 它取代了对个人信心的需求，因为相互鼓励就能完全承载信徒
+B 它提供了情感上的分散，使信徒不去思考严肃的属灵问题
+C 它主要专注于分享物质资源，希伯来书说这是基督徒安息的核心
+D 它有助于防止心因不信而刚硬，从而坚固那通向神安息的信心
+
+希伯来书第 4 章将那些听见了福音却没有得益处的人（因为没有用信心与所听见的道调和），与那些相信的人进行了对比。这为今天寻求神安息的信徒提供了什么实际的功课？
+
+A 信徒可以依靠他们的传统或宗教背景来保证进入神的安息
+B 听到属灵的教导就足以进入神的安息，无论人如何回应
+C 信徒必须将听见神的应许与实际的信靠和依赖结合起来，否则这信息在得着安息上仍然无效
+D 神的安息大多是随机的，赐给一些人而不给另一些人，与信心无关
+
+综合希伯来书 3–4 章、亚伯拉罕的信心、保罗在锁链中的喜乐，以及倪柝声关于安息的教导，以下哪项陈述最能概括神所赐的新的信心与安息的生活？
+
+A 一种专注于将风险降至最低，并避免任何代价高昂的顺服或苦难的生活
+B 一种将安息推迟到死后的生活，与目前的日常生活关系不大
+C 一种信徒通过无瑕疵的表现和不断的成功来获得安息的生活
+D 一种信徒安息在神已完成的工作中，在软弱和试炼中信靠祂的应许，并活出喜乐顺服的生活
 </div>
