@@ -277,7 +277,9 @@ Take time to discuss other themes, questions, or key takeaways from what you lea
 
 **EAT FROM THE TREE TODAY   03:42-04:26**
 
-<strong>Tim:</strong> And now this new tree of life stands before us all. We can eat from it, but it will mean passing through death like Jesus, allowing our old way of being human to die. <strong>Jon:</strong> So that a new humanity can grow in its place. 
+<strong>Tim:</strong> And now this new tree of life stands before us all. We can eat from it, but it will mean passing through death like Jesus, allowing our old way of being human to die. 
+
+<strong>Jon:</strong> So that a new humanity can grow in its place. 
 
 <strong>Tim:</strong> Yes. Jesus said that he is the vine and we are his branches. So not only do you eat from this tree, you’re invited to become part of it, helping produce its fruit, so that his life and love can spread through us to others. 25 
 
@@ -285,11 +287,13 @@ Take time to discuss other themes, questions, or key takeaways from what you lea
 
 <strong>Tim:</strong> Which is also a new garden with the tree of life is at its center, providing healing and life forever to all who choose to eat from it. 26 
 
-1. Genesis 2 2. Genesis 2:1-17 3. Genesis 2:9 4. Genesis 2:16 5. Genesis 3:22   
-6. Genesis 2:16-17 7. Genesis 4:8, Genesis 6:5 8. Genesis 3:1-7 9. Genesis 3:22-24 10. Exodus 3:1-6, 10-12   
-11. Exodus 3:5 12. Exodus 3:7-10 13. Exodus 19:3-6 14. Exodus 32:1-10 15. 1 Kings 11:7-8, 1 Kings 12:26-30   
-16. Judges 2:11-13, 1 Kings 14:21-24 17. 2 Kings 21:1-7 18. Mark 1:15 19. John 15:1, 4-5 20. John 6:51   
-21. Mark 11 22. John 19:16-18 23. John 12:24 24. Galatians 
+<ul>
+<a>1. Genesis 2 2. Genesis 2:1-17 3. Genesis 2:9 4. Genesis 2:16 5. Genesis 3:22</a>   
+<a>6. Genesis 2:16-17 7. Genesis 4:8, Genesis 6:5 8. Genesis 3:1-7 9. Genesis 3:22-24 10. Exodus 3:1-6, 10-12</a>   
+<a>11. Exodus 3:5 12. Exodus 3:7-10 13. Exodus 19:3-6 14. Exodus 32:1-10 15. 1 Kings 11:7-8, 1 Kings 12:26-30</a>   
+<a>16. Judges 2:11-13, 1 Kings 14:21-24 17. 2 Kings 21:1-7 18. Mark 1:15 19. John 15:1, 4-5 20. John 6:51</a>   
+<a>21. Mark 11 22. John 19:16-18 23. John 12:24 24. Galatians</a> 
+</ul>
       </p>
   </div>
   
