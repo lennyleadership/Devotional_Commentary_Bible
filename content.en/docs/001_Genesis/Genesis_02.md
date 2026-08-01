@@ -180,8 +180,11 @@ Such a question is the result of knowing good and evil apart from God; and such 
   <i></i>
   <h1 class="accordion-title"><span style="font-weight: bold">Bible Project | Tree of Life</h1>
   <div class="accordion-content">
-      <p>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/TJLan-pJzfQ" title="We Studied the Tree of Life in the Bible (Here’s What We Found)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <div class="video-wrap">
+<iframe src="https://www.youtube.com/embed/TJLan-pJzfQ" title="We Studied the Tree of Life in the Bible (Here’s What We Found)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
 
 
 
@@ -210,6 +213,7 @@ Take time to discuss other themes, questions, or key takeaways from what you lea
 
 </div>
 
+<p>
 Tree of Life SCRIPT REFERENCES   
 <br>
 
