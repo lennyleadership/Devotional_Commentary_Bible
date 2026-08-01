@@ -1,16 +1,98 @@
 // quoting with background *////////////////////////////////////////////////////////////////////////
 .quote {
-  margin: 0;
-  background: #eee;
-  padding: 0.5em;
-  border-radius: 1em;
+  max-width: 42rem;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background: #f9f8f5;
+  border: 1px solid #ddd;
+  border-radius: 12px;
 }
 
-
-.quote figcaption,
 .quote blockquote {
-  margin: 1em;
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  padding-left: 1rem;
+  border-left: 4px solid #999;
 }
+
+.quote figcaption {
+  margin-top: 1rem;
+  text-align: right;
+  font-style: italic;
+  color: #666;
+}
+
+
+.modern-quote {
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  border-left: 4px solid #01696f;
+  background: #f7f6f2;
+  border-radius: 0 12px 12px 0;
+}
+
+.modern-quote p {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+
+.card-quote {
+  max-width: 36rem;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,.08);
+  text-align: center;
+}
+
+.card-quote blockquote {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.card-quote figcaption {
+  margin-top: 1rem;
+  color: #777;
+}
+
+
+.book-quote {
+  max-width: 48rem;
+  margin: 2rem auto;
+  padding: 2rem 2.5rem;
+  background: linear-gradient(180deg, #fbfbf9, #f3f0ec);
+  border-radius: 1rem;
+  border: 1px solid #dcd9d5;
+}
+
+.book-quote blockquote {
+  margin: 0;
+  font-size: 1.4rem;
+  line-height: 1.7;
+  position: relative;
+}
+
+.book-quote blockquote::before {
+  content: "“";
+  font-size: 4rem;
+  line-height: 0;
+  position: absolute;
+  left: -0.4rem;
+  top: 0.8rem;
+  color: #01696f;
+}
+
+.book-quote figcaption {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  color: #7a7974;
+}
+
 
 /* explain: margin creates empty space outside an element. 1em is usually equal to the current font size, so with a 16px font it is commonly 16px on all four sides: top, right, bottom, and left.*/
 
