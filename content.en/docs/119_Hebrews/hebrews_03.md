@@ -174,7 +174,6 @@ A. 不可硬着心、惹神发怒（三7-8）；
 <br>4 也都喝了一样的灵水。所喝的，是出于随着他们的灵磐石；那磐石就是基督。
       </p>
   </li>
-    
   <li>
       <input type="checkbox" checked>
       <i></i>
@@ -182,7 +181,10 @@ A. 不可硬着心、惹神发怒（三7-8）；
       <p>
       </p>
     </li>
- </ul>
+    
+</ul>
+
+</div>
 
 <div id="toc_container">
 <p class="toc_title">Contents</p>
