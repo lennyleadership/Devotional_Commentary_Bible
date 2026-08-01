@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: Hebrews 03
+title: Hebrews 03 copy
 authors: Lenny
 categories: null
 series:
@@ -148,34 +148,38 @@ A. 不可硬着心、惹神发怒（三7-8）；
 
 <div id="study">
   <ul>
-  <li>
+    <li>
       <input type="checkbox" checked>
       <i></i>
-      <h1>Shadowing of Jesus</h1>
+      <h2>Shadowing of Jesus</h2>
       <p>
-<h2><span class ="overline">首先的亚当 和 末后的亚当</span></h2>
+<h1><span class ="overline">首先的亚当 和 末后的亚当</span></h1>
+
 林前15:45-49
 <br>经上也是这样记著说：「首先的人亚当成了有灵的活人」；末後的亚当成了叫人活的灵。
 <br>但属灵的不在先，属血气的在先，以後才有属灵的。
 <br>头一个人是出於地，乃属土；第二个人是出於天。
 <br>那属土的怎样，凡属土的也就怎样；属天的怎样，凡属天的也就怎样。 
 <br>我们既有属土的形状，将来也必有属天的形状。
-<br>
+
+
 <h1><span class ="overline">首先的摩西/约书亚 和 末后的摩西/约书亚</span></h1>
-希伯来书 3:2,5
+
+‪希伯来书‬3:2,5
 <br>2 他为那设立他的尽忠，如同摩西在　神的全家尽忠一样。……
 <br>5 摩西为仆人，在　神的全家诚然尽忠，为要证明将来必传说的事。
+
+
 <h1><span class ="overline">灵磐石</span></h1>
-<br>
-哥林多前书 10:1-4
+
+‪哥林多前书‬10:1-4
 <br>1 弟兄们，我不愿意你们不晓得，我们的祖宗从前都在云下，都从海中经过， 
 <br>2 都在云里、海里受洗归了摩西； 
 <br>3 并且都吃了一样的灵食， 
 <br>4 也都喝了一样的灵水。所喝的，是出于随着他们的灵磐石；那磐石就是基督。
       </p>
-  </li>
-    
-  <li>
+    </li>
+    <li>
       <input type="checkbox" checked>
       <i></i>
       <h2><span style="font-weight: bold">person</span> | topic</h2>
