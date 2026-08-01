@@ -948,11 +948,11 @@ section.study {
 
 
 
-
+/* Accordion content: expand to its full natural height */
 #study .accordion-content {
-  max-height: 1000px;
-  overflow-x: hidden;
-  overflow-y: auto; /* scrollbar appears only for long content*/
+  max-height: none;
+  height: auto;
+  overflow: hidden;
   opacity: 1;
   padding-right: 10 px; /* keeps text away from scrollbar */
   transition: max-height 0.6s ease, opacity 0.3s ease, padding 0.6s ease; /* keep the expand/collapse animation*/
@@ -968,7 +968,7 @@ section.study {
   padding-bottom: 0;
 }
 
-/*want the content to animate when opened or closed */
+/*want the content to animate when closed */
 #study ul li input[type="checkbox"]:checked ~ .accordion-content {
   max-height: 0;
   overflow: hidden;
