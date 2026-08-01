@@ -1,8 +1,8 @@
 +++
-title = ""
+title = "Quiz Template"
 description = ""
 tags = []
-date = "2024-"
+date = "2026-08-01"
 categories = []
 menu = "main"
 +++
