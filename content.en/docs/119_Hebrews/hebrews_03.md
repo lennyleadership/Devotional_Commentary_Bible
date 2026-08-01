@@ -151,7 +151,7 @@ A. 不可硬着心、惹神发怒（三7-8）；
 <li>
   <input type="checkbox" checked>
   <i></i>
-  <h2 class="accordion-title">Shadowing of Jesus</h2>
+  <h1 class="accordion-title">Shadowing of Jesus</h1>
   
   <div class="accordion-content">
     <h2><span class ="overline">首先的亚当 和 末后的亚当</span></h2>
@@ -165,22 +165,20 @@ A. 不可硬着心、惹神发怒（三7-8）；
     <br>
     </p>
   </div>
-
-<h2><span class ="overline">首先的摩西/约书亚 和 末后的摩西/约书亚</span></h2>
-<p>
-<br>希伯来书 3:2,5
-<br>2 他为那设立他的尽忠，如同摩西在　神的全家尽忠一样。……
-<br>5 摩西为仆人，在　神的全家诚然尽忠，为要证明将来必传说的事。
-</p>
-
-<h2><span class ="overline">灵磐石</span></h2>
-<p>
-<br>哥林多前书 10:1-4
-<br>1 弟兄们，我不愿意你们不晓得，我们的祖宗从前都在云下，都从海中经过， 
-<br>2 都在云里、海里受洗归了摩西； 
-<br>3 并且都吃了一样的灵食， 
-<br>4 也都喝了一样的灵水。所喝的，是出于随着他们的灵磐石；那磐石就是基督。
-</p>
+    <h2><span class ="overline">首先的摩西/约书亚 和 末后的摩西/约书亚</span></h2>
+    <p>
+    <br>希伯来书 3:2,5
+    <br>2 他为那设立他的尽忠，如同摩西在　神的全家尽忠一样。……
+    <br>5 摩西为仆人，在　神的全家诚然尽忠，为要证明将来必传说的事。
+    </p>
+    <h2><span class ="overline">灵磐石</span></h2>
+    <p>
+    <br>哥林多前书 10:1-4
+    <br>1 弟兄们，我不愿意你们不晓得，我们的祖宗从前都在云下，都从海中经过， 
+    <br>2 都在云里、海里受洗归了摩西； 
+    <br>3 并且都吃了一样的灵食， 
+    <br>4 也都喝了一样的灵水。所喝的，是出于随着他们的灵磐石；那磐石就是基督。
+    </p>
   </li>
   
   <li>
