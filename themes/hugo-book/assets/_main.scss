@@ -924,13 +924,16 @@ section.study {
   height: 9px;
 }
 
+
 #study ul li i:before {
   transform: translate(-2px, 0) rotate(45deg);
 }
 
+
 #study ul li i:after {
   transform: translate(2px, 0) rotate(-45deg);
 }
+
 
 #study ul li input[type=checkbox] {
   position: absolute;
@@ -945,16 +948,33 @@ section.study {
 
 
 
+
 #study .accordion-content {
   max-height: 1000px;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: auto; /* scrollbar appears only for long content*/
   opacity: 1;
-  transition: max-height 0.6s ease, opacity 0.3s ease;
+  padding-right: 10 px; /* keeps text away from scrollbar */
+  transition: max-height 0.6s ease, opacity 0.3s ease, padding 0.6s ease; /* keep the expand/collapse animation*/
 }
 
+/* Hide the content when the checkbox is checked */
 #study input[type="checkbox"]:checked ~ .accordion-content {
   max-height: 0;
+  overflow: hidden;
   opacity: 0;
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/*want the content to animate when opened or closed */
+#study ul li input[type="checkbox"]:checked ~ .accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 #study ul li input[type=checkbox]:checked ~ h2 {
