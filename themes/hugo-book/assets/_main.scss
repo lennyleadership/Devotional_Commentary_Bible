@@ -913,15 +913,30 @@ section.study {
   touch-action: manipulation;
 }
 
-#study ul li input[type=checkbox]:checked ~ h2 {
-  color: #000;
+
+#study .accordion-content {
+  max-height: 1000px;
+  overflow: hidden;
+  opacity: 1;
+  transition: max-height 0.6s ease, opacity 0.3s ease;
 }
+
+#study input[type="checkbox"]:checked ~ .accordion-content {
+  max-height: 0;
+  opacity: 0;
+}
+
+#study ul li input[type=checkbox]:checked ~ h2 {
+  display: none;
+}
+/* explain: The ~ selector targets later sibling <h2> elements within the same <li>, and :checked applies only when that checkbox is selected.*/
 
 #study ul li input[type=checkbox]:checked ~ p {
   /*margin-top: 0;*/
   max-height: 0;
   transition: .3s;
   opacity: 0;
+  display: none;
   /*transform: translate(0, 50%);*/
 }
 

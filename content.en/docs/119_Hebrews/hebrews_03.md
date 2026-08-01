@@ -147,21 +147,24 @@ A. 不可硬着心、惹神发怒（三7-8）；
 <div id="note1" class="tabcontent">
 
 <div id="study">
-  <ul>
-    <h2>Shadowing of Jesus</h2>
-  <li>
-      <input type="checkbox" checked>
-      <i></i>
-<h2><span class ="overline">首先的亚当 和 末后的亚当</span></h2>
-<p>
-<br>林前15:45-49
-<br>经上也是这样记著说：「首先的人亚当成了有灵的活人」；末後的亚当成了叫人活的灵。
-<br>但属灵的不在先，属血气的在先，以後才有属灵的。
-<br>头一个人是出於地，乃属土；第二个人是出於天。
-<br>那属土的怎样，凡属土的也就怎样；属天的怎样，凡属天的也就怎样。 
-<br>我们既有属土的形状，将来也必有属天的形状。
-<br>
-</p>
+<ul>
+<li>
+  <input type="checkbox" checked>
+  <i></i>
+  <h2 class="accordion-title">Shadowing of Jesus</h2>
+  
+  <div class="accordion-content">
+    <h2><span class ="overline">首先的亚当 和 末后的亚当</span></h2>
+    <p>
+    <br>林前15:45-49
+    <br>经上也是这样记著说：「首先的人亚当成了有灵的活人」；末後的亚当成了叫人活的灵。
+    <br>但属灵的不在先，属血气的在先，以後才有属灵的。
+    <br>头一个人是出於地，乃属土；第二个人是出於天。
+    <br>那属土的怎样，凡属土的也就怎样；属天的怎样，凡属天的也就怎样。 
+    <br>我们既有属土的形状，将来也必有属天的形状。
+    <br>
+    </p>
+  </div>
 
 <h2><span class ="overline">首先的摩西/约书亚 和 末后的摩西/约书亚</span></h2>
 <p>
