@@ -13,7 +13,7 @@
   font-size: 1.25rem;
   line-height: 1.6;
   padding-left: 1rem;
-  border-left: 4px solid #999;
+  border-left: 4px solid #01696f;
 }
 
 .quote figcaption {
@@ -104,7 +104,7 @@ blockquote {
     
     padding: $padding-8 $padding-16 $padding-8 ($padding-16 - $padding-4); /*adds internal space inside the blockquote. The left padding is reduced by the border width*/
 
-    border-inline-start: $padding-4 solid orange; /*draws a border on the start side of the line, which means left in left-to-right languages and right in right-to-left languages. */
+    border-inline-start: $padding-4 solid #01696f; /*draws a border on the start side of the line, which means left in left-to-right languages and right in right-to-left languages. */
     
     border-radius: $border-radius;
 

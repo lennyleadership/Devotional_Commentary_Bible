@@ -184,11 +184,6 @@ Such a question is the result of knowing good and evil apart from God; and such 
       </h1>
     </label>
   
-  <h1 class="accordion-title">
-  <span style="font-weight: bold;">Bible Project | Tree of Life</span>
-</h1>
-
-  
   <div class="accordion-content">
 
   <div class="video-wrap">
