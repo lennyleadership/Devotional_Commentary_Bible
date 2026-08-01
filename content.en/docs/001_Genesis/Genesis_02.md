@@ -175,7 +175,9 @@ Such a question is the result of knowing good and evil apart from God; and such 
   <h1 class="accordion-title"><span style="font-weight: bold">Bible Project | Tree of Life</h1>
   <div class="accordion-content">
       <p>
-Tree of Life SCRIPT REFERENCES 
+
+<iframe width="1059" height="595" src="https://www.youtube.com/embed/TJLan-pJzfQ" title="We Studied the Tree of Life in the Bible (Here’s What We Found)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <div class = "quote">
 
@@ -200,6 +202,8 @@ Take time to discuss other themes, questions, or key takeaways from what you lea
 
 </div>
 
+Tree of Life SCRIPT REFERENCES 
+
 **THE GARDEN OF EDEN  00:00-00:31>**
 
 <strong>Jon:</strong> The story of the Bible begins in a garden, where God and humans live together. 1 
@@ -218,7 +222,7 @@ Take time to discuss other themes, questions, or key takeaways from what you lea
 
 <strong>Jon:</strong> Okay, but on the way to the tree of life, the humans have to pass by another tree called the tree of knowing good and bad. 
 
-<strong>Tim:</strong> And God says that eating from this tree will kill you. 6 
+<strong>Tim:</strong> And God says that eating from this tree will kill you. 6   
 
 <strong>Jon:</strong> How does it do that? 
 
@@ -230,7 +234,7 @@ Take time to discuss other themes, questions, or key takeaways from what you lea
 
 <strong>Jon:</strong> And the humans take from this false tree of life. 8 
 
-<strong>Tim:</strong> And they’re exiled from the garden for good. 9 
+<strong>Tim:</strong> And they’re exiled from the garden for good. 9   
 
 
 **SEPARATED FROM THE TREE    01:26-02:28**
@@ -289,9 +293,13 @@ Take time to discuss other themes, questions, or key takeaways from what you lea
 
 <ul>
 <a>1. Genesis 2 2. Genesis 2:1-17 3. Genesis 2:9 4. Genesis 2:16 5. Genesis 3:22</a>   
+
 <a>6. Genesis 2:16-17 7. Genesis 4:8, Genesis 6:5 8. Genesis 3:1-7 9. Genesis 3:22-24 10. Exodus 3:1-6, 10-12</a>   
+
 <a>11. Exodus 3:5 12. Exodus 3:7-10 13. Exodus 19:3-6 14. Exodus 32:1-10 15. 1 Kings 11:7-8, 1 Kings 12:26-30</a>   
+
 <a>16. Judges 2:11-13, 1 Kings 14:21-24 17. 2 Kings 21:1-7 18. Mark 1:15 19. John 15:1, 4-5 20. John 6:51</a>   
+
 <a>21. Mark 11 22. John 19:16-18 23. John 12:24 24. Galatians</a> 
 </ul>
       </p>
