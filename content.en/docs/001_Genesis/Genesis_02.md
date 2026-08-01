@@ -98,9 +98,14 @@ toc: true
 <div id="study">
 <ul>
 <li>
-  <input type="checkbox" checked>
-  <i></i>
-  <h1 class="accordion-title"><span style="font-weight: bold">logos | 2 Trees of Eden & What They Mean: Knowledge of Good & Evil vs. Life</h1>
+    <input type="checkbox" id="acc1"checked>
+    <label for="acc1" class="accordion-header">
+      <i></i>
+      <h1 class="accordion-title">
+        logos | 2 Trees of Eden & What They Mean: Knowledge of Good & Evil vs. Life
+      </h1>
+    </label>
+    
   <div class="accordion-content">
       <p>
 If we wish to understand the Tree of Life and the Tree of the Knowledge of Good and Evil, we must begin with seeing them as a part of the creational order. Trees, along with plants and seed-bearing things, come to life by the word of God as part of the creation sequence on the third day (Gen 1:11–12).
@@ -180,7 +185,7 @@ Such a question is the result of knowing good and evil apart from God; and such 
     <label for="acc1" class="accordion-header">
       <i></i>
       <h1 class="accordion-title">
-        <span style="font-weight: bold;">Bible Project | Tree of Life</span>
+        <span style="font-weight: bold;">Bible Project</span> | Tree of Life
       </h1>
     </label>
   
