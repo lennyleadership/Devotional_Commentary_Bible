@@ -98,13 +98,11 @@ toc: true
 <div id="study">
 <ul>
 <li>
-    <input type="checkbox" id="acc1"checked>
-    <label for="acc1" class="accordion-header">
+    <input type="checkbox" checked>
       <i></i>
       <h1 class="accordion-title">
         logos | 2 Trees of Eden & What They Mean: Knowledge of Good & Evil vs. Life
       </h1>
-    </label>
     
   <div class="accordion-content">
       <p>
