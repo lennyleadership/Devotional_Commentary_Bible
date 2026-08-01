@@ -811,7 +811,6 @@ section.study {
 
 /*animation: rule*/
 #study .transition, 
-#study h2,
 #study p, 
 #study ul li i::before, 
 #study ul li i::after {
@@ -825,6 +824,14 @@ section.study {
   -webkit-touch-callout: none;
   user-select: none;
 }
+
+#study li h1::before {
+  display: none;
+  content: none;
+  border-top: none;
+  padding-top: 0;
+}
+/*explain: To remove the grey top line for headings inside <li>, override the h1::before pseudo-element with a more specific selector*/
 
 #study h2 {
   color: #333; /*change the color while expanding the text*/

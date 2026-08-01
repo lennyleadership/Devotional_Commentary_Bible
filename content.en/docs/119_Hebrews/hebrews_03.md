@@ -196,6 +196,8 @@ A. 不可硬着心、惹神发怒（三7-8）；
 
 </div>
 
+<br>
+<br>
 <div id="toc_container">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
