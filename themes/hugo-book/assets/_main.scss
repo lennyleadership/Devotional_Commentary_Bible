@@ -790,7 +790,7 @@ a {
 
 
 
-/* collapsible text *///////////////////////////////////////////////////////////////////////////////
+/* CSS-only accordion *///////////////////////////////////////////////////////////////////////////////
 /* no javascript */
 
 #study {
@@ -809,10 +809,16 @@ section.study {
   text-align: left;
 }
 
-.transition, p, ul li i:before, ul li i:after {
+/*animation: rule*/
+#study .transition, 
+#study p, 
+#study ul li i::before, 
+#study ul li i::after {
   transition: all 0.3s;
 }
 
+
+/*Prevent text selection*/
 #study .no-select, #study h2 {
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
