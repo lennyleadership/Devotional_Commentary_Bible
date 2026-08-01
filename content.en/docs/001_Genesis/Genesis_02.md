@@ -85,6 +85,17 @@ toc: true
 24: 因 此 ， 人 要 离 幵 父 母 ， 与 妻 子 连 合 ， 二 人 成 为 一 体 。   
 25: 当 时 夫 妻 二 人 赤 身 露 体 ， 并 不 羞 耻 。 
 
+
+<figure class="quote">
+  <blockquote>
+    The story begins in a garden.
+  </blockquote>
+
+  <figcaption>
+    — Tree of Life
+  </figcaption>
+</figure>
+
 </div>
 
 <div id="knowledge" class="tabcontent">
@@ -177,15 +188,7 @@ Such a question is the result of knowing good and evil apart from God; and such 
       <p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/TJLan-pJzfQ" title="We Studied the Tree of Life in the Bible (Here’s What We Found)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<figure class="quote">
-  <blockquote>
-    The story begins in a garden.
-  </blockquote>
 
-  <figcaption>
-    — Tree of Life
-  </figcaption>
-</figure>
 
 <div class = "quote">
 
