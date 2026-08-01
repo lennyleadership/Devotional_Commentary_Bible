@@ -175,7 +175,6 @@ Such a question is the result of knowing good and evil apart from God; and such 
   <h1 class="accordion-title"><span style="font-weight: bold">Bible Project | Tree of Life</h1>
   <div class="accordion-content">
       <p>
-
 <iframe width="640" height="360" src="https://www.youtube.com/embed/TJLan-pJzfQ" title="We Studied the Tree of Life in the Bible (Here’s What We Found)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
@@ -297,14 +296,9 @@ Tree of Life SCRIPT REFERENCES
 |1. Genesis 2 |2. Genesis 2:1-17 |3. Genesis 2:9 |4. Genesis 2:16 |5. Genesis 3:22 |
 |-------------|------------------|---------------|----------------|----------------|
 |6. Genesis 2:16-17 |7. Genesis 4:8, Genesis 6:5 |8. Genesis 3:1-7 |9. Genesis 3:22-24 |10. Exodus 3:1-6, 10-12|
-|---|---|---|---|---|
 |11. Exodus 3:5 |12. Exodus 3:7-10 |13. Exodus 19:3-6 |14. Exodus 32:1-10 |15. 1 Kings 11:7-8, 1 Kings 12:26-30 | 
-|---|---|---|---|---|
 |16. Judges 2:11-13, 1 Kings 14:21-24 |17. 2 Kings 21:1-7 |18. Mark 1:15 |19. John 15:1, 4-5 |20. John 6:51 |
-|---|---|---|---|---|
 |21. Mark 11 |22. John 19:16-18 |23. John 12:24 |24. Galatians|  |
-
-
       </p>
   </div>
   

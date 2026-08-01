@@ -954,18 +954,17 @@ section.study {
   height: auto;
   overflow: hidden;
   opacity: 1;
-  padding-right: 10 px; /* keeps text away from scrollbar */
   transition: max-height 0.6s ease, opacity 0.3s ease, padding 0.6s ease; /* keep the expand/collapse animation*/
 }
 
 /* Hide the content when the checkbox is checked */
 #study input[type="checkbox"]:checked ~ .accordion-content {
   max-height: 0;
-  overflow: hidden;
   opacity: 0;
-  margin: 0;
-  padding-top: 0;
-  padding-bottom: 0;
+  /*overflow: hidden;
+  /*margin: 0;
+  /*padding-top: 0;
+  padding-bottom: 0;*/
 }
 
 /*want the content to animate when closed */
@@ -991,9 +990,12 @@ section.study {
   /*transform: translate(0, 50%);*/
 }
 
+
+/*These rules change the accordion’s arrow icon when its checkbox is checked—typically when the accordion item is closed or opened*/
 #study ul li input[type=checkbox]:checked ~ i:before {
   transform: translate(2px, 0) rotate(45deg);
 }
+
 #study ul li input[type=checkbox]:checked ~ i:after {
   transform: translate(-2px, 0) rotate(-45deg);
 }
