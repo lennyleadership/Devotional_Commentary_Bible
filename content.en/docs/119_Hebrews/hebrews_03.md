@@ -147,34 +147,13 @@ A. 不可硬着心、惹神发怒（三7-8）；
 <div id="note1" class="tabcontent">
 
 <div id="study">
-    <ul>
-      <li>
-        <input type="checkbox" checked>
-        <i></i> /*display arrow*/
-        <h2>Question or heading</h2>
-        <p>
-          This paragraph is initially visible.
-          Click the heading area to collapse it.
-        </p>
-      </li>
-
-  <li>
-        <input type="checkbox">
-        <h2>Another heading</h2>
-        <p>Another expandable answer.</p>
-      </li>
-    </ul>
-</div>
-
-
-<div id="study">
   <ul>
+    <h2>Shadowing of Jesus</h2>
   <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Shadowing of Jesus</h2>
-      <p>
 <h2><span class ="overline">首先的亚当 和 末后的亚当</span></h2>
+<p>
 <br>林前15:45-49
 <br>经上也是这样记著说：「首先的人亚当成了有灵的活人」；末後的亚当成了叫人活的灵。
 <br>但属灵的不在先，属血气的在先，以後才有属灵的。
@@ -182,21 +161,25 @@ A. 不可硬着心、惹神发怒（三7-8）；
 <br>那属土的怎样，凡属土的也就怎样；属天的怎样，凡属天的也就怎样。 
 <br>我们既有属土的形状，将来也必有属天的形状。
 <br>
+</p>
 
 <h2><span class ="overline">首先的摩西/约书亚 和 末后的摩西/约书亚</span></h2>
+<p>
 <br>希伯来书 3:2,5
 <br>2 他为那设立他的尽忠，如同摩西在　神的全家尽忠一样。……
 <br>5 摩西为仆人，在　神的全家诚然尽忠，为要证明将来必传说的事。
+</p>
 
 <h2><span class ="overline">灵磐石</span></h2>
-<br>
+<p>
 <br>哥林多前书 10:1-4
 <br>1 弟兄们，我不愿意你们不晓得，我们的祖宗从前都在云下，都从海中经过， 
 <br>2 都在云里、海里受洗归了摩西； 
 <br>3 并且都吃了一样的灵食， 
 <br>4 也都喝了一样的灵水。所喝的，是出于随着他们的灵磐石；那磐石就是基督。
-      </p>
+</p>
   </li>
+  
   <li>
       <input type="checkbox" checked>
       <i></i>
