@@ -181,8 +181,8 @@ Such a question is the result of knowing good and evil apart from God; and such 
 <div id="study">
 <ul>
 <li>
-  <input type="checkbox" id="acc1"checked>
-    <label for="acc1" class="accordion-header">
+  <input type="checkbox" id="acc2"checked>
+    <label for="acc2" class="accordion-header">
       <i></i>
       <h1 class="accordion-title">
         <span style="font-weight: bold;">Bible Project</span> | Tree of Life
