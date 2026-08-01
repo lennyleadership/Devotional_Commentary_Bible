@@ -905,9 +905,11 @@ section.study {
   opacity: 0;
   touch-action: manipulation;
 }
+
 #study ul li input[type=checkbox]:checked ~ h2 {
   color: #000;
 }
+
 #study ul li input[type=checkbox]:checked ~ p {
   /*margin-top: 0;*/
   max-height: 0;
@@ -915,6 +917,7 @@ section.study {
   opacity: 0;
   /*transform: translate(0, 50%);*/
 }
+
 #study ul li input[type=checkbox]:checked ~ i:before {
   transform: translate(2px, 0) rotate(45deg);
 }
