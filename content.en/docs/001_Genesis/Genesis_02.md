@@ -55,6 +55,17 @@ toc: true
 24: Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.  
 25: And they were both naked, the man and his wife, and were not ashamed.
 
+
+<quote>
+  <blockquote>
+    The story begins in a garden.
+  </blockquote>
+
+  <figcaption>
+    — Tree of Life
+  </figcaption>
+</quote>
+
 </div>
 
 <div id="chinese" class="tabcontent">
@@ -86,15 +97,6 @@ toc: true
 25: 当 时 夫 妻 二 人 赤 身 露 体 ， 并 不 羞 耻 。 
 
 
-<figure class="quote">
-  <blockquote>
-    The story begins in a garden.
-  </blockquote>
-
-  <figcaption>
-    — Tree of Life
-  </figcaption>
-</figure>
 
 </div>
 
