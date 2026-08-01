@@ -110,6 +110,7 @@ section.study {
   background: transparent;/*#fff*/
   box-shadow: 0 3px 10px -2px rgba(0,0,0,0.1);
   -webkit-tap-highlight-color: transparent;
+  list_style: none; /* to click the checkbox toggle only on the title row, new addition 2026.08.01*/
 }
 
 #study ul li + li {
@@ -154,10 +155,17 @@ section.study {
   z-index: 1;
   opacity: 0;
   touch-action: manipulation;
+  display: none; /* to click the checkbox toggle only on the title row, new addition 2026.08.01*/
 }
 
 
-
+/* to click the checkbox toggle only on the title row, new addition 2026.08.01*/
+#study .accordion-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+} 
 
 /* Accordion content: expand to its full natural height */
 #study .accordion-content {
@@ -166,6 +174,7 @@ section.study {
   overflow: hidden;
   opacity: 1;
   transition: max-height 0.6s ease, opacity 0.3s ease, padding 0.6s ease; /* keep the expand/collapse animation*/
+  display: block; /* to click the checkbox toggle only on the title row, new addition 2026.08.01*/
 }
 
 /* Hide the content when the checkbox is checked */
@@ -185,6 +194,7 @@ section.study {
   opacity: 0;
   padding-top: 0;
   padding-bottom: 0;
+  display: none; /* to click the checkbox toggle only on the title row, new addition 2026.08.01*/
 }
 
 #study ul li input[type=checkbox]:checked ~ h2 {
