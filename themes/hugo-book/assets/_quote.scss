@@ -6,6 +6,7 @@
   border-radius: 1em;
 }
 
+
 .quote figcaption,
 .quote blockquote {
   margin: 1em;
@@ -16,3 +17,19 @@
 //* the end *****************************************************************************************
 
 
+blockquote {
+    margin: $padding-16 0; /*adds vertical space above and below the blockquote, with no left/right margin. */
+    
+    padding: $padding-8 $padding-16 $padding-8 ($padding-16 - $padding-4); /*adds internal space inside the blockquote. The left padding is reduced by the border width*/
+
+    border-inline-start: $padding-4 solid orange; /*draws a border on the start side of the line, which means left in left-to-right languages and right in right-to-left languages. */
+    
+    border-radius: $border-radius;
+
+    &:first-child {
+      margin-top: 0;
+    } /*That means it applies to the first child element inside the blockquote, not the blockquote itself. */
+    &:last-child {
+      margin-bottom: 0;
+    }
+}
