@@ -56,15 +56,10 @@ toc: true
 25: And they were both naked, the man and his wife, and were not ashamed.
 
 
-<quote>
-  <blockquote>
+<blockquote>
     The story begins in a garden.
-  </blockquote>
+</blockquote>
 
-  <figcaption>
-    — Tree of Life
-  </figcaption>
-</quote>
 
 </div>
 
