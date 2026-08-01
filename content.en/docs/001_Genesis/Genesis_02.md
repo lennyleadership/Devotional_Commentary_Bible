@@ -200,87 +200,87 @@ Take time to discuss other themes, questions, or key takeaways from what you lea
 
 **THE GARDEN OF EDEN  00:00-00:31>**
 
-<br><br><strong>Jon:</strong> The story of the Bible begins in a garden, where God and humans live together. 1 
+<br><strong>Jon:</strong> The story of the Bible begins in a garden, where God and humans live together. 1 
 
-<br><br><strong>Tim:</strong> And the biblical authors want us to see this garden as a type of temple. The top is the most sacred place, the holy of holies, where God’s presence is most intense. 2 
+<br><strong>Tim:</strong> And the biblical authors want us to see this garden as a type of temple. The top is the most sacred place, the holy of holies, where God’s presence is most intense. 2 
 
-<br><br><strong>Jon:</strong> And that’s where we find the tree of life. 3 So what’s the tree all about? 
+<br><strong>Jon:</strong> And that’s where we find the tree of life. 3 So what’s the tree all about? 
 
 **THE TREE IN THE GARDEN   00:32-01:25** 
 
-<br><br><strong>Tim:</strong> Well it represents God’s own life and creative power that is made available to others. In fact, God’s first command is that humans eat from all of the trees, including this one. 4 
+<br><strong>Tim:</strong> Well it represents God’s own life and creative power that is made available to others. In fact, God’s first command is that humans eat from all of the trees, including this one. 4 
 
-<br><br><strong>Jon:</strong> So you’re ingesting God’s own life? That sounds intense! 
+<br><strong>Jon:</strong> So you’re ingesting God’s own life? That sounds intense! 
 
-<br><br><strong>Tim:</strong> Yeah. This meal transforms the one who eats it, or, in the words of the story, it leads to “eternal life.” 5 
+<br><strong>Tim:</strong> Yeah. This meal transforms the one who eats it, or, in the words of the story, it leads to “eternal life.” 5 
 
-<br><br><strong>Jon:</strong> Okay, but on the way to the tree of life, the humans have to pass by another tree called the tree of knowing good and bad. 
+<br><strong>Jon:</strong> Okay, but on the way to the tree of life, the humans have to pass by another tree called the tree of knowing good and bad. 
 
-<br><br><strong>Tim:</strong> And God says that eating from this tree will kill you. 6 
+<br><strong>Tim:</strong> And God says that eating from this tree will kill you. 6 
 
-<br><br><strong>Jon:</strong> How does it do that? 
+<br><strong>Jon:</strong> How does it do that? 
 
-<br><br><strong>Tim:</strong> Well, it represents taking the authority to do what is good in your own eyes. When humans do that... 
+<br><strong>Tim:</strong> Well, it represents taking the authority to do what is good in your own eyes. When humans do that... 
 
-<br><br><strong>Jon:</strong> ...it leads to broken relationships, violence, and death. 7 
+<br><strong>Jon:</strong> ...it leads to broken relationships, violence, and death. 7 
 
-<br><br><strong>Tim:</strong> And so here’s the thing. Both trees look beautiful, but one of them is a false tree of life. 
+<br><strong>Tim:</strong> And so here’s the thing. Both trees look beautiful, but one of them is a false tree of life. 
 
-<br><br><strong>Jon:</strong> And the humans take from this false tree of life. 8 
+<br><strong>Jon:</strong> And the humans take from this false tree of life. 8 
 
-<br><br><strong>Tim:</strong> And they’re exiled from the garden for good. 9 
+<br><strong>Tim:</strong> And they’re exiled from the garden for good. 9 
 
 
 **SEPARATED FROM THE TREE    01:26-02:28**
 
-<br><br><strong>Jon:</strong> Which raises the question: Can anyone ever get back to the tree of life? 
+<br><strong>Jon:</strong> Which raises the question: Can anyone ever get back to the tree of life? 
 
-<br><br><strong>Tim:</strong> Well, later on in the story we meet a man named Moses, and he encounters God in a desert-tree on top of a mountain. 10 <br><br><strong>Jon:</strong> Oh, you mean the burning bush, where Moses is told that he’s standing on holy ground. 11 
+<br><strong>Tim:</strong> Well, later on in the story we meet a man named Moses, and he encounters God in a desert-tree on top of a mountain. 10 <br><strong>Jon:</strong> Oh, you mean the burning bush, where Moses is told that he’s standing on holy ground. 11 
 
-<br><br><strong>Tim:</strong> Yeah. It’s a plant on a mountain radiating with God’s life and power, just like the tree of life. 
+<br><strong>Tim:</strong> Yeah. It’s a plant on a mountain radiating with God’s life and power, just like the tree of life. 
 
-<br><br><strong>Jon:</strong> And God tells Moses, “Bring your people up to this mountain, so we can form a partnership.” 12 
+<br><strong>Jon:</strong> And God tells Moses, “Bring your people up to this mountain, so we can form a partnership.” 12 
 
-<br><br><strong>Tim:</strong> And this partnership will force them to make a choice. 13 Will they follow gods of their own making or receive life from the true God? 
+<br><strong>Tim:</strong> And this partnership will force them to make a choice. 13 Will they follow gods of their own making or receive life from the true God? 
 
 
-<br><br><strong>Jon:</strong> And in this story, they give their allegiance to an idol. 14 
+<br><strong>Jon:</strong> And in this story, they give their allegiance to an idol. 14 
 
-<br><br><strong>Tim:</strong> And it’s just the first of many. The story goes on to show generation after generation choosing gods of their own making. 15 And these idols were usually placed on tall hills, like beautiful trees. 16 But they’re false trees of life that lead the people into self-destruction, exile, and death. 17 
+<br><strong>Tim:</strong> And it’s just the first of many. The story goes on to show generation after generation choosing gods of their own making. 15 And these idols were usually placed on tall hills, like beautiful trees. 16 But they’re false trees of life that lead the people into self-destruction, exile, and death. 17 
 
-<br><br><strong>Jon:</strong> It’s like death’s grip on us is too strong to resist. Is there any hope? 
+<br><strong>Jon:</strong> It’s like death’s grip on us is too strong to resist. Is there any hope? 
 
 **JESUS: TREE OF LIFE    02:29-03:41 **
 
-<br><br><strong>Tim:</strong> Well, let’s turn now to the story of Jesus. He came to announce that God’s eternal life was available once again through him. 18 
+<br><strong>Tim:</strong> Well, let’s turn now to the story of Jesus. He came to announce that God’s eternal life was available once again through him. 18 
 
-<br><br><strong>Jon:</strong> So Jesus thinks of himself as the tree of life! 
+<br><strong>Jon:</strong> So Jesus thinks of himself as the tree of life! 
 
-<br><br><strong>Tim:</strong> Yes. This is what he meant when he claimed to be the vine that brings God’s life into the world. 19 
+<br><strong>Tim:</strong> Yes. This is what he meant when he claimed to be the vine that brings God’s life into the world. 19 
 
-<br><br><strong>Jon:</strong> And Jesus invited people to eat from him.
+<br><strong>Jon:</strong> And Jesus invited people to eat from him.
 
-<br><br><strong>Tim:</strong> Yeah. He was inviting people to trust him and be transformed by his life. 20 But Jesus also exposed how corrupt humans are, how much they love false trees of life. 21 And so Jesus presented people with a new choice between life or death. 
+<br><strong>Tim:</strong> Yeah. He was inviting people to trust him and be transformed by his life. 20 But Jesus also exposed how corrupt humans are, how much they love false trees of life. 21 And so Jesus presented people with a new choice between life or death. 
 
-<br><br><strong>Jon:</strong> And this time they don’t just choose death, they also chose to attack the one who sustains all of life. 
+<br><strong>Jon:</strong> And this time they don’t just choose death, they also chose to attack the one who sustains all of life. 
 
-<br><br><strong>Tim:</strong> Yes. Jesus is led up to the top of a hill where he dies upon a tree. 22 The cross is the sad and violent result of humanity’s desire to do what is good in our own eyes. 
+<br><strong>Tim:</strong> Yes. Jesus is led up to the top of a hill where he dies upon a tree. 22 The cross is the sad and violent result of humanity’s desire to do what is good in our own eyes. 
 
-<br><br><strong>Jon:</strong> The tree of life has been overcome by the power of death. 
+<br><strong>Jon:</strong> The tree of life has been overcome by the power of death. 
 
-<br><br><strong>Tim:</strong> Well, it seemed that way. But Jesus said that he was a seed of God’s life that would die in the ground but then grow into a plant that would bear much fruit. 23 
+<br><strong>Tim:</strong> Well, it seemed that way. But Jesus said that he was a seed of God’s life that would die in the ground but then grow into a plant that would bear much fruit. 23 
 
-<br><br><strong>Jon:</strong> So to defeat death, Jesus went through it. 24 
+<br><strong>Jon:</strong> So to defeat death, Jesus went through it. 24 
 
 **EAT FROM THE TREE TODAY   03:42-04:26 **
 
-<br><br><strong>Tim:</strong> And now this new tree of life stands before us all. We can eat from it, but it will mean passing through death like Jesus, allowing our old way of being human to die. <br><br><strong>Jon:</strong> So that a new humanity can grow in its place. 
+<br><strong>Tim:</strong> And now this new tree of life stands before us all. We can eat from it, but it will mean passing through death like Jesus, allowing our old way of being human to die. <br><strong>Jon:</strong> So that a new humanity can grow in its place. 
 
-<br><br><strong>Tim:</strong> Yes. Jesus said that he is the vine and we are his branches. So not only do you eat from this tree, you’re invited to become part of it, helping produce its fruit, so that his life and love can spread through us to others. 25 
+<br><strong>Tim:</strong> Yes. Jesus said that he is the vine and we are his branches. So not only do you eat from this tree, you’re invited to become part of it, helping produce its fruit, so that his life and love can spread through us to others. 25 
 
-<br><br><strong>Jon:</strong> And so the story of the Bible ends with a new temple. 
+<br><strong>Jon:</strong> And so the story of the Bible ends with a new temple. 
 
-<br><br><strong>Tim:</strong> Which is also a new garden with the tree of life is at its center, providing healing and life forever to all who choose to eat from it. 26 
+<br><strong>Tim:</strong> Which is also a new garden with the tree of life is at its center, providing healing and life forever to all who choose to eat from it. 26 
 
 1. Genesis 2 2. Genesis 2:1-17 3. Genesis 2:9 4. Genesis 2:16 5. Genesis 3:22   
 6. Genesis 2:16-17 7. Genesis 4:8, Genesis 6:5 8. Genesis 3:1-7 9. Genesis 3:22-24 10. Exodus 3:1-6, 10-12   
