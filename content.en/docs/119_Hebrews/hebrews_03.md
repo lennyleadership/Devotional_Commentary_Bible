@@ -149,8 +149,7 @@ A. 不可硬着心、惹神发怒（三7-8）；
 <div id="study">
     <ul>
       <li>
-        <input type="checkbox">
-        <i></i>
+        <input type="checkbox" checked>
         <h2>Question or heading</h2>
         <p>
           This paragraph is initially visible.
@@ -160,7 +159,6 @@ A. 不可硬着心、惹神发怒（三7-8）；
 
   <li>
         <input type="checkbox">
-        <i></i>
         <h2>Another heading</h2>
         <p>Another expandable answer.</p>
       </li>
