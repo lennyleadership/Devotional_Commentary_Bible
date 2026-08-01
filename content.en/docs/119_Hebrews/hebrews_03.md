@@ -146,7 +146,7 @@ A. 不可硬着心、惹神发怒（三7-8）；
 
 <div id="note1" class="tabcontent">
 
-<div class="overline">My text</div>
+
 
 <div id="study">
   <ul>

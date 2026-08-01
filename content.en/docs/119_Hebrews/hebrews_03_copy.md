@@ -146,6 +146,30 @@ A. 不可硬着心、惹神发怒（三7-8）；
 
 <div id="note1" class="tabcontent">
 
+<section class="study">
+  <div id="study">
+    <ul>
+  <li>
+        <input type="checkbox">
+        <i></i>
+        <h2>Question or heading</h2>
+        <p>
+          This paragraph is initially visible.
+          Click the heading area to collapse it.
+        </p>
+      </li>
+
+  <li>
+        <input type="checkbox">
+        <i></i>
+        <h2>Another heading</h2>
+        <p>Another expandable answer.</p>
+      </li>
+    </ul>
+  </div>
+</section>
+
+
 <div id="study">
   <ul>
     <li>
