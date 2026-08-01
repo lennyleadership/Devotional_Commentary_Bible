@@ -149,7 +149,7 @@ A. 不可硬着心、惹神发怒（三7-8）；
 <div id="study">
     <ul>
       <li>
-        <input type="checkbox" checked>
+        <input type="checkbox">
         <h2>Question or heading</h2>
         <p>
           This paragraph is initially visible.
