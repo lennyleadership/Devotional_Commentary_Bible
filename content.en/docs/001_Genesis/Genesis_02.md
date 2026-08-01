@@ -56,9 +56,7 @@ toc: true
 25: And they were both naked, the man and his wife, and were not ashamed.
 
 
-<blockquote>
-    The story begins in a garden.
-</blockquote>
+
 
 
 </div>
@@ -190,6 +188,7 @@ Such a question is the result of knowing good and evil apart from God; and such 
 <div class = "quote">
 
 <b>Reflect</b>
+<blockquote>
 <ul>
 <li>
 What is one practical example of what it means to eat from the tree of life? How is it different from eating from the false tree of life?
@@ -207,6 +206,7 @@ When Jesus talks about what his death will accomplish, he talks about a seed goi
 Take time to discuss other themes, questions, or key takeaways from what you learned together.
 </li>
 </ul>
+</blockquote>
 
 </div>
 
