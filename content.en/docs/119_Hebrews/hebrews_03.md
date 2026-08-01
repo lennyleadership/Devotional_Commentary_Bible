@@ -151,7 +151,7 @@ A. 不可硬着心、惹神发怒（三7-8）；
 <li>
   <input type="checkbox" checked>
   <i></i>
-  <h2 class="accordion-title">Shadowing of Jesus</h2>
+  <h1 class="accordion-title">Shadowing of Jesus</h1>
   
   <div class="accordion-content">
     <h2><span class ="overline">首先的亚当 和 末后的亚当</span></h2>
