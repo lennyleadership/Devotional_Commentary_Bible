@@ -177,6 +177,15 @@ Such a question is the result of knowing good and evil apart from God; and such 
       <p>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/TJLan-pJzfQ" title="We Studied the Tree of Life in the Bible (Here’s What We Found)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<figure class="quote">
+  <blockquote>
+    The story begins in a garden.
+  </blockquote>
+
+  <figcaption>
+    — Tree of Life
+  </figcaption>
+</figure>
 
 <div class = "quote">
 
@@ -201,7 +210,7 @@ Take time to discuss other themes, questions, or key takeaways from what you lea
 
 </div>
 
-Tree of Life SCRIPT REFERENCES 
+Tree of Life SCRIPT REFERENCES   
 <br>
 
 **THE GARDEN OF EDEN  00:00-00:31**
@@ -214,21 +223,19 @@ Tree of Life SCRIPT REFERENCES
 
 **THE TREE IN THE GARDEN   00:32-01:25** 
 
-<b>Tim:</b> Well it represents God’s own life and creative power that is made available to others. In fact, God’s first command is that humans eat from all of the trees, including this one. 4 
+<b>Tim:</b> Well <mark style="background-color: #A8CD66 ; color: black;">it represents God’s own life and creative power that is made available to others</mark>. In fact, God’s first command is that humans eat from all of the trees, including this one. 4 
 
 <b>Jon:</b> So you’re ingesting God’s own life? That sounds intense! 
 
-<b>Tim:</b> Yeah. This meal transforms the one who eats it, or, in the words of the story, it leads to “eternal life.” 5 
+<b>Tim:</b> Yeah. <mark style="background-color: #A8CD66 ; color: black;">This meal transforms the one who eats it, or, in the words of the story, it leads to “eternal life.”</mark> 5 
 
 <b>Jon:</b> Okay, but on the way to the tree of life, the humans have to pass by another tree called the tree of knowing good and bad. 
 
-<b>Tim:</b> And God says that eating from this tree will kill you. 6   
-
-<br>
+<b>Tim:</b> And God says that eating from this tree will kill you. 6    
 
 <b>Jon:</b> How does it do that? 
 
-<b>Tim:</b> Well, it represents taking the authority to do what is good in your own eyes. When humans do that... 
+<b>Tim:</b> Well, <mark style="background-color: #A8CD66 ; color: black;">it represents taking the authority to do what is good in your own eyes</mark>. When humans do that... 
 
 <b>Jon:</b> ...it leads to broken relationships, violence, and death. 7 
 

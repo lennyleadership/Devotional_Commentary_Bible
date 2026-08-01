@@ -5,10 +5,14 @@
   padding: 0.5em;
   border-radius: 1em;
 }
+
 .quote figcaption,
 .quote blockquote {
   margin: 1em;
 }
+
+/* explain: margin creates empty space outside an element. 1em is usually equal to the current font size, so with a 16px font it is commonly 16px on all four sides: top, right, bottom, and left.*/
+
 //* the end *****************************************************************************************
 
 
