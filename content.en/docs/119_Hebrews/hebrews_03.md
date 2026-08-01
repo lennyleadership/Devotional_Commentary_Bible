@@ -164,7 +164,7 @@ A. 不可硬着心、惹神发怒（三7-8）；
     <br>我们既有属土的形状，将来也必有属天的形状。
     <br>
     </p>
-  </div>
+    <br>
     <h2><span class ="overline">首先的摩西/约书亚 和 末后的摩西/约书亚</span></h2>
     <p>
     <br>希伯来书 3:2,5
@@ -179,15 +179,18 @@ A. 不可硬着心、惹神发怒（三7-8）；
     <br>3 并且都吃了一样的灵食， 
     <br>4 也都喝了一样的灵水。所喝的，是出于随着他们的灵磐石；那磐石就是基督。
     </p>
-  </li>
+    </div>
+</li>
   
-  <li>
-      <input type="checkbox" checked>
-      <i></i>
-      <h2><span style="font-weight: bold">person</span> | topic</h2>
+<li>
+  <input type="checkbox" checked>
+  <i></i>
+  <h1 class="accordion-title"><span style="font-weight: bold">person</span> | topic</h1>
+  <div class="accordion-content">
       <p>
       </p>
-    </li>
+  </div>
+</li>
     
 </ul>
 
