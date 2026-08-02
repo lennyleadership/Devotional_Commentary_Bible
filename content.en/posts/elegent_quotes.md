@@ -97,3 +97,12 @@ menu = "main"
 </figure>
 
 
+# Quote with tag
+
+<figure class="quote-with-tag">
+  <figcaption class="quote-tag">QUESTION</figcaption>
+
+  <blockquote>
+    <p>Why was it wrong for Adam and Eve to know good and evil (Genesis 3:22)?</p>
+  </blockquote>
+</figure>
