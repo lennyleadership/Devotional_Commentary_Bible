@@ -174,6 +174,7 @@ Such a question is the result of knowing good and evil apart from God; and such 
 </ul>
 </div>
 
+<br>
 
 
 <div id="study">
@@ -191,9 +192,6 @@ Such a question is the result of knowing good and evil apart from God; and such 
 <iframe src="https://www.youtube.com/embed/TJLan-pJzfQ" title="We Studied the Tree of Life in the Bible (Here’s What We Found)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 
-
-<br>
-<br>
 
 <div class = "quote">
 
