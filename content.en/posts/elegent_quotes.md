@@ -83,3 +83,9 @@ menu = "main"
   <figcaption>— Author, <cite>Source</cite></figcaption>
 </figure>
 
+# Fancy Quote
+<blockquote class="fancy-quote">
+  <p>The tree of life stands at the center of the story.</p>
+</blockquote>
+
+

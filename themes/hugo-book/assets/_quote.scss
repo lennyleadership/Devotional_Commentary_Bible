@@ -191,6 +191,40 @@
 
 
 
+.fancy-quote {
+  position: relative;
+  margin: 2rem 0;
+  padding: 1.5rem 2rem;
+  background: #f9f8f5;
+  border-left: 4px solid #01696f;
+  border-radius: 12px;
+}
+
+.fancy-quote p {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.7;
+  position: relative;
+}
+
+.fancy-quote p::before {
+  content: "“";
+  font-size: 3rem;
+  color: #01696f;
+  line-height: 0;
+  margin-right: 0.25rem;
+  vertical-align: -0.4rem;
+}
+
+.fancy-quote p::after {
+  content: "”";
+  font-size: 3rem;
+  color: #01696f;
+  line-height: 0;
+  margin-left: 0.15rem;
+  vertical-align: -0.5rem;
+}
+
 /* explain: margin creates empty space outside an element. 1em is usually equal to the current font size, so with a 16px font it is commonly 16px on all four sides: top, right, bottom, and left.*/
 
 //* the end *****************************************************************************************
