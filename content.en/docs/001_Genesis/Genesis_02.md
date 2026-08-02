@@ -192,7 +192,8 @@ Such a question is the result of knowing good and evil apart from God; and such 
   </div>
 
 
-
+<br>
+<br>
 
 <div class = "quote">
 
@@ -324,8 +325,7 @@ Tree of Life SCRIPT REFERENCES
 </ul>
 </div>
 
-<br>
-<br>
+
 
 <div id="study">
 <ul>
