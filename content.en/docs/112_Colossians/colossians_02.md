@@ -20,6 +20,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'fullness')">Fullness in Christ</button>
   <button class="tablinks" onclick="tablabel(event, 'quiz')">Quiz 问题</button>  
 </div>
 
@@ -81,6 +82,63 @@ toc: true
 2:21 见上节
 2:22 这都是照人所吩咐所教导的。说到这一切、正用的时候就都败坏了。  
 2:23 这些规条、使人徒有智慧之名、用私意崇拜、自表谦卑、苦待己身、其实在克制肉体的情欲上、是毫无功效。  
+
+</div>
+
+<div id="fullness" class="tabcontent">
+
+Colossians 1:19 NKJV  
+19 For it pleased the Father that in Him all the fullness should dwell.
+
+
+<figure class="book-quote">
+  <blockquote>
+    <p>
+Then Paul took a giant step forward in his argument, for he declared that “all fullness” dwelt in Jesus Christ! The word translated “fullness” is the Greek
+word pleroma (pronounced “play-RO-ma”). It was a technical term in the vocabulary of the gnostic false teachers. It meant “the sum total of all the divine power and attributes.” We have already noted that Paul used this important word eight times in the Colossian letter, so he was meeting the false teachers on their own ground.  
+
+The word dwell is equally important. It means much more than merely “to reside.” The form of the verb means “to be at home permanently.” The late Dr. Kenneth S. Wuest, noted Greek expert, pointed out in his excellent commentary on Colossians that the verb indicates that this fullness was “not something added to
+His Being that was not natural to Him, but that it was part of His essential Being as part of His very constitution, and that permanently” (Ephesians and Colossians in the Greek New Testament, [Grand Rapids, Mich.: Eerdmans], 187).
+
+The Father would not permanently give His pleroma to some created being. The fact that it “pleased the Father” to have His fullness in Christ is proof that
+Jesus Christ is God. “And of his [Christ’s] fullness have all we received” (John 1:16). “For in him [Jesus Christ] dwelleth all the fullness of the Godhead bodily” (Col.2:9).
+
+Because Jesus Christ is God, He is able to do what no mere man could ever do: reconcile lost sinners to a holy God. When the first man and woman sinned, they declared war on God, but God did not declare war on them. Instead, God sought Adam and Eve, and He provided a covering for their sins.
+    </p>
+  </blockquote>
+  <figcaption>— Wiersbe <cite>The Wiersbe Bible Commentary NT</cite></figcaption>
+</figure>
+
+
+
+
+Colossians 2:3, 9-10 NKJV  
+3 in whom are hidden all the treasures of wisdom and knowledge.......  
+9 For in Him dwells all the fullness of the Godhead bodily;  
+10 and you are complete in Him, who is the head of all principality and power.
+
+
+<figure class="book-quote">
+  <blockquote>
+    <p>
+God wants us as His children to have “understanding” and “wisdom and knowledge” (Col. 2:2–3). The word translated “understanding” literally means “to
+place together.” It is the ability to assess things. Wisdom implies the ability to defend what we understand. Knowledge suggests the ability to grasp truth. All of these terms were also used by the gnostics.
+
+So Paul gave the true and lasting antidote to all false teaching: “All fullness is in Christ, and you have been made full in Him. Why, then, would you need anything else?” (see Col. 2:9–10).
+
+We have seen the word “fullness” (pleroma) before (Col. 1:19). It means “the sum total of all that God is, all of His being and attributes.” This word was used by the gnostics, but they did not give it the same meaning as did Paul. To them, the pleroma was the source of all the “emanations” through which men could come to God. The highest point in gnostic religious experience was to share in the pleroma.
+
+Of course, there are no emanations from God. The gulf between heaven and earth was bridged in the incarnation of Jesus Christ. He is declared to be “Emmanuel, God with us” (Matt. 1:23). Jesus Christ is the fullness of God, and that fullness dwells continually and permanently in Him bodily. Once again, Paul refuted the gnostic doctrine that matter was evil and that Jesus did not have a human body. 
+
+When Jesus Christ ascended to heaven, He went in a human body. It was a glorified body, to be sure, but it was real. After His resurrection, our Lord was care ful to assure His disciples that He was the same Person in the same body; He was not a ghost or a spirit (see John 20:19–29). There is a glorified Man in heaven! The God-Man, Jesus Christ, embodies the fullness of God!
+
+Now, the remarkable thing is this: every believer shares that fullness! “And ye are complete in him” (Col. 2:10). The tense of the Greek verb indicates that this fullness is a permanent experience. Dr. Kenneth Wuest’s very literal Expanded Translation reads, “And you are in Him, having been completely filled full with the present result that you are in a state of fullness.” When a person is born again into the family of God, he is born complete in Christ. His spiritual growth is not by addition, but by nutrition. He grows from the inside out. Nothing needs to be added to Christ because He already is the very fullness of God. As the believer draws on Christ’s fullness, he is “filled unto all the fullness of God” (Eph. 3:19). What more does he need?
+
+Indeed, there are spiritual perils that the Christian faces. The fundamental test of any religious teaching is “Where does it put Jesus Christ—His person and His work?” Does it rob Him of His fullness? Does it deny either His deity or His humanity? Does it affirm that the believer must have some “new experience” to sup plement his experience with Christ? If so, that teaching is wrong and dangerous.
+    </p>
+  </blockquote>
+  <figcaption>— Wiersbe <cite>The Wiersbe Bible Commentary NT</cite></figcaption>
+</figure>
 
 </div>
 

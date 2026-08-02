@@ -325,24 +325,3 @@ Tree of Life SCRIPT REFERENCES
 
 
 
-<div id="study">
-<ul>
-<li>
-  <input type="checkbox"  checked>
-      <i></i>
-      <h1 class="accordion-title">
-        <span style="font-weight: bold;">Bible Project</span> | Tree of Life
-      </h1>
-  
-  <div class="accordion-content">
-
-  <div class="video-wrap">
-  
-  </div>
-  
-  </div>
-  
-</li>
-</ul>
-
-</div>
