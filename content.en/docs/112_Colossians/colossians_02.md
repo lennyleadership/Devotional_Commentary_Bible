@@ -110,10 +110,11 @@ Because Jesus Christ is God, He is able to do what no mere man could ever do: re
 </figure>
 
 
+Colossians 2:2-3 NKJV  
+2 that their hearts may be encouraged, being knit together in love, and attaining to all riches of the full assurance of understanding, to the knowledge of the mystery of God, both of the Father and of Christ,  
+3 in whom are hidden all the treasures of wisdom and knowledge.
 
-
-Colossians 2:3, 9-10 NKJV  
-3 in whom are hidden all the treasures of wisdom and knowledge.......  
+Colossians 2:9-10 NKJV  
 9 For in Him dwells all the fullness of the Godhead bodily;  
 10 and you are complete in Him, who is the head of all principality and power.
 
