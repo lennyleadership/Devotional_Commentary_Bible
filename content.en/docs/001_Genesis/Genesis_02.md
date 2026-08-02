@@ -323,5 +323,66 @@ Tree of Life SCRIPT REFERENCES
 </ul>
 </div>
 
+<br>
+
+<div id="study">
+<ul>
+<li>
+  <input type="checkbox"  checked>
+      <i></i>
+      <h1 class="accordion-title">
+      Stand to Reason | How Could Adam and Eve Sin If They Didn’t Know Good and Evil?
+      </h1>
+  
+  <div class="accordion-content">
+
+  <div class="video-wrap">
+<iframe src="https://www.youtube.com/embed/_lSRqVBzWQg" title="Alex O&#39;Connor: How Could Adam and Eve Sin If They Didn’t Know Good and Evil?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+  </div>
+  
+## Transcript
+
+<b>Tim</b>: Alex O’Connor recently raised an interesting challenge to Christianity on *The Diary of a CEO* podcast. Have a listen.
+
+<b>Alex</b>: She did something immoral?
+
+<b>Greg</b>: Yeah. She disobeyed God.
+
+<b>Alex</b>: And what did she eat from the tree of the knowledge of good and evil? So, she ate from the tree of the knowledge of good and evil, implying that, before she ate of it, she didn’t have a knowledge of good and evil. How could she have done something immoral before she ate it?
+
+<b>Greg</b>: This goes to a connection to my view, so, I just need to clarify this.
+
+<b>Alex</b>: You understand what I’m saying, right?
+
+<b>Greg</b>: Yeah. I understand. I’m entirely sure.
+
+<b>Alex</b>: If she hasn’t eaten from the tree of the knowledge of good and evil, she doesn’t know good and evil. So, how does she know that it’s evil if she hadn’t yet eaten from the knowledge of good and evil?
+
+<b>Tim</b>: Here’s the challenge. How can Adam and Eve be faulted for doing evil if they had no knowledge of good and evil? After all, God says it’s wrong to eat from the tree, but they can’t know it’s wrong to eat from the tree until after they’ve already eaten from the tree. You see the problem? But this contradiction only appears if you take the phrase “knowledge of good and evil” in a very narrow way. In fact, I want to show you that Alex’s interpretation creates a contradiction that really isn’t there.
+
+On Alex’s view, eating from the tree gives you a divine intellectual download of moral facts that you didn’t have before. But is this really what the tree is all about? Let’s take a look.
+
+First, the context implies Adam and Eve already had some awareness of right and wrong. In chapter 2, God gives the command “You shall not eat.” This is a moral prohibition, but a prohibition assumes they had some moral awareness. Obeying God is good. Disobeying God is bad. Notice, however, on Alex’s interpretation, we’re supposed to believe that God gave Adam and Eve a moral command that they couldn’t possibly understand. I don’t think that’s a charitable reading.
+
+Furthermore, Eve is already discerning or evaluating good from bad. In Genesis 3:6. It says, “When the woman saw that the tree was good for food, and that it was a delight to the eyes....” So, she at least has some moral awareness that the tree is good and not bad.
+
+But Tim, that’s not referring to moral goodness. Well, that leads to the second point.
+
+Second, eating from the tree of the knowledge of good and evil means more than an intellectual download about what’s morally good and what’s morally evil. In fact, the Hebrew words “tov” (good) and “ra” (bad) have a much broader meaning than simply moral goodness and moral evil. For example, a fig could be called tov (good) or ra (bad), but that doesn’t mean it’s morally evil.
+
+Elsewhere in the Hebrew Bible, the phrase “knowing good and evil” points to wisdom and moral maturity, not just a basic recognition of right and wrong. For example, Solomon asked God for wisdom in 1 Kings 3. He says, “I am but a little child,” so “give your servant an understanding heart to judge your people to discern between good and evil.” So, knowing good and evil in a Hebrew sense is a sign of wisdom—something children don’t have yet. Before the fall, Adam and Eve are like little children in that sense. They are morally innocent and lacking wisdom. Remember, what entices them is that the tree was “to be desired to make one wise.” This leads to the third point.
+
+Third, the tree of the knowledge of good and evil represents a pivotal choice. Either Adam and Eve are going to obey God and receive wisdom on God’s terms, or they’re going to disobey God and take wisdom on their terms. Proverbs 3:7 says, “Do not be wise in your own eyes; fear the Lord and turn away from evil.” Now, why does it say, “Fear the Lord”? Well, a few chapters later, Proverbs 9:10 says, “The fear of the Lord is the beginning of wisdom.” So, there are those who fear God, and there are those who don’t. Those who fear God receive God’s wisdom. Those who don’t fear God become wise in their own eyes.
+
+So, eating from the tree of the knowledge of good and evil isn’t about some magical fruit which downloads moral knowledge. It’s so much bigger than that. It’s about whether or not Adam and Eve will trust God to attain wisdom. Will they trust and obey the only wise God, or will they disobey and try to become wise on their own terms? By the way, that same choice stands before each of us today. Which will you choose?  
+  </div>
+  
+</li>
+</ul>
+
+</div>
+
+</div>
+
 
 
