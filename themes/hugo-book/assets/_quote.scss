@@ -94,6 +94,103 @@
 }
 
 
+.elegant-quote {
+  max-width: 42rem;
+  margin: 2.5rem auto;
+  padding: 1.5rem 2rem;
+  border-left: 3px solid #01696f;
+  background: #f9f8f5;
+}
+
+.elegant-quote blockquote p {
+  margin: 0;
+  font-size: 1.35rem;
+  line-height: 1.75;
+  font-style: italic;
+}
+
+.elegant-quote figcaption {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  color: #7a7974;
+}
+
+
+.framed-quote {
+  max-width: 40rem;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: white;
+  border: 1px solid #dcd9d5;
+  border-radius: 1rem;
+  box-shadow: 0 12px 32px rgba(0,0,0,.06);
+}
+
+.framed-quote blockquote {
+  margin: 0;
+  padding-left: 1rem;
+  border-left: 4px solid #d19900;
+}
+
+.framed-quote p {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.7;
+}
+
+
+.pull-quote {
+  max-width: 48rem;
+  margin: 4rem auto;
+  padding: 0;
+  text-align: center;
+}
+
+.pull-quote p {
+  margin: 0;
+  font-size: clamp(1.6rem, 2vw, 2.5rem);
+  line-height: 1.25;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.pull-quote::before,
+.pull-quote::after {
+  content: "“";
+  color: #01696f;
+  font-size: 3rem;
+}
+
+
+.magazine-quote {
+  max-width: 46rem;
+  margin: 3rem auto;
+  padding: 2rem 2.5rem;
+  background: linear-gradient(180deg, #fbfbf9, #f3f0ec);
+  border-radius: 1.25rem;
+}
+
+.magazine-quote blockquote {
+  margin: 0;
+}
+
+.magazine-quote p {
+  margin: 0;
+  font-size: 1.4rem;
+  line-height: 1.8;
+  font-weight: 400;
+}
+
+.magazine-quote figcaption {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #7a7974;
+}
+
+
+
 /* explain: margin creates empty space outside an element. 1em is usually equal to the current font size, so with a 16px font it is commonly 16px on all four sides: top, right, bottom, and left.*/
 
 //* the end *****************************************************************************************

@@ -36,3 +36,50 @@ menu = "main"
   </blockquote>
   <figcaption>— Editor’s note</figcaption>
 </figure>
+
+
+# Classic editorial
+<figure class="elegant-quote">
+  <blockquote>
+    <p>We shape our tools, and thereafter our tools shape us.</p>
+  </blockquote>
+  <figcaption>
+    — Marshall McLuhan
+  </figcaption>
+</figure>
+
+
+# Framed quote
+<figure class="framed-quote">
+  <blockquote>
+    <p>Details are not details. They make the design.</p>
+  </blockquote>
+  <figcaption>— Charles Eames</figcaption>
+</figure>
+
+
+# Large pull quote
+<blockquote class="pull-quote">
+  <p>The best way to predict the future is to invent it.</p>
+</blockquote>
+
+
+# Magazine-style quote
+<figure class="magazine-quote">
+  <blockquote>
+    <p>Design is the silent ambassador of your brand.</p>
+  </blockquote>
+  <figcaption>
+    <span>Paul Rand</span>
+  </figcaption>
+</figure>
+
+
+# Best semantic pattern
+<figure>
+  <blockquote>
+    <p>Quote text goes here.</p>
+  </blockquote>
+  <figcaption>— Author, <cite>Source</cite></figcaption>
+</figure>
+
