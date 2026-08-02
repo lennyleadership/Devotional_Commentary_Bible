@@ -257,7 +257,7 @@
 
 .quote-with-tag {
   position: relative;
-  width: 900px;           /* adjust as needed */
+  /*width: 900px;*/           /* adjust as needed */
   margin: 3rem 0;
   padding-top: 2.75rem;   /* reserve space for the tag above */
 }
@@ -282,8 +282,8 @@
 .tag::after {
   content: "";
   position: absolute;
-  left: 0.35rem;
-  bottom: -0.45rem;
+  left: 0.7rem; /*0.35*/
+  bottom: -0.45rem; /* -0.45rem*/
   width: 0;
   height: 0;
   border-top: 0.45rem solid #8c5a73;
