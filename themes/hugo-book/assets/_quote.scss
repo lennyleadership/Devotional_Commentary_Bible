@@ -225,6 +225,32 @@
   vertical-align: -0.5rem;
 }
 
+
+
+.quote-card {
+  position: relative;
+  max-width: 42rem;
+  margin: 2rem auto;
+  padding: 2rem 2rem 1.5rem 2.5rem;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 16px;
+}
+
+.quote-card blockquote {
+  margin: 0;
+}
+
+.quote-card blockquote::before {
+  content: "“";
+  position: absolute;
+  top: 0.4rem;
+  left: 1rem;
+  font-size: 5rem;
+  color: rgba(1, 105, 111, 0.18);
+  line-height: 1;
+}
+
 /* explain: margin creates empty space outside an element. 1em is usually equal to the current font size, so with a 16px font it is commonly 16px on all four sides: top, right, bottom, and left.*/
 
 //* the end *****************************************************************************************

@@ -88,4 +88,12 @@ menu = "main"
   <p>The tree of life stands at the center of the story.</p>
 </blockquote>
 
+# Large decorative opening mark
+<figure class="quote-card">
+  <blockquote>
+    <p>He grows from the inside out.</p>
+  </blockquote>
+  <figcaption>— Commentary</figcaption>
+</figure>
+
 
