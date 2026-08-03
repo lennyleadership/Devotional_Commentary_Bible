@@ -394,11 +394,12 @@ So, eating from the tree of the knowledge of good and evil isn’t about some ma
       </h1>
   
   <div class="accordion-content">
+
 In Genesis 3:22 God says, “The man has now become like one of us, knowing good and evil.” Knowledge in itself is not wrong (see Luke 2:52), so what was so bad about man “knowing good and evil”?
 
-It is vital to know the context of God’s statement. God had already told Adam not to eat from this tree. Adam was already aware that doing so was wrong, and he knew the consequences, yet he chose to join Eve in eating the fruit. When they ate, they were not simply *aware* of evil; they *experienced* evil, to the extent that they *became* evil—sinners by nature.
+It is vital to know the context of God’s statement. God had already told Adam not to eat from this tree. Adam was already aware that doing so was wrong, and he knew the consequences, yet he chose to join Eve in eating the fruit. When they ate, they were not simply <b>aware</b> of evil; they <b>experienced</b> evil, to the extent that they <b>became</b> evil—sinners by nature.
 
-Man knew what was good: he was created in goodness and was surrounded by it (Genesis 1:31). He had been given everything God wanted him to have, including authority over all the rest of God’s creation. Adam had everything he needed for a fulfilling life. He did not need to “know” evil, especially when the only way for him to “know” it was to *experience* it. It should have been enough that God had warned Adam against disobedience. God did not want Adam and Eve to “know” evil in the sense of participating in it. The sin of Adam and Eve was not in attaining knowledge but in rejecting God’s will in favor of their own.
+Man knew what was good: he was created in goodness and was surrounded by it (Genesis 1:31). He had been given everything God wanted him to have, including authority over all the rest of God’s creation. Adam had everything he needed for a fulfilling life. He did not need to “know” evil, especially when the only way for him to “know” it was to <b>experience</b> it. It should have been enough that God had warned Adam against disobedience. God did not want Adam and Eve to “know” evil in the sense of participating in it. The sin of Adam and Eve was not in attaining knowledge but in rejecting God’s will in favor of their own.
 
 Because of their sin, Adam and Eve received dire consequences. First, Eve was told, “I will make your pains in childbearing very severe; with painful labor you will give birth to children. Your desire will be for your husband, and he will rule over you” (Genesis 3:16).
 
