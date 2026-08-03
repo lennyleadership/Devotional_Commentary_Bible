@@ -412,7 +412,8 @@ Fourth, they were expelled from the Garden of Eden: “So the Lord God banished 
 Adam and Eve began life in ideal conditions: an idyllic garden, plentiful food, a harmonious relationship with one another, and close fellowship with God. Due to sin, they lost their garden, were required to work to produce food, experienced interpersonal conflicts, and damaged their fellowship with God. These consequences of Adam’s sin still affect us today.
 
 The apostle Paul spoke about the last Adam (Jesus) who came to restore our broken relationship with God (1 Corinthians 15:45). Paul also noted, “Since death came through a man, the resurrection of the dead comes also through a man” (1 Corinthians 15:21). Adam was responsible for sin’s entrance into humanity. Jesus Christ was responsible for providing the way for resurrection. After sin entered humanity, Jesus became the perfect substitute to allow every person the opportunity to believe and receive eternal life (John 3:16).
-  
+
+[source: <a href = "https://www.gotquestions.org/know-good-evil.html" target="_blank" rel="noopener noreferrer">GotQuestions.org | Why was it wrong for Adam and Eve to know good and evil (Genesis 3:22)</a>]
   </div>
   
 </li>
