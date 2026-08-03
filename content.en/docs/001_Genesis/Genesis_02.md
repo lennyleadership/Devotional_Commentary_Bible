@@ -382,6 +382,46 @@ So, eating from the tree of the knowledge of good and evil isn’t about some ma
 
 </div>
 
+<br>
+
+<div id="study">
+<ul>
+<li>
+  <input type="checkbox"  checked>
+      <i></i>
+      <h1 class="accordion-title">
+        GotQuestions.org | Why was it wrong for Adam and Eve to know good and evil (Genesis 3:22)?
+      </h1>
+  
+  <div class="accordion-content">
+In Genesis 3:22 God says, “The man has now become like one of us, knowing good and evil.” Knowledge in itself is not wrong (see Luke 2:52), so what was so bad about man “knowing good and evil”?
+
+It is vital to know the context of God’s statement. God had already told Adam not to eat from this tree. Adam was already aware that doing so was wrong, and he knew the consequences, yet he chose to join Eve in eating the fruit. When they ate, they were not simply *aware* of evil; they *experienced* evil, to the extent that they *became* evil—sinners by nature.
+
+Man knew what was good: he was created in goodness and was surrounded by it (Genesis 1:31). He had been given everything God wanted him to have, including authority over all the rest of God’s creation. Adam had everything he needed for a fulfilling life. He did not need to “know” evil, especially when the only way for him to “know” it was to *experience* it. It should have been enough that God had warned Adam against disobedience. God did not want Adam and Eve to “know” evil in the sense of participating in it. The sin of Adam and Eve was not in attaining knowledge but in rejecting God’s will in favor of their own.
+
+Because of their sin, Adam and Eve received dire consequences. First, Eve was told, “I will make your pains in childbearing very severe; with painful labor you will give birth to children. Your desire will be for your husband, and he will rule over you” (Genesis 3:16).
+
+Second, Adam was told, “Cursed is the ground because of you; through painful toil you will eat food from it all the days of your life” (Genesis 3:17).
+
+Third, for both Adam and Eve, “You are dust, and to dust you will return” (Genesis 3:19). They had been told they would “die” if they ate from the tree (Genesis 2:17). This consequence did not happen immediately, but Adam and Eve did both physically die, a pattern followed by all other humans.
+
+Fourth, they were expelled from the Garden of Eden: “So the Lord God banished him from the Garden of Eden to work the ground from which he had been taken” (Genesis 3:23).
+
+Adam and Eve began life in ideal conditions: an idyllic garden, plentiful food, a harmonious relationship with one another, and close fellowship with God. Due to sin, they lost their garden, were required to work to produce food, experienced interpersonal conflicts, and damaged their fellowship with God. These consequences of Adam’s sin still affect us today.
+
+The apostle Paul spoke about the last Adam (Jesus) who came to restore our broken relationship with God (1 Corinthians 15:45). Paul also noted, “Since death came through a man, the resurrection of the dead comes also through a man” (1 Corinthians 15:21). Adam was responsible for sin’s entrance into humanity. Jesus Christ was responsible for providing the way for resurrection. After sin entered humanity, Jesus became the perfect substitute to allow every person the opportunity to believe and receive eternal life (John 3:16).
+  
+  </div>
+  
+</li>
+</ul>
+
+</div>
+
+
+
+...
 </div>
 
 
