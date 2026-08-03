@@ -168,6 +168,18 @@ Indeed, there are spiritual perils that the Christian faces. The fundamental tes
   <figcaption>— Wiersbe <cite>The Wiersbe Bible Commentary NT</cite></figcaption>
 </figure>
 
+<figure class="quote-with-tag">
+  <figcaption class="tag">2 Peter 1:2-3 NKJV</figcaption>
+  <blockquote>
+    <p>
+2 Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord,
+<br>3 as His divine power has given to us all things that pertain to life and godliness, through the knowledge of Him who called us by glory and virtue,
+    </p>
+  </blockquote>
+</figure>
+
+
+
 </div>
 
 <div id="quiz" class="tabcontent">
