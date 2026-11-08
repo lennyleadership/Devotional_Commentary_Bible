@@ -48,9 +48,7 @@ toc: true
 15: Then Sarah denied, saying, I laughed not; for she was afraid. And he said, Nay; but thou didst laugh.  
 
 16: And the men rose up from thence, and looked toward Sodom: and Abraham went with them to bring them on the way.  
-17: And the LORD said, Shall I hide from Abraham that thing which I do;<label for="hide" class="margin-toggle sidenote-number"></label><span class="sidenote">詩篇 25:14：「耶和華與敬畏他的人親密，他必將自己的約指示他們。」  
-約翰福音 14:21：愛基督、守祂命令的人，父也愛他，基督要向他顯現。  
-約翰福音 15:15 說，主把從父所聽見的告訴門徒，所以稱他們為朋友，不再只稱他們為僕人。</span>  
+17: And the LORD said, Shall I hide from Abraham that thing which I do;  
 18: Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?  
 19: For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which he hath spoken of him.  
 20: And the LORD said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous;  
@@ -94,7 +92,9 @@ toc: true
 15: 撒拉就害怕，不承认，说：我没冇笑。那位说：不然，你实在笑了。  
 
 16: 叁人就从那里起行，向所多玛观看，亚伯拉罕也与他们同行，要送他们一程。  
-17: 耶和华说：我所要作的事岂可瞒着亚伯拉罕呢？  
+17: 耶和华说：我所要作的事岂可瞒着亚伯拉罕呢？<label for="hide 瞒着" class="margin-toggle sidenote-number"></label><span class="sidenote">詩篇 25:14：「耶和華與敬畏他的人親密，他必將自己的約指示他們。」  
+約翰福音 14:21：愛基督、守祂命令的人，父也愛他，基督要向他顯現。  
+約翰福音 15:15 說，主把從父所聽見的告訴門徒，所以稱他們為朋友，不再只稱他們為僕人。</span>  
 18: 亚伯拉罕必要成为强大的国；地上的万国都必因他得福。  
 19: 我眷顾他，为要叫他吩咐他的众子和他的眷属遵守我的道，秉公行义，使我所应许亚伯拉罕的话都成就了。  
 20: 耶和华说：所多玛和蛾摩拉的罪恶甚重，声闻于我。  
