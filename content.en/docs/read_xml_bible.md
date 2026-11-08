@@ -15,6 +15,6 @@ toc: true
 
 <!--more-->
 
-KJV and CHIUS translation were prepared in the following file directory
+KJV and CHIUS translation were saved in the following file directory
 
-D:\Projects_R\Project_35_read_Bible_XML
+D:\Projects_R\Project_35_read_Bible_XML\export data
