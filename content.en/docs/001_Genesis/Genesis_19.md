@@ -23,7 +23,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  <button class="tablinks" onclick="tablabel(event, 'devotional')"></button>
+  <button class="tablinks" onclick="tablabel(event, 'devotional')">创19:16-17</button>
 </div>
 
 <!-- Tab content -->
@@ -153,7 +153,7 @@ toc: true
 
 新约里有一位人物可以与罗得相提并论。使徒保罗在给歌罗西教会和腓力门的信件里比较正面地提到底马，可是后来在给提摩太的信件里再次提到底马的时候，说“他贪爱现今的世界” [提后四10]。  
 
-很多教会开福音布道会只把人带到“决志”为止，并没有提到“生命的更新”，不全面。于是产生不少“拿到进天堂的门票”的基督徒。于是对“一次得救，永远得救”的争论永无休止。  
+这样的基督徒还真不少！很多教会传福音只把人带到主面前为止，并没有提到“生命的更新”，不全面。于是产生不少“拿到进天堂的门票”的基督徒。于是对“一次得救，永远得救”的争论永无休止。   
 
 希伯来书的作者很严肃地提醒我们，我们信的是什么？  
 
