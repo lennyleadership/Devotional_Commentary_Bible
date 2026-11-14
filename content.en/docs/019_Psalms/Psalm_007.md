@@ -20,7 +20,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
-  <button class="tablinks" onclick="tablabel(event, 'devotional')"></button>
+  <button class="tablinks" onclick="tablabel(event, 'devotional')">诗七10</button>
 </div>
 
 <!-- Tab content -->
@@ -77,5 +77,9 @@ toc: true
 
 <div id="devotional" class="tabcontent">
 
+10: 神是我的盾牌；他拯救心里正直的人。  
 
+这句经文我读到的是鼓励！当我们越多地认识了上帝、经历过上帝，我们就相信上帝必看顾！
+
+不要三心二意地跟从上帝！不要有所保留！
 </div>
