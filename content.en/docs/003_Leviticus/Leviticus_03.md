@@ -76,6 +76,47 @@ toc: true
 
 <div id="devotional" class="tabcontent">
 
+# message
+prepare a message based on the threads on the peace offering in the Lord's table on Sunday
+
+Here is a Sunday Lord’s Table message built around our discussion. It keeps the peace offering in its historical place while drawing out the pattern Paul uses for communion.
+
+The Pattern in Leviticus  
+Long before the night Jesus broke the bread, God gave Israel a sacrifice that ended in a shared meal. In Leviticus 3 and 7, the peace offering — also called the fellowship offering — was unique among the animal sacrifices. 
+
+In Leviticus 3, the worshiper brought an animal without blemish, laid a hand on its head, and killed it. The priests dashed the blood against the altar, and the fat — the richest portion — was burned up to the Lord.
+
+Then came the meal. Leviticus 7:31–34 gives the breast and the right thigh to the priests. Leviticus 7:19 says that anyone who is clean may eat the rest of the meat. God received His portion, the priest received his portion, and the worshiper sat down to eat in the presence of God. The meal did not purchase peace; it celebrated that peace was already real.
+
+While the sin and burnt offerings dealt with guilt and total dedication, the peace offering was brought for thanksgiving, to fulfill a vow, or as a freewill gift.
+
+The Lord's Supper
+Jesus had a meal with his disciples at Passover.
+
+The Altar Before the Table  
+Leviticus never mentions the cross, the bread, or the cup. Yet in 1 Corinthians 10:16–18, Paul uses the logic of Israel’s sacrificial meals to explain the Lord’s Supper:
+
+“Is not the cup of thanksgiving for which we give thanks a participation in the blood of Christ? And is not the bread that we break a participation in the body of Christ? … Consider the people of Israel: Do not those who eat the sacrifices participate in the altar?”
+
+The Peace Offering and the Table   
+The peace offering is a pattern, not a prediction. Just as Israelite worshipers shared in the altar by eating the sacrifice, the church shares in Christ’s finished work by eating the bread and drinking the cup. We are not offering Christ again. The blood has already been shed, and the best portion has already been given to God.
+
+We do not come to the Lord’s Table to make peace with God. We come to eat because peace has already been made.
+
+Remembering at His Table
+Jesus attaches a clear command to this meal in 1 Corinthians 11:24–26: “Do this in remembrance of me.” Every time we eat the bread and drink the cup, we proclaim the Lord’s death until He comes.
+
+As we come to the table this morning, the peace offering leaves us with three reminders:
+
+Come with gratitude, because this is a table of thanksgiving for a completed sacrifice.
+
+Come with reverence, discerning the Lord’s body just as Israel had to eat in cleanness.
+
+Come in unity, because though we are many, we all partake of the one bread.
+
+Let us take the bread and the cup today not to earn God’s favor, but to rejoice in the peace Christ has already won for us.
+
+# discussion
 The peace offering is a real pattern for the Lord’s Supper, not a verse-by-verse prophecy of it. I’ll check how tightly the New Testament actually draws that line.
 
 Yes. The peace offering is a pattern of the Lord’s Supper, not a prophecy of it.
@@ -96,6 +137,14 @@ The meal is holy. Unclean eating was cut off in Israel; eating without discernin
 Passover is also a pattern, and it is the nearer one for the night Jesus instituted the Supper. The peace offering supplies the fellowship-meal logic. Neither text says, “This is the Lord’s Supper.”
 
 The table does not offer Christ again. It is a meal on a sacrifice finished at the cross, and a proclamation of that death until He comes.
+
+That statement is right, if "foreshadowing" means a pattern, not a prediction.
+
+Leviticus never says the peace offering is the Lord's Supper. It describes an Israelite meal eaten after blood was applied and the fat was given to God. The worshiper, the priest, and the Lord shared one offering. That is the shadow. The substance is Christ, and the meal of the church is the table that proclaims His death.
+
+Paul makes the connection by logic, not by quoting Leviticus 3. In 1 Corinthians 10:16–18, sharing the cup and the bread means sharing in Christ's blood and body. He then says that Israelites who ate the sacrifices shared in the altar. The peace offering is the sacrifice they ate. So the Lord's Supper is the greater table: a meal on a sacrifice already finished, not a new sacrifice.
+
+Two limits keep the claim accurate. Passover is the nearer setting of the night Jesus instituted the Supper. And the peace offering itself was thanksgiving, a vow, or a freewill gift. It did not atone. It assumed peace and then celebrated it. The cross is what actually makes the peace. The table is where the church eats in remembrance of that peace.
 
 血先归给神，然后才吃饭  
 利未记3章里，血要洒在坛上，脂油要烧掉，然后献祭的人才能吃肉。筵席不是用来换平安，而是承认平安已经因祭物而有了。利未记7章还规定，感谢祭的肉必须当天吃完，不能把这顿饭从祭坛上拆下来，变成普通晚餐。
