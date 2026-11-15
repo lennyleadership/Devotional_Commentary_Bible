@@ -1,13 +1,13 @@
 ---
-Weight: 999
-title: blank
+Weight: 003
+title: Leviticus
 authors: Lenny Lin
 categories: null
 tags: 
 description: 
-draft: true
-date: "2024"
-lastmod: "2024"
+draft: false
+date: "2026-11-15"
+lastmod: "2026-11-15"
 series:
 toc: true
 bookCollapseSection: true
