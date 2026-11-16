@@ -1,5 +1,5 @@
 ---
-weight: 022
+weight: 22
 title: Psalm 22
 authors: Lenny
 categories: null

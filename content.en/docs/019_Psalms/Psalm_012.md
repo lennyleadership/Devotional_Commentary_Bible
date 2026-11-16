@@ -1,6 +1,6 @@
 ---
-weight: 13
-title: Psalm 13
+weight: 12
+title: Psalm 12
 authors: Lenny
 categories: null
 tags: []

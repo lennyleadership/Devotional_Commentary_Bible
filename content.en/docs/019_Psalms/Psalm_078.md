@@ -1,6 +1,6 @@
 ---
 weight: 078
-title: Psalm 078
+title: Psalm 78
 authors: Lenny
 categories: null
 tags: ["Rock vs. Rocks"]
