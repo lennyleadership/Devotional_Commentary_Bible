@@ -14,7 +14,7 @@ toc: true
 Ephesians 2
 
 <!--more-->
----
+
 
 
 
@@ -23,7 +23,8 @@ Ephesians 2
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
   <button class="tablinks" onclick="tablabel(event, 'devotion1')">LBC</button>
-  <button class="tablinks" onclick="tablabel(event, 'devotion2')">Verse 10</button>
+  <button class="tablinks" onclick="tablabel(event, 'devotion2')">Verses 8-9</button>
+  <button class="tablinks" onclick="tablabel(event, 'devotion3')">Verse 10</button>
 </div>
 
 <!-- Tab content -->
@@ -150,6 +151,20 @@ Philippians 1:6 keep the good work going
 
 
 <div id="devotion2" class="tabcontent">
+
+弗2:8-9说: “你们得救是本乎恩, 也因着信; 这并不是出于自己, 乃是神所赐的; 也不是出于行为, 免得有人自夸。”  
+
+这节所谓“神所赐的”(KJV: the gift of God)是指什么? 基本上有两个答案: 许多人教导说在这节中, “神所赐的”是指信心(faith). 另有人教导说“神所赐的”在此是指得救方面或简称“救恩”(salvation)。
+
+以下这个链接帮助我们理解这节经文。 它认为：我们已经看到新约圣经中很多经文论到人得救(或因信称义, 或得永生)是神所赐的, 特别在保罗的书信中能看到这点. 按此亮光, 把 弗2:8所谓“神所赐的恩赐”视为赐下救恩(使人得救)是更安全、更合理的解释, 除非我们有非常明显的理由证明它是指信心. 若有人硬要把 弗2:8所谓“神所赐的”说成是信心的话, 那么就必须承认这是保罗在新约中唯一如此使用的经文。
+
+总括而言, 既然这节的代名词是中性的(与“信心”一词的阴性不符), 既然保罗在这节中是讲论人如何得救, 又既然新约圣经其他地方指人得救是神的恩赐, 所以我们有很好理由如此总结: 弗2:8所谓“神所赐的”是指人得救一事, 而非指“信心”。  
+
+<a href = "https://malaccagospelhall.org.my/2020/09/%E5%BE%97%E6%95%91%E7%9A%84%E4%BF%A1%E5%BF%83%E6%98%AF%E7%A5%9E%E6%89%80%E8%B5%90%E7%9A%84%E5%90%97/" target="_blank" rel="noopener noreferrer">马六甲福音堂 | 得救的信心是神所赐的？</a>
+
+</div>
+
+<div id="devotion3" class="tabcontent">
 
 Date: 2022-Dec  
 
