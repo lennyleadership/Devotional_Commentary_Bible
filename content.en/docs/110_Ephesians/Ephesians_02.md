@@ -152,6 +152,8 @@ Philippians 1:6 keep the good work going
 
 <div id="devotion2" class="tabcontent">
 
+Date: 2026-Nov.
+
 弗2:8-9说: “你们得救是本乎恩, 也因着信; 这并不是出于自己, 乃是神所赐的; 也不是出于行为, 免得有人自夸。”  
 
 这节所谓“神所赐的”(KJV: the gift of God)是指什么? 基本上有两个答案: 许多人教导说在这节中, “神所赐的”是指信心(faith). 另有人教导说“神所赐的”在此是指得救方面或简称“救恩”(salvation)。
