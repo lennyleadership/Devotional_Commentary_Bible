@@ -20,6 +20,7 @@ toc: true
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">KJV</button>
   <button class="tablinks" onclick="tablabel(event, 'chinese')">和合本</button>
+  <button class="tablinks" onclick="tablabel(event, 'devotional')">灵修</button>  
 </div>
 
 <!-- Tab content -->
@@ -152,4 +153,10 @@ toc: true
 18:50 耶和华赐极大的救恩给他所立的王、施慈爱给他的受膏者、就是给大卫和他的后裔、直到永远。    
 </div>
 
+<div id="devotional" class="tabcontent">
+诗篇十八篇
 
+从我待业的时候就开始灵修诗篇十八篇。当时，第34节给了我亮光。因为，我不单单把找工作这件事情交托给神，耐心等待有朝一日能如愿以偿。而且要主动装备自己；以前没有时间充电的，现在把握机会学一些新东西。神籍着使我们掌握一些谋生的技能帮助我们。
+
+最近在读这篇诗篇的时候，第6-20节给了我亮光，描写了在加利利山上耶和华上帝与耶稣的互动。尤其是第11节，奥古斯丁称这处经文解释了耶稣受难时天色昏暗的场景。[参考: https://biblehub.com/q/Why_is_darkness_God_s_cover_in_Psalm_18_11.htm]
+</div>
