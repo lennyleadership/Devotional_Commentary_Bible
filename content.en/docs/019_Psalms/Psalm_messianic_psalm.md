@@ -18,7 +18,7 @@ toc: true
 <!-- Tab links -->
 传统上将特定篇章与耶稣受难、复活、君王权柄等主题对应。
 <table>
-<colgroup><col style="width: 15%" /><col style="width: 45%" /><col style="width: 40%" />
+<colgroup><col style="width: 20%" /><col style="width: 45%" /><col style="width: 35%" />
 </colgroup>
 <tbody VALIGN=TOP>
   <tr>
